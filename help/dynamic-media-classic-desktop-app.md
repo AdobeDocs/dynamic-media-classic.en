@@ -28,9 +28,11 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * macOS 10.10 or newer.
 * Windows® 7 or newer.
 
+See the full system requirements at [System requirements for Adobe Dynamic Media Classic desktop app](/help/system-requirements.md).
+
 Upgrade notification within the Adobe Dynamic Media Classic desktop application is not generated for *minor* releases. Customers who benefit from fixes in a minor release can upgrade.
 
-## Fixed in the latest release (20.22.2) - macOS only {#release-feb2022}
+## Fixed in the latest release (20.22.2) macOS only {#release-feb2022}
 
 * macOS Monterey - File upload page froze on subsequent uploads. <!-- https://jira.corp.adobe.com/browse/ASSETS-7948 -->
 
