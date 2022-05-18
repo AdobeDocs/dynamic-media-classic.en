@@ -1,7 +1,7 @@
 ---
 title: Adobe Dynamic Media Classic Guide
 seo-title: Technical documentation and self help for Adobe Dynamic Media Classic
-description: Adobe Dynamic Media Classic technical documentation
+description: Learn more about using Adobe Dynamic Media Classic to manage your video, flyouts, and more, with AEM Cloud Services docs.
 seo-description: Technical documentation, release notes and self-help materials for Adobe Dynamic Media Classic, formerly Scene 7 
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
