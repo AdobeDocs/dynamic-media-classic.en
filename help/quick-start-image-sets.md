@@ -32,7 +32,7 @@ See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/htm
 
 The following Image Sets Quick Start is designed to get you up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 
-## 1. Upload your master images for multiple views and swatches
+## 1. Upload your primary images for multiple views and swatches
 
 Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are least 2000 pixels in the largest size. Adobe Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
 

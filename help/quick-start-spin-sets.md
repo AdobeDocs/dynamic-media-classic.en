@@ -25,7 +25,7 @@ See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/htm
 
 >[!NOTE]
 >
->When you create an Spin Set, Adobe recommends the following best practice guideline and enforced limit.
+>When you create a Spin Set, Adobe recommends the following best practice guideline and enforced limit.
 >
 >* Maximum number of rows/columns per 2D Spin Set
 > 
