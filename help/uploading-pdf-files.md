@@ -14,16 +14,13 @@ exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
 
 Typically, Adobe PDF files are the source for an eCatalog. These files contain all image information, fonts, and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, on the Global Navigation bar, select **[!UICONTROL Upload]** to begin uploading the PDFs.
 
-**Extracted PDF pages constraint**
-
-When you upload a PDF for page extraction, Adobe imposes the following constraint:
-
-| Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |
-| --- | --- | --- | --- |
-| Image Set | Number of duplicate assets per set | 20 | 20 |
-|  | Maximum number of images per set | 1000 | 1000 |
-|Spin Set | Maximum number of rows/columns per 2D set | 1000 | 1000 |
-| PDF | Maximum number of pages per PDF that are considered for extraction | 100 | 1000 (for refresh uploads) | 
+>[!NOTE]
+>
+>When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.
+>
+>* Maximum number of pages per PDF that are considered for extraction
+>   * Best practice: 100
+>   * Enforced limit: 1000 (for refresh uploads)
 
 ## Prepare your PDF files {#preparing-your-pdf-files}
 

@@ -22,3 +22,8 @@ For the best experience using Adobe Dynamic Media Classic desktop app, make sure
 * JAVA-enabled browser.
 * Windows-supported browsers: Internet Explorer 9.0 or higher; Firefox 23 or higher.
 * Macintosh-supported browsers: Safari 6.0 or higher, Firefox™ 23 or higher.
+
+>[!MORELIKETHIS]
+>
+>* [Best practices and enforced limits by Dynamic Media on asset types](/help/best-practices-enforced-limits.md)
+

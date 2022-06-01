@@ -7,7 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
-feature: Dynamic Media Classic,Viewers,Image Sets
+feature: Dynamic Media Classic,Viewers,Image Sets,Spin Sets,
 role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
 ---
@@ -26,16 +26,16 @@ When you create a set, the **[!UICONTROL Publish after save]** option affects th
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
-**Image Set guideline**
-
-When you create an Image Set, Adobe recommends the following image asset guidelines:
-
-| Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |
-| --- | --- | --- | --- |
-| Image Set | Number of duplicate assets per set | 20 | 20 |
-|  | Maximum number of images per set | 1000 | 1000 |
-|Spin Set | Maximum number of rows/columns per 2D set | 1000 | 1000 |
-| PDF | Maximum number of pages per PDF that are considered for extraction | 100 | 1000 (for refresh uploads) |
+>[!NOTE]
+>
+>When you create an Image Set, Adobe recommends the following best practice guidelines and enforced limits.
+>
+>* Number of duplicate assets per Image Set
+>   * Best practice: 20
+>   * Enforced limit: 20
+> * Maximum number of pages per Image Set
+>   * Best practice: 1000
+>   * Exforced limit: 1000
 
 **To create an Image Set:**
 

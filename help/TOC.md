@@ -53,6 +53,7 @@ index: y
   + [About uploading and publishing of assets](about-asset-upload-publish.md)
   + [Upload files](uploading-files.md)
   + [Publish files](publishing-files.md)
+  + [Best practices and enforced limits by Dynamic Media on asset types](best-practices-enforced-limits.md)
   + [Test assets before making them public](testing-assets-making-them-public.md)
   + [Check job files](checking-job-files.md)
 + Managing assets {#managing-assets}
