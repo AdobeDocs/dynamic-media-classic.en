@@ -94,7 +94,7 @@ index: y
   + [Preview eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-viewer.md)
   + [Publish eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md)
   + [Link an eCatalog to a web page](linking-ecatalog-web-page.md)
-+ Image sets {#image-sets}
++ Image Sets {#image-sets}
   + [Quick Start: Image Sets](quick-start-image-sets.md)
   + [Prepare Image Set assets for upload](preparing-image-set-assets-upload.md)
   + [Create an Image Set](creating-image-set.md)
@@ -103,14 +103,14 @@ index: y
   + [View Image Sets](viewing-image-sets.md)
   + [Automate Image Set generation](automated-image-set-generation.md)
   + [Link an Image Set to a web page](linking-image-set-web-page.md)
-+ Swatch sets {#swatch-sets}
++ Swatch Sets {#swatch-sets}
   + [Quick Start: Swatch Sets](quick-start-swatch-sets.md)
   + [Include zoom targets and Image Maps in Swatch Sets](including-zoom-targets-image-maps-swatch-sets.md)
   + [Prepare Swatch Set assets for upload](preparing-swatch-set-assets-upload.md)
   + [Create a Swatch Set](creating-swatch-set.md)
   + [View Swatch Sets](viewing-swatch-sets.md)
   + [Link a Swatch Set to a web page](linking-swatch-set-web-page.md)
-+ Spin sets {#spin-sets}
++ Spin Sets {#spin-sets}
   + [Quick Start: Spin Sets](quick-start-spin-sets.md)
   + [Create a Spin Set](creating-spin-set.md)
   + [Preview a Spin Set](previewing-spin-set.md)
@@ -134,7 +134,7 @@ index: y
   + [Add chapter markers to video](adding-chapter-markers-video.md)
   + [Deploy video to your websites and mobile sites](deploying-video-websites-mobile-sites.md)
   + [Export source and encoded videos](exporting-source-encoded-videos.md)
-+ Mixed media sets {#mixed-media-sets}
++ Mixed media Sets {#mixed-media-sets}
   + [Quick Start: Mixed Media Sets](quick-start-mixed-media-sets.md)
   + [Set up a Mixed Media Set Viewer Preset](setting-mixed-media-set-viewer.md)
   + [Create a Mixed Media Set](creating-mixed-media-set.md)

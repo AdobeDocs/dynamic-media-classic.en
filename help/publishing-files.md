@@ -31,9 +31,9 @@ Some "child" assets are automatically marked for publish when their parents are 
 
 | Parent (group) item | Child (member) items |
 | --- | --- |
-| Image sets | Images within the set. |
-| Swatch sets | Swatches within the set. |
-| Spin sets | Images within the set. |
+| Image Sets | Images within the set. |
+| Swatch Sets | Swatches within the set. |
+| Spin Sets | Images within the set. |
 | Templates | Template files, pages, and images. |
 
 Derived images are also automatically marked for publish when their parent images are being published. Derived images include images you adjusted with image-editing options. You can see these derived images in Detail View under Built & Derivatives.

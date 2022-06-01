@@ -26,6 +26,16 @@ When you create a set, the **[!UICONTROL Publish after save]** option affects th
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
+**Image Set guideline**
+When you create an Image Set, Adobe recommends the following image asset guidelines:
+
+| Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |
+| --- | --- | --- | --- |
+| Image Set | Number of duplicate assets per set | 20 | 20 |
+|  | Maximum number of images per set | 1000 | 1000 |
+|Spin Set | Maximum number of rows/columns per 2D set | 1000 | 1000 |
+| PDF | Maximum number of pages per PDF that are considered for extraction | 100 | 1000 (for refresh uploads) |
+
 **To create an Image Set:**
 
 1. Do one of the following:

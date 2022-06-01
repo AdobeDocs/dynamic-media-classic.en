@@ -42,6 +42,16 @@ When you create a set, the **[!UICONTROL Publish after save]** option affects th
 
 See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
 
+**Spin Set guideline**
+When you create a Spin Set, Adobe recommends the following image asset guidelines:
+
+| Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |
+| --- | --- | --- | --- |
+| Image Set | Number of duplicate assets per set | 20 | 20 |
+|  | Maximum number of images per set | 1000 | 1000 |
+|Spin Set | Maximum number of rows/columns per 2D set | 1000 | 1000 |
+| PDF | Maximum number of pages per PDF that are considered for extraction | 100 | 1000 (for refresh uploads) | 
+
 After you save a Spin Set, you can use Preview in the Build: Spin Set page to see what your Spin Set looks like in the default viewer.
 
 **To create a Spin Set:**
