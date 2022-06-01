@@ -43,6 +43,7 @@ When you create a set, the **[!UICONTROL Publish after save]** option affects th
 See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
 
 **Spin Set guideline**
+
 When you create a Spin Set, Adobe recommends the following image asset guidelines:
 
 | Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |

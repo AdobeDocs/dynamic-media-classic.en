@@ -24,6 +24,7 @@ See [Create Image Maps](creating-image-maps.md).
 See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/556_Image%20&%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) training video.
 
 **Spin Set guideline**
+
 When you create a Spin Set, Adobe recommends the following image asset guidelines:
 
 | Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |

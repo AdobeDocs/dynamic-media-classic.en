@@ -27,6 +27,7 @@ When you create a set, the **[!UICONTROL Publish after save]** option affects th
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **Image Set guideline**
+
 When you create an Image Set, Adobe recommends the following image asset guidelines:
 
 | Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |

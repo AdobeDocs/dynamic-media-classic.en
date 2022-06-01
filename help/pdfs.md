@@ -16,6 +16,7 @@ exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
 PDF (Portable Document Format) files are most often used in Adobe Dynamic Media Classic to create eCatalogs. When you upload a PDF file, Adobe Dynamic Media Classic rasterizes, or rips, the pages by default so that the pages can be used to build rich media.
 
 **Extracted PDF pages constraint**
+
 When you upload a PDF for page extraction, Adobe imposes the following constraint:
 
 | Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |

@@ -15,6 +15,7 @@ exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
 Typically, Adobe PDF files are the source for an eCatalog. These files contain all image information, fonts, and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, on the Global Navigation bar, select **[!UICONTROL Upload]** to begin uploading the PDFs.
 
 **Extracted PDF pages constraint**
+
 When you upload a PDF for page extraction, Adobe imposes the following constraint:
 
 | Asset type | Limit type | Best practice: Recommended number by Adobe | Enforced maximum number |
