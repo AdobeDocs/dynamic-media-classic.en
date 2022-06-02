@@ -19,7 +19,7 @@ PDF (Portable Document Format) files are most often used in Adobe Dynamic Media 
 >
 >When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.
 >
->* Maximum number of pages per PDF that are considered for extraction
+>* Maximum page size of a PDF to be considered for extraction
 >   * Best practice: 100
 >   * Enforced limit: 1000 (for refresh uploads) 
 

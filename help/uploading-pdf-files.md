@@ -16,9 +16,9 @@ Typically, Adobe PDF files are the source for an eCatalog. These files contain a
 
 >[!NOTE]
 >
->When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.
+>When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.d
 >
->* Maximum number of pages per PDF that are considered for extraction
+>* Maximum page size of a PDF to be considered for extraction
 >   * Best practice: 100
 >   * Enforced limit: 1000 (for refresh uploads)
 

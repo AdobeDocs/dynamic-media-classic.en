@@ -44,12 +44,7 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 
 >[!NOTE]
 >
->When you create an Spin Set, Adobe recommends the following best practice guideline and enforced limit.
->
->* Maximum number of rows/columns per 2D Spin Set
-> 
->   * Best practice: 1000
->   * Enforced limit: 1000
+>When you create a Spin Set, the maximum number of rows/columns you can have per 2D Spin Set is 1000.
 
 After you save a Spin Set, you can use Preview in the Build: Spin Set page to see what your Spin Set looks like in the default viewer.
 

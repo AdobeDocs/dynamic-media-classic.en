@@ -21,14 +21,10 @@ See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/htm
 
 >[!NOTE]
 >
->When you create an Image Set, Adobe recommends the following best practice guidelines and enforced limits.
+>When you create an Image Set, Adobe enforces the following limits.
 >
->* Number of duplicate assets per Image Set
->   * Best practice: 20
->   * Enforced limit: 20
->* Maximum number of pages per Image Set
->   * Best practice: 1000
->   * Exforced limit: 1000
+>* Number of duplicate assets per set: 20
+>* Maximum number of pages per set: 1000
 
 The following Image Sets Quick Start is designed to get you up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 
