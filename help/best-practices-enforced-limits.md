@@ -7,9 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 feature: Dynamic Media Classic,Asset Management,Viewers,Image Sets,Spin Sets,eCatalog
 role: User
-
+exl-id: ee30a2c1-2b26-41bd-8758-e7337a3727bb
 ---
-
 # Best practices and enforced limits by Dynamic Media on asset types
 
 When you create a Spin Set or an Image Set, or upload PDFs for page extraction, Adobe recommends the following guidelines:
