@@ -42,6 +42,15 @@ When you create a set, the **[!UICONTROL Publish after save]** option affects th
 
 See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
 
+>[!NOTE]
+>
+>When you create an Spin Set, Adobe recommends the following best practice guideline and enforced limit.
+>
+>* Maximum number of rows/columns per 2D Spin Set
+> 
+>   * Best practice: 1000
+>   * Enforced limit: 1000
+
 After you save a Spin Set, you can use Preview in the Build: Spin Set page to see what your Spin Set looks like in the default viewer.
 
 **To create a Spin Set:**

@@ -15,6 +15,14 @@ exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
 
 PDF (Portable Document Format) files are most often used in Adobe Dynamic Media Classic to create eCatalogs. When you upload a PDF file, Adobe Dynamic Media Classic rasterizes, or rips, the pages by default so that the pages can be used to build rich media.
 
+>[!NOTE]
+>
+>When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.
+>
+>* Maximum number of pages per PDF that are considered for extraction
+>   * Best practice: 100
+>   * Enforced limit: 1000 (for refresh uploads) 
+
 ## PDF upload options {#pdf-upload-options}
 
 When you upload a PDF file, you can format it in various ways. You crop its pages, extract search words, enter a pixels-per-inch resolution, and choose a color space. PDF files often contain a trim margin, crop marks, registration marks, and other printer’s marks. You can crop these marks from the sides of pages as you upload a PDF file.

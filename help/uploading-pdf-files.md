@@ -14,6 +14,14 @@ exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
 
 Typically, Adobe PDF files are the source for an eCatalog. These files contain all image information, fonts, and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, on the Global Navigation bar, select **[!UICONTROL Upload]** to begin uploading the PDFs.
 
+>[!NOTE]
+>
+>When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.
+>
+>* Maximum number of pages per PDF that are considered for extraction
+>   * Best practice: 100
+>   * Enforced limit: 1000 (for refresh uploads)
+
 ## Prepare your PDF files {#preparing-your-pdf-files}
 
 Prepare your PDF files before uploading them to Adobe Dynamic Media Classic:
