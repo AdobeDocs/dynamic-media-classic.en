@@ -7,9 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 feature: Dynamic Media Classic,Asset Management,Viewers,Image Sets,Spin Sets,eCatalog
 role: User
-
+exl-id: ee30a2c1-2b26-41bd-8758-e7337a3727bb
 ---
-
 # Best practices and enforced limits by Dynamic Media on asset types
 
 When you create a Spin Set or an Image Set, or upload PDFs for page extraction, Adobe enforces the following limits:
@@ -22,3 +21,4 @@ When you create a Spin Set or an Image Set, or upload PDFs for page extraction, 
 |  | Maximum number of images per set | 1000 |
 |Spin Set | Maximum number of rows/columns per 2D set | 1000 |
 | PDF | Maximum page count of a PDF to be considered for extraction | 1000 (for new uploads)<br>On December 31, 2022 the enforced limit will change to 100. |
+
