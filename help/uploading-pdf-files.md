@@ -14,13 +14,19 @@ exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
 
 Typically, Adobe PDF files are the source for an eCatalog. These files contain all image information, fonts, and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, on the Global Navigation bar, select **[!UICONTROL Upload]** to begin uploading the PDFs.
 
+>[!IMPORTANT]
+>
+>When you upload a PDF, the maximum enforced page count of a PDF to be considered for extraction is 1000 (for new uploads). 
+>On December 31, 2022, the maximum enforced page count will change to 100 for all uploads.
+
+<!-- 
 >[!NOTE]
 >
 >When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.d
 >
 >* Maximum page size of a PDF to be considered for extraction
 >   * Best practice: 100
->   * Enforced limit: 1000 (for refresh uploads)
+>   * Enforced limit: 1000 (for refresh uploads) -->
 
 ## Prepare your PDF files {#preparing-your-pdf-files}
 
