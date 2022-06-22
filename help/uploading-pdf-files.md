@@ -20,6 +20,8 @@ When you upload a PDF for page extraction, Adobe enforces the following limit:
 | --- | --- | --- |
 | Maximum number of pages for a PDF to be considered for extraction | 5000 (for new uploads) | 100 |
 
+See also [Dynamic Media limitations](help/limitations.md).
+
 <!-- 
 >[!NOTE]
 >
