@@ -25,5 +25,5 @@ For the best experience using Adobe Dynamic Media Classic desktop app, make sure
 
 >[!MORELIKETHIS]
 >
->* [Best practices and enforced limits by Dynamic Media on asset types](/help/best-practices-enforced-limits.md)
+>* [Dynamic Media limitations](/help/limitations.md)
 
