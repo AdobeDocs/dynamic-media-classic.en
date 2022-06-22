@@ -29,6 +29,8 @@ When you create a Spin Set, Adobe recommends the following best practice and enf
 | --- | --- | --- |
 | Maximum number of rows/columns per 2D set | 12-18 images per set | 1000 |
 
+See also [Dynamic Media limitations](/help/limitations.md).
+
 This Spin Sets Quick Start is designed to get you up and running quickly with Spin Set techniques in Adobe Dynamic Media Classic. Follow steps 1 through 7. At the end of each step, you can select a topic link to learn more.
 
 ## 1. Create and upload the images

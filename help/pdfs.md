@@ -21,6 +21,8 @@ When you upload a PDF for page extraction, Adobe enforces the following limit:
 | --- | --- | --- |
 | Maximum number of pages for a PDF to be considered for extraction | 5000 (for new uploads) | 100 |
 
+See also [Dynamic Media limitations](/help/limitations.md).
+
 ## PDF upload options {#pdf-upload-options}
 
 When you upload a PDF file, you can format it in various ways. You crop its pages, extract search words, enter a pixels-per-inch resolution, and choose a color space. PDF files often contain a trim margin, crop marks, registration marks, and other printer’s marks. You can crop these marks from the sides of pages as you upload a PDF file.

@@ -33,6 +33,8 @@ When you create an Image Set, Adobe recommends the following best practices and 
 | Number of duplicate assets per set | No duplicates | 100 | 20 |
 | Maximum number of images per set | 5-10 images per set  | 1000 |
 
+See also [Dynamic Media limitations](/help/limitations.md).
+
 **To create an Image Set:**
 
 1. Do one of the following:
