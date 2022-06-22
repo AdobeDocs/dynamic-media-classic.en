@@ -26,16 +26,12 @@ When you create a set, the **[!UICONTROL Publish after save]** option affects th
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
->[!NOTE]
->
->When you create an Image Set, Adobe recommends the following best practice guidelines and enforced limits.
->
->* Number of duplicate assets per Image Set
->   * Best practice: 20
->   * Enforced limit: 20
-> * Maximum number of pages per Image Set
->   * Best practice: 1000
->   * Exforced limit: 1000
+When you create an Image Set, Adobe recommends the following best practices and enforces the following limits:
+
+| Image Set limit type | Best practice | Limit implemented | Changes to limit December 31, 2022 |
+| --- | --- | --- | --- |
+| Number of duplicate assets per set | No duplicates | 100 | 20 |
+| Maximum number of images per set | 5-10 images per set  | 1000 |
 
 **To create an Image Set:**
 

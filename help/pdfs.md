@@ -15,13 +15,11 @@ exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
 
 PDF (Portable Document Format) files are most often used in Adobe Dynamic Media Classic to create eCatalogs. When you upload a PDF file, Adobe Dynamic Media Classic rasterizes, or rips, the pages by default so that the pages can be used to build rich media.
 
->[!NOTE]
->
->When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.
->
->* Maximum number of pages per PDF that are considered for extraction
->   * Best practice: 100
->   * Enforced limit: 1000 (for refresh uploads) 
+When you upload a PDF for page extraction, Adobe enforces the following limit:
+
+| PDF limit type | Implemented limit | Changes to limit December 31, 2022 |
+| --- | --- | --- |
+| Maximum number of pages for a PDF to be considered for extraction | 5000 (for new uploads) | 100 |
 
 ## PDF upload options {#pdf-upload-options}
 

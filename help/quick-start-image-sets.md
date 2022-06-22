@@ -19,16 +19,12 @@ The Image Set Viewer offers zooming tools for examining images closely. If you w
 
 See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/556_Image%20&%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) training video.
 
->[!NOTE]
->
->When you create an Image Set, Adobe recommends the following best practice guidelines and enforced limits.
->
->* Number of duplicate assets per Image Set
->   * Best practice: 20
->   * Enforced limit: 20
->* Maximum number of pages per Image Set
->   * Best practice: 1000
->   * Exforced limit: 1000
+When you create an Image Set, Adobe recommends the following best practices and enforces the following limits:
+
+| Image Set limit type | Best practice | Limit implemented | Changes to limit December 31, 2022 |
+| --- | --- | --- | --- |
+| Number of duplicate assets per set | No duplicates | 100 | 20 |
+| Maximum number of images per set | 5-10 images per set  | 1000 |
 
 The following Image Sets Quick Start is designed to get you up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 

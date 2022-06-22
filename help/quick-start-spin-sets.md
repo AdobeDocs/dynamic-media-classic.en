@@ -23,14 +23,11 @@ See [Create Image Maps](creating-image-maps.md).
 
 See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/556_Image%20&%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) training video.
 
->[!NOTE]
->
->When you create a Spin Set, Adobe recommends the following best practice guideline and enforced limit.
->
->* Maximum number of rows/columns per 2D Spin Set
-> 
->   * Best practice: 1000
->   * Enforced limit: 1000
+When you create a Spin Set, Adobe recommends the following best practice and enforces the following limit:
+
+| Spin Set limit type | Best practice | Implemented limit |
+| --- | --- | --- |
+| Maximum number of rows/columns per 2D set | 12-18 images per set | 1000 |
 
 This Spin Sets Quick Start is designed to get you up and running quickly with Spin Set techniques in Adobe Dynamic Media Classic. Follow steps 1 through 7. At the end of each step, you can select a topic link to learn more.
 
