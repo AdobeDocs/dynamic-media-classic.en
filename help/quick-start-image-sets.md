@@ -21,9 +21,9 @@ See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/htm
 
 When you create an Image Set, Adobe recommends the following best practices and enforces the following limits:
 
-| Image Set limit type | Best practice | Limit implemented | Changes to limit December 31, 2022 |
-| --- | --- | --- | --- |
-| Number of duplicate assets per set | No duplicates | 100 | 20 |
+| Limit type | Best practice | Limit imposed |
+| --- | --- | --- |
+| Number of duplicate assets per set | No duplicates | 20 |
 | Maximum number of images per set | 5-10 images per set  | 1000 |
 
 See also [Dynamic Media limitations](/help/limitations.md).
