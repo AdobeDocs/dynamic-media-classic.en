@@ -16,7 +16,7 @@ Typically, Adobe PDF files are the source for an eCatalog. These files contain a
 
 When you upload a PDF for page extraction, Adobe enforces the following limit:
 
-| PDF limit type | Implemented limit | Changes to limit December 31, 2022 |
+| PDF limit type | Limit imposed | Change to limit on December 31, 2022 |
 | --- | --- | --- |
 | Maximum number of pages for a PDF to be considered for extraction | 5000 (for new uploads) | 100 |
 

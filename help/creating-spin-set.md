@@ -44,7 +44,7 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 
 When you create a Spin Set, Adobe recommends the following best practice and enforces the following limit:
 
-| Spin Set limit type | Best practice | Implemented limit |
+| Spin Set limit type | Best practice | Limit imposed |
 | --- | --- | --- |
 | Maximum number of rows/columns per 2D set | 12-18 images per set | 1000 |
 
