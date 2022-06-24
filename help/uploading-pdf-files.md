@@ -18,18 +18,9 @@ When you upload a PDF for page extraction, Adobe enforces the following limit:
 
 | PDF limit type | Limit imposed | Change to limit on December 31, 2022 |
 | --- | --- | --- |
-| Maximum number of pages for a PDF to be considered for extraction | 5000 (for new uploads) | 100 |
+| Maximum number of pages for a PDF to be considered for extraction | 5000 (for new uploads) | 100 (for all PDFs) |
 
 See also [Dynamic Media limitations](/help/limitations.md).
-
-<!-- 
->[!NOTE]
->
->When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.d
->
->* Maximum page size of a PDF to be considered for extraction
->   * Best practice: 100
->   * Enforced limit: 1000 (for refresh uploads) -->
 
 ## Prepare your PDF files {#preparing-your-pdf-files}
 
