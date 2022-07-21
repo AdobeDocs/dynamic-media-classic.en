@@ -15,27 +15,26 @@ The following sections describe limitations in Dynamic Media.
 
 This topic includes the following sections: 
 
-* Best practices and enforced limits by Dynamic Media on asset types
-<!-- * Unsupported web browser and operating system combinations for Dynamic Media Viewers -->
+* [Best practices and enforced limits by Dynamic Media on asset types](#best-practice-enforced-limits)
+* [Unsupported web browser and operating system combinations for Dynamic Media Viewers](#unsupported-browser-os)
 
-## Best practices and enforced limits by Dynamic Media on asset types
+## Best practices and enforced limits by Dynamic Media on asset types {#best-practice-enforced-limits}
 
 When you create a Spin Set or an Image Set, or upload PDFs for page extraction, Adobe recommends the following best practices and enforces the following limits:
 
-<!-- | **Image** - Number of Smart Crops per image | 5 | 100 |  | -->
-
 | Asset - Limit type | Best practice | Limit imposed | Change to limit on December 31, 2022 |
 | --- | --- | --- | --- |
-| **All sets** - Number of duplicate assets per set | No duplicates | 20 ||
-| **All sets** - Maximum number of assets per set | 5-10 images per set  | 1000 |
-| **Spin Set** - Maximum number of rows/columns per 2D set | 12-18 images per set | 1000 |
+| **Image** - Number of Smart Crops per image | 5 | 100 | 20 |
+| **All sets** - Number of duplicate assets per set | No duplicates | 20 | Not applicable |
+| **All sets** - Maximum number of assets per set | 5-10 images per set  | 1000 | Not applicable |
+| **Spin Set** - Maximum number of rows/columns per 2D set | 12-18 images per set | 1000 | Not applicable |
 | **PDF** - Maximum number of pages for a PDF to be considered for extraction || 5000 (for new uploads) | 100 (for all PDFs) |
 
-<!-- See also [Dynamic Media limitations](/help/limitations.md) -->
+<!-- See also [Dynamic Media limitations](/help/assets/limitations.md). -->
 
-<!-- ## Unsupported web browser and operating system combinations for Dynamic Media Viewers
+## Unsupported web browser and operating system combinations for Dynamic Media Viewers {#unsupported-browser-os}
 
-Dynamic Media Viewers do not support following combinations of web browser and operating system.
+Dynamic Media Viewers do not support the following web browser and operating system combinations.
 
 * Internet Explorer 11 + Windows 7
 * Internet Explorer 11 + Windows 8.1
@@ -43,8 +42,7 @@ Dynamic Media Viewers do not support following combinations of web browser and o
 * Internet Explorer 11 + Windows Phone 8.1 Update
 * Safari 6 + iOS 6.0.1
 * Safari 7 + iOS 7.1
-* Safari 7 + macOS X 10.9 Mavericks
+* Safari 7 + OS X 10.9 Mavericks
 * Safari 8 + iOS 8.4
-* Safari 8 + macOS X 10.10 Yosemite -->
-
+* Safari 8 + OS X 10.10 Yosemite
 
