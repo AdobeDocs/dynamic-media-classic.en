@@ -179,11 +179,12 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 ## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows® {#install-silent-windows-dmc-app}
 
-The command that you use is for a basic MSI silent installation. However, the Adobe Dynamic Media Classic desktop app installer is an InstallScript MSI installer created using InstallShield. When you run the installer in record mode, any user interaction is recorded in a response file. This response file is then used for a silent installation as described in [Running Installations in Silent Mode.](https://docs.revenera.com/installshield19helplib/helplibrary/SilentInstall.htm)
+The command that you use is for a basic MSI silent installation. However, the Adobe Dynamic Media Classic desktop app installer is an InstallScript MSI installer created using InstallShield. When you run the installer in record mode, any user interaction is recorded in a response file. This response file is then used for a silent installation as described in [Running installations in silent mode](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/SilentInstall.htm).
 
 See also:
 
 * [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows®](#installation-dmc-app)
+
 * [Download and silent install the latest Adobe Dynamic Media Classic desktop app on macOS](#install-silent-mac-dmc-app)
 
 To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on Windows®:
@@ -206,7 +207,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
     `adobe-dynamic-media-classic-20.22.1.exe /s /f1"C:\Setup.iss"`
 
-    Details about command-line parameters are available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.revenera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
+    Details about command-line parameters are available at [Setup.exe and Update.exe command-line parameters](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/IHelpSetup_EXECmdLine.htm?Highlight=Setup.exe%20and%20Update.exe%20Command-Line%20Parameters).
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign-in page is displayed:
 
