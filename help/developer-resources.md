@@ -18,31 +18,46 @@ Release notes are also available for some modules. Release notes provide details
 
 Reference Guides to Image Serving and Image Rendering, and Viewers describe the http protocols for these server modules. Web site developers who want to further customize and use Adobe Dynamic Media Classic rich media for a web site or custom application can use these guides. Adobe Dynamic Media Classic assumes that the user is familiar with the desktop app, general http protocol standards and conventions, and basic imaging terminology.
 
-## Adobe Dynamic Media Classic API
+## Viewers {#viewers-guide}
 
-| Document | Web address |
+| Document | Web address|
 | --- | --- |
-| API Reference Guide | Contact Adobe Dynamic Media Classic technical support for documentation. |
+| Viewers Reference Guide and Release Notes | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/homeviewers.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/homeviewers.html) |
+| Viewer Library Examples | [https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) |
 
-## Image Authoring
+## Image Serving/Image Rendering (IS/IR) API {#is-ir-api-guide}
+
+| Document |Web address |
+| --- | --- |
+| API Reference Guide | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/homeisir.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/homeisir.html)|
+
+## Image Production System (IPS) API {#ips-api-guide}
+
+| Document| Web address |
+| --- | --- |
+| API Reference Guide | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-production-api/c-overview.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-production-api/c-overview.html) |
+
+## Image Authoring {#ia}
 
 | Document| Web address |
 | --- | --- |
 | User Guide | Contact Adobe Dynamic Media Classic technical support for this documentation. |
 | Release Notes | Contact Adobe Dynamic Media Classic technical support for this documentation. |
 
-## Image Serving and Image Rendering
+## Dynamic Media Classic API {#dmc-api}
 
-| Document |Web address |
+| Document | Web address |
 | --- | --- |
-| API Reference Guide | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html)|
+| API Reference Guide | Contact Adobe Dynamic Media Classic technical support for documentation. |
 
-## Viewers
 
-| Document | Web address|
-| --- | --- |
-| Viewers Reference Guide and Release Notes | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html) |
-| Viewer Library Examples | [https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) |
+
+
+
+
+
+
+
 
 
 <!-- 
