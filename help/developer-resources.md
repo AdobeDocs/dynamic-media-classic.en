@@ -12,11 +12,9 @@ exl-id: eaa6bf7b-ff38-4a15-b5b5-c60c3b75a35f
 ---
 # Developer resources {#developer-resources}
 
-Adobe Dynamic Media Classic provides documentation for the latest major version of each Adobe Dynamic Media Classic software module. Module documents are available for Image Authoring, Adobe Dynamic Media Classic, Image Server and Image Rendering, and Viewers.
+Reference guides to Viewers, Image Serving and Image Rendering, and Image Production System describe the http protocols for these server modules. Web site developers who want to further customize and use Adobe Dynamic Media Classic rich media for a web site or custom application can use these guides. It is assumed that the user is familiar with the Dynamic Media Classic desktop app, general http protocol standards and conventions, and basic imaging terminology. 
 
-Release notes are also available for some modules. Release notes provide details on the release, including enhancements, new functionality, tips, troubleshooting advice, and known outstanding issues. Release notes also offer interactive examples of rich-media features and how to activate them. In addition, Release Notes offer installation and configuration instructions for clients with licensed software.
-
-Reference Guides to Image Serving and Image Rendering, and Viewers describe the http protocols for these server modules. Web site developers who want to further customize and use Adobe Dynamic Media Classic rich media for a web site or custom application can use these guides. Adobe Dynamic Media Classic assumes that the user is familiar with the desktop app, general http protocol standards and conventions, and basic imaging terminology.
+See also [Dynamic Media Developer Resources](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
 ## Viewers {#viewers-guide}
 
@@ -37,7 +35,7 @@ Reference Guides to Image Serving and Image Rendering, and Viewers describe the 
 | --- | --- |
 | API Reference Guide | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-production-api/c-overview.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-production-api/c-overview.html) |
 
-## Image Authoring {#ia}
+<!-- ## Image Authoring {#ia}
 
 | Document| Web address |
 | --- | --- |
@@ -49,7 +47,7 @@ Reference Guides to Image Serving and Image Rendering, and Viewers describe the 
 | Document | Web address |
 | --- | --- |
 | API Reference Guide | Contact Adobe Dynamic Media Classic technical support for documentation. |
-
+ -->
 
 
 
