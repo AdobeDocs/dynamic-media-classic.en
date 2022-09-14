@@ -2,7 +2,7 @@
 title: "Quick Start: Swatch Sets"
 description: An introduction and Quick Start to Swatch Set to help you get up and running quickly in Adobe Dynamic Media Classic.
 uuid: 6f8a95e8-e82a-477f-9f21-d2b7b511f8ae
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets

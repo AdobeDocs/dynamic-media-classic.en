@@ -1,7 +1,7 @@
 ---
 title: Best practices for optimizing the quality of your images
 description: Learn best practices for optimizing the quality of your images.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files

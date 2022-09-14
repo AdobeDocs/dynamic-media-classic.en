@@ -2,7 +2,7 @@
 title: Create an Image Set
 description: Learn how to create an image set in Adobe Dynamic Media Classic.
 uuid: 689fdc14-4f51-4c94-8515-cd8551e101d8
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets

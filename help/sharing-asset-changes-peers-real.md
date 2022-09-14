@@ -2,7 +2,7 @@
 title: Share asset changes with peers in real time
 description: Learn how to share asset changes with peers in real time in Adobe Dynamic Media Classic.
 uuid: 13fa4f6e-66bf-4682-96a9-0e7040706f53
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets

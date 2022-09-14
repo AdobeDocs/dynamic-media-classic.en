@@ -2,7 +2,7 @@
 title: Work with PDFs
 description: Learn how to work with PDFs in Adobe Dynamic Media Classic.
 uuid: 26d70d28-9393-49b1-9051-d70456deca67
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files

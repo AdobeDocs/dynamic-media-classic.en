@@ -1,7 +1,7 @@
 ---
 title: Application Setup
 description: Learn how to set up and configure the Application area of Adobe Dynamic Media Classic. The Application area lets you enter general settings, create image, viewer, and video encoding presets, define default viewers and metadata, publishing settings, and video SEO settings. You can also use the area to set up batch set presets to automate the generation of 2D spin sets.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
@@ -27,7 +27,7 @@ On account creation, Adobe Dynamic Media Classic automatically provides the assi
 
 See also [Test the Secure Testing service](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
-* **[!UICONTROL Published Server Name]** - This server is the live Content Deliver Network (CDN) server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by an Adobe Dynamic Media Classic support technician.
+* **[!UICONTROL Published Server Name]** - This server is the live CDN (Content Deliver Network) server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by an Adobe Dynamic Media Classic support technician.
 
 * **[!UICONTROL Origin Server Name]** - This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by an Adobe Dynamic Media Classic support technician.
 
@@ -79,11 +79,11 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 * **[!UICONTROL Show Encoded Videos]** - Deselected (off) by default.
 
-   To quickly search and browse for videos in Adobe Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video, leave this option deselected (default). Only the Master Video thumbnail (the source video you uploaded and used to create the derivatives), and the “parent” Adaptive Video Set thumbnail (which contains the “child” derivatives of the encoded video set), are displayed.
+   To quickly search and browse for videos in Adobe Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video, leave this option deselected (default). Only the Primary Video thumbnail (the source video you uploaded and used to create the derivatives), and the “parent” Adaptive Video Set thumbnail (which contains the “child” derivatives of the encoded video set), are displayed.
 
-   You can, however, still access individual encoded videos from the Master Video or the Adaptive Video Set. To do so, double-click the video thumbnail image to open Detail View. Then select **[!UICONTROL Encoded Videos]** in the right panel so you can access all the “child” videos.
+   You can, however, still access individual encoded videos from the Primary Video or the Adaptive Video Set. To do so, double-click the video thumbnail image to open Detail View. Then select **[!UICONTROL Encoded Videos]** in the right panel so you can access all the “child” videos.
 
-   You can also go to **[!UICONTROL File]** > **[!UICONTROL Reprocess]** to create more encoded “child” videos directly from an Adaptive Video Set. Adobe Dynamic Media Classic automatically finds the “parent” Master Video of the Adaptive Video Set and uses that as the source video for transcoding. When you save the new individual encoded videos, however, they are not seen when you search or browse. However, they are still accessible from the Encoded Videos tab in Detail View.
+   You can also go to **[!UICONTROL File]** > **[!UICONTROL Reprocess]** to create more encoded “child” videos directly from an Adaptive Video Set. Adobe Dynamic Media Classic automatically finds the “parent” Primary Video of the Adaptive Video Set and uses that as the source video for transcoding. When you save the new individual encoded videos, however, they are not seen when you search or browse. However, they are still accessible from the Encoded Videos tab in Detail View.
 
    See [Upload and transcode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
@@ -125,7 +125,7 @@ See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/Vi
 
 ### Image Map Editor, to Application
 
-* **[!UICONTROL Default Image Mapping HREF]** - Defines the default URL that is used for the HREF column in image mapping. This URL is the default URL you see when you create Image Maps.
+* **[!UICONTROL Default Image Mapping HREF]** - Defines the default URL that is used for the HREF column in image mapping. This URL is the default URL that you see when you create Image Maps.
 
 * **[!UICONTROL Default Image Mapping Template]** - Defines the default JavaScript for the HREF template in image mapping. You can set custom code here to be run whenever you select an image map.
 
@@ -139,7 +139,7 @@ Adobe Dynamic Media Classic does not allow two files to have the same name. Each
 
 If you previously uploaded images and then changed the original files (or replaced them), the chosen Overwrite option specifies how Adobe Dynamic Media Classic replaces the images. No information about the image changes, but the new image replaces the old one. If the folder also contains images that are not already in Adobe Dynamic Media Classic, these images are added.
 
-Use this option if images you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe® PDFs. To fine-tune how Adobe Dynamic Media Classic *rips* the image, adjust the ICC color profile options in the Upload dialog box and reupload using the Overwrite feature.
+Use this option if images that you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe® PDFs. To fine-tune how Adobe Dynamic Media Classic *rips* the image, adjust the ICC color profile options in the Upload dialog box and reupload using the Overwrite feature.
 
 The Adobe Dynamic Media Classic IDs that are used to access images from the production servers are derived from the image filenames. The use of uppercase and lowercase characters in the filename is important, both in the replacement of existing files and for the Adobe Dynamic Media Classic IDs used to access the image. Be sure the use of uppercase and lowercase characters in filenames is correct before uploading into Adobe Dynamic Media Classic to avoid Adobe Dynamic Media Classic IDs that differ only in case for the same image.
 
@@ -147,7 +147,7 @@ If you deselect this option, all images with the same filenames as existing imag
 
 ## Image Presets {#image-presets}
 
-The Image Presets screen is for creating and editing Image Presets. Image Presets enable Adobe Dynamic Media Classic to deliver images dynamically at different sizes from the same master image. Each Image Preset represents a predefined collection of sizing and formatting commands for displaying images. When you create an Image Preset, you select a size for image delivery. You also select formatting commands so that the appearance of the image is optimized when the image is delivered for viewing.
+The Image Presets screen is for creating and editing Image Presets. Image Presets enable Adobe Dynamic Media Classic to deliver images dynamically at different sizes from the same primary image. Each Image Preset represents a predefined collection of sizing and formatting commands for displaying images. When you create an Image Preset, you select a size for image delivery. You also select formatting commands so that the appearance of the image is optimized when the image is delivered for viewing.
 
 Administrators can create presets for exporting assets. Users can choose a preset when they export images, which also reformat images to the specifications that the administrator specifies.
 
@@ -243,7 +243,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 * **[!UICONTROL URL Modifiers]** - If you prefer to specify the URL modifiers that define your Image Preset, rather than the settings, enter the modifiers here.
 
-* **[!UICONTROL Sample Image URL]** - Lists the “raw” URL string that the Dynamic Media Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings you select in the Add Preset or Edit Preset screen.
+* **[!UICONTROL Sample Image URL]** - Lists the “raw” URL string that the Dynamic Media Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings that you select in the Add Preset or Edit Preset screen.
 
 ### Edit, remove, or deactivate an image preset {#editing-removing-or-deactivating-an-image-preset}
 
@@ -256,7 +256,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 ## Activate or deactivate adaptive video presets {#activating-or-deactivating-adaptive-video-presets}
 
-Adobe Dynamic Media Classic offers Adaptive Video encoding presets. It is a master list of presets that combines both 16:9 Adaptive Video presets and 4:3 Adaptive Video presets into one group. These predefined presets reflect the most common encoding settings and are optimized for playback on target mobile devices, tablets, and desktops.
+Adobe Dynamic Media Classic offers Adaptive Video encoding presets. It is a primary list of presets that combines both 16:9 Adaptive Video presets and 4:3 Adaptive Video presets into one group. These predefined presets reflect the most common encoding settings and are optimized for playback on target mobile devices, tablets, and desktops.
 
 Only “Adaptive Video” encoding presets are activated (enabled or “turned on”) by default. You can deactivate it, if desired. Inactive Adaptive Video presets do not appear as a selectable option in the eVideo section of the Upload Job Options dialog box.
 
@@ -304,7 +304,7 @@ To select an encoding preset, in the lower-right corner of the Upload page, sele
     * Select an encoding preset based on the resolution size and bandwidth with which you plan to play the video.
     * You can select Adaptive Video Encoding and one or more encoding presets per video. For example, you can encode a file for both desktop and mobile in one upload job.
 
-After you select **[!UICONTROL Start Upload]**, the original master video file is uploaded and encoded files are generated from the master file.
+After you select **[!UICONTROL Start Upload]**, the original primary video file is uploaded and encoded files are generated from the primary file.
 
 ### About encoding preset options {#about-encoding-preset-options}
 
@@ -338,7 +338,7 @@ An encoding preset that works with any aspect ratio to let you create videos for
 
 ### Adaptive Video Encoding (16:9 or 4:3) video presets {#adaptive-video-encoding-or-video-presets}
 
-These adaptive video encoding presets combine a series of individual encode presets that are automatically selected for you based on the aspect ratio of the video that you uploaded. For example, if you upload a 4:3 video, it is automatically encoded using all five 4:3 presets found within the master preset list in the **Adaptive Video Encoding (16:9 or 4:3)** option.
+These adaptive video encoding presets combine a series of individual encode presets that are automatically selected for you based on the aspect ratio of the video that you uploaded. For example, if you upload a 4:3 video, it is automatically encoded using all five 4:3 presets found within the primary preset list in the **Adaptive Video Encoding (16:9 or 4:3)** option.
 
 For information about encoding options parameters, see [About encoding preset options](application-setup.md#about_encoding_preset_options).
 
@@ -434,13 +434,13 @@ See [Adobe Dynamic Media Classic Viewer Preset compatibility matrix](application
 
 See [Best practice: Using the HTML5 Video viewer](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer).
 
-Depending on the viewer, you can add community features. Community features include an Embed button, E-mail button, Link button, and Visit Site button. These buttons let people using the viewers share the viewer with others or open the Adobe Dynamic Media Classic web site.
+Depending on the viewer, you can add community features. Community features include an Embed button, E-mail button, Link button, and Visit Site button. These buttons let people that use the viewers share the viewer with others or open the Adobe Dynamic Media Classic web site.
 
 See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
-### Viewer support for responsive designed web pages {#viewer-support-for-responsive-designed-web-pages}
+### Viewer support for responsive-designed web pages {#viewer-support-for-responsive-designed-web-pages}
 
-Different web pages have different needs. Sometimes you want a web page that provides a link that opens the HTML5 Viewer in a separate browser window. In other cases, it is necessary to embed the HTML5 Viewer directly on the hosting page. In the latter case, the web page likely has a static layout. Or, it is "responsive" and displays differently on different devices or for different browser window sizes. To accommodate these needs, the HTML5 Viewers that come with Adobe Dynamic Media Classic support both static web pages and responsive designed web pages.
+Different web pages have different needs. Sometimes you want a web page that provides a link that opens the HTML5 Viewer in a separate browser window. In other cases, it is necessary to embed the HTML5 Viewer directly on the hosting page. In the latter case, the web page likely has a static layout. Or, it is "responsive" and displays differently on different devices or for different browser window sizes. To accommodate these needs, the HTML5 Viewers that come with Adobe Dynamic Media Classic support both static web pages and responsive-designed web pages.
 
 For more information on how to embed responsive viewers onto your web pages, see [About Responsive Image library](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library.html#image-serving-api), [Use Responsive Image Library](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#image-serving-api), and [Command reference - Command attributes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#responsive-static-image-library).
 
@@ -456,7 +456,7 @@ Administrators can create and customize the following types of Viewer Presets:
 
 * **[!UICONTROL Spin Set Viewer]** - Provides multiple views of an image so users can turn the object to examine the different sides and angles.
 
-* **Video Viewer** - Displays videos using the resolution dimensions of the source file or a custom size. Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Video Viewer presets. There are more than a dozen different settings for configuring the Video Viewer. You can configure its size, foreground and background color, video and audio controls, progress bar, user-interface skin, social features, and Help.
+* **Video Viewer** - Displays videos using the resolution dimensions of the source file or a custom size. Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Video Viewer presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its size, foreground and background color, video and audio controls, progress bar, user-interface skin, social features, and Help.
 
 * **[!UICONTROL Zoom Viewers]** - Offers a choice of three types of zoom viewer:
 
@@ -519,7 +519,7 @@ See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/d
 
 Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video. 
 
-* You can find BlackBerry® devices that support this video format at the following: [Supported video formats on BlackBerry®](https://developer.blackberry.com/devzone/develop/supported_media/bb10_media_support.html)
+* You can find BlackBerry® devices that support this video format at the following: [Supported video formats on BlackBerry®](https://developers.blackberry.com/us/en)
 * You can also find Windows® devices that support this video format at the following: [Supported video formats on Windows® Phone](https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs)
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|BlackBerry® Smartphone|Windows® Phone|
@@ -623,7 +623,7 @@ See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.ht
 
 You can export an existing HTML5 Viewer Preset to use as the basis for creating an HTML5 Viewer Preset. This export option is useful because you do not have to create the viewer from scratch. Instead, you export a preset that looks and behaves close to what you want, then you can use that as a starting point to make design adjustments.
 
-All default, out-of-box Viewer preset CSS files in Adobe Dynamic Media Classic use relative image serving paths that point to assets on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file on 
+All default, out-of-box Viewer preset CSS files in Adobe Dynamic Media Classic use relative image-serving paths that point to assets on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file on 
 
 `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`
 
@@ -758,7 +758,7 @@ Adobe Dynamic Media Classic comes with pre-defined Metadata Views, and administr
 1. In the Preset Name text field, enter a name for the view.
 1. (Optional) Check **[!UICONTROL Make Default]** to make this view the one that users see when they open the Metadata panel in Detail View.
 1. (Optional) Select **[!UICONTROL Include UDF]** to include user-defined fields in the view. User-defined fields appear at the top of the Metadata panel in Detail View.
-1. Select the fields you want for the view (select **[!UICONTROL Select All]** to select all the fields).
+1. Select the fields that you want for the view (select **[!UICONTROL Select All]** to select all the fields).
 1. Select **[!UICONTROL Save]**.
 
    The selected categories and fields for the view appear in the Preview panel.
@@ -787,7 +787,7 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
    * To create a preset, select **[!UICONTROL Add]**. In the Metadata Template Name text field, type a name for the preset. Select **[!UICONTROL Metadata Views]**,  and then select a view from the drop-down list (see [Metadata Views](application-setup.md#metadata_views)).
    * To edit an existing preset, select the preset from the Metadata Presets list and then select **[!UICONTROL Edit]**.
 
-1. Expand headings you want to include in the preset and enter values in the different fields you want to include in the preset.
+1. Expand headings that you want to include in the preset and enter values in the different fields you want to include in the preset.
 1. Select **[!UICONTROL Save]**.
 
    The selected categories and fields for the preset appear in the Preview panel.
@@ -912,7 +912,7 @@ Two elements are available for definition, Match and Base Name. These fields let
 
 Adobe Dynamic Media Classic uses batch set presets to organize assets that share some common information or content into sets of images for display in viewers. The batch set preset recipes automatically run alongside the asset import jobs you schedule in Adobe Dynamic Media Classic.
 
-Use Batch Set Preset to create, edit, and manage your batch set presets. You can create as many presets as necessary to cover all asset ingest jobs you require. There are two forms of batch set preset definitions: one for a default naming convention that you have set up, and one for custom naming conventions that you create on the fly.
+Use Batch Set Preset to create, edit, and manage your batch set presets. You can create as many presets as necessary to cover all asset ingest jobs you require. There are two forms of batch set preset definitions: one for a default naming convention that you have set up, and one for custom-naming conventions that you create on the fly.
 
 You can use either the form field method to define a batch set preset or the code method, which lets you use regular expressions. As in **[!UICONTROL Default Naming]**, you can select **[!UICONTROL Code View]** at the same time you are defining in the Form View and use of regular expressions to build your definitions. Alternately, you can uncheck either view to use one or the other exclusively.
 
@@ -947,9 +947,9 @@ You can use the Batch Set Type **Multi-Axis Spin Set** to create a “recipe” 
 
 See also [Create a batch set preset](application-setup.md#creating_a_batch_set_preset).
 
-There is no minimum or maximum number of rows or columns that you must have in a multi-axis spin set.
+There is no minimum or maximum number of rows or columns that you must have in a multiaxis spin set.
 
-As an example, suppose you want to create a multi-axis spin set named *spin-2dspin*. You have a set of spin set images that contain three rows, with 12 images per row. The images are named as follows:
+As an example, suppose you want to create a multiaxis spin set named *spin-2dspin*. You have a set of spin set images that contain three rows, with 12 images per row. The images are named as follows:
 
 ```as3
 spin-01-01
@@ -1007,7 +1007,7 @@ When the Spin Set is uploaded and published, you would activate the name of the 
 
    >[!NOTE]
    >
-   >If the combination of row and column regular expressions cannot determine the position of the asset within the multi-dimensional spin set array, that asset is not added to the set and an error is logged.
+   >If the combination of regular expressions in rows and columns cannot determine the position of the asset within the multi-dimensional spin set array, that asset is not added to the set and an error is logged.
 
 1. For Set Naming and Creation Convention, specify the suffix or prefix to the base name you defined in the Asset Naming Convention. Also define where the image set is created within the Adobe Dynamic Media Classic folder structure.
 

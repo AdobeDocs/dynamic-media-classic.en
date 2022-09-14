@@ -30,7 +30,7 @@ Exceptions to this rule apply to the release notes where known issues can be lis
 
 Any ideas you may have to improve the documentation are welcome as contributions. However comments, issues, and pull requests are intended for *contributions* only. They are not intended to be used to answer your questions about how to use Adobe Dynamic Media Classic, implement your project, or solve technical problems.
 
-Any questions about the usage of Adobe Dynamic Media Classic or technical errors you may have should be reported through the [Experience Cloud Enterprise Support portal](https://helpx.adobe.com/contact/enterprise-support.ec.html) or discussed in the [Experience Cloud community](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager).
+Any questions about the usage of Adobe Dynamic Media Classic or technical errors you may have should be reported through the [Experience Cloud Enterprise Support portal](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support) or discussed in the [Experience Cloud community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
 ***Documentation contributions are not a replacement for Adobe Customer Care*** and any such contributions seeking answers to support-related questions will be rejected.
 

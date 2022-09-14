@@ -2,7 +2,7 @@
 title: Create and manage Media Portal groups
 description: Learn how to create and manage Media Portal groups in Adobe Dynamic Media Classic.
 uuid: 23f360e1-ddcb-491b-ab9f-428f3ac9c316
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal

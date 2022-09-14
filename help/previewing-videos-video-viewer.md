@@ -2,7 +2,7 @@
 title: Preview videos in a video viewer
 description: Learn how to preview videos in a Video viewer.
 uuid: 7ab4e805-6e5d-461b-bd99-5e09b9ced950
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
@@ -41,7 +41,7 @@ See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer
 
 Users watch videos in the Video Viewer. How the Video Viewer behaves, what it looks like, and how its playback controls work depends on the Viewer Preset you choose for playing the video. You choose a Viewer Preset on the Preview screen. After you choose a preset, you can obtain the URL or the embed code for playing the video using the Viewer Preset you chose.
 
-Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Viewer Presets. There are more than a dozen different settings for configuring the Video Viewer. You can configure its size, color, video and audio controls, progress bar, user-interface skin, and social features.
+Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Viewer Presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its size, color, video and audio controls, progress bar, user-interface skin, and social features.
 
 See [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 

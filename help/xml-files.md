@@ -1,7 +1,7 @@
 ---
 title: XML files
 description: Web sites that use an XML-based system to manage images and image information can upload XML files to Adobe Dynamic Media Classic. Learn more about XML files.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic

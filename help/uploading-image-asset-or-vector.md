@@ -1,7 +1,7 @@
 ---
 title: Upload a raster image asset
 description: Learn how to upload a raster image asset into Adobe Dynamic Media Classic
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic

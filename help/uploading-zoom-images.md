@@ -2,7 +2,7 @@
 title: Upload Zoom images
 description: Learn how to upload Zoom images into Adobe Dynamic Media Classic.
 uuid: 5814ec28-3a06-4b92-b70e-0aa5b83e7b0e
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom

@@ -2,7 +2,7 @@
 title: Create zoom targets for Guided Zoom
 description: Learn how to create zoom targets for Guided Zoom in Adobe Dynamic Media Classic.
 uuid: 501ea37b-adc5-4290-87eb-52a3501e5d26
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom

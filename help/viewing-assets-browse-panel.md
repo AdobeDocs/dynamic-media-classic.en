@@ -2,7 +2,7 @@
 title: View assets in the Browse panel
 description: Learn how to use the Browse panel to view assets in Adobe Dynamic Media Classic.
 uuid: 677b1838-0bbe-4922-92a5-6e7d9030edb9
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets

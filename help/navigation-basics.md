@@ -2,7 +2,7 @@
 title: Navigation basics
 description: Learn about navigating the user interface of Adobe Dynamic Media Classic.
 uuid: ee143695-e42d-479d-b907-fe61ef6cfc0f
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started

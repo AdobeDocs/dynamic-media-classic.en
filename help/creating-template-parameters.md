@@ -2,7 +2,7 @@
 title: Create template parameters
 description: Learn how to create template parameters in Adobe Dynamic Media Classic.
 uuid: d17168a8-4776-4761-b022-8258d5997604
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics

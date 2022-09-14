@@ -2,7 +2,7 @@
 title: Create a Swatch Set
 description: Learn how to create a swatch set in Adobe Dynamic Media Classic.
 uuid: 250b3525-310d-4481-b0bc-f9057e823e0b
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets

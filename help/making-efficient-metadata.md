@@ -2,7 +2,7 @@
 title: Make more efficient use of metadata
 description: Learn how to make more efficient use of metadata in Adobe Dynamic Media Classic.
 uuid: 6690b815-ca5f-491f-94eb-3d4657fbb8ed
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal

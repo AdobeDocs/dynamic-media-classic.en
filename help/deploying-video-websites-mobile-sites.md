@@ -2,7 +2,7 @@
 title: Deploy video to your websites and mobile sites
 description: Learn how to deploy video to your websites and mobile sites from Adobe Dynamic Media Classic.
 uuid: 22bb4402-c0ab-4df0-89b9-99707d111927
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
@@ -23,7 +23,7 @@ Websites, mobile sites, and desktop applications access Adobe Dynamic Media Clas
 
 Publishing a video enables Adobe Dynamic Media Classic Servers to deliver video to your website, mobile site, or application.
 
-There are two different methods you can use to publish video:
+There are two different methods that you can use to publish video:
 
 * **Publish videos automatically and instantly on upload** - As part of the video upload process, Adobe Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability to instantly publish means that there is no need to publish videos separately after the fact.
 
@@ -159,7 +159,7 @@ If you use a third-party video player or a custom-built video player instead of 
 
 ## Work with video thumbnails {#working-with-video-thumbnails}
 
-Adobe Dynamic Media Classic generates thumbnails for encoded videos, and pre-encoded videos. You can use video thumbnails like any image asset. Moreover, you can obtain URLs for the video thumbnails that Adobe Dynamic Media Classic generates and deploy these URLs outside Adobe Dynamic Media Classic. For example, you can deploy the thumbnails in search results, related video listings, and video play lists on a website.
+Adobe Dynamic Media Classic generates thumbnails for encoded videos, and pre-encoded videos. You can use video thumbnails like any image asset. Moreover, you can obtain URLs for the video thumbnails that Adobe Dynamic Media Classic generates. Then you can deploy these URLs outside Adobe Dynamic Media Classic. For example, you can deploy the thumbnails in search results, related video listings, and video play lists on a website.
 
 Thumbnails are generated based on the first heterogeneous frame (not an all black frame, or an all white frame, and so forth) of the video.
 

@@ -2,7 +2,7 @@
 title: Set up Zoom Viewer Presets
 description: Learn how to set up Zoom Viewer Presets in Adobe Dynamic Media Classic.
 uuid: 202d80cb-8282-45d4-89e8-942c8677aa93
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom

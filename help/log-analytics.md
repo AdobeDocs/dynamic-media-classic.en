@@ -2,7 +2,7 @@
 title: Log in to Adobe Analytics
 description: Learn how to log in to Adobe Analytics from Adobe Dynamic Media Classic.
 uuid: 5614babe-1097-4228-a3dc-27e5a25366d5
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
@@ -26,14 +26,14 @@ When you log in, you have the option of entering your Experience Cloud Org ID to
 Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe Analytics OAuth integration with Dynamic Media Classic is typically only done once per user.
 
 1. Access [Adobe Developer Console](https://developer.adobe.com/console). Ensure that your account has administrator permissions for the organization for which the integration is required.
-1. Near the upper-right corner of the Home page, from the drop-down list, select the appropriate company. (The screenshot below is for information purposes only; the actual company name you select can vary.)
+1. Near the upper-right corner of the Home page, from the drop-down list, select the appropriate company. (The screenshot below is for information purposes only; the actual company name that you select can vary.)
 
    ![Create a new project](assets/analytics-oauth1.png)
 
 1. Do either one of the following:
 
    * At the top of the page, from the **[!UICONTROL Home]** tab, select **[!UICONTROL Create new project]**.
-   * At the top of the page, from the **[!UICONTROL Projects]** tab. Near the right-corner of the page, select **[!UICONTROL Create new project]**.
+   * At the top of the page, from the **[!UICONTROL Projects]** tab. Near the right corner of the page, select **[!UICONTROL Create new project]**.
 
 1. On the project's page, select **[!UICONTROL Add API]**.
 1. On the **[!UICONTROL Add an API]** page, select **[!UICONTROL Adobe Analytics]**.

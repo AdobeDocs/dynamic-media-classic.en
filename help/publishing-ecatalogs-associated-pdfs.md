@@ -2,7 +2,7 @@
 title: Publish eCatalogs and associated PDFs
 description: Learn how to publish eCatalogs and associated PDFs from Adobe Dynamic Media Classic.
 uuid: 6f2f2c79-921a-4096-8f80-24e69c8983fa
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs

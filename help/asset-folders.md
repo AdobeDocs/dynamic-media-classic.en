@@ -2,7 +2,7 @@
 title: Work with asset folders
 description: Learn how to work with asset folders in Adobe Dynamic Media Classic.
 uuid: 3bd83701-e2c2-4e39-b225-c2d27ad836c2
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets

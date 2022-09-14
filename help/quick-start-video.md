@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Video in Adobe Dynamic Media Classic"
 description: An introduction and Quick Start to Adobe Dynamic Media Classic Video to help you get up and running quickly.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
@@ -29,7 +29,7 @@ See the algorithm’s logic at [https://android.googlesource.com/platform/framew
 
 For managing single video and Adaptive Video Sets, Adobe Dynamic Media Classic supports the following:
 
-* Uploading video from numerous supported video formats and audio formats and encoding video to MP4 H.264 format for playback across multiple screens. You can use predefined Adobe Dynamic Media Classic adaptive video presets, single video encoding presets, or customize your own encoding to control the quality and size of the video.
+* Uploading video from numerous, supported video formats and audio formats and encoding video to MP4 H.264 format for playback across multiple screens. You can use predefined Adobe Dynamic Media Classic adaptive video presets, single video encoding presets, or customize your own encoding to control the quality and size of the video.
 
 See [Activate or deactivate adaptive video presets](/help/application-setup.md#activating-or-deactivating-adaptive-video-presets)
 
@@ -39,7 +39,7 @@ See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
 
   >[!NOTE]
   >
-  >Master/source videos and any other source format video are *not* added to an Adaptive Video Set. 
+  >Primary/source videos and any other source format video are *not* added to an Adaptive Video Set. 
 
 * Video captioning in the Univeral_HTML5_Video, Universal_HTML5_MixedMedia_dark, and Universal_HTML5_MixedMedia_light viewers and video chapter navigation in the Univeral_HTML5_Video, Universal_HTML5_MixedMedia_dark, and Universal_HTML5_MixedMedia_light viewers.
 
@@ -81,20 +81,20 @@ See the following training videos:
 
 **Quick Start**
 
-The following step-by-step workflow description is designed to help you get up and running quickly with adaptive video sets in Adobe Dynamic Media Classic. After each step is a cross-reference to a topic heading where you can find more information.
+The following step-by-step workflow description is designed to help you get up and running quickly with adaptive video sets in Adobe Dynamic Media Classic. After each step, there is a cross-reference to a topic heading where you can find more information.
 
 ## 1. Upload and encode videos
 
 Upload and generate adaptive video sets using one of the following two scenarios:
 
-* **Upload pre-encoded videos** - If your videos were already encoded outside Adobe Dynamic Media Classic, on the Global Navigation bar, select **[!UICONTROL Upload]** to browse and upload MP4 video files directly to Adobe Dynamic Media Classic. Then, go to **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
-* **Upload master source videos** - If your videos are not encoded, on the Global Navigation bar, select **[!UICONTROL Upload]** to upload master video source files (non-MP4). Adobe Dynamic Media Classic encodes them to MP4 files for you. In the **[!UICONTROL Upload Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, select **[!UICONTROL Adaptive Video]**.
+* **Upload pre-encoded videos** - If your videos were already encoded outside Adobe Dynamic Media Classic, on the Global Navigation bar, select **[!UICONTROL Upload]** to browse and upload MP4 video files directly to Adobe Dynamic Media Classic. Then, go to **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Browse to your video files. Drag-and-drop the video files that you want into the Adaptive Video Set table, and then save the set.
+* **Upload primary source videos** - If your videos are not encoded, on the Global Navigation bar, select **[!UICONTROL Upload]** to upload primary video source files (non-MP4). Adobe Dynamic Media Classic encodes them to MP4 files for you. In the **[!UICONTROL Upload Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, select **[!UICONTROL Adaptive Video]**.
 
   This preferred option lets you create an Adaptive Video Set that automatically applies the correct encoding preset to the video, whether it is 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three encode video settings in the correct aspect ratio.
 
   Or, in the same **[!UICONTROL Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, expand **[!UICONTROL Single Encoding Presets]**. Select individual video encoding presets that you want from **Desktop**, **Mobile (iPhone, iPad, Android™)**, and **Tablet (iPad, Android™)** so that you create the MP4 files.
 
-* Or, you can reprocess a master video using the **[!UICONTROL Reprocess]** feature. The newly encoded videos are added to the existing Adaptive Video Set.
+* Or, you can reprocess a primary video using the **[!UICONTROL Reprocess]** feature. The newly encoded videos are added to the existing Adaptive Video Set.
 
 See [Upload and encode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 

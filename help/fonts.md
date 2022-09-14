@@ -2,7 +2,7 @@
 title: Fonts
 description: Learn how to use fonts in Adobe Dynamic Media Classic.
 uuid: bddec9c2-8530-4bbd-8db7-1562a347e482
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files

@@ -2,7 +2,7 @@
 title: Upload files
 description: Learn how to upload files in Adobe Dynamic Media Classic.
 uuid: b3025f84-4f28-4276-bc9c-f0c0c2a26e12
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
@@ -72,14 +72,14 @@ To achieve optimal results with the Adobe Dynamic Media Classic program, be sure
 | Fonts | Uploaded TrueType, Type1 (Windows® Only), OpenType® fonts, and PhotoFonts. |
 | Images | Images and layered image files. |
 | Image Sets and Swatch Sets | A set of related images that can be displayed in a viewer. |
-| ICC profiles | A color profile you can use to convert an uploaded image from its source color space into a different color space.|
+| ICC profiles | A color profile that you can use to convert an uploaded image from its source color space into a different color space.|
 | Vignettes | Images authored with the Image Authoring program, and related files. |
 | Content files | Adobe InDesign, Illustrator, or Photoshop content files. |
 | FXG files | Resolution-independent graphic format files that you can use to create customizable templates for output to print, web, email, desktop, and devices. |
 | SVG files | Scalable vector graphic files that Image Serving servers can render. |
 | XML files | Files that define pre-processing rules that are used to modify the path and query portions of requests. |
 | Cascading Style Sheet files.| Upload CSS skins for customization of HTML5 viewers. |
-| JavaScript files | JavaScript files are used for viewer instrumentation to hold account information. Adobe Security recommends this asset type only for client accounts that have a separate domain in use for delivery (to avoid cross site scripting). |
+| JavaScript files | JavaScript files are used for viewer instrumentation to hold account information. Adobe Security recommends this asset type only for client accounts that have a separate domain in use for delivery (to avoid cross-site scripting). |
 
 >[!NOTE]
 >
@@ -95,7 +95,7 @@ The following file types can be published:
 * Audio files
 * CSS
 * JavaScript (when the company is configured with its own domain)
-* Master video
+* Primary video
 * PDF (when PDF is marked for publish after upload, to avoid delivery of all PDFs for existing eCatalog/PDF workflow)
 * PrX video
 * SVG
@@ -108,7 +108,7 @@ Adobe Dynamic Media Classic does not provide the option to generate a preview UR
 
 Because filename extensions are stripped from filenames during the upload process, the system does not allow files to have the same root name. In the Adobe Dynamic Media Classic system, the asset filename minus the filename extension becomes the asset ID for the asset. For this reason, no two assets can have the same name.
 
-Make sure that all users in your company understand these file naming rules:
+Make sure that all users in your company understand these rules for naming files:
 
 * Asset IDs with the same exact name are not allowed in the system. 
 * Asset ID names are case-sensitive. 
@@ -210,7 +210,7 @@ When uploading files, you can choose from the following options in the Upload Jo
       * **[!UICONTROL Now]** - Runs the upload job immediately after you select **[!UICONTROL Save]** in the Upload Job Options dialog box, then select **[!UICONTROL Submit Upload]** on the Upload page.
       * **[!UICONTROL Schedule For Later]** - Select the year, month, day, and time (in 15-minute increments) that you want the upload job to run.
     * **[!UICONTROL Recurring]** - Specify an upload job that runs daily, weekly, or monthly. Or, customize the upload job to your own specifications.
-      * **[!UICONTROL Daily]** - Set the time you want the job to run every day. If you want the job to run only Monday to Friday, select **[!UICONTROL Weekdays Only]**.
+      * **[!UICONTROL Daily]** - Set the time that you want the job to run every day. If you want the job to run only Monday to Friday, select **[!UICONTROL Weekdays Only]**.
       * **[!UICONTROL Weekly]** - Choose a specific day of the week and time that you want the job to run.
       * **[!UICONTROL Monthly]** - Choose a specific day of the month or day of the week, including the start time, that you want the job to run.
       * **[!UICONTROL Custom]** - Customize an upload  or publish job time interval to your own specifications. See [Create a custom upload or publish job time interval](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
@@ -273,7 +273,7 @@ See [Batch Set Presets](application-setup.md#batch_set_presets).
 
 When you upload items using FTP, you can schedule a subsequent job to begin when the upload is complete. If other jobs are scheduled to begin, the job you schedule here is queued after them.
 
-The new job sends a notification to the address you specify so that the code at that location can be triggered. This follow-on publishing job uses the same name as the upload job, but with the text *Pub_* added to the beginning.
+The new job sends a notification to the address that you specify so that the code at that location can be triggered. This follow-on publishing job uses the same name as the upload job, but with the text *Pub_* added to the beginning.
 
 **To follow an upload with another job:**
 

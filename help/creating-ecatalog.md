@@ -2,7 +2,7 @@
 title: Create an eCatalog
 description: Learn how to create an eCatalog in Adobe Dynamic Media Classic.
 uuid: 2aff05c2-7052-426c-b61d-7f9091f7ace8
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs

@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Integrate Adobe Dynamic Media Classic and Adobe Analytics"
 description: An introduction and Quick Start on how to integrate Adobe Dynamic Media Classic and Adobe Analytics to help you get up and running quickly.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit

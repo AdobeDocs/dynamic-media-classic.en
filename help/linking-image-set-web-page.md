@@ -2,7 +2,7 @@
 title: Link an Image Set to a web page
 description: Learn how to link an Image Set to a web page in Adobe Dynamic Media Classic.
 uuid: 8153a228-b2ec-4bc2-8996-266113a83df5
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets

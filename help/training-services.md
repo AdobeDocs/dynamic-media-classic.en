@@ -2,7 +2,7 @@
 title: Adobe Training Services
 description: Learn more about Adobe Training Services for Adobe Dynamic Media Classic.
 uuid: c405f60c-d0a8-4c88-8530-b093875500cd
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7

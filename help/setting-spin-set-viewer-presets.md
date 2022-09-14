@@ -2,7 +2,7 @@
 title: Set up Spin Set Viewer Presets
 description: Learn how to set up Spin Set Viewer Presets in Adobe Dynamic Media Classic.
 uuid: e095f989-f3df-46ea-be62-812922805dc0
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets

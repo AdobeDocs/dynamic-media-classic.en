@@ -2,7 +2,7 @@
 title: Create a template
 description: Learn how to create a template in Adobe Dynamic Media Classic.
 uuid: c762224b-7c6c-4434-bada-c26570079645
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
@@ -165,7 +165,7 @@ To format text in a text layer, do the following:
 ### Format paragraphs {#format-paragraphs}
 
 1. In the Layers list, double-click the name of the text box with text you want to edit. The Text Editor opens.
-1. Select the paragraph you want to format.
+1. Select the paragraph that you want to format.
 1. Specify any of the following formatting options, and then select **[!UICONTROL Apply]**.
 
    * **[!UICONTROL Alignment]** - Select to specify the type of alignment: align left, align center, align right, or justify.
@@ -180,9 +180,9 @@ To format text in a text layer, do the following:
 
    * **[!UICONTROL Indent First Line]** - Specify the amount by which you want to indent the first line of text.
 
-   * **[!UICONTROL Space Before Paragraph]** - Specify the amount of space you want to appear above the first line of text in the paragraph.
+   * **[!UICONTROL Space Before Paragraph]** - Specify the amount of space that you want to appear above the first line of text in the paragraph.
 
-   * **[!UICONTROL Space After Paragraph]** - Specify the amount of space you want to appear below the last line of text in the paragraph.
+   * **[!UICONTROL Space After Paragraph]** - Specify the amount of space that you want to appear below the last line of text in the paragraph.
 
    * **[!UICONTROL Vertical Align]** - Select where you want the text to appear vertically within the text box: Top, Middle, Bottom.
 

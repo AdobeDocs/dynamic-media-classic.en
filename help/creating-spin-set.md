@@ -2,7 +2,7 @@
 title: Create a Spin Set
 description: Learn how to create a Spin Set in Adobe Dynamic Media Classic.
 uuid: 697bd78f-5e39-46bf-aa6d-ad8ab99fe40e
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
@@ -21,13 +21,13 @@ To create an effective Spin Set, make sure that you shoot the images correctly. 
 
 ## Guidelines for shooting Spin Set images {#guidelines-for-shooting-spin-set-images}
 
-In general, the more images you have in a Spin Set, the better the image spinning effect is. However, including many images in the set also increases the amount of time it takes for the images to load. Adobe Dynamic Media Classic recommends these guidelines for shooting images for use in Spin Sets:
+In general, the more images you have in a Spin Set, the better the image-spinning effect is. However, including many images in the set also increases the amount of time it takes for the images to load. Adobe Dynamic Media Classic recommends these guidelines for shooting images for use in Spin Sets:
 
 * At minimum, use 8-12 images in a one-dimensional spin set and 16-24 images in a two-dimensional Spin Set.
 * Use a lossless format; TIFF and PNG are recommended.
 * Mask all images so the item appears on a pure white or other high-contrast background. Optionally, add shadows.
 * Make sure that product details are well lighted and in focus.
-* Take spin images for fashion clothing with a mannequin or model. Often the mannequin is either masked (using a glass mannequin) or a stylized mannequin/dressform is shown in the image. You can create an on-model spin set by defining the number of angles. Mark each angle with tape on the floor so you can guide the model to step and look in the direction of each shot.
+* Take spin images for fashion clothing with a mannequin or model. Often the mannequin is either masked (using a glass mannequin) or a stylized mannequin/dressform is shown in the image. You can create an on model spin set by defining the number of angles. Mark each angle with tape on the floor so you can guide the model to step and look in the direction of each shot.
 
 ## Create a Spin Set {#create}
 

@@ -2,7 +2,7 @@
 title: Create Image Maps
 description: Learn how to create image maps in Adobe Dynamic Media Classic.
 uuid: 0dcc4956-006e-4a74-9d6a-6d4bb23790ce
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files

@@ -73,8 +73,8 @@ index: y
   + [Organize your work with Projects](organizing-projects.md)
 + Image sizing {#image-sizing}
   + [Quick Start: Image Sizing](quick-start-image-sizing.md)
-  + [Upload master images](uploading-master-images.md)
-  + [Publish master images](publishing-master-images.md)
+  + [Upload primary images](uploading-master-images.md)
+  + [Publish primary images](publishing-master-images.md)
   + [Set up Image Presets](setting-image-presets.md)
   + [Link URLs to your web application](linking-urls-web-application.md)
 + Zoom {#zoom}
@@ -160,7 +160,7 @@ index: y
   + [Delete an uploaded asset](deleting-uploaded-asset.md)
   + [Get disk usage information](getting-disk-usage-information.md)
   + [Upload a raster image asset](uploading-image-asset-or-vector.md)
-+ Master files {#master-files}
++ Primary files {#master-files}
   + [Best practices for optimizing the quality of your images](best-practices-optimizing-quality-images.md)
   + [Edit images](editing-images.md)
   + [Create Image Maps](creating-image-maps.md)

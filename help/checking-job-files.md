@@ -2,7 +2,7 @@
 title: Check job files
 description: Learn how to check job files in Adobe Dynamic Media Classic.
 uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets

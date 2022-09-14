@@ -2,7 +2,7 @@
 title: Add chapter markers to video
 description: Learn how to add chapter markers to a video in Adobe Dynamic Media Classic.
 uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video

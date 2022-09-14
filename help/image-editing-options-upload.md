@@ -2,7 +2,7 @@
 title: Image fine-tuning options at upload
 description: Learn about the image fine-tuning options that are available at the time of upload in Adobe Dynamic Media Classic.
 uuid: 0912ae6f-41c9-41b5-94d1-e266face782e
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files

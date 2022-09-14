@@ -2,7 +2,7 @@
 title: Crop an image
 description: Learn how to crop an image in Adobe Dynamic Media Classic.
 uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files

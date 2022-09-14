@@ -1,7 +1,7 @@
 ---
 title: Publish files
 description: "Learn how to publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Adobe Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Adobe Dynamic Media Classic and add them to your website or application."
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
@@ -60,7 +60,7 @@ Adobe Dynamic Media Classic tracks publish jobs on the Jobs page. You can review
 
 >[!NOTE]
 >
->Assets you republish (you have published them before) do not appear immediately on your website because of the web caching mechanism on the content delivery network (CDN). See [Republished assets and CDN delays](publishing-files.md#republished_assets_and_cdn_delays).
+>Assets you republish (you have published them before) do not appear immediately on your website because of the web-caching mechanism on the content delivery network (CDN). See [Republished assets and CDN delays](publishing-files.md#republished_assets_and_cdn_delays).
 
 ### Create a one-time publish job {#creating-a-one-time-publish-job}
 
@@ -96,7 +96,7 @@ See [Use an upload or publish job as a trigger](checking-job-files.md#using_an_u
 
 ## Cancel a publish job {#canceling-a-publish-job}
 
-You can cancel an in-progress publish job. Moreover, if you are an administrator, you can cancel an in-progress publishing job from the company Jobs page.
+You can cancel a publish job that is in progress. Moreover, if you are an administrator, you can cancel an in-progress publishing job from the company Jobs page.
 
 To cancel a publishing job, go to the Jobs page and select **[!UICONTROL Cancel]**. On the Scheduled tab of the Jobs page, you can pause or resume a job by deselecting or selecting the check box in the job’s Active column.
 
@@ -138,7 +138,7 @@ Published assets are indicated in the user interface by a round, green icon with
 
 ## Get an asset’s publish history {#getting-an-asset-s-publish-history}
 
-The last date an asset was published is shown in Detail View at the top of the panel. You can get more details about the publishing history by opening the History & Published Servers panel in Detail View. From there, you can see when the asset was published and to which servers it was published.
+The last date that an asset was published is shown in Detail View at the top of the panel. You can get more details about the publishing history by opening the History & Published Servers panel in Detail View. From there, you can see when the asset was published and to which servers it was published.
 
 ## Republished assets and CDN delays {#republished-assets-and-cdn-delays}
 

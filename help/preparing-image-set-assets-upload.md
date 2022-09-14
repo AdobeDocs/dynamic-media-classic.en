@@ -2,7 +2,7 @@
 title: Prepare Image Set assets for upload
 description: Learn how to prepare Image Set assets for upload into Adobe Dynamic Media Classic.
 uuid: ea90643f-f52f-43cd-8a74-ebffc78ab717
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets

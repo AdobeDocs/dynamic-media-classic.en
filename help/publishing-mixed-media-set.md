@@ -2,7 +2,7 @@
 title: Publish a Mixed Media Set
 description: Learn how to publish a Mixed Media Set from Adobe Dynamic Media Classic.
 uuid: 4172347c-7bb3-468d-bda2-fd1c26ccab85
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets

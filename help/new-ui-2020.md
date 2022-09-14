@@ -31,7 +31,7 @@ See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-deskto
 <!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
 
 +++**_How does the new desktop app work?_**
-After you download, install, and launch the desktop app, you are presented with a refreshed sign-in experience. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the familiar web browser version you are used to. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
+After you download, install, and launch the desktop app, you are presented with a refreshed sign-in experience. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the familiar web browser version that you are used to. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
 
 >[!IMPORTANT]
 >
@@ -80,7 +80,7 @@ Following the release of Adobe Dynamic Media Classic desktop app on June 30, 202
 +++
 
 +++**_How do I get help for any issues that I have with Adobe Dynamic Media Classic desktop app?_**
-Contact Adobe Support with any issues you have while using the app.
+Contact Adobe Support with any issues that you have while using the app.
 +++
 
 +++**_I want to make sure I'm optimizing my rich media strategy. How can I learn even more about Adobe Dynamic Media Classic?_** 
@@ -94,7 +94,7 @@ Adobe Dynamic Media Classic is a powerful, feature-rich solution designed to enh
 <!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic), and the complementary audit program. -->
 
 +++**_I'm interested in learning more about upgrading to Adobe Dynamic Media with Adobe Experience Manager Assets. Where can I find more information?_**
-To learn more about the benefits of upgrading to the next generation of rich media authoring, publishing, and dynamic delivery, visit the [Adobe Dynamic Media upgrade portal](https://exploreadobe.com/dynamic-media-upgrade/).
+To learn more about the benefits of upgrading to the next generation of rich media authoring, publishing, and dynamic delivery, visit the [Adobe Dynamic Media portal for upgrading](https://exploreadobe.com/dynamic-media-upgrade/).
 +++
 
 >[!MORELIKETHIS]

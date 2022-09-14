@@ -2,7 +2,7 @@
 title: Work with PSD files
 description: Learn how to work with PSD files in Adobe Dynamic Media Classic.
 uuid: 5836b660-6bca-46e7-ab39-1a31d1e0cff2
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files

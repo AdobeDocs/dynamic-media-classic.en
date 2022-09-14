@@ -2,7 +2,7 @@
 title: Print assets
 description: Learn how to print assets from Adobe Dynamic Media Classic.
 uuid: 6cd5ba38-ec80-461f-b095-6cd4d7ea7814
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets

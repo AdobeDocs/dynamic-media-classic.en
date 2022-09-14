@@ -1,7 +1,7 @@
 ---
 title: Publish Setup
 description: Publish Setup settings let you determine how assets are delivered by default from Adobe Dynamic Media Classic servers to web sites or applications.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
@@ -42,10 +42,10 @@ Change these settings only with the assistance of an Adobe Dynamic Media Classic
 
 * **[!UICONTROL Localization Support]*** - These settings let you manage multiple locale attributes. It also lets you specify a locale map string so you can define which languages you want to support for the various tooltips in Viewers.
 
-    For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer’s preset by adding the translated text strings for the language you want.
+    For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer’s preset by adding the translated text strings for the language that you want.
 
     >[!NOTE]
-    > To set up Localization Support options, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request setup help.
+    > To set up Localization Support options, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In your support case, request setup help.
 
     For more information about setting up **[!UICONTROL Localization Support]**, see [Considerations when setting up localization of assets](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
@@ -53,9 +53,9 @@ Change these settings only with the assistance of an Adobe Dynamic Media Classic
 
 >[!NOTE]
 >
->If you want to set up Localization Support options in Adobe Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request setup help.
+>If you want to set up Localization Support options in Adobe Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In your support case, request setup help.
 
-A common way to use Adobe Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a few parts of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Adobe Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
+A common way to use Adobe Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a few parts of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single primary asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Adobe Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
 
 #### How assets are localized
 
@@ -192,7 +192,7 @@ For this example, suppose you want to support collections for Western and Middle
 
 ##### Find the localeMap by searching for specific IDs
 
-Some image naming conventions do not support generic image IDs. The generic IDs from the request must be mapped to a specific ID in the catalog. However, there are instances where the exact specific ID is not known.
+Some image-naming conventions do not support generic image IDs. The generic IDs from the request must be mapped to a specific ID in the catalog. However, there are instances where the exact specific ID is not known.
 
 Using the first example as a basis, images for all languages could have the suffixes `_1`, `_2`, or `_3`. Images that are specific to French locales could have the suffixes `_22` or `_23` suffix. And images that are specific to German locales could have the suffixes `_470` or `_480`.
 
@@ -212,7 +212,7 @@ Using the first example as a basis, images for all languages could have the suff
 
 ## Image Renderer {#image-renderer}
 
-The Image Renderer page establishes default settings for delivering Image Sets from image rendering servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings):
+The Image Renderer page establishes default settings for delivering Image Sets from image-rendering servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings):
 
 * **[!UICONTROL Catalog Management]** - These settings determine how Adobe Dynamic Media Classic and the catalog file interact. Adobe Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
 

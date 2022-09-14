@@ -2,7 +2,7 @@
 title: Work with vignette, window covering, and cabinet files
 description: Learn how to work with vignette, window covering, and cabinet files in Adobe Dynamic Media Classic.
 uuid: a738791c-4be0-4286-abbd-fae7a0e4bb73
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files

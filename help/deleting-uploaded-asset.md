@@ -2,7 +2,7 @@
 title: Delete an uploaded asset
 description: Learn how to delete an uploaded asset in Adobe Dynamic Media Classic.
 uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb

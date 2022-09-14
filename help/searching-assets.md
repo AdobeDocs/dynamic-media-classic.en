@@ -2,7 +2,7 @@
 title: Search Dynamic Media Classic assets
 description: Learn how to search assets in Adobe Dynamic Media Classic.
 uuid: 058209bc-bac4-4d5c-8261-e242a543beaf
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
@@ -77,7 +77,7 @@ Select the **[!UICONTROL Remove search field]** icon (circle with "X" inside) so
 
 In the lower right corner of the Advanced Search panel, select **[!UICONTROL Search]** to begin your search. The results of the search appear in the Browse Panel on the right. You can change any search condition and select **[!UICONTROL Search]** to run the search again.
 
-Select **[!UICONTROL Clear]** to clear search criteria and start a new search. Select **[!UICONTROL Close]** when you finish searching to close the Search panel.
+Select **[!UICONTROL Clear]** if you want to clear the search criteria and start a new search. Select **[!UICONTROL Close]** when you finish searching to close the Search panel.
 
 ## Filter assets using metadata {#filter-assets-using-metadata}
 
@@ -125,7 +125,7 @@ Follow these steps so you can locate assets by filtering with their metadata val
 1. Repeat Step 2 as many times as necessary to list all metadata fields for the filter operation on panels.
 1. In each panel, select a metadata value to filter on. You cannot select more than one metadata value in each panel.
 
-   Assets that match all the values you selected appear in the Browse panel.
+   Assets that match all the values that you selected appear in the Browse panel.
 
    >[!NOTE]
    >

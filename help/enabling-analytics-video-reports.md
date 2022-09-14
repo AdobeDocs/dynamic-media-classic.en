@@ -1,7 +1,7 @@
 ---
 title: Enable Adobe Analytics Video Reports
 description: Learn how to enable Adobe Analytics video reports in Adobe Dynamic Media Classic.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit

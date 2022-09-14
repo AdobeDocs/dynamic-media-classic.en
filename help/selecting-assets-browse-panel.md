@@ -2,7 +2,7 @@
 title: Select assets in the Browse panel
 description: Learn how to select assets in the Browse panel of Adobe Dynamic Media Classic.
 uuid: 0790e6d0-b898-42b1-977f-8316e6b19573
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets

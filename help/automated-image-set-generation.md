@@ -2,7 +2,7 @@
 title: Automated Image Set generation
 description: Learn how to automate the generation of image sets in Adobe Dynamic Media Classic. 
 uuid: bd4b3252-3e77-4230-9684-cd6d28b8eecb
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets

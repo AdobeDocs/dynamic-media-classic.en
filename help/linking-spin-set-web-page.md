@@ -2,7 +2,7 @@
 title: Link a Spin Set to a web page
 description: Learn how to link a Spin Set to a web page in Adobe Dynamic Media Classic.
 uuid: d3c5773e-60c4-4e8b-9c48-e1e3eb8028d0
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets

@@ -2,7 +2,7 @@
 title: Link URLs to your web application
 description: Learn how to link URLs to your web application from Adobe Dynamic Media Classic.
 uuid: 1179bdd3-9b39-47f9-945d-1c1ca186bf96
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing

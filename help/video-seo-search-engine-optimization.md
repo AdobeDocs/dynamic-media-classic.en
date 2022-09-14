@@ -2,7 +2,7 @@
 title: Video SEO (Search Engine Optimization)
 description: Learn how to configure video SEO settings in Adobe Dynamic Media Classic.
 uuid: bac2c6a9-8466-4b8f-b835-6cb0b4168513
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup

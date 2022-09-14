@@ -2,7 +2,7 @@
 title: "Quick Start: Spin Sets"
 description: An introduction and Quick Start to Spin Set to help you get up and running quickly in Adobe Dynamic Media Classic.
 uuid: d0af9db6-cb6f-48f0-89f6-f3ab2da0659f
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets

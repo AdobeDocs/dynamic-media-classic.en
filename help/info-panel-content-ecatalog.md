@@ -2,7 +2,7 @@
 title: Manage Info Panel content in eCatalogs
 description: Learn how to manage Info Panel content in eCatalogs in Adobe Dynamic Media Classic.
 uuid: 5aa634f9-0874-4bb5-a3d9-8ce4d5577941
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs

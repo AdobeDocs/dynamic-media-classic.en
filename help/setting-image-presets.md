@@ -2,7 +2,7 @@
 title: Set up Image Presets
 description: Learn how to set up Image Presets in Adobe Dynamic Media Classic.
 uuid: 90530948-dee9-41bd-b39e-684140446abc
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
@@ -57,7 +57,7 @@ You can create your own Image Presets if you are a company administrator. You ca
 
 1. Select **[!UICONTROL Save]**.
 
-The Adobe Dynamic Media Classic “best practice” options for creating Image Presets listed here are general recommendations; sharpening is highly subjective. These “best practice” settings were based on a 2000 x 2000 master image; settings for larger or smaller masters can be different. If you want to adjust the Unsharp Masking settings, Adobe Dynamic Media Classic recommends these ranges:
+The Adobe Dynamic Media Classic “best practice” options for creating Image Presets listed here are general recommendations; sharpening is highly subjective. These “best practice” settings were based on a 2000 x 2000 primary image; settings for larger or smaller primary files can be different. If you want to adjust the Unsharp Masking settings, Adobe Dynamic Media Classic recommends these ranges:
 
 * **[!UICONTROL Amount]** - Between .8 and 1.5.
 

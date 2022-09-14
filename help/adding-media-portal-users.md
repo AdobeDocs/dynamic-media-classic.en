@@ -2,7 +2,7 @@
 title: Add and manage Media Portal users
 description: Learn how to add and manage Media Portal users in Adobe Dynamic Media Classic.
 uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal

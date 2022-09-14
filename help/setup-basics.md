@@ -2,7 +2,7 @@
 title: Setup basics 
 description: Learn how to use the Setup screen to enter your personal settings in Adobe Dynamic Media Classic. If you are an administrator, set up your company settings.
 uuid: 38f487d7-33f2-4a9e-a32e-bb08f3dd3284
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started

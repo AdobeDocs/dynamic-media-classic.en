@@ -2,7 +2,7 @@
 title: "Quick Start: Template Basics"
 description: An introduction and Quick Start to Template Basics to help you get up and running quickly in Adobe Dynamic Media Classic.
 uuid: 16d78cbb-f762-4263-aea9-5712eb933693
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
