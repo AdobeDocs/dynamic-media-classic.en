@@ -17,9 +17,9 @@ SEO is the process of improving the volume of traffic to a Web site from search 
 
 Using Adobe Dynamic Media Classic Video SEO, you can apply video metadata to provide search engines with descriptions of your videos. Adobe Dynamic Media Classic gives you the ability to create Video Sitemaps and mRSS feeds. These standard XML files are used for submitting video information to search engines:
 
-* **Video Sitemap** - Informs Google exactly where and what the video content is on a site. So, videos are fully searchable on Google. For example, a Video Sitemap can specify the running time and categories of videos. For information about video Sitemaps, see [Video sitemaps and video sitemap alternatives](https://developers.google.com/search/docs/advanced/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
+* **Video Sitemap** - Informs Google exactly where and what the video content is on a site. So, videos are fully searchable on Google. For example, a Video Sitemap can specify the running time and categories of videos. For information about video Sitemaps, see [Video sitemaps and video sitemap alternatives](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
 
-* **mRSS (Media Really Simple Syndication) feed** - Used by content publishers to feed media files into Yahoo! Video Search. For information about mRSS feeds, see [Video sitemaps and video sitemap alternatives](https://developers.google.com/search/docs/advanced/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
+* **mRSS (Media Really Simple Syndication) feed** - Used by content publishers to feed media files into Yahoo! Video Search. For information about mRSS feeds, see [Video sitemaps and video sitemap alternatives](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
 
 >[!NOTE]
 >

@@ -41,7 +41,7 @@ Last Modified Date:
     * In the Upload screen, select **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
 
 1. On the Global Navigation bar, select **[!UICONTROL Publish]**.
-1. Set the scheduling options you want.
+1. Set the scheduling options that you want.
 1. (Optional) In the **[!UICONTROL Job Name]** field, type a name for the publish job.
 1. In **[!UICONTROL Advanced]** options, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Video Server]**.
 

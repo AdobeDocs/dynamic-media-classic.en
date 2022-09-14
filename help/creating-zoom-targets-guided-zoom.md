@@ -82,6 +82,6 @@ To edit zoom targets, use the following techniques on the Zoom Target Editor pag
 
 You can copy zoom targets from one image to another. Copy targets when two images present similar content and their zoom targets belong in the same locations. To copy zoom targets to another image, do the following:
 
-1. Open the image with zoom targets you want to copy in the Zoom Target Editor screen.
+1. Open the image with zoom targets that you want to copy in the Zoom Target Editor screen.
 1. Select **[!UICONTROL Copy Targets To]**.
 1. In the Select Images dialog box, select an image and pick **[!UICONTROL Select]**.

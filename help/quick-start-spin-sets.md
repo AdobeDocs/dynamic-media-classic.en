@@ -13,7 +13,7 @@ exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
 ---
 # Quick Start: Spin Sets{#quick-start-spin-sets}
 
-A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360° viewing experience. Adobe Dynamic Media Classic offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse-clicks. In this way, users can examine an item more closely from a particular viewpoint. 
+A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360° viewing experience. Adobe Dynamic Media Classic offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse clicks. In this way, users can examine an item more closely from a particular viewpoint. 
 
 ![Images for a spin set.](/help/assets/spin_set.png)
 

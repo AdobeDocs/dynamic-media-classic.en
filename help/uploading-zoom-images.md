@@ -13,7 +13,7 @@ exl-id: 44a82437-7592-484f-b45f-17ed1f6efbec
 ---
 # Upload Zoom images{#uploading-zoom-images}
 
-Zoom images must have a high pixel count. A high number of pixels are needed so that viewers can clearly see image details when they zoom images. Make sure that the images you use are the appropriate size before uploading them to Adobe Dynamic Media Classic.
+Zoom images must have a high pixel count. A high number of pixels are needed so that viewers can clearly see image details when they zoom images. Make sure that the images that you use are the appropriate size before uploading them to Adobe Dynamic Media Classic.
 
 On the Global Navigation bar, select **[!UICONTROL Upload]** to begin uploading images.
 

@@ -95,7 +95,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## Language
 
-* **[!UICONTROL Preferred Language]** - Determines the language you want to use for the interface.
+* **[!UICONTROL Preferred Language]** - Determines the language that you want to use for the interface.
 
 ## Password
 

@@ -48,7 +48,7 @@ Adobe Dynamic Media Viewers do not support the following web browser and operati
 * Safari 8 + iOS 8.4
 * Safari 8 + OS X 10.10 Yosemite
 
-## End of support for TLS 1.0 and 1.1 {#tls}
+## End of support for Transport Layer Security 1.0 and 1.1 {#tls}
 
 <!-- CQDOC-19433 -->
 

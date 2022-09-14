@@ -13,7 +13,7 @@ exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 ---
 # Check job files{#checking-job-files}
 
-To monitor file uploads to the Adobe Dynamic Media Classic and files you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
+To monitor file uploads to the Adobe Dynamic Media Classic and files that you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
 
 When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can select the icon to see more information about the active job.
 
@@ -29,7 +29,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 * **[!UICONTROL Job Type]** - An icon indicates the job type: Upload and Publish are the most common job types.
 
-* **[!UICONTROL Job Name]** - The name of the job. The name includes the user-entered portion of the name and the date-and-time.
+* **[!UICONTROL Job Name]** - The name of the job. The name includes the user-entered portion of the name and the date and time.
 
 * **[!UICONTROL Started]** - When the job started.
 
@@ -148,6 +148,6 @@ This list gives examples of describing time intervals in the Rule box:
 
 ## Use an upload or publish job as a trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
-When you upload assets via FTP or run a publish job, you can schedule a subsequent job to begin when the upload is complete. (If other jobs are scheduled to begin then, the job you schedule here is queued behind them.) The new job sends a notification to the address you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix _Pub.
+When you upload assets via FTP or run a publish job, you can schedule a subsequent job to begin when the upload is complete. (If other jobs are scheduled to begin then, the job you schedule here is queued behind them.) The new job sends a notification to the address that you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix _Pub.
 
 To make one upload or publish job trigger another job, select **[!UICONTROL Advanced]** on the Upload or Publish page. Then enter the URL in the HTTP Notification text field.

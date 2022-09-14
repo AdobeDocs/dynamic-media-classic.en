@@ -60,7 +60,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To edit a Swatch Set:**
 
-1. In the Grid View, browse to an SwatchSet, and then below the image, select **[!UICONTROL Edit]**.
+1. In the Grid View, browse to a SwatchSet, and then below the image, select **[!UICONTROL Edit]**.
 1. Do any of the following:
 
     * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Swatch Set’s **[!UICONTROL Views]** page.
