@@ -2,7 +2,7 @@
 title: Including zoom targets and Image Maps in Image Sets
 description: Learn how to include zoom targets and image maps in Image Sets in Adobe Dynamic Media Classic.
 uuid: 1f5a00fe-3cc2-4668-a051-59e0bee50b35
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets

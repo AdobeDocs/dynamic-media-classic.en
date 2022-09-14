@@ -2,7 +2,7 @@
 title: Adobe Dynamic Media Classic program overview
 description: An overview of the Adobe Dynamic Media Classic program and its entire workflow process.
 uuid: e7d3bfb3-1cfe-43ea-b862-aae3b3928c71
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
@@ -31,15 +31,15 @@ The key Adobe Dynamic Media Classic workflow steps are:
 
 ![The Adobe Dynamic Media Classic workflow process](/help/assets/gs_workflow.png)
 
-## Single master images and single URL calls {#single-master-images-and-single-url-calls}
+## Single primary images and single URL calls {#single-master-images-and-single-url-calls}
 
-Adobe Dynamic Media Classic is fundamentally different from other systems because you can use Adobe Dynamic Media Classic to deliver media dynamically from single master assets and URL calls.
+Adobe Dynamic Media Classic is fundamentally different from other systems because you can use Adobe Dynamic Media Classic to deliver media dynamically from single primary assets and URL calls.
 
-The URL strings you generate with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same master image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you visually configure the effects. In so doing, you create the URL calls that correctly tell the server how to present your master asset to applications.
+The URL strings that you generate with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same primary image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you visually configure the effects. In so doing, you create the URL calls that correctly tell the server how to present your primary asset to applications.
 
-![Adobe Dynamic Media Classic can deliver the same master image to different mediums in different sizes and formats.](/help/assets/gs_dynamic_publishing.png)
+![Adobe Dynamic Media Classic can deliver the same primary image to different mediums in different sizes and formats.](/help/assets/gs_dynamic_publishing.png)
 *Adobe Dynamic Media Classic ensures that consistent, quality experiences are delivered to any screen, regardless of size or bandwidth.*
 
 ## Content caching {#content-caching}
 
-The images that Adobe Dynamic Media Classic generates dynamically are cache-friendly; usually, they are JPEG images with unique URL calls that identify them. The images are delivered on the content delivery network (CDN), a system of servers that are networked together on the Internet to deliver content faster. The images are distributed from servers located globally, and then to computers. When implementing a caching mechanism using any CDN vendor, you simply change the server name to point to the CDN-enabled Dynamic Media Image Server. All Adobe Dynamic Media Classic editions include bundled CDN caching.
+The images that Adobe Dynamic Media Classic generates dynamically are cache-favorable; usually, they are JPEG images with unique URL calls that identify them. The images are delivered on the content delivery network (CDN), a system of servers that are networked together on the Internet to deliver content faster. The images are distributed from servers located globally, and then to computers. When implementing a caching mechanism using any CDN vendor, you simply change the server name to point to the CDN-enabled Dynamic Media Image Server. All Adobe Dynamic Media Classic editions include bundled CDN caching.

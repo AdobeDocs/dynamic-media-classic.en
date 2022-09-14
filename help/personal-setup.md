@@ -2,7 +2,7 @@
 title: Personal Setup
 description: All users can change settings on the Personal Setup screen of Adobe Dynamic Media Classic.
 uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
@@ -95,7 +95,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## Language
 
-* **[!UICONTROL Preferred Language]** - Determines the language you want to use for the interface.
+* **[!UICONTROL Preferred Language]** - Determines the language that you want to use for the interface.
 
 ## Password
 

@@ -2,7 +2,7 @@
 title: Push offer sets to Adobe Target Standard/Premium
 description: Learn how to push offer sets to Adobe Target Standard/Premium from Adobe Dynamic Media Classic.
 uuid: 8c895a7c-21b4-4d85-8b0b-a3d2a420bf2e
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration

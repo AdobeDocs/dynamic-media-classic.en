@@ -2,7 +2,7 @@
 title: Manage FTP accounts
 description: Learn how to manage FTP accounts in Adobe Dynamic Media Classic.
 uuid: c9410f44-14bf-4f55-a199-f0f0de459219
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal

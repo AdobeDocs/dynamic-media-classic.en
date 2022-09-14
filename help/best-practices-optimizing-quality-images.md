@@ -1,7 +1,7 @@
 ---
 title: Best practices for optimizing the quality of your images
 description: Learn best practices for optimizing the quality of your images.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
@@ -13,7 +13,7 @@ exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
 
 Optimizing image quality can be a time consuming process as many factors contribute to rendering acceptable results. The outcome is partly subjective because individuals perceive image quality differently. Structured experimentation is key.
 
-Adobe Dynamic Media Classic includes more than 100 image serving commands for tuning and optimizing images and rendering results. The following guidelines can help you streamline the process and achieve good results quickly using some essential commands and best practices.
+Adobe Dynamic Media Classic includes more than 100 image-serving commands for tuning and optimizing images and rendering results. The following guidelines can help you streamline the process and achieve good results quickly using some essential commands and best practices.
 
 See also [Smart imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
 
@@ -47,10 +47,10 @@ Best practices white paper [Sharpen images in Adobe Dynamic Media Classic and on
 
 With Adobe Dynamic Media Classic, you can sharpen images on ingestion, on delivery, or both. Usually, however, you sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
 
-There are two image sharpening methods that you can use:
+There are two image-sharpening methods that you can use:
 
 * Simple sharpening ( `&op_sharpen`) - Similar to the sharpen filter used in Photoshop, simple sharpening applies basic sharpening to the final view of the image following dynamic resizing. However, this method is not user-configurable. The best practice is to not use `&op_sharpen` unless required.
-* Unsharp masking ( `&op_USM`) - Unsharp masking is an industry standard sharpening filter. The best practice is to sharpen images with unsharp masking following the guidelines below. Unsharp masking lets you control the following three parameters:
+* Unsharp masking ( `&op_USM`) - Unsharp masking is an industry standard filter for sharpening. The best practice is to sharpen images with unsharp masking following the guidelines below. Unsharp masking lets you control the following three parameters:
 
   * `&op_sharpen=amount,radius,threshold`
 

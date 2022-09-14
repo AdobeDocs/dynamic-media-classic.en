@@ -2,7 +2,7 @@
 title: Preview image assets with different Zoom viewers
 description: Learn how to preview image assets with different Zoom viewers in Adobe Dynamic Media Classic.
 uuid: 244c0faa-2a33-416f-8987-bdc0c85f5c2e
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom

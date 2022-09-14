@@ -2,7 +2,7 @@
 title: Publish a Mixed Media Set
 description: Learn how to publish a Mixed Media Set from Adobe Dynamic Media Classic.
 uuid: 4172347c-7bb3-468d-bda2-fd1c26ccab85
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
@@ -41,7 +41,7 @@ Last Modified Date:
     * In the Upload screen, select **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
 
 1. On the Global Navigation bar, select **[!UICONTROL Publish]**.
-1. Set the scheduling options you want.
+1. Set the scheduling options that you want.
 1. (Optional) In the **[!UICONTROL Job Name]** field, type a name for the publish job.
 1. In **[!UICONTROL Advanced]** options, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Video Server]**.
 

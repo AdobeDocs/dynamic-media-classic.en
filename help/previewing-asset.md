@@ -2,7 +2,7 @@
 title: Preview an asset
 description: Learn how to preview an asset in Adobe Dynamic Media Classic.
 uuid: 4a01be21-e37f-4d79-9220-f4e177e9179a
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets

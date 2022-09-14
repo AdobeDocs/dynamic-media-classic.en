@@ -2,7 +2,7 @@
 title: "Quick Start: Adobe Target Standard/Premium integration"
 description: An introduction and Quick Start to Adobe Target Standard/Premium to help you get up and running quickly with Adobe Target Standard/Premium integration techniques in Adobe Dynamic Media Classic.
 uuid: d8f79fbf-8be1-44fa-8058-3508060fcd70
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
@@ -23,7 +23,7 @@ For greater customization of dynamic Adobe Dynamic Media Classic content, use Ad
 >
 >A valid Adobe Target Standard/Premium account is required to use Adobe Target Standard/Premium with Adobe Dynamic Media Classic.
 
-This Quick Start is designed to get you up and running quickly with Adobe Target Standard/Premium HTML offer sets. Follow steps 1 through 3. After each step is a cross-reference to a topic heading where you can find more information.
+This Quick Start is designed to get you up and running quickly with Adobe Target Standard/Premium HTML offer sets. Follow steps 1 through 3. After each step, there is a cross-reference to a topic heading where you can find more information.
 
 ## 1. Enter your Adobe Target Standard/Premium URL in the Application General Settings page
 

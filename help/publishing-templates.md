@@ -2,7 +2,7 @@
 title: Publish templates
 description: Learn how to publish templates from Adobe Dynamic Media Classic.
 uuid: 9b8e5b94-6958-4725-bcbc-5e6a9c4d1b02
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics

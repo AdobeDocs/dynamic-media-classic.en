@@ -2,7 +2,7 @@
 title: Work in Detail View
 description: Learn how to work in Detail View in Adobe Dynamic Media Classic.
 uuid: cb62f765-9b7f-4a53-8206-99afae2fb80d
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
@@ -13,7 +13,7 @@ exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
 ---
 # Work in Detail View{#working-in-detail-view}
 
-You can work with and learn about an asset by opening it in Detail View. In Detail View, you see the asset size, attributes, derivatives, and metadata. You also see whether and when the asset was published and obtain the URL of published assets. Depending on the asset type, you can preview it at different sizes, zoom in on it, and perform sharpening, cropping, and other formatting operations.
+You can work with and learn about an asset by opening it in Detail View. In Detail View, you see the asset size, attributes, derivatives, and metadata. You also see whether and when the asset was published and you can obtain the URL of published assets. Depending on the asset type, you can preview it at different sizes, zoom in on it, and perform sharpening, cropping, and other formatting operations.
 
 <!-- 
 
@@ -54,7 +54,7 @@ You can obtain an asset URL in Detail View; however, the URL is not active until
 
 ## Work with assets in Detail View {#working-with-assets-in-detail-view}
 
-Detail View offers tools for working with the asset you opened. Which tools are available depends on the type of asset you are working with, but Detail View always offers these functions:
+Detail View offers tools for working with the asset that you opened. Which tools are available depends on the type of asset you are working with, but Detail View always offers these functions:
 
 * **items for publish** - Select the **[!UICONTROL Publish]** icon to the left of the name, or go to **[!UICONTROL File]** > **[!UICONTROL Publish]** or **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
@@ -73,7 +73,7 @@ This table shows which other options are available with different types of asset
 | Asset type | Edit/adjust | Preview |
 | --- | --- | --- |
 | Images | Add Image Maps<br>Add zoom targets<br>Crop<br>Sharpen<br>Create adjusted views | Yes; Zoom and Image Presets |
-| Cabinet and window covering images | No | Thumbnail |
+| Cabinet and window-covering images | No | Thumbnail |
 | eCatalogs | Edit | Yes<br>Info Panel is also available |
 | Fonts | Edit font information | No |
 | FXG files | Edit | Yes |

@@ -2,7 +2,7 @@
 title: Sharpen an image
 description: Learn how to sharpen an image in Adobe Dynamic Media Classic.
 uuid: d86af74a-89c5-4f2b-96ba-f2e7da600bca
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
@@ -31,7 +31,7 @@ Image sharpening increases the contrast of pixels to create the effect of accent
 
 Over sharpening an image creates a halo effect, or banding of the edge’s lines.
 
-There are best practices you can follow to optimize the sharpening of your images in Adobe Dynamic Media Classic and on Dynamic Media Image Server.
+There are best practices that you can follow to optimize the sharpening of your images in Adobe Dynamic Media Classic and on Dynamic Media Image Server.
 
 See [Best practices for sharpening images in Adobe Dynamic Media Classic and on Dynamic Media Image Server](/help/assets/s7_sharpening_images.pdf).
 
@@ -71,7 +71,7 @@ Choose these options so you can fine-tune sharpening with Unsharp Mask:
 
 The best radius value depends on the size of the image. A low value sharpens only the edge pixels. A high value sharpens a wider band of pixels.
 
-For example, to get a similar sharpening effect for a 2000 x 2000 pixel image and 500x 500 pixel image, you could set a radius value of two pixels on the 2000 x 2000 pixel image. Then, set a radius value of one pixel on the 500 x 500 pixel image (a larger value for an image with more pixels).
+For example, to get a similar sharpening effect for a 2000 x 2000 pixel image and 500 x 500 pixel image, you could set a radius value of two pixels on the 2000 x 2000 pixel image. Then, set a radius value of one pixel on the 500 x 500 pixel image (a larger value for an image with more pixels).
 
 * **Threshold** - Determines the range of contrast to ignore when the unsharp mask filter is applied. This option determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and are sharpened.
 
@@ -140,6 +140,6 @@ The preset here sharpens and changes the default skin of the viewer.
 
 **Create image-specific overrides**
 
-The last, and least recommended, sharpening method is to create sharpening overrides on an image-by-image basis. This method overrides the sharpening in an Image Preset with its own specific values. However, this method also overrides all other sharpening methods at any size. The best use case for this method is if some of your images are not high resolution, and the values in the Image Presets are too high for these small images. In this case, some per-image sharpening is possibly needed.
+The last, and least recommended, sharpening method is to create sharpening overrides on an image-by-image basis. This method overrides the sharpening in an Image Preset with its own specific values. However, this method also overrides all other sharpening methods at any size. The best use case for this method is if some of your images are not high resolution, and the values in the Image Presets are too high for these small images. In this case, some per image sharpening is possibly needed.
 
 In Adobe Dynamic Media Classic, select any image, go to the Detail View (by double-clicking or pressing **[!UICONTROL Detail View]** button), and select **[!UICONTROL Sharpen]**. Change any parameter, then select **[!UICONTROL Save]**. This process tells the Image Server to use these sharpening parameters rather than any command you call in the URL, such as a sharpening modifier or Image Preset. Be sure you publish to see that the changes take effect.

@@ -2,7 +2,7 @@
 title: Developer resources
 description: Learn about what developer resources are available for Dynamic Media.
 uuid: 97702f33-fb9c-4ba7-9c42-757dec7e6645
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1

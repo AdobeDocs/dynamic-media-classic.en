@@ -1,7 +1,7 @@
 ---
 title: What's new
 description: Learn about what is new Adobe Dynamic Media Classic by way of the current release notes.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7

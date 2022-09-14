@@ -2,7 +2,7 @@
 title: Media Portal
 description: Learn about Media Portal in Adobe Dynamic Media Classic.
 uuid: df34c360-c91a-48d4-886b-2f9178d220fb
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started

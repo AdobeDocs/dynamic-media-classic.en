@@ -2,7 +2,7 @@
 title: Media Portal user roles
 description: Learn about the various user roles that are available in Media Portal in Adobe Dynamic Media Classic.
 uuid: 1bf2cc85-3655-428f-81ab-5fdaa1e9401b
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
@@ -21,7 +21,7 @@ Media Portal provides the following roles, each with different access rights and
 
 * **[!UICONTROL Media Portal Contributor]** - Can upload, preview, and browse files and metadata in areas to which an administrator has granted permissions. A contributor cannot download files. Contributors can edit metadata, change the names of files, move files to different folders, and delete files.
 
-* **[!UICONTROL Media Portal Contributor-User]** - Has access to folders and files. A contributor-user can browse, preview, download, and upload images and metadata. Contributor-users can change the names of files, move files to different folders, and delete files.
+* **[!UICONTROL Media Portal Contributor-User]** - Has access to folders and files. A contributor user can browse, preview, download, and upload images and metadata. Contributor users can change the names of files, move files to different folders, and delete files.
 
 This table describes the tasks that users with different roles can do. Administrators and contributor-users can do all the tasks listed in this table:
 

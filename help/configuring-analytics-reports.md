@@ -2,7 +2,7 @@
 title: Configure Adobe Analytics reports
 description: Learn how to configure Adobe Analytics reports in Adobe Dynamic Media Classic.
 uuid: bf210f68-dcb0-4e86-be04-0a8b2117ef2a
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
@@ -13,7 +13,7 @@ exl-id: d9fda3b8-7da8-4a30-a5f8-9bb34ec1b43d
 ---
 # Configure Adobe Analytics reports{#configuring-adobe-analytics-reports}
 
-To tell Adobe Analytics what information you want in Adobe Analytics reports, go to the Adobe Analytics Configuration screen. After you configure reports, this screen lists, for each viewer event you want information about, a corresponding Adobe Analytics variable and Adobe Dynamic Media Classic variable. These viewer events-Adobe Analytics variable-Adobe Dynamic Media Classic variable combinations determine what information is reported.
+To tell Adobe Analytics what information that you want in Adobe Analytics reports, go to the Adobe Analytics Configuration screen. After you configure reports, this screen lists, for each viewer event you want information about, a corresponding Adobe Analytics variable and Adobe Dynamic Media Classic variable. These viewer events-Adobe Analytics variable-Adobe Dynamic Media Classic variable combinations determine what information is reported.
 
 Besides associating viewer events with variables, the Adobe Analytics Configuration screen offers tools for activating, editing, and deleting viewer events.
 
@@ -55,7 +55,7 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
 
 Viewer events describe actions that users perform with Adobe Dynamic Media Classic viewers. When a user initiates a certain action, such as selecting a thumbnail or starting or stopping a video, the viewer “broadcasts” an event to the web page, along with data associated with that event.
 
-The following table describes viewer events you can add to the Adobe Analytics Configuration screen.
+The following table describes viewer events that you can add to the Adobe Analytics Configuration screen.
 
 |Viewer event|HTML5 Viewer Platform support and viewers|Description|
 | --- | --- | --- |
@@ -77,7 +77,7 @@ The following table describes viewer events you can add to the Adobe Analytics C
 
 ### Adobe Dynamic Media Classic variables {#scene-variables}
 
-For each viewer event on Adobe Analytics Configuration screen, choose an Adobe Analytics variable and an *Adobe Dynamic Media Classic variable*. Adobe Dynamic Media Classic variables represent data you can obtain for a report. For example, the `searchTerm` variable lists keywords used in eCatalog searches.
+For each viewer event on Adobe Analytics Configuration screen, choose an Adobe Analytics variable and an *Adobe Dynamic Media Classic variable*. Adobe Dynamic Media Classic variables represent data that you can obtain for a report. For example, the `searchTerm` variable lists keywords used in eCatalog searches.
 
 The following table describes Adobe Dynamic Media Classic variables:
 

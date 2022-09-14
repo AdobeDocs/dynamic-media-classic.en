@@ -2,7 +2,7 @@
 title: Create eCatalog Image Maps
 description: Learn how to create eCatalog image maps in Adobe Dynamic Media Classic.
 uuid: 943ad3f7-a885-4bc2-88cb-77083384bdf8
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
@@ -125,7 +125,7 @@ Starting on the Map Summary screen, follow these steps to import Image Map data 
 
 ## Copy Image Maps between eCatalogs {#copying-image-maps-between-ecatalogs}
 
-You can copy all the Image Maps in an eCatalog to a different eCatalog. Copying Image Maps this way is a convenient method of copying Image Maps between foreign-language translations of the same eCatalog. For the copying to be successful, Adobe Adobe Dynamic Media Classic recommends copying between eCatalogs with the same number of pages and same images.
+You can copy all the Image Maps in an eCatalog to a different eCatalog. Copying Image Maps this way is a convenient method of copying Image Maps between foreign-language translations of the same eCatalog. For the copying to be successful, Adobe Dynamic Media Classic recommends copying between eCatalogs with the same number of pages and same images.
 
 >[!NOTE]
 >

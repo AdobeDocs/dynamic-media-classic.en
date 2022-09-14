@@ -2,7 +2,7 @@
 title: Export assets from Adobe Dynamic Media Classic
 description: Learn how to export assets from Adobe Dynamic Media Classic.
 uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
@@ -21,7 +21,7 @@ Adobe Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 
 **To export assets from Adobe Dynamic Media Classic:**
 
-1. Select the assets you want to export, and then go to **[!UICONTROL File]** > **[!UICONTROL Export]**. 
+1. Select the assets that you want to export, and then go to **[!UICONTROL File]** > **[!UICONTROL Export]**. 
 1. In the Export Selected Assets window, click **[!UICONTROL Image Options]**, and then specify any of the following options (administrators determine which options are available to their users):
 
    * **[!UICONTROL Presets]** - Optionally, choose an Image Preset to format the asset when you export it. If you choose an Image Preset, the other formatting options are not available, as the asset adopts the formats defined by the Image Preset.
@@ -56,7 +56,7 @@ The following asset types cannot be exported. All others generate an export.
 * Render Sets
 * Spin Sets
 * Media Sets
-* Multi-bitrate Sets
+* Multibitrate Sets
 * eCatalogs
 
 In addition, templates cannot be exported as an “original file.”

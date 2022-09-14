@@ -2,7 +2,7 @@
 title: View Image Sets
 description: Learn how to view Image Sets in Adobe Dynamic Media Classic.
 uuid: bb5b0fee-abc0-4236-ac43-09edb9bb3651
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets

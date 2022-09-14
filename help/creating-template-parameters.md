@@ -2,7 +2,7 @@
 title: Create template parameters
 description: Learn how to create template parameters in Adobe Dynamic Media Classic.
 uuid: d17168a8-4776-4761-b022-8258d5997604
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
@@ -28,14 +28,14 @@ See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.h
 For each layer in your template, follow these steps to create template parameters:
 
 1. In the Layers list, select the Parameters button next to the name of the layer you want to create parameters for. The Parameters screen opens. It lists the names of each parameter on the layer, its value, and its type.
-1. Select the On option beside the name of each parameter you want to include in the template image.
+1. Select the On option beside the name of each parameter that you want to include in the template image.
 1. Select **[!UICONTROL Close]** to exit the Parameters screen.
 
 >[!NOTE]
 >
 >You can rename parameters in the Parameters screen. Renaming a parameter makes the parameter easier to identify in URL strings and easier to use as a database value. To rename a parameter, select its **[!UICONTROL On]** option, select its name, and enter a new name in the Name field.
 
-To see a list of the parameters you have created for your template, select the Parameter Summary button on the Template screen. The Parameter Summary screen opens. It lists the name of each layer, and if you have created parameters for a layer, the parameter names and values.
+To see a list of the parameters that you have created for your template, select the Parameter Summary button on the Template screen. The Parameter Summary screen opens. It lists the name of each layer, and if you have created parameters for a layer, the parameter names and values.
 
 ## Create dynamic text parameters {#creating-dynamic-text-parameters}
 

@@ -2,7 +2,7 @@
 title: ICC (International Color Consortium) profiles
 description: Learn about ICC profiles in Adobe Dynamic Media Classic.
 uuid: 708ff2ad-9a47-4e3e-b643-5b19648f726b
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files

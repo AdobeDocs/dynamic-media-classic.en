@@ -2,7 +2,7 @@
 title: Get disk usage information
 description: Learn how to get disk usage information in Adobe Dynamic Media Classic.
 uuid: 01361693-53d0-4072-b7c3-f284631d28cf
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 6763546d-83c4-42dc-879f-6bbfc8b56482

@@ -2,7 +2,7 @@
 title: Include zoom targets and Image Maps in Swatch Sets
 description: Learn how to include zoom targets and image maps in Swatch Sets in Adobe Dynamic Media Classic.
 uuid: e46ebebd-b086-450c-9812-22290a92db8c
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets

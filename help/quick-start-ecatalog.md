@@ -2,7 +2,7 @@
 title: "Quick Start: eCatalogs"
 description: An introduction and Quick Start to eCatalogs to help you get up and running quickly with eCatalog techniques in Adobe Dynamic Media Classic.
 uuid: 1ec41927-3df6-4845-8d9d-bb92cf6dca08
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
@@ -50,7 +50,7 @@ As part of creating your eCatalog, you can arrange pages or page spreads in the 
 >
 >You are now able to author eCatalogs in Adobe Dynamic Media Classic.
 
-This eCatalog Quick Start is designed to help you get up and running quickly with eCatalogs. Follow steps 1 through 7. After each step is a cross-reference to a topic heading where you can find more information.
+This eCatalog Quick Start is designed to help you get up and running quickly with eCatalogs. Follow steps 1 through 7. After each step, there is a cross-reference to a topic heading where you can find more information.
 
 ## 1. Upload the PDF files
 

@@ -2,7 +2,7 @@
 title: Link a template to a web page
 description: Learn how to link a template to a web page in Adobe Dynamic Media Classic.
 uuid: f111ef06-4afc-454c-86ce-5d640236d40b
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics

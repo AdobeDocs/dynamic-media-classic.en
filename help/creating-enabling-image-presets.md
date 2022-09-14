@@ -2,7 +2,7 @@
 title: Create and enable Image Presets
 description: Learn how to create and enable image presets in Adobe Dynamic Media Classic.
 uuid: 62cfc6fa-da91-4c42-a3ed-10956384d633
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
@@ -25,7 +25,7 @@ The following restrictions apply when you export image assets:
 
 >[!NOTE]
 >
->These restrictions apply only to the exporting of derived image assets, not the exporting of master files.
+>These restrictions apply only to the exporting of derived image assets, not the exporting of primary files.
 
 To create Image Presets, see [Image Presets](application-setup.md#image_presets).
 

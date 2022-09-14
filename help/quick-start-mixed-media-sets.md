@@ -2,7 +2,7 @@
 title: "Quick Start: Mixed Media Set"
 description: An introduction and Quick Start to Mixed Media Sets to help you get up and running quickly in Adobe Dynamic Media Classic.
 uuid: 0ef033d5-b053-4d7c-b1e1-1980f899fd88
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets

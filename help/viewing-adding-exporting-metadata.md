@@ -2,7 +2,7 @@
 title: View, add, and export metadata
 description: Learn how to view, add, and export metadata in Adobe Dynamic Media Classic.
 uuid: a5254c51-9e04-45ae-8236-3eab2925e5fc
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
@@ -95,7 +95,7 @@ Keep the following in mind when identifying different metadata types to import:
 * XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]** editor. The technical names can be found in documentation of related XMP schema. XMP properties names do not appear in the Generate file feature.
 * Metadata Schema properties must have the related prefix before the (property-) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema editor. Metadata Schema properties names do not appear in the Generate file feature.
 
-For example: The XMP property for keywords is the XMP schema "Dublin Core" with the prefix `dc` and `subject` is the technical XMP name. The prefix and technical XMP name are combined into the `dc:subject` full property name. In the XML metadata import format, `dc.subject` must be the property name. In the tab-delimited import format, it must be the column-header.
+For example: The XMP property for keywords is the XMP schema "Dublin Core" with the prefix `dc` and `subject` is the technical XMP name. The prefix and technical XMP name are combined into the `dc:subject` full property name. In the XML metadata import format, `dc.subject` must be the property name. In the tab-delimited import format, it must be the column header.
 
 ### Import Keywords
 
@@ -146,7 +146,7 @@ The job log for the Metadata job shows which IDs were successfully renamed and w
 
 Adobe Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Adobe Dynamic Media Classic. To create a template for use in recording and importing metadata to Adobe Dynamic Media Classic, follow these steps:
 
-1. Select image assets with metadata fields you want for your template.
+1. Select image assets with metadata fields that you want for your template.
 1. Go to **[!UICONTROL File]** > **[!UICONTROL Import Metadata]**.
 1. For the **[!UICONTROL Asset Properties Type]**, select **[!UICONTROL Image]**.
 1. From the **[!UICONTROL Generate File]** drop-down list, choose **[!UICONTROL Tab-delimited Template]**, **[!UICONTROL Asset's XML Metadata]**, or **[!UICONTROL XML DTD]**.

@@ -2,7 +2,7 @@
 title: Rich media
 description: Learn about the variety of tools in Adobe Dynamic Media Classic that can help you create rich media.
 uuid: b64981a3-c3c2-4010-9b65-f9982ea0a664
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
@@ -21,7 +21,7 @@ Adobe Dynamic Media Classic offers many tools for creating rich media. You creat
 * **eVideo** - Delivery high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Adobe Dynamic Media Classic encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets.
     See [Quick Start: Video in Adobe Dynamic Media Classic](/help/quick-start-video.md).
 
-* **Image Maps** - Dynamically serve images at any size and format throughout your web site. Instead of manually creating many images at different sizes, you only use one master image. As Adobe Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening.
+* **Image Maps** - Dynamically serve images at any size and format throughout your web site. Instead of manually creating many images at different sizes, you only use one primary image. As Adobe Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening.
     See [Quick Start: Image Sizing](/help/quick-start-image-sizing.md).
 
 * **Image Sets** - Deliver an interactive shopping experience in which users can view products in multiple views. You can combine zoom, multiple views, and color swatches for an integrated viewing experience.

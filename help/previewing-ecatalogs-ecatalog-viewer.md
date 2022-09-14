@@ -2,7 +2,7 @@
 title: Preview eCatalogs in the eCatalog Viewer
 description: Learn how to preview eCatalogs in the eCatalog Viewer in Adobe Dynamic Media Classic.
 uuid: fdaf2129-e558-4f27-b30f-564126b6b3f2
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs

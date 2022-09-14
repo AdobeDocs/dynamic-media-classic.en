@@ -2,7 +2,7 @@
 title: Link an eCatalog to a web page
 description: Learn how to link an eCatalog to a web page in Adobe Dynamic Media Classic.
 uuid: 90098a90-180b-477a-8533-24a52a93200b
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs

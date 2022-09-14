@@ -2,7 +2,7 @@
 title: Publish a Spin Set
 description: Learn how to publish a Spin Set from Adobe Dynamic Media Classic.
 uuid: 3b21ee5c-e494-48d0-8ccf-cb7670d11f5b
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets

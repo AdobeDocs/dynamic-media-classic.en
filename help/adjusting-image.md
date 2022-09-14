@@ -2,7 +2,7 @@
 title: Adjust an image
 description: Learn how to adjust an image in Adobe Dynamic Media Classic.
 uuid: c052acd3-e8c1-4134-ad21-b9c41578097f
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
@@ -40,18 +40,18 @@ See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for
     * To save the image as a new master image, select **[!UICONTROL Save As]**.
 
       In the drop-down list, select **[!UICONTROL Save as new master]**.
-      In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new master image saved.
+      In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new primary image saved.
       Select **[!UICONTROL Save]**.
 
-    * To save the image as another view of the master image. you can create an alias for it. Select **[!UICONTROL Save As]**.
+    * To save the image as another view of the primary image. you can create an alias for it. Select **[!UICONTROL Save As]**.
 
       In the **[!UICONTROL Save As]** dialog box, in the drop-down list, select **[!UICONTROL Save as another view of master]**.
-      In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new master image saved.
+      In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new primary image saved.
       Select **[!UICONTROL Save]**.
 
 ## Create an alias for an image {#creating-an-alias-for-an-image}
 
-When you have adjusted an image, you can save it as another view of the master image. To do so, you can create an alias for the image by using the **[!UICONTROL Save as additional view of master]** feature.
+When you have adjusted an image, you can save it as another view of the primary image. To do so, you can create an alias for the image by using the **[!UICONTROL Save as additional view of master]** feature.
 
 **To create an alias for an image:**
 

@@ -2,7 +2,7 @@
 title: Move, rename, and delete assets
 description: Learn about how to move, rename, and delete assets in Adobe Dynamic Media Classic.
 uuid: deff6521-0ad0-4db9-b4e0-e3211ff97740
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
@@ -21,7 +21,7 @@ You can move assets to different folders in the Browse Panel.
 
 1. Select the asset or assets in the Browse Panel, and do one of the following:
 
-    * Display the folder you want to move the assets to in the Asset Library and drag the assets to the folder.
+    * Display the folder that you want to move the assets to in the Asset Library and drag the assets to the folder.
     * Go to **[!UICONTROL File]** > **[!UICONTROL Move]**, select a folder in the Move Assets window, and select **[!UICONTROL Move]**.
 
 ## Rename assets {#rename-assets}
@@ -66,7 +66,7 @@ After you create the list, follow these steps to use it to delete assets:
 1. In the Delete Asset list dialog box, browse, or type the path to the text file with the list of assets you want to delete.
 1. Select **[!UICONTROL Delete]**.
 
-When you delete assets with a text file, if any Adobe Dynamic Media Classic ID is not on the list, the message “Unable to validate these entries in your list:” is displayed and the list of entries. However, Adobe Dynamic Media Classic does not generate an error on the Job page.
+When you delete assets with a text file, if any Adobe Dynamic Media Classic ID is not on the list, the message “Unable to validate these entries in your list:” is displayed. The list of entries is also displayed. However, Adobe Dynamic Media Classic does not generate an error on the Job page.
 
 >[!MORELIKETHIS]
 >

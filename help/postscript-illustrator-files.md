@@ -2,7 +2,7 @@
 title: Work with PostScript and Illustrator files
 description: Learn how to work with PostScript and Illustrator files in Adobe Dynamic Media Classic.
 uuid: 36dee172-8bd4-45a9-820b-c2ca319edf20
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files

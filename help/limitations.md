@@ -1,7 +1,7 @@
 ---
 title: Dynamic Media limitations
 description: Learn about the best practices and enforced limits when you create an Image Set or a Spin Set, or upload a PDF. Also learn about unsupported web browser and operating system combinations for Dynamic Media Viewers. 
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
@@ -48,7 +48,7 @@ Adobe Dynamic Media Viewers do not support the following web browser and operati
 * Safari 8 + iOS 8.4
 * Safari 8 + OS X 10.10 Yosemite
 
-## End of support for TLS 1.0 and 1.1 {#tls}
+## End of support for Transport Layer Security 1.0 and 1.1 {#tls}
 
 <!-- CQDOC-19433 -->
 

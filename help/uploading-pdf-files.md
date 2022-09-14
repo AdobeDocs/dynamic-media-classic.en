@@ -2,7 +2,7 @@
 title: Upload the PDF files
 description: Learn how to upload the PDF files associated with an eCatalog in Adobe Dynamic Media Classic.
 uuid: 9e178bb2-ac09-427a-b61a-aad4e87a5837
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
@@ -38,9 +38,9 @@ Prepare your PDF files before uploading them to Adobe Dynamic Media Classic:
 
 For detailed information about the different upload methods, see [Uploading your files](uploading-files.md#uploading_your_files).
 
-Select the files you want to upload, and then select these *best practice* PDF Options:
+Select the files that you want to upload, and then select these *best practice* PDF Options:
 
-* **Crop Options** - On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. If the PDF pages contain crop marks, registration marks, or other marks, in the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Manual]**. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are often set to a half-inch margin. Assume that you choose **[!UICONTROL 150]** (recommended) as the pixel-per-inch resolution, and enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
+* **Crop Options** - On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. If the PDF pages contain crop marks, registration marks, or other marks, in the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Manual]**. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are often set to a half inch margin. Assume that you choose **[!UICONTROL 150]** (recommended) as the pixel-per-inch resolution, and enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
 
 * **Processing** - On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the **[!UICONTROL Processing]** drop-down list, choose **[!UICONTROL Rasterize]**. The PDF file must be rasterized so that all pages and images can be displayed in the eCatalog.
 

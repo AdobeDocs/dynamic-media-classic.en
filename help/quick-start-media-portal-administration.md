@@ -2,7 +2,7 @@
 title: "Quick Start: Media Portal"
 description: An introduction and Quick Start to Media Portal to help you get up and running quickly with Media Portal techniques and administration in Adobe Dynamic Media Classic.
 uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
@@ -59,7 +59,7 @@ See [Media Portal user roles](media-portal-user-roles.md#media_portal_user_roles
 
 ## 5. Specify export options
 
-Media Portal users, when they export files, can reformat the files and export original master files — if you give them permission to do that. As an administrator, you decide how users export files.
+Media Portal users, when they export files, can reformat the files and export original primary files — if you give them permission to do that. As an administrator, you decide how users export files.
 
 See [Specify export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 

@@ -1,7 +1,7 @@
 ---
 title: Link a Swatch Set to a web page
 description: Learn how to link a Swatch Set to a web page in Adobe Dynamic Media Classic.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets

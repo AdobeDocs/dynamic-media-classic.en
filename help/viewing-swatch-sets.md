@@ -2,7 +2,7 @@
 title: View Swatch Sets
 description: Learn how to view Swatch Sets in Adobe Dynamic Media Classic.
 uuid: 80df403b-b03f-428f-9784-c3f774567bd0
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets

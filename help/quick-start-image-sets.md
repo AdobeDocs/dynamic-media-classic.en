@@ -2,7 +2,7 @@
 title: "Quick Start: Image Sets"
 description: An introduction and Quick Start to Image Sets to help you get up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 uuid: daf17d13-9c06-41f0-8fc5-2e56d460d341
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets

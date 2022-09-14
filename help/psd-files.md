@@ -2,7 +2,7 @@
 title: Work with PSD files
 description: Learn how to work with PSD files in Adobe Dynamic Media Classic.
 uuid: 5836b660-6bca-46e7-ab39-1a31d1e0cff2
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
@@ -33,7 +33,7 @@ These options are available when uploading PSD files:
 
     Drag the slider to specify a tolerance from 0 through 1. To trim based on color, specify 0 to crop pixels only if they exactly match the color you selected in the corner of the PSD. Numbers closer to 1 allow for more color difference. To trim based on transparency, specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
 
-  * **[!UICONTROL Manual]** - Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, if the image displays 150 ppi and you enter 75 in the Top, Right, Bottom, and Left text boxes, a half-inch is cropped from each side of the image.
+  * **[!UICONTROL Manual]** - Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, if the image displays 150 ppi and you enter 75 in the Top, Right, Bottom, and Left text boxes, 0.5 in. is cropped from each side of the image.
 
 * **Color Profile Options** - Located under **[!UICONTROL Color Profile Options]**.
 

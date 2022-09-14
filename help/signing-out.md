@@ -1,7 +1,7 @@
 ---
 title: Sign in to and out of Adobe Dynamic Media Classic
 description: Learn about signing in to and out of Adobe Dynamic Media Classic and connecting to a production environment server in North America (NA), or Europe, Middle East, Africa (EMEA), or Asia-Pacific (APAC).
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started

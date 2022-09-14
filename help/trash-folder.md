@@ -2,7 +2,7 @@
 title: Manage the Trash folder
 description: Learn how to manage the Trash folder.
 uuid: 3992a5b8-1919-4924-b07d-7fb25565effd
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
@@ -38,7 +38,7 @@ It is not necessary for the person who deleted an asset to restore it; anyone ca
 To restore assets from the Trash folder to the folders from which they were deleted, do the following:
 
 1. At the bottom of the Asset Library panel, select the **[!UICONTROL Trash]** icon to open the Trash folder.
-1. Select the asset or assets you want to restore.
+1. Select the asset or assets that you want to restore.
 1. Go to **[!UICONTROL File]** > **[!UICONTROL Restore from trash]**.
 
 ## Permanently deleting assets in the Trash folder {#permanently-deleting-assets-in-the-trash-folder}
@@ -47,7 +47,7 @@ When you delete assets in the Trash folder, the assets are permanently deleted. 
 
 To permanently delete assets from the Trash folder, select the **[!UICONTROL Trash]** icon. On the Trash folder page, do any of the following:
 
-* **Deleting individual assets** - Select the assets you want to permanently delete, and then go to **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
+* **Deleting individual assets** - Select the assets that you want to permanently delete, and then go to **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
 
 * **Deleting all assets** - Go to **[!UICONTROL File]** > **[!UICONTROL Empty trash]**.
 
