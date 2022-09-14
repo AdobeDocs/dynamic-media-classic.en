@@ -89,4 +89,4 @@ You can manually remove printer’s marks from the sides of the pages in a PDF f
 1. From the Crop menu, select **[!UICONTROL Manual]**.
 1. Enter pixel settings in the Top, Right, Bottom, and Left text boxes to crop from the top, bottom, and sides of pages.
 
-How much of the page is cropped depends on the Resolution PX/Inch setting you enter for the PDF file. For example, if you enter 150 (the default) as the Resolution PX/Inch setting and crop 75 pixels from the sides of pages, a half-inch is cropped; at 150 pixels per inch, 75 pixels equals a half-inch.
+How much of the page is cropped depends on the Resolution PX/Inch setting you enter for the PDF file. For example, suppose you enter 150 (the default) as the Resolution PX/Inch setting. Then you crop 75 pixels from the sides of pages. In such case, 0.5 in. is cropped. At 150 pixels per inch, 75 pixels equals a half inch.
