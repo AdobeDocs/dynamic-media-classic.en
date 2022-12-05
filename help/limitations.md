@@ -48,9 +48,10 @@ Adobe Dynamic Media does not support the following web browser and operating sys
 * Safari 8 + iOS 8.4
 * Safari 8 + OS X 10.10 Yosemite
 
-## End of support for Transport Layer Security 1.0 and 1.1 {#tls}
+<!-- ## End of support for Transport Layer Security 1.0 and 1.1 {#tls}
 
-<!-- CQDOC-19433 -->
+CQDOC-19433 (original ticket)
+and CQDOC-19792 (removed as per this ticket December 5, 2022)
 
 Effective September 30, 2022, Adobe Dynamic Media will end support for the following:
 
@@ -69,5 +70,5 @@ Effective September 30, 2022, Adobe Dynamic Media will end support for the follo
   * `TLS_RSA_WITH_CAMELLIA_256_CBC_SHA`
   * `TLS_RSA_WITH_CAMELLIA_128_CBC_SHA`
   * `TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA`
-  * `TLS_RSA_WITH_SDES_EDE_CBC_SHA`
+  * `TLS_RSA_WITH_SDES_EDE_CBC_SHA` -->
 
