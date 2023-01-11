@@ -69,7 +69,7 @@ If you selected the Maintain Layers option when you uploaded your PSD, Adobe Dyn
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic supports up to 5 levels in a nested layer group.
+>Adobe Dynamic Media Classic supports up to five levels in a nested layer group.
 
 1.  Double-click the full PSD file in the Browse Panel. The file opens in Detail View.
 
