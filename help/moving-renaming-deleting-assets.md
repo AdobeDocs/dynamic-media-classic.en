@@ -19,6 +19,8 @@ You can move, rename, and delete assets from the Browse Panel. As well, you can 
 
 You can move assets to different folders in the Browse Panel.
 
+**To move assets:**
+
 1. Select the asset or assets in the Browse Panel, and do one of the following:
 
     * Display the folder that you want to move the assets to in the Asset Library and drag the assets to the folder.
@@ -29,9 +31,7 @@ You can move assets to different folders in the Browse Panel.
 1. Select the asset in the Browse Panel, and do one of the following:
 
     * Select the name, type in a new name, and press **[!UICONTROL Enter]** or select away from the name.
-    * Go to **[!UICONTROL File]** > **[!UICONTROL Rename]**. The name of the asset is highlighted. Enter a new name and press **[!UICONTROL Enter]**.
-
-Be sure that you do not to enter the name of an existing Adobe Dynamic Media Classic asset.
+    * Go to **[!UICONTROL File]** > **[!UICONTROL Rename]**. The name of the asset is highlighted. Enter a new name and press **[!UICONTROL Enter]**. Be sure that you do not enter the name of an existing Adobe Dynamic Media Classic asset.
 
 ## Delete assets {#delete-assets}
 
@@ -39,9 +39,13 @@ You can delete selected assets in the Browse Panel and delete entire folders. De
 
 When you delete an asset, all assets derived from it are deleted as well. For example, deleting an image for which you created zoom targets deletes the zoom targets along with the image.
 
->[!NOTE]
+Zoom targets, image attributes, and history entries are permanently deleted when you delete the assets from which they derive. They are not moved along with the asset to the Trash folder; they cannot be restored from the Trash.
+
+>[!IMPORTANT]
 >
->Zoom targets, image attributes, and history entries are permanently deleted when you delete the assets from which they derive. They are not moved along with the asset to the Trash folder; they cannot be restored from the Trash.
+>Bulk deletion is an intensive operation. Be sure that you run bulk deletions sequentially rather than as concurrent, heavy delete operations. Adobe recommends that you limit the delete operations to 5000 or less asset deletions per hour. A number greater than 5000 per hour can cause rate limiting.
+
+**To delete assets:**
 
 1. Do any of the following:
 
@@ -50,9 +54,7 @@ When you delete an asset, all assets derived from it are deleted as well. For ex
 
       Deleting a folder deletes the folder, all the assets in the folder, and all assets in its subfolders.
 
->[!NOTE]
->
->Adobe Dynamic Media Classic recommends overwriting asset files rather than deleting them if your reason for deleting an asset file is to replace it with another by the same name.
+Adobe Dynamic Media Classic recommends overwriting asset files rather than deleting them if your reason for deleting an asset file is to replace it with another by the same name.
 
 ## Delete multiple assets with a text file {#delete-multiple-assets-with-a-text-file}
 
@@ -66,7 +68,7 @@ After you create the list, follow these steps to use it to delete assets:
 1. In the Delete Asset list dialog box, browse, or type the path to the text file with the list of assets you want to delete.
 1. Select **[!UICONTROL Delete]**.
 
-When you delete assets with a text file, if any Adobe Dynamic Media Classic ID is not on the list, the message “Unable to validate these entries in your list:” is displayed. The list of entries is also displayed. However, Adobe Dynamic Media Classic does not generate an error on the Job page.
+When you delete assets with a text file, if any Adobe Dynamic Media Classic ID is not on the list, the message "Unable to validate these entries in your list:" is displayed. The list of entries is also displayed. However, Adobe Dynamic Media Classic does not generate an error on the Job page.
 
 >[!MORELIKETHIS]
 >
