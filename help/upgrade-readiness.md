@@ -9,3 +9,5 @@ role: Admin,User
 # Upgrade readiness checklist
 
 Check your readines to upgrade from Dynamic Media Class to Dynamic Media
+
+## Another heading
