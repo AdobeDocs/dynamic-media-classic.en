@@ -43,7 +43,7 @@ Zoom targets, image attributes, and history entries are permanently deleted when
 
 >[!IMPORTANT]
 >
->Bulk deletion is an intensive operation. Be sure that you run bulk deletions sequentially rather than as concurrent-heavy delete operations. Adobe recommends that you limit the delete operations to 5000 or less asset deletions per hour. A number greater than 5000 per hour can cause rate limiting.
+>Bulk deletion is an intensive operation. Be sure that you run bulk deletions sequentially rather than as concurrent, heavy delete operations. Adobe recommends that you limit the delete operations to 5000 or less asset deletions per hour. Any number greater than 5000 per hour can cause rate limiting.
 
 **To delete assets:**
 
