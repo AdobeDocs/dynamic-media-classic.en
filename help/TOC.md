@@ -10,11 +10,10 @@ index: y
 
 # Adobe Dynamic Media Classic Guide {#using}
 
-+ [Upgrade from Adobe Dynamic Media Classic to Dynamic Media on Experience Manager. Why upgrade?](upgrade.md)
-  * [Key benefits and capabilities of Dynamic Media on Experience Manager](upgrade-benefits.md)
-  * [Upgrade FAQ](upgrade-faq.md)
-  * [Feature list comparison](upgrade-feature-comparison.md)
-  * [Upgrade readiness check list](upgrade-readiness.md)
++ [Upgrade from Adobe Dynamic Media Classic to Dynamic Media on Experience Manager.](upgrade.md)
+  + [Upgrade FAQ](upgrade-faq.md)
+  + [Feature list comparison](upgrade-feature-comparison.md)
+  + [Upgrade readiness check list](upgrade-readiness.md)
 + [Adobe Dynamic Media Classic Guide](home.md)
 + [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 + [NEW Adobe Dynamic Media Classic sign-in experience now available](new-ui-2020.md)
