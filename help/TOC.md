@@ -10,7 +10,7 @@ index: y
 
 # Adobe Dynamic Media Classic Guide {#using}
 
-+ Upgrade from Adobe Dynamic Media Classic to Dynamic Media on Experience Manager
++ Upgrade from Adobe Dynamic Media Classic to Dynamic Media on Experience Manager {#upgrade}
   + [Upgrade from Dynamic Media Classic to Dynamic Media](upgrade.md)
   + [Upgrade FAQ](upgrade-faq.md)
   + [Feature list comparison](upgrade-feature-comparison.md)
