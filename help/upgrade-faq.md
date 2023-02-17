@@ -1,7 +1,7 @@
 ---
 title: Upgrade FAQ
 description: Frequently asked questions (FAQ) when you upgrade from [!DNL Adobe Dynamic Media Classic] desktop application to [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] Assets.
-feature: Dynamic Media Classic
+feature: Dynamic Media Classic,Dynamic Media
 role: Admin,User
 
 ---
@@ -30,7 +30,7 @@ Review and approval workflows for work in process assets.
 *   Combine campaign assets with product information to streamline click to cart.
 *   Easily create, adjust, brand, and deploy interactive viewers using the WYSIWYG Viewer Designer.
 *   Deliver optimized rich media to [!DNL Experience Cloud] solutions.
-*   Integration with [!DNL Experience Cloud] for advanced asset analytics, targeting, and asset reuse across marketing touch points. Those touchpoints include [!DNL Adobe Campaign] for email, Adobe Social for social channels, and [!DNL Experience Manager] Sites for responsive web and mobile apps.
+*   Integration with [!DNL Experience Cloud] for advanced asset analytics, targeting, and asset reuse across marketing touch points. Those touchpoints include [!DNL Adobe Campaign] for email, [!DNL Adobe Social] for social channels, and [!DNL Experience Manager] Sites for responsive web and mobile apps.
 
 +++
 
