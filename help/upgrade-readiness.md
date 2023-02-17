@@ -16,21 +16,21 @@ Use the following checklist to help you understand and prepare for an upgrade fr
 
 ## Phase 2: Preparation
 
-* **Validate feature usage** &ndash; Confirm the features being used in [!DNL Dynamic Media Classic] are available in [!DNL Dynamic Media. See the [Feature Comparison](/help/upgrade-feature-comparison.md) page. Key capabilities not yet available in [!DNL Dynamic Media] include the following:
+*   **Validate feature usage** &ndash; Confirm the features being used in [!DNL Dynamic Media Classic] are available in [!DNL Dynamic Media. See the [Feature Comparison](/help/upgrade-feature-comparison.md) page. Key capabilities not yet available in [!DNL Dynamic Media] include the following:
 
-  * Visual Configurator (Image Author, Image Render).
-  * Image Templates (1:1 Templating.
-  * eCatalogs.
+    * Visual Configurator (Image Author, Image Render).
+    * Image Templates (1:1 Templating.
+    * eCatalogs.
 
-  If the above features are being used, the upgrade can still occur with the assumption that those features would be accessible by way of [!DNL Dynamic Media Classic].
+    If the above features are being used, the upgrade can still occur with the assumption that those features would be accessible by way of [!DNL Dynamic Media Classic].
 
-* **Identify assets** &ndash; Find and ready assets and presets to be used for upgrade.
+*   **Identify assets** &ndash; Find and ready assets and presets to be used for upgrade.
 
 ## Phase 3: Environment
 
-* **Upgrade [!DNL Adobe Experience Manager]** &ndash; All instances of [!DNL Adobe Experience Manager] must be updated to the latest version.
+*   **Upgrade [!DNL Adobe Experience Manager]** &ndash; All instances of [!DNL Adobe Experience Manager] must be updated to the latest version.
 
-* **Setup [!DNL Dynamic Media]** &ndash; Adobe Consulting or Partner configures [!DNL Dynamic Media with your credentials.
+*   **Setup [!DNL Dynamic Media]** &ndash; Adobe Consulting or Partner configures [!DNL Dynamic Media with your credentials.
 
 ## Phase 4: Upgrade
 
