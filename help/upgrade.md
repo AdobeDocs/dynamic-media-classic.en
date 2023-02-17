@@ -1,7 +1,7 @@
 ---
 title: Upgrade from Adobe [!DNL Dynamic Media Classic] to [!DNL Dynamic Media] on [!DNL Experience Manager] Assets
 description: Upgrade from [!DNL Adobe Dynamic Media Classic] to [!DNL Dynamic Media] on [!DNL Adobe Experience Manager]. Learn about the key benefits and capabilities of [!DNL Dynamic Media]. Review the feature list comparison, upgrade FAQ, and readiness check list. 
-feature: Dynamic Media Classic,Dynamic Media
+feature: Dynamic Media Classic
 role: Admin,User
 
 ---

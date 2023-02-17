@@ -1,7 +1,7 @@
 ---
 title: Feature comparison
 description: Feature comparison table between [!DNL Dynamic Media] in [!DNL Adobe Experience Manager] Assets and [!DNL Adobe Dynamic Media Classic] desktop application.
-feature: Dynamic Media Classic,Dynamic Media
+feature: Dynamic Media Classic
 role: Admin,User
 
 ---

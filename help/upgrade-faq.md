@@ -1,7 +1,7 @@
 ---
 title: Upgrade FAQ
 description: Frequently asked questions (FAQ) when you upgrade from [!DNL Adobe Dynamic Media Classic] desktop application to [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] Assets.
-feature: Dynamic Media Classic,Dynamic Media
+feature: Dynamic Media Classic
 role: Admin,User
 
 ---
