@@ -23,7 +23,7 @@ Adobe Flash Player was a web browser plug-in that allowed web browsers to use co
 +++
 
 +++**_How do I access the new desktop app?_**
-The new desktop app is available as a `.dmg` installer for macOS or as an `.exe` installer for Windows®.
+The new desktop app is available as a `.dmg` installer for macOS or as an `.exe` installer for Windows&reg;.
 
 See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-desktop-app.md) to review system requirements, download, and install the new app, and then sign in to it.
 +++
@@ -52,7 +52,7 @@ No. There is no impact to automation scripts. The new desktop app acts and behav
 +++
 
 +++**_Will the new Adobe Dynamic Media Classic desktop app work on Macs and personal computers?_**
-Yes. The new desktop app is a cross-platform solution and works on Macs and PCs. Linux® is *not* supported.
+Yes. The new desktop app is a cross-platform solution and works on Macs and PCs. Linux&reg; is *not* supported.
 +++
 
 +++**_My company has strict security requirements. How does the new Adobe Dynamic Media Classic desktop app handle these requirements?_**
@@ -68,7 +68,7 @@ No, the AIR technology on which the new Adobe Dynamic Media Classic desktop app 
 +++
 
 +++**_Are there any restrictions on the number of files that can be uploaded to Adobe Dynamic Media Classic by way of a local computer?_**
-When using the new Adobe Dynamic Media Classic desktop app on Windows®, you can upload a maximum of 150 files at a time using the **[!UICONTROL Upload]** dialog box. This limitation was already addressed before the end of 2020. There are *no* upload restrictions on the macOS Platform.
+When using the new Adobe Dynamic Media Classic desktop app on Windows&reg;, you can upload a maximum of 150 files at a time using the **[!UICONTROL Upload]** dialog box. This limitation was already addressed before the end of 2020. There are *no* upload restrictions on the macOS Platform.
 +++
 
 +++**_Does the new Adobe Dynamic Media Classic desktop app require a new SKU? Is there a license cost involved?_**
@@ -76,7 +76,7 @@ No SKU or license change is required to use the new Adobe Dynamic Media Classic 
 +++
 
 +++**_How are upgrades to Adobe Dynamic Media Classic desktop app enabled?_**
-Following the release of Adobe Dynamic Media Classic desktop app on June 30, 2020, if Adobe releases a new version, customers are required to download the new version and install as usual (replace the existing app in **[!UICONTROL Applications]**). You are notified of the new release through your CSM (Customer Success Manager) and an in-app upgrade notification mechanism that notifies users of an upgrade.
+Following the release of Adobe Dynamic Media Classic desktop app on June 30, 2020, if Adobe releases a new version, customers are required to download the new version and install as usual (replace the existing app in **[!UICONTROL Applications]**). You are notified of the new release through your Adobe Account Team and an in-app upgrade notification mechanism that notifies users of an upgrade.
 +++
 
 +++**_How do I get help for any issues that I have with Adobe Dynamic Media Classic desktop app?_**
