@@ -56,7 +56,7 @@ Current [!DNL Dynamic Media Classic] (formerly Scene7) customers who also have [
 +++
 
 +++**How do I start the upgrade process?**
-Contact your Adobe CSM (Customer Service Management) representative or [email s7support@adobe.com](mailto:s7support@adobe.com) with the subject line `[!DNL Dynamic Media] Upgrade Program`.
+Contact your Adobe Account Team representative or [email s7support@adobe.com](mailto:s7support@adobe.com) with the subject line `[!DNL Dynamic Media] Upgrade Program`.
 
 +++
 
@@ -86,7 +86,7 @@ The upgrade process time varies based on several factors, including but not limi
 +++
 
 +++**Is there a difference in licensing cost?**
-Work with your Adobe CSM representative for details regarding pricing.
+Work with your Adobe Account Team representative for details regarding pricing.
 
 +++
 
@@ -191,7 +191,7 @@ Adobe performs an automated validation on all assets that are moved over to [!DN
 +++
 
 +++**Is there an SLA for [!DNL Dynamic Media]?**
-Yes. Contact your Adobe CSM representative for details.
+Yes. Contact your Adobe Account Team representative for details.
 
 +++
 
@@ -247,7 +247,7 @@ Phone: 1-800-898-9743 (US) | +44 (0)20 35641782 (UK) | +81-3-6743-9632 (Japan)
 +++**Where can I learn more about paid training options?**
 See [Adobe Digital Learning Services](https://learning.adobe.com).
 
-For custom or individual training, please contact your Adobe CSM representative.
+For custom or individual training, please contact your Adobe Account Team representative.
 
 +++
 
