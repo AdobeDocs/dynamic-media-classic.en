@@ -1,5 +1,5 @@
 ---
-title: Delete an uploaded asset
+title: Delete an uploaded raster image asset
 description: Learn how to delete an uploaded asset in Adobe Dynamic Media Classic.
 uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
 contentOwner: Rick Brough
@@ -47,6 +47,10 @@ You can use the following fields in the URL query string to delete an asset:
 <!-- <li>For Vector:fxg_name</li> -->
 
 >[!IMPORTANT]
+>
+>Starting May 1, 2023, UGC raster assets in Dynamic Media Classic will be available for use up to 60 days from the date of upload. After 60 days, the assets will be removed.
+
+>[!NOTE]
 >
 >Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic ended on September 30, 2021.
 
