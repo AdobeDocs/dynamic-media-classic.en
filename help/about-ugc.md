@@ -18,7 +18,7 @@ UGC supports raster image file formats BMP, GIF, JPG, PNG, PSD, TIFF.
 
 >[!IMPORTANT]
 >
->Starting May 1, 2023, UGC raster assets in Dynamic Media Classic will be available for use up to 60 days from the date of upload. After 60 days, the assets will be removed.
+>Starting May 1, 2023, UGC assets in Dynamic Media will be available for use up to 60 days from the date of upload. After 60 days, the assets will be removed.
 
 <!-- * Vector: AI, EPS (EPS files from Adobe Illustrator 2018 are not supported), PDF (only when the PDF file is previously opened and saved in Adobe Illustrator CS6) -->
 
