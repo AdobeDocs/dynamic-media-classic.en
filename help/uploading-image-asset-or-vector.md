@@ -14,7 +14,7 @@ Before you can upload an image asset, you first request a shared-secret key. You
 
 >[!IMPORTANT]
 >
->Starting May 1, 2023, UGC raster assets in Dynamic Media Classic will be available for use up to 60 days from the date of upload. After 60 days, the assets will be removed.
+>Starting May 1, 2023, UGC assets in Dynamic Media will be available for use up to 60 days from the date of upload. After 60 days, the assets will be removed.
 
 >[!NOTE]
 >
