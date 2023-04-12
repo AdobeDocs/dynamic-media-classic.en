@@ -3,9 +3,8 @@ title: Feature comparison
 description: Feature comparison table between [!DNL Dynamic Media] in [!DNL Adobe Experience Manager] Assets and [!DNL Adobe Dynamic Media Classic] desktop application.
 feature: Dynamic Media Classic
 role: Admin,User
-
+exl-id: eb56533a-4e31-4367-8b68-879cd70c761e
 ---
-
 # Feature comparison
 
 A feature comparison table between [!DNL Dynamic Media] in [!DNL Adobe Experience Manager] Assets and [!DNL Adobe Dynamic Media Classic] desktop application. A "&#10003;" means the feature is available in or with the software; a "-" means it is not.

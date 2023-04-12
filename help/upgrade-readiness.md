@@ -3,9 +3,8 @@ title: Upgrade readiness
 description: An upgrade readiness checklist when you want to advance from [!DNL Adobe Dynamic Media Classic] to [!DNL Dynamic Media] on [!DNL Adobe Experience Manager].
 feature: Dynamic Media Classic
 role: Admin,User
-
+exl-id: 86537998-b7e9-449c-83eb-6fd04533a00f
 ---
-
 # Upgrade readiness checklist
 
 Use the following checklist to help you understand and prepare for an upgrade from [!DNL Dynamic Media Classic] to [!DNL Dynamic Media].
