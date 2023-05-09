@@ -32,8 +32,8 @@ A feature comparison table between [!DNL Dynamic Media] in [!DNL Adobe Experienc
 | Video Encoding | &#10003;  | &#10003;  |
 | Viewer Accessibility  | &#10003; | &#10003;  |
 | Viewer Integration with Analytics  | &#10003;  | &#10003;  |
-| 1:1 Templates | -  | &#10003;  |
-| Visual Configurator<br>(product personalization)  | -  | &#10003;  |
+| 1:1 Templates | &#10003;<br>*Personalized media bundle*  | &#10003;  |
+| Visual Configurator<br>(product personalization)  | &#10003;<br>*Personalized media bundle*  | &#10003;  |
 | 3D - Experience Manager Sites<br>WCM component | &#10003;  | -  |
 | 3D - Interactive Experience Viewer  | &#10003;  |  - |
 | 3D - Publish AR/VR and core 3D files  | &#10003;  |  - |
