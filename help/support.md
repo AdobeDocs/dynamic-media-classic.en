@@ -1,5 +1,5 @@
 ---
-title: Support
+title: Support options for Adobe Dynamic Media Classic
 description: Learn about technical support options for Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference

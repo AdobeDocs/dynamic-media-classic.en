@@ -14,7 +14,7 @@ A feature comparison table between [!DNL Dynamic Media] in [!DNL Adobe Experienc
 | 360 Video  | &#10003;  | &#10003;  |
 | Advanced Image Processing  | &#10003;  | &#10003;  |
 | Advanced Video (captions, SEO)  | &#10003;  | &#10003;  |
-| APIs  | &#10003;  | &#10003;  |
+| APIs | &#10003;  | &#10003;  |
 | Automated Set Generation  | &#10003;  | &#10003;  |
 | CDN Integration  | &#10003;  | &#10003;  |
 | Dynamic Imaging  | &#10003;  | &#10003;  |
