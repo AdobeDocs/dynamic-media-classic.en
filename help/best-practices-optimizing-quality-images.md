@@ -17,6 +17,18 @@ Adobe Dynamic Media Classic includes more than 100 image-serving commands for tu
 
 See also [Smart imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
 
+>[!TIP]
+>
+>Try out and discover the benefits of Dynamic Media image modifiers and Smart Imaging, using Dynamic Media [_Snapshot_](https://snapshot.scene7.com/).
+>
+> Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. Experiment with test images or Dynamic Media URLs, to visually observe the output of various Dynamic Media image modifiers, and Smart Imaging optimizations for the following:
+>* File size (with WebP and AVIF delivery)
+>* Network bandwidth
+>* DPR (Device Pixel Ratio) 
+>
+>To learn how easy it is to use Snapshot, play the [Snapshot training video](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-snapshot.html?lang=en ) (3 minutes and 17 seconds).
+
+
 ## Best practices for image format (&fmt=) {#best-practices-for-image-format-fmt}
 
 * JPG or PNG are the best choices to deliver images in good quality and with manageable size and weight.
