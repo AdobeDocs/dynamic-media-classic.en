@@ -44,7 +44,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
 
     In this issue:
 
-  * Explore three ways your rich media investment can help during these challenging times.
+  * Explore three ways that your rich media investment can help during these challenging times.
   * Sign up for the webinar to learn how to lighten your page load with Smart Imaging.
   * Watch the on-demand Skill Builder webinars for Adobe Dynamic Media Classic.
   * View the Dynamic Media sessions from Online Adobe Summit 2020.
