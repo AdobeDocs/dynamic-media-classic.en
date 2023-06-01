@@ -41,7 +41,7 @@ These options are available when uploading PSD files:
 
     *   **[!UICONTROL Keep Original Color Space]** - Retains the original color space of the image.
 
-    *   **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic. See [ICC profiles](/help/icc-profiles.md).
+    *   **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic. See [ICC profiles](/help/using/icc-profiles.md).
 
 *   **Photoshop Options**
 

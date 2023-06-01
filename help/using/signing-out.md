@@ -21,7 +21,7 @@ Make sure that you have the following before using the Adobe Dynamic Media Class
 
 1. Open Adobe Dynamic Media Classic desktop application.
 
-    ![Adobe Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
+    ![Adobe Dynamic Media Classic sign in](/help/using/assets/dmclassic-login1.png)
 
 1. In the **[!UICONTROL User Name]** field, enter your e-mail address.
 1. In the **[!UICONTROL Password]** field, type the password.

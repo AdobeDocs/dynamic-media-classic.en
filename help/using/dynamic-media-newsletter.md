@@ -7,7 +7,7 @@ role: Admin,User
 exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
 ---
 
-# ![Dynamic Media Newsletter logo](/help/assets/dynamic-media-newsletter-logo.png)
+# ![Dynamic Media Newsletter logo](/help/using/assets/dynamic-media-newsletter-logo.png)
 
 >[!NOTE]
 >

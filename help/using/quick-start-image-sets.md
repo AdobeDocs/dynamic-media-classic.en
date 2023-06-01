@@ -26,7 +26,7 @@ When you create an Image Set, Adobe recommends the following best practices and 
 | Number of duplicate assets per set | No duplicates | 20 |
 | Maximum number of images per set | 5-10 images per set  | 1000 |
 
-See also [Dynamic Media limitations](/help/limitations.md).
+See also [Dynamic Media limitations](/help/using/limitations.md).
 
 The following Image Sets Quick Start is designed to get you up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 
@@ -46,7 +46,7 @@ To create an Image Set, on the Global Navigation bar, select **[!UICONTROL Build
 
 See [Create an Image Set](creating-image-set.md#creating-an-image-set).
 
-See also [Include zoom targets and Image Maps in Image Sets](/help/including-zoom-targets-image-maps-image-sets.md)
+See also [Include zoom targets and Image Maps in Image Sets](/help/using/including-zoom-targets-image-maps-image-sets.md)
 
 ## 3. Prepare Image Set Viewer Presets, as needed
 

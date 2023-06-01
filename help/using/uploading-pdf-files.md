@@ -20,7 +20,7 @@ When you upload a PDF for page extraction, Adobe enforces the following limit:
 | --- | --- | --- |
 | Maximum number of pages for a PDF to be considered for extraction | 5000 (for new uploads) | 100 (for all PDFs) |
 
-See also [Dynamic Media limitations](/help/limitations.md).
+See also [Dynamic Media limitations](/help/using/limitations.md).
 
 ## Prepare your PDF files {#preparing-your-pdf-files}
 
@@ -52,7 +52,7 @@ Select the files that you want to upload, and then select these *best practice* 
 
 * **Colorspace** - On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the Colorspace drop-down list, choose **[!UICONTROL Detect automatically]**. Usually, PDFs created for print output are in CMYK; PDFs for online viewing are RGB. If a PDF uses both color spaces, you can select a specific color space by choosing Force As RGB or Force As CMYK. PDFs use both color spaces, for example, when page graphics use a CMYK color space but pictures use RGB. If you uploaded an ICC profile, its name appears on the Colorspace menu and you can choose it there.
 
-    See [ICC (International Color Consortium) profiles](/help/icc-profiles.md).
+    See [ICC (International Color Consortium) profiles](/help/using/icc-profiles.md).
 
 * **Color Profile Options** - On the Upload Job Options dialog box, select **[!UICONTROL Color Profile Options]**, and then choose a Color Profile option:
 

@@ -30,7 +30,7 @@ When you create a Spin Set or an Image Set, or upload PDFs for page extraction, 
 | **Spin Set** - Maximum number of rows/columns per 2D set | 12-18 images per set | 1000 |
 | **PDF** - Maximum number of pages for a PDF to be considered for extraction || 100 (for all PDFs) |
 
-<!-- See also [Dynamic Media limitations](/help/assets/limitations.md). -->
+<!-- See also [Dynamic Media limitations](/help/using/assets/limitations.md). -->
 
 ## Unsupported web browser and operating system combinations for Dynamic Media {#unsupported-browser-os}
 

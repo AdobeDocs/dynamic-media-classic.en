@@ -25,5 +25,5 @@ For the best experience using Adobe Dynamic Media Classic desktop app, make sure
 
 >[!MORELIKETHIS]
 >
->* [Dynamic Media limitations](/help/limitations.md)
+>* [Dynamic Media limitations](/help/using/limitations.md)
 

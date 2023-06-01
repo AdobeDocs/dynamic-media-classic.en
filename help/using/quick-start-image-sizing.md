@@ -19,7 +19,7 @@ Image Sizing refers to the ability of Adobe Dynamic Media Classic to create mult
 * You can quickly change the size of an image type throughout your web site or application. For example, to change all thumbnail images, you can modify the “thumbnail” Image Preset. An Image Preset—it’s similar to a macro—is a collection of size and formatting attributes. You can modify the “thumbnail” Image Preset to change the size of all thumbnail images throughout your web site or application. 
 * You do not have to manage the primary files and all the various derivatives in any of your content or asset management systems internally or externally.
 
-![You can create multiple derivative images at different sized from the same high-resolution primary file.](/help/assets/is_derivative_sizes_popup.png)
+![You can create multiple derivative images at different sized from the same high-resolution primary file.](/help/using/assets/is_derivative_sizes_popup.png)
 
 See [Image sizing: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/557_Image%20Sizing_converted%20renamed_Dynamic%20Imaging-AVS) training video.
 

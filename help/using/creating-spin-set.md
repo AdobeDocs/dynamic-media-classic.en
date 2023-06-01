@@ -48,7 +48,7 @@ When you create a Spin Set, Adobe recommends the following best practice and enf
 | --- | --- | --- |
 | Maximum number of rows/columns per 2D set | 12-18 images per set | 1000 |
 
-See also [Dynamic Media limitations](/help/limitations.md).
+See also [Dynamic Media limitations](/help/using/limitations.md).
 
 After you save a Spin Set, you can use Preview in the Build: Spin Set page to see what your Spin Set looks like in the default viewer.
 

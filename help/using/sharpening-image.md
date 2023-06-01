@@ -33,7 +33,7 @@ Over sharpening an image creates a halo effect, or banding of the edge’s lines
 
 There are best practices that you can follow to optimize the sharpening of your images in Adobe Dynamic Media Classic and on Dynamic Media Image Server.
 
-See [Best practices for sharpening images in Adobe Dynamic Media Classic and on Dynamic Media Image Server](/help/assets/s7_sharpening_images.pdf).
+See [Best practices for sharpening images in Adobe Dynamic Media Classic and on Dynamic Media Image Server](/help/using/assets/s7_sharpening_images.pdf).
 
 See also [Sharpening](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) training video.
 

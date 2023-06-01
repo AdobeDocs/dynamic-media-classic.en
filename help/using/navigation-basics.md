@@ -15,7 +15,7 @@ exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
 
 The Adobe Dynamic Media Classic screen includes three major areas: Global Navigation bar, Asset Library, Asset Filters tab, Browse Panel/Build Panel, and Media Cart (Media Portal only).
 
-![Navigation basics](/help/assets/gs_navigation_basics_popup_popup.png)
+![Navigation basics](/help/using/assets/gs_navigation_basics_popup_popup.png)
 *Main Adobe Dynamic Media Classic areas*
 *A) Global Navigation bar B) Asset Library panel C) Asset Filters tab D) Browse panel E) Media Cart (Media Portal only)*
 
@@ -25,7 +25,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 * **[!UICONTROL Select Company]** - Choose the company you want to access from the menu. This button is not available if you are working with one company.
 
-* **[!UICONTROL Upload]** - Opens the Upload screen so you can upload files from your computer or network to Adobe Dynamic Media Classic. You can upload files from your desktop or via FTP. See [Upload files](/help/uploading-files.md).
+* **[!UICONTROL Upload]** - Opens the Upload screen so you can upload files from your computer or network to Adobe Dynamic Media Classic. You can upload files from your desktop or via FTP. See [Upload files](/help/using/uploading-files.md).
 
 * **[!UICONTROL Build]** - Choose a Build task from the menu. The Build panel opens so you can create an asset type.
 
@@ -35,7 +35,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 * **[!UICONTROL Recent]** - Opens the Recent Activity screen so you can view the names of recently modified assets and recent upload and publish jobs.
 
-* **[!UICONTROL Setup]** - Opens the Setup screen so you can choose setup or administration options for optimizing your use of Adobe Dynamic Media Classic. See [Setup](/help/setup-basics.md).
+* **[!UICONTROL Setup]** - Opens the Setup screen so you can choose setup or administration options for optimizing your use of Adobe Dynamic Media Classic. See [Setup](/help/using/setup-basics.md).
 
 * **[!UICONTROL Help]** Choose a Help option:
 

@@ -34,7 +34,7 @@ Depending on the settings you choose for your eCatalog, the viewer can let you d
 * Use gesture interactions, including pinching to zoom and swiping to turn pages.
 * Search by keyword for items.
 
-![The eCatalog as it appears to users. A) eCatalog opening page. B)eCatalog turned to page 2.](/help/assets/ec_cat_viewer_popup.png)
+![The eCatalog as it appears to users. A) eCatalog opening page. B)eCatalog turned to page 2.](/help/using/assets/ec_cat_viewer_popup.png)
 
 To create an eCatalog, you typically use high-resolution PDF files created in Adobe Acrobat or another print program, but you can also create an eCatalog from image files.
 
@@ -88,7 +88,7 @@ See [Use Image Maps to embed rich media in an eCatalog](creating-ecatalog-image-
 
 You can set up and manage the image map text using the Info Panel settings in the eCatalog screen.
 
-See [Manage Info Panel content in eCatalogs](/help/info-panel-content-ecatalog.md).
+See [Manage Info Panel content in eCatalogs](/help/using/info-panel-content-ecatalog.md).
 
 ## 4. Set up eCatalog Viewer Presets
 

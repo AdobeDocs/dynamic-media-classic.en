@@ -15,7 +15,7 @@ exl-id: ffb799ba-1cf1-48e0-91a8-dea758139140
 
 Zoom targets guide your viewers to certain parts of an image. Besides free-form zooming, viewers can select a zoom target thumbnail and zoom to the part of the image you want them to focus on. Zoom targets are an opportunity for you to highlight the attractive or interesting parts of an image.
 
-![Create zoom targets for Guided Zoom](/help/assets/zo_guided_zoom.png)
+![Create zoom targets for Guided Zoom](/help/using/assets/zo_guided_zoom.png)
 
 ## About zoom targets {#about-zoom-targets}
 

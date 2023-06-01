@@ -21,7 +21,7 @@ When you upload a PDF for page extraction, Adobe enforces the following limit:
 | --- | --- | --- |
 | Maximum number of pages for a PDF to be considered for extraction | 5000 (for new uploads) | 100 (for all PDFs) |
 
-See also [Dynamic Media limitations](/help/limitations.md).
+See also [Dynamic Media limitations](/help/using/limitations.md).
 
 ## PDF upload options {#pdf-upload-options}
 
@@ -63,7 +63,7 @@ Select the Color Space menu and choose a color space for the PDF file. Most PDF 
 
 * **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
 
-See also [ICC profiles](/help/icc-profiles.md#icc_profiles).
+See also [ICC profiles](/help/using/icc-profiles.md#icc_profiles).
 
 ## Crop white space from a PDF file {#cropping-white-space-from-a-pdf-file}
 

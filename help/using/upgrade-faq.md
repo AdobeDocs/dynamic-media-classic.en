@@ -95,7 +95,7 @@ No. [!DNL Dynamic Media Classic] continues to work uninterrupted during the upgr
 +++
 
 +++**Are all the steps within the Upgrade Readiness Checklist required?**
-No. The [readiness checklist](/help/upgrade-readiness.md) contains required and optional best practice steps.
+No. The [readiness checklist](/help/using/upgrade-readiness.md) contains required and optional best practice steps.
 
 +++
 
@@ -200,7 +200,7 @@ Yes. You can use your own CDN with [!DNL Dynamic Media].
 +++
 
 +++**Does [!DNL Dynamic Media] have the features I need to upgrade? What features are available with [!DNL Dynamic Media] on [!DNL Experience Manager] Assets?**
-See the [Feature Comparison](/help/upgrade-feature-comparison.md) page to learn more.
+See the [Feature Comparison](/help/using/upgrade-feature-comparison.md) page to learn more.
 
 +++
 
@@ -211,7 +211,7 @@ Customers who require the following can continue to have access to [!DNL Dynamic
 * Image templates.
 * eCatalogs.
 
-See also the [Feature Comparison](/help/upgrade-feature-comparison.md) page to learn more.
+See also the [Feature Comparison](/help/using/upgrade-feature-comparison.md) page to learn more.
 
 +++
 

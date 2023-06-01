@@ -29,7 +29,7 @@ The key Adobe Dynamic Media Classic workflow steps are:
 
 * **Serve** - Deliver media from Adobe Dynamic Media Classic SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Adobe Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
 
-![The Adobe Dynamic Media Classic workflow process](/help/assets/gs_workflow.png)
+![The Adobe Dynamic Media Classic workflow process](/help/using/assets/gs_workflow.png)
 
 ## Single primary images and single URL calls {#single-master-images-and-single-url-calls}
 
@@ -37,7 +37,7 @@ Adobe Dynamic Media Classic is fundamentally different from other systems becaus
 
 The URL strings that you generate with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same primary image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you visually configure the effects. In so doing, you create the URL calls that correctly tell the server how to present your primary asset to applications.
 
-![Adobe Dynamic Media Classic can deliver the same primary image to different mediums in different sizes and formats.](/help/assets/gs_dynamic_publishing.png)
+![Adobe Dynamic Media Classic can deliver the same primary image to different mediums in different sizes and formats.](/help/using/assets/gs_dynamic_publishing.png)
 *Adobe Dynamic Media Classic ensures that consistent, quality experiences are delivered to any screen, regardless of size or bandwidth.*
 
 ## Content caching {#content-caching}

@@ -31,7 +31,7 @@ For managing single video and Adaptive Video Sets, Adobe Dynamic Media Classic s
 
 * Uploading video from numerous, supported video formats and audio formats and encoding video to MP4 H.264 format for playback across multiple screens. You can use predefined Adobe Dynamic Media Classic adaptive video presets, single video encoding presets, or customize your own encoding to control the quality and size of the video.
 
-See [Activate or deactivate adaptive video presets](/help/application-setup.md#activating-or-deactivating-adaptive-video-presets)
+See [Activate or deactivate adaptive video presets](/help/using/application-setup.md#activating-or-deactivating-adaptive-video-presets)
 
 See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 

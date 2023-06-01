@@ -25,7 +25,7 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
  -->
 
-![Detail View](/help/assets/image_0.img.png)
+![Detail View](/help/using/assets/image_0.img.png)
 *Detail View with the Asset Library panel hidden from view on the left side.*
 
 >[!NOTE]
@@ -60,9 +60,9 @@ Detail View offers tools for working with the asset that you opened. Which tools
 
 * **Rename the asset** - Select the name and enter a new name.
 
-* **Edit and add metadata** - Select the Metadata panel and change as desired. See [View, add, and export metadata](/help/viewing-adding-exporting-metadata.md).
+* **Edit and add metadata** - Select the Metadata panel and change as desired. See [View, add, and export metadata](/help/using/viewing-adding-exporting-metadata.md).
 
-* **Edit and add keywords** - Select Keywords and add or remove them as desired. See [Add or edit keywords](/help/viewing-adding-exporting-metadata.md).
+* **Edit and add keywords** - Select Keywords and add or remove them as desired. See [Add or edit keywords](/help/using/viewing-adding-exporting-metadata.md).
 
 * **Delete the asset** - Go to **[!UICONTROL File]** > **[!UICONTROL Delete]**.
 

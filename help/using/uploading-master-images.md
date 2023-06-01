@@ -25,4 +25,4 @@ Prepare your primary image files before you upload them to Adobe Dynamic Media C
 
 * **File formats** - Adobe Dynamic Media Classic supports all standard image file formats, including TIFF, BMP, JPEG, PSD, GIF, and EPS. Lossless image formats—TIFF and PNG—are recommended. If you are using a JPEG image, use the highest-quality settings.
 
-* **Color space** - RGB is the color space for web image presentations; CMYK images commonly used for printing are automatically converted to RGB when you upload them. Uploading CMYK images that have an embedded ICC (International Color Consortium) color profile for the conversion to RGB is recommended. See also [ICC (International Color Consortium) profiles](/help/icc-profiles.md).
+* **Color space** - RGB is the color space for web image presentations; CMYK images commonly used for printing are automatically converted to RGB when you upload them. Uploading CMYK images that have an embedded ICC (International Color Consortium) color profile for the conversion to RGB is recommended. See also [ICC (International Color Consortium) profiles](/help/using/icc-profiles.md).

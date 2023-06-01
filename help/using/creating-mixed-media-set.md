@@ -14,7 +14,7 @@ exl-id: 18669c65-a1c4-4012-8587-cd5095f4bd4e
 
 Create a Mixed Media Set when you want to combine multiple types of viewers in one presentation. Make sure your files, Image Sets, Swatch Sets, and Spin Sets are ready to publish before you add them to the Mixed Media Set.
 
-![Mixed Media Set](/help/assets/mm_mixed_media_set.png)
+![Mixed Media Set](/help/using/assets/mm_mixed_media_set.png)
 
 ## Create a Mixed Media Set {#create-a-mixed-media-set}
 

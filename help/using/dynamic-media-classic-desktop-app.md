@@ -19,7 +19,7 @@ This new app is now available for Windows® and macOS.
 >
 >Adobe recommends that you install the new Adobe Dynamic Media Classic desktop app by October 1, 2020. Doing so will ensure you have a smooth transition before Adobe Flash Player is deprecated on December 31, 2020. After that date, you cannot log on to the browser version of Adobe Dynamic Media Classic user interface, labeled as Adobe Dynamic Media Classic in the product.
 
-See the FAQ for the [New Adobe Dynamic Media Classic sign-in experience now available.](/help/new-ui-2020.md)
+See the FAQ for the [New Adobe Dynamic Media Classic sign-in experience now available.](/help/using/new-ui-2020.md)
 
 ## System requirements for Adobe Dynamic Media Classic desktop app {#system-requirements-dmc-app}
 
@@ -28,7 +28,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * macOS 10.10 or newer.
 * Windows® 7 or newer.
 
-See the full system requirements at [System requirements for Adobe Dynamic Media Classic desktop app](/help/system-requirements.md).
+See the full system requirements at [System requirements for Adobe Dynamic Media Classic desktop app](/help/using/system-requirements.md).
 
 Upgrade notification within the Adobe Dynamic Media Classic desktop application is not generated for *minor* releases. Customers who benefit from fixes in a minor release can upgrade.
 
@@ -50,11 +50,11 @@ Upgrade notification within the Adobe Dynamic Media Classic desktop application 
 * Desktop app stops responding, typically after Set operations.
 * Request Obfuscation and Locking Mode auto-enabled under **[!UICONTROL Test Image Serving]**.
 
-    See [Test the Secure Testing service](/help/testing-assets-making-them-public.md#testing-the-secure-testing-service).
+    See [Test the Secure Testing service](/help/using/testing-assets-making-them-public.md#testing-the-secure-testing-service).
 
 * Updated authentication mechanism with Adobe Analytics. Relevant for new integrations or if some Analytics variables must be updated from within Dynamic Media Classic desktop app.
 
-    See [Log in to Adobe Analytics](/help/log-analytics.md) for updated steps.
+    See [Log in to Adobe Analytics](/help/using/log-analytics.md) for updated steps.
 
 ## Fixes in release 20.21.2 {#minor-release}
 
@@ -112,18 +112,18 @@ See also:
 
     * **macOS** &ndash;In the **[!UICONTROL Drag & drop to install]** dialog box, drag **[!UICONTROL Adobe Dynamic Media Classic]** and drop it onto **[!UICONTROL Applications]**.
 
-        ![Drag and drop install on macOS](/help/assets/dragondrop-install1.png)
+        ![Drag and drop install on macOS](/help/using/assets/dragondrop-install1.png)
 
     * In the **[!UICONTROL Applications]** folder, tap the Adobe Dynamic Media Classic icon.
     * In the dialog box, tap **[!UICONTROL Open]** to open the Adobe Dynamic Media Classic desktop app.
 
-        ![Open downloaded app](/help/assets/open-dmclassicapp1.png)
+        ![Open downloaded app](/help/using/assets/open-dmclassicapp1.png)
 
     * **Windows** &ndash; Run the installer binary and follow the on-screen instructions to install the desktop app.
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign-in page is displayed:
 
-    ![Adobe Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
+    ![Adobe Dynamic Media Classic sign in](/help/using/assets/dmclassic-login1.png)
 
 1. To sign in to the Adobe Dynamic Media Classic desktop app, use the same credentials that you used to log on to Adobe Dynamic Media Classic in the browser.
 
@@ -165,7 +165,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign-in page is displayed:
 
-    ![Adobe Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
+    ![Adobe Dynamic Media Classic sign in](/help/using/assets/dmclassic-login1.png)
 
 1. To sign in to the Adobe Dynamic Media Classic desktop app, use the same credentials that you used to log on to Adobe Dynamic Media Classic in the browser.
 
@@ -211,7 +211,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign-in page is displayed:
 
-    ![Adobe Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
+    ![Adobe Dynamic Media Classic sign in](/help/using/assets/dmclassic-login1.png)
 
 1. To sign in to the Adobe Dynamic Media Classic desktop app, use the same credentials that you used to log on to Adobe Dynamic Media Classic in the browser.
 
@@ -257,7 +257,7 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 * In the Adobe Dynamic Media Classic app, select the new company from the company drop-down list.
 * When the pop-up window appears, tap **[!UICONTROL OK]** to sign out and close the app.
 
-    ![To use the new company, restart the app](/help/assets/dmclassic-new-company1.png)
+    ![To use the new company, restart the app](/help/using/assets/dmclassic-new-company1.png)
 
 * Restart Adobe Dynamic Media Classic, then sign in as usual to work with the new company.
 
@@ -267,7 +267,7 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 
 **_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser user interface, a relogin to the UI was required to see the correct publish state of assets. In the desktop app, Adobe has introduced a **[!UICONTROL Refresh]** icon in the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No relogin required as with the browser UI.
 
-![Refresh icon](/help/assets/refresh-icon1.png)
+![Refresh icon](/help/using/assets/refresh-icon1.png)
 *Refresh icon*
  
 **_I do not see batch set presets working in the desktop app._**<br>Tap **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**.

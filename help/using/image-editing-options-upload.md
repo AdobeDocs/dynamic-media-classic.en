@@ -77,7 +77,7 @@ Under Unsharp Masking, set the options you want. Setting options are described i
 
 See also [Sharpen an image](sharpening-image.md#sharpening_an_image).
 
-See also [Sharpen images in Adobe Dynamic Media and on Image Server](/help/assets/s7_sharpening_images.pdf).
+See also [Sharpen images in Adobe Dynamic Media and on Image Server](/help/using/assets/s7_sharpening_images.pdf).
 
 ## Knockout Background
 

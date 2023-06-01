@@ -71,7 +71,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 ### Browse
 
-* **[!UICONTROL Show Projects]** - Determines whether Projects are available as a means of organizing your Adobe Dynamic Media Classic assets. See [Organize your work with Projects](/help/organizing-projects.md).
+* **[!UICONTROL Show Projects]** - Determines whether Projects are available as a means of organizing your Adobe Dynamic Media Classic assets. See [Organize your work with Projects](/help/using/organizing-projects.md).
 
 * **[!UICONTROL Show Sample eVideo Content]** - Turn on or off the display of eVideo sample content.
 
@@ -121,7 +121,7 @@ See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/Vi
 
 * **[!UICONTROL Default Color Profiles]** - Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
 
-* **[!UICONTROL Default Upload Options]** - Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see [Upload options](/help/uploading-files.md#upload_options).
+* **[!UICONTROL Default Upload Options]** - Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see [Upload options](/help/using/uploading-files.md#upload_options).
 
 ### Image Map Editor, to Application
 
@@ -131,7 +131,7 @@ See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/Vi
 
 ### Other Settings, to Application
 
-* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/trash-folder.md).
+* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/using/trash-folder.md).
 
 ## Use the Overwrite Images option {#using-the-overwrite-images-option}
 
