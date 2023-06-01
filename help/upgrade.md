@@ -19,7 +19,7 @@ The new [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] builds on the fu
 | Easy Authoring | Build, customize, and launch rich experiences quickly without the need for technical help. |
 | Intuitive Interface | Edit image viewers and video players with a WYSIWYG (What You See It What You Get) interface that is s easy to use. |
 | Shoppable Media | Create shoppable images, videos, and carousels with image hotspots and clickable links. |
-| Scalable CDN | Access the best-in-class Content Delivery Network (CDN) with proven scale and performance to meet any demand. |
+| Scalable CDN (Content Delivery Network) | Access the best-in-class CDN with proven scale and performance to meet any demand. |
 | Dynamic Imaging | Using one primary file, auto-generate and publish unlimited versions, changing size, format, resolution, crop, or effect. |
 | Dynamic Video | Full-size video is auto-sized for all screens and adaptively streamed to assure a consistent and quality user experience. |
 | Personalization | Easily build and publish [!DNL Dynamic Media] interactive experiences, like product configurators, personalized banners, and emails. |
@@ -48,4 +48,4 @@ The new [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] builds on the fu
 * Strong performer in 2016 Online Video Platform report.
 * Top rich media vendor to Internet Retail 1000, nine years in a row.
 * 24/7/265 support, 99.95% SLAs, Adobe Professional Services.
-* Proven infrastructure serving over 800 clients world wide, 3.5 petabytes traffic per month and more than 500 million assets in management, 60% growth in traffic year-over-year.
+* Proven infrastructure serving over 800 clients worldwide, 3.5-petabytes traffic per month and more than 500 million assets in management, 60% growth in traffic year-over-year.

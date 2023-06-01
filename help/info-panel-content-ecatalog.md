@@ -19,7 +19,7 @@ You can manage your InfoPanel setup and data using the following features in Ado
 
 * InfoPanel Setup panel lets you specify the template used to display the Info Panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the eCatalogs is automatically published.
 * InfoPanel Datafeed panel lets you specify a CSV file containing the text you want to appear in the InfoPanel rollover text, and schedule times for updating the information.
-* Import Metadata dialog box (accessed from the Map Pages view) lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the Datafeed panel with the CSV file option for your rollover text.
+* Import Metadata dialog box (accessed from the Map Pages view) lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the Data feed panel with the CSV file option for your rollover text.
 * Map Pages view provides an option for previewing the xml that appears for specific image maps.
 
 ## Set up a response template for eCatalogs {#set-up-a-response-template-for-ecatalogs}
@@ -43,7 +43,7 @@ You can select one of three preset response templates for displaying text in an 
 1. In the Response TTL box, enter the number of hours you want to wait before caching the data:
 
     * Set a lower number if the data is updated frequently throughout a day.
-    * Set a higher number if the data is relatively stable and doesn’t require updating frequently throughout the day. The default is ten hours.
+    * Set a higher number if the data is relatively stable and doesn't require updating frequently throughout the day. The default is ten hours.
 
 1. Select **[!UICONTROL Publish]**.
 
@@ -60,7 +60,7 @@ When formatting source content, keep in mind the following guidelines:
 ### Import CSV content into eCatalogs from an externally hosted location {#import-csv-content-into-ecatalogs-from-an-externally-hosted-location}
 
 1. Double-click the eCatalog so it opens in Detail View.
-1. Select the **[!UICONTROL InfoPanel Datafeed]** panel.
+1. Select the **[!UICONTROL InfoPanel Data feed]** panel.
 1. Enter the URL for the CSV file in the Externally Hosted CSV File Location box. You can paste the URL into this field or type it directly.
 1. (Optional) Specify a time to update the content using the Schedule Update menus and select **[!UICONTROL Add]**. You can select multiple times for updating. Each update time appears in the Update Times box. (To remove a time, select it and select **[!UICONTROL Delete]**.)
 1. (Optional) Select **[!UICONTROL Run Update Now]** to immediately update the content.
@@ -89,7 +89,7 @@ Adobe Dynamic Media Classic sends you an e-mail message letting you know if the 
 
 Using the Map Pages screen, you can easily and quickly view Info Panel text for the Image Maps on a specific page of your eCatalog.
 
-1. Select the Catalog’s rollover **[!UICONTROL Edit]** button.
+1. Select the Catalog's rollover **[!UICONTROL Edit]** button.
 1. Select **[!UICONTROL Map Pages]**.
 1. At the top of the table on the right side of the screen, choose **[!UICONTROL Info Panel]** from the Show menu.
 
