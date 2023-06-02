@@ -15,7 +15,7 @@ exl-id: 1c368c25-78e6-4bcc-b390-d9133073821a
 
 Adobe Dynamic Media Classic offers many tools for creating rich-media effects. These tools are available by clicking the rollover **[!UICONTROL Edit]** button and in the Browse Panel in Detail View. You can do the following image-editing tasks in Adobe Dynamic Media Classic:
 
-* **Create Image Maps** - To create an Image Map, select the Image command or **[!UICONTROL Image Map]** button. An Image Map is a hotspot on an image, or an eCatalog page, or an image in a SpinSet that displays a panel with rollover text. Users can select an Image Map, for example, to launch a new web page. See [Create Image Maps](/help/creating-image-maps.md).
+* **Create Image Maps** - To create an Image Map, select the Image command or **[!UICONTROL Image Map]** button. An Image Map is a hotspot on an image, or an eCatalog page, or an image in a SpinSet, that displays a panel with rollover text. Users can select an Image Map, for example, to launch a new web page. See [Create Image Maps](/help/creating-image-maps.md).
 
 * **Create Zoom targets** - To create thumbnail targets, select the Zoom Targets command or the **[!UICONTROL Zoom Targets]** button. Users can select a thumbnail target in the Zoom Viewer to zoom directly to a particular part of an image. See [Create zoom targets for Guided Zoom](/help/creating-zoom-targets-guided-zoom.md).
 
