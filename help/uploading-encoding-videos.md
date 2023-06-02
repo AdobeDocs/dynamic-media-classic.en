@@ -17,14 +17,14 @@ To create single video or adaptive video sets for delivery to the web or mobile 
 * **MP4** - Adobe Dynamic Media Classic recommends MP4 as the preferred video file format. Use MP4 files for the following:
 
   * HTTP Dynamic Streaming on desktops.
-  * HTTP Live Streaming (Apple's streaming protocol).
-  * Progressive video delivery to Android&trade;, BlackBerry&reg;, and Windows&reg; mobile devices
+  * HTTP Live Streaming (Apple’s streaming protocol).
+  * Progressive video delivery to Android™, BlackBerry®, and Windows® mobile devices
 
   Adobe Dynamic Media Classic offers two workflows for uploading video files:
 
 * **Pre-encoded Videos** - You upload MP4 files directly to Adobe Dynamic Media Classic. With this workflow, files are not encoded at the time you upload them. The files are pre-encoded in preparation for delivery to the desktop and to mobile devices.
 
-* **Primary source videos** - Upload primary source video files and, at upload, encode these files to MP4 files. Encoded videos are labeled "Video" in the Browse panel. Adobe Dynamic Media Classic supports the encoding of video files in many formats.
+* **Primary source videos** - Upload primary source video files and, at upload, encode these files to MP4 files. Encoded videos are labeled “Video” in the Browse panel. Adobe Dynamic Media Classic supports the encoding of video files in many formats.
 
   * Make sure the primary source video files that you want to encode are supported.
 
@@ -102,14 +102,14 @@ The following table lists video file types (with permitted video codecs) that yo
   | M2V | MPEG-2 ES |
   | M4V | H.264 |
   | MOV | DV, DVCPro 50, H.261, H.263, H.264, Sorenson Video 1 |
-  | MP4 | H.264 / MPEG-4 AVC |
+  | MP4 | H.264/MPEG-4 AVC |
   | MPEG | MPEG-2 SS |
   | MPG | MPEG-2 SS |
   | MTS | MPEG-2 |
   | ProRes | APCN , APCS, APCO, APCH, AP4H |
   | TS | DVCPro 50 |
   | VOB | MPEG-2 |
-  | WMV/ASF | VC-1, Windows&reg; Media Video 7, Windows&reg; Media Video 8 |
+  | WMV/ASF | VC-1, Windows® Media Video 7, Windows® Media Video 8 |
 
   >[!NOTE]
   >
@@ -137,19 +137,19 @@ The following table describes the recommended size, aspect ratio, and minimum bi
 | 1280 X 720 | 16:9 | 3000 - 6000 kbps, depending on the amount of motion in the video. |
 | 1920 X 1080 | 16:9 | 6000 - 8000 kbps, depending on the amount of motion in the video. |
 
-### Obtain a file's metadata {#obtaining-a-file-s-metadata}
+### Obtain a file’s metadata {#obtaining-a-file-s-metadata}
 
-You can obtain a file's metadata by viewing its metadata in Adobe Dynamic Media Classic, using a video-editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file's metadata:
+You can obtain a file’s metadata by viewing its metadata in Adobe Dynamic Media Classic, using a video-editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file’s metadata:
 
 1. Go to this web page: [https://mediaarea.net/en/MediaInfo](https://mediaarea.net/en/MediaInfo).
 1. Select and download the installer for the GUI version, and follow the installation instructions.
-1. After installation, either right-click the video file (Windows&reg; only) and select MediaInfo, or open MediaInfo and drag your video file into the application. You see all metadata associated with your video file, including its width, height, and fps.
+1. After installation, either right-click the video file (Windows® only) and select MediaInfo, or open MediaInfo and drag your video file into the application. You see all metadata associated with your video file, including its width, height, and fps.
 
 ### Aspect ratio {#aspect-ratio}
 
 When you choose or create a video encoding preset for your primary video file, make sure that the preset has the same aspect ratio as the primary video file. The *aspect ratio* is the ratio of the width to the height of the video.
 
-To determine the aspect ratio of a video file, obtain the file's metadata, and note the file's width and height (see [Obtain a file's metadata](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Then use this formula to determine the aspect ratio:
+To determine the aspect ratio of a video file, obtain the file’s metadata, and note the file’s width and height (see [Obtain a file’s metadata](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Then use this formula to determine the aspect ratio:
 
 width/height = aspect ratio
 
@@ -172,7 +172,7 @@ The *data rate* (also called the *bit rate*) is the amount of data that is encod
 >
 >Because all codecs use lossy compression, data rate is the most important factor in video quality. With lossy compression, the more you compress a video file, the more the quality is degraded. For this reason, all other characteristics being equal (the resolution, frame rate, and codec), the lower the data rate, the lower the quality of the compressed file.
 
-When you choose a video encoding preset, remember to account for the target end user's connection speed. Choose a preset with a data rate that is 80 percent of that speed. For example, if the target end user's connection speed is 1000 Kbps, the best preset is one with a video data rate of 800 Kbps.
+When you choose a video encoding preset, remember to account for the target end user’s connection speed. Choose a preset with a data rate that is 80 percent of that speed. For example, if the target end user’s connection speed is 1000 Kbps, the best preset is one with a video data rate of 800 Kbps.
 
 This table describes the data rate of typical connection speeds.
 
@@ -185,7 +185,7 @@ This table describes the data rate of typical connection speeds.
 
 ### Resolution {#resolution}
 
-*Resolution* describes a video file's height and width in pixels. Most source video is stored at a high resolution (for example, 1920 x 1080). For streaming purposes, source video is compressed to a smaller resolution (640 x 480 or smaller).
+*Resolution* describes a video file’s height and width in pixels. Most source video is stored at a high resolution (for example, 1920 x 1080). For streaming purposes, source video is compressed to a smaller resolution (640 x 480 or smaller).
 
 Resolution and data rate are two integrally linked factors that determine video quality. To maintain the same video quality, the higher the number of pixels in a video file (the higher the resolution), the higher the data rate must be. For example, consider the number of pixels per frame in a 320 x 240 resolution and a 640 x 480 resolution video file:
 
@@ -220,7 +220,7 @@ When you choose (or create) a video encoding preset for your primary video file,
 
 In the United States and Japan, most video is shot at 29.97 frames per second (fps); in Europe, most video is shot at 25 fps. Film is shot at 24 fps.
 
-Choose a video encoding preset that matches the fps rate of your primary video file. For example, if your primary video is 25 fps, choose an encoding preset with 25 fps. By default, all custom encoding uses the primary video file's fps. For this reason, you do not need to explicitly specify the fps setting when you create a video encoding preset.
+Choose a video encoding preset that matches the fps rate of your primary video file. For example, if your primary video is 25 fps, choose an encoding preset with 25 fps. By default, all custom encoding uses the primary video file’s fps. For this reason, you do not need to explicitly specify the fps setting when you create a video encoding preset.
 
 ### Video encoding dimensions {#video-encoding-dimensions}
 
@@ -258,7 +258,7 @@ On the Video Presets screen, administrators can set up and manage video encoding
 * Edit video encoding presets.
 * Delete video presets.
 
-Any video that you upload to Adobe Dynamic Media Classic or that you encode in Adobe Dynamic Media Classic is treated as "video". In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Adobe Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
+Any video that you upload to Adobe Dynamic Media Classic or that you encode in Adobe Dynamic Media Classic is treated as “video”. In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Adobe Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
 
 See [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing-videos-in-a-video-viewer).
 
@@ -271,10 +271,10 @@ For video assets that you upload and encode in Adobe Dynamic Media Classic, vide
 **MP4 H.264** Use MP4 files for the following:
 
 * HTTP Dynamic Streaming on desktops.
-* HLS (HTTP Live Streaming, Apple's streaming protocol).
-* Progressive video delivery to Android&trade;, BlackBerry&reg;, and Windows&reg; mobile devices.
+* HLS (HTTP Live Streaming, Apple’s streaming protocol).
+* Progressive video delivery to Android™, BlackBerry®, and Windows® mobile devices.
 
-Any other video format and codec is treated as a "Primary Video". This asset classification means that the video is a source video file and cannot be used for delivery playback on desktops or mobile devices. For example, you cannot preview these types of videos in Adobe Dynamic Media Classic. You also cannot generate Copy URLs or Embed Code for use in video players, on websites, and so on.
+Any other video format and codec is treated as a “Primary Video”. This asset classification means that the video is a source video file and cannot be used for delivery playback on desktops or mobile devices. For example, you cannot preview these types of videos in Adobe Dynamic Media Classic. You also cannot generate Copy URLs or Embed Code for use in video players, on websites, and so on.
 
 ### Filter the list of video encoding presets {#filtering-the-list-of-video-encoding-presets}
 
@@ -345,9 +345,9 @@ Adobe Dynamic Media Classic has set maximum limits on the target data rate, reso
     | --- | --- |
     | Preset Name | Enter a descriptive name for the Video Preset. The name you enter appears in the Upload Job Options dialog box, in which users choose transcoding options. |
     | Description | Describe the Video Preset. What you enter appears as a tooltip when you move the pointer over the name of the preset in the Upload Job Options dialog box in which users choose transcoding options. |
-    | Playback Device | Choose the device that the video is intended to play back on. The options are Computer (desktops), Mobile (iPhone, iPad, Android&trade;); or Tablet (iPad only). This setting automatically determines the appropriate video and audio codec that is used during encoding. |
+    | Playback Device | Choose the device that the video is intended to play back on. The options are Computer (desktops), Mobile (iPhone, iPad, Android™); or Tablet (iPad only). This setting automatically determines the appropriate video and audio codec that is used during encoding. |
     | Target Data Rate | Enter the average Internet connection speed (in kilobits per second) of the target end user. You can enter the rate or drag the slider to enter it. The User Connection Speed spectrum lists typical speeds for broadband, DSL, mobile, and dial-up connections. This setting automatically determines the combined video and audio data rate. In other words, the amount of data that is encoded to make up a single second of video playback. The higher the data rate, the better the quality of the resulting video. However, data rates that are too high result in large file sizes that create subpar viewing experiences for users with a low bandwidth. As a best practice, strike a balance between high and low data rates. Aim to create an adequate quality playback experience without alienating users who have narrow bandwidths. |
-    | Aspect Ratio | Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3 - Used for almost all standard definition TV broadcast content.</li><li>16:9 - Used for almost all wide-screen content and movies on High-Definition Television (HDTV).</li><li>Auto-scale - (Default) A single encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio (width to height ratio).</li><li>Custom - Used when you want to define a non-standard video size.</li><li>The aspect ratio that you choose determines the width and height settings for the Resolution Size; the width and height value automatically scale to the proper aspect ratio.</li></ul> |
+    | Aspect Ratio | Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3 - Used for almost all standard definition TV broadcast content.</li><li>16:9 - Used for almost all wide-screen content and movies on High-Definition Television (HDTV).</li><li>Auto-scale - (Default) A single encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video’s aspect ratio (width to height ratio).</li><li>Custom - Used when you want to define a non-standard video size.</li><li>The aspect ratio that you choose determines the width and height settings for the Resolution Size; the width and height value automatically scale to the proper aspect ratio.</li></ul> |
     | Resolution Size | Resolution size, expressed by the number of pixels wide by the number of pixels high, determines the size. Enter a width and height value in pixels or drag the slider to enter these values. The Resolution spectrum lists typical resolution sizes. The width and height values automatically adhere to the aspect ratio that you selected. For example, if you select 4:3 as the aspect ratio and enter 400 for width, 300 is entered automatically for height. If you selected Auto-scale for the Aspect Ratio setting, then the Width value for the Resolution Size is automatically set to Auto. Select **[!UICONTROL Preview]** so you can open a browser window and see your resolution choices there. |
     | Encode File Suffix | Enter a suffix. This suffix is appended to the resulting encoded video file. You can enter a hyphen and underscore in the name; blank spaces and special characters are not allowed. |
     | Other Settings | Adobe Dynamic Media Classic determines all other encoding settings automatically according to best-practice encoding guidelines. |
