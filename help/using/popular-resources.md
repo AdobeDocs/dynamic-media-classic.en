@@ -5,7 +5,7 @@ contentOwner: Rick Brough
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: f67a0645-a37d-4791-a0da-69d844fea40e
-topic: "Administration, Content Management"
+topic: Administration, Content Management
 level: Intermediate
 ---
 # Popular resources{#popular-resources}

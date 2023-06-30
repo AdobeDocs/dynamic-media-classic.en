@@ -10,7 +10,7 @@ discoiquuid: 1bd7cb5d-156c-4dad-a725-e177f05ccedf
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: ce9b5a41-cc3e-4801-8080-607cf7be338b
-topic: "Administration, Collaboration"
+topic: Administration, Collaboration
 level: Intermediate
 ---
 # Media Portal user roles{#media-portal-user-roles}

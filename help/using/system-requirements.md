@@ -10,7 +10,7 @@ discoiquuid: 27278fef-8b0e-41cd-b393-7a4c3625d5c0
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 3460f3bd-1616-44e7-9ddb-fe74ee0c8729
-topic: "Administration, Content Management"
+topic: Administration, Content Management
 level: Intermediate
 ---
 # System requirements for Adobe Dynamic Media Classic desktop app {#system-requirements}

@@ -10,7 +10,7 @@ discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
-topic: "Integrations, Development"
+topic: Integrations, Development
 level: Experienced
 ---
 # Link an eCatalog to a web page{#linking-an-ecatalog-to-a-web-page}

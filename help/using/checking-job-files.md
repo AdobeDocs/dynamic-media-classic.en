@@ -10,7 +10,7 @@ discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
-topic: "Administration, Content Management"
+topic: Administration, Content Management
 level: Intermediate
 ---
 # Check job files{#checking-job-files}

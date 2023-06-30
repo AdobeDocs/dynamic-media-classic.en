@@ -10,7 +10,7 @@ discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
-topic: "Integrations, Development"
+topic: Integrations, Development
 level: Experienced
 ---
 # Log in to Adobe Analytics{#log-in-to-adobe-analytics}

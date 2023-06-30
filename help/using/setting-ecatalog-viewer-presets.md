@@ -9,7 +9,7 @@ discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 feature: Dynamic Media Classic,Viewers,Viewer Presets,eCatalog
 role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
-topic: "Integrations, Development"
+topic: Integrations, Development
 level: Experienced
 ---
 # Set up eCatalog Viewer Presets{#setting-up-ecatalog-viewer-presets}

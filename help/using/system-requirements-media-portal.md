@@ -10,7 +10,7 @@ discoiquuid: 43df059d-7c4d-481a-978a-ca4c74e604b4
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin
 exl-id: aa268ff7-c474-409a-af3e-3fd8ae1e6241
-topic: "Administration, Collaboration"
+topic: Administration, Collaboration
 level: Intermediate
 ---
 # System requirements for Media Portal in Adobe Dynamic Media Classic {#system-requirements}

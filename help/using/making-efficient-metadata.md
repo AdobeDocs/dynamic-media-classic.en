@@ -10,7 +10,7 @@ discoiquuid: b399c2b2-3e59-43e7-aa7d-dd4fdf4e9bad
 feature: Dynamic Media Classic,Collaboration,Metadata,Asset Management
 role: Admin,User
 exl-id: e6a5af61-37be-4152-9ea3-8868f054783c
-topic: "Collaboration, Content Management"
+topic: Collaboration, Content Management
 level: Intermediate
 ---
 # Make more efficient use of metadata{#making-more-efficient-use-of-metadata}

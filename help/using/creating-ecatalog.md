@@ -10,7 +10,7 @@ discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
-topic: "Integrations, Development"
+topic: Integrations, Development
 level: Experienced
 ---
 # Creating an eCatalog {#creating-an-ecatalog}

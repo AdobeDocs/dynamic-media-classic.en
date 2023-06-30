@@ -9,7 +9,7 @@ discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
-topic: "Collaboration, Content Management"
+topic: Collaboration, Content Management
 level: Intermediate
 ---
 # Specify export options available to Media Portal users {#specifying-export-options-available-to-media-portal-users}

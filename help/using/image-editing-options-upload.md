@@ -10,7 +10,7 @@ discoiquuid: d3f21cdf-2cb3-46e8-955a-b8daf0b233bc
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 2d9fc6d8-973f-4aaa-bc2c-b49cda2cde58
-topic: "Administration, Content Management"
+topic: Administration, Content Management
 level: Intermediate
 ---
 # Image fine-tuning options at upload{#image-editing-options-at-upload}

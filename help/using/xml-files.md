@@ -7,7 +7,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: User
 exl-id: 6eaecd25-7de3-492c-81e0-86a78145feb0
-topic: "Integrations, Development"
+topic: Integrations, Development
 level: Experienced
 ---
 # XML files {#xml-files}
