@@ -10,6 +10,8 @@ discoiquuid: c341f5ea-aa7b-4749-975d-68a45c6fa77c
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 63bc3b37-7d5f-4707-a743-ec4192c88f0b
+topic: Content Management
+level: Intermediate
 ---
 # Prepare Image Set assets for upload{#preparing-image-set-assets-for-upload}
 

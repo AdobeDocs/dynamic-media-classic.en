@@ -10,6 +10,8 @@ discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
+topic: Content Management
+level: Intermediate
 ---
 # Add chapter markers to video {#adding-chapter-markers-to-video}
 

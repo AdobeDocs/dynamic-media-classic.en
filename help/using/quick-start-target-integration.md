@@ -10,6 +10,8 @@ discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 4745ace5-7825-468e-8a82-bfbbcf1b0440
+topic: Integrations
+level: Experienced
 ---
 # Quick Start: Adobe Target Standard/Premium integration{#quick-start-target-integration}
 

@@ -10,6 +10,8 @@ discoiquuid: 92022dce-6534-4d93-befe-9dd2818c7b41
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 580cb169-0e26-412d-8dff-74dc63da25d8
+topic: Integrations
+level: Experienced
 ---
 # Preview eCatalogs in the eCatalog Viewer{#previewing-ecatalogs-in-the-ecatalog-viewer}
 

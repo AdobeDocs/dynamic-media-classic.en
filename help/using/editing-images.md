@@ -10,6 +10,8 @@ discoiquuid: efa2c56e-4543-47fa-a4e8-b94021102d01
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 1c368c25-78e6-4bcc-b390-d9133073821a
+topic: Content Management
+level: Intermediate
 ---
 # Edit images{#editing-images}
 

@@ -10,6 +10,8 @@ discoiquuid: f6a2dc19-7eb5-41f7-b6f2-de1979ed1d4e
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: fab1f618-5370-4049-b6e0-69264afa933c
+topic: Content Management
+level: Intermediate
 ---
 # Export source and encoded videos{#exporting-source-and-encoded-videos}
 

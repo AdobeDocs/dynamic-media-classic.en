@@ -10,6 +10,8 @@ discoiquuid: 3f1f5575-9fe5-436c-b009-99f3bff0b21f
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: fa5b3971-1c7d-4371-8d69-c399cec0390d
+topic: Development, Integrations
+level: Experienced
 ---
 # Disable Adobe Analytics tracking{#disabling-adobe-analytics-tracking}
 

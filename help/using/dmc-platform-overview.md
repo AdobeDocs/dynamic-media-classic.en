@@ -10,6 +10,8 @@ discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
+topic: Administration
+level: Beginner
 ---
 # Adobe Dynamic Media Classic program overview{#adobe-scene-platform-overview}
 

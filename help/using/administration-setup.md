@@ -9,6 +9,8 @@ discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
+topic: Administration
+level: Intermediate
 ---
 <!-- UPDATE TOPIC AFTER DECEMBER 31, 2020!!!! -->
 

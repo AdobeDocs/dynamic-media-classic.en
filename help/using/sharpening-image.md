@@ -10,6 +10,8 @@ discoiquuid: 11cd5362-d90a-4c1e-bfbd-46a65a554409
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
+topic: Content Management
+level: Intermediate
 ---
 # Sharpen an image {#sharpening-an-image}
 

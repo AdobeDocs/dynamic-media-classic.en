@@ -8,6 +8,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
+topic: Administration
+level: Intermediate
 ---
 # Application Setup{#application-setup}
 

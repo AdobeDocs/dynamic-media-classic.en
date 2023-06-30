@@ -10,6 +10,8 @@ discoiquuid: feab1194-a98c-4a18-812c-7e2e537ca488
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4d38a224-5e06-4932-a801-5dcc32fe4b31
+topic: Content Management
+level: Intermediate
 ---
 # View assets in the Browse panel{#viewing-assets-in-the-browse-panel}
 

@@ -8,8 +8,10 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 feature: Dynamic Media Classic
-role: Admin,User
+role: User
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
+topic: Content Management
+level: Intermediate
 ---
 # Navigation basics{#navigation-basics}
 

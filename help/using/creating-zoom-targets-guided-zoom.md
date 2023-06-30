@@ -10,6 +10,8 @@ discoiquuid: e7b4673c-8681-4741-912e-9a31cf106449
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: ffb799ba-1cf1-48e0-91a8-dea758139140
+topic: Content Management
+level: Intermediate
 ---
 # Create zoom targets for Guided Zoom{#creating-zoom-targets-for-guided-zoom}
 

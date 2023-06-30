@@ -10,6 +10,8 @@ discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
 feature: Dynamic Media Classic
 role: User
 exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
+topic: Administration, Content Management, Development
+level: Intermediate
 ---
 # Link URLs to your web application{#linking-urls-to-your-web-application}
 

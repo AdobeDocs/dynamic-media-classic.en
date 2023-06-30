@@ -10,6 +10,8 @@ discoiquuid: 75658717-5c39-473e-9d32-718d00706310
 feature: Dynamic Media Classic
 role: User
 exl-id: a105c18a-7e06-43cb-938c-a3bcdc3e9d22
+topic: Content Management
+level: Experienced
 ---
 # Upload template files{#uploading-template-files}
 

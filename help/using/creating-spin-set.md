@@ -10,6 +10,8 @@ discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
+topic: Content Management
+level: Intermediate
 ---
 # Create a Spin Set{#creating-a-spin-set}
 

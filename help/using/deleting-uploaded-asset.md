@@ -9,6 +9,8 @@ discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 feature: Dynamic Media Classic
 role: User
 exl-id: d845bcb2-f914-4727-8df2-049dc172f266
+topic: Content Management
+level: Intermediate
 ---
 # Delete an uploaded asset{#deleting-an-uploaded-asset}
 

@@ -10,6 +10,8 @@ discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
 feature: Dynamic Media Classic,Asset Management,Metadata
 role: User
 exl-id: 2be50cc7-9a8b-4f7b-8ebf-18a3208654f2
+topic: Content Management
+level: Intermediate
 ---
 # View, add, and export metadata{#viewing-adding-and-exporting-metadata}
 

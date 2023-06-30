@@ -10,6 +10,8 @@ discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
+topic: Content Management
+level: Intermediate
 ---
 # Preview videos in a video viewer{#previewing-videos-in-a-video-viewer}
 

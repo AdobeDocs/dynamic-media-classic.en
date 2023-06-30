@@ -8,6 +8,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: 2073d95b-1600-481f-8038-d29e8acacf7d
+topic: Administration, Content Management, Development
+level: Intermediate
 ---
 # Link Zoom viewers to your web pages{#linking-zoom-viewers-to-your-web-pages}
 

@@ -4,6 +4,8 @@ description: An upgrade readiness checklist when you want to advance from [!DNL 
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 86537998-b7e9-449c-83eb-6fd04533a00f
+topic: Administration, Migration
+level: Intermediate
 ---
 # Upgrade readiness checklist
 

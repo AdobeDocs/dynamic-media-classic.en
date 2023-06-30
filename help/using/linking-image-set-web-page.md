@@ -10,6 +10,8 @@ discoiquuid: 40f4abab-9059-4d92-a761-f6d573b42e00
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: df4e5218-2a66-413c-b247-b2a16d884041
+topic: Content Management
+level: Intermediate
 ---
 # Link an Image Set to a web page{#linking-an-image-set-to-a-web-page}
 

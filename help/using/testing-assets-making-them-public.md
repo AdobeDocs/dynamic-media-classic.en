@@ -10,6 +10,8 @@ discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
+topic: Content Management
+level: Intermediate
 ---
 # Test assets before making them public {#testing-assets-before-making-them-public}
 

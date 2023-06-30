@@ -10,6 +10,8 @@ discoiquuid: 553c95fc-0a41-4f06-af50-a62bc1438149
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
+topic: Content Management
+level: Intermediate
 ---
 # Manage the Trash folder{#managing-the-trash-folder}
 

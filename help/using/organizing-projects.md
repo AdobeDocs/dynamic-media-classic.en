@@ -10,6 +10,8 @@ discoiquuid: 036dfc1f-8317-4887-a6e1-d8f2cb61819c
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
+topic: Content Management
+level: Intermediate
 ---
 # Organize your work with Projects{#organizing-your-work-with-projects}
 

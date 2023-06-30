@@ -4,6 +4,8 @@ description: Adobe Dynamic Media Classic training videos on getting started, Dyn
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 21e67a41-16a2-4f41-8cfe-a5d7941c73a0
+topic: Administration, Collaboration
+level: Beginner
 ---
 # Adobe Dynamic Media Classic Training Videos {#training-videos}
 

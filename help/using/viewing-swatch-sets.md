@@ -10,6 +10,8 @@ discoiquuid: 48de8604-2bb4-4862-82ee-0c7847f0d0e7
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 05769eeb-5f1b-42ff-9392-2669f5051140
+topic: Content Management
+level: Intermediate
 ---
 # View Swatch Sets{#viewing-swatch-sets}
 

@@ -10,6 +10,8 @@ discoiquuid: 2bccf91d-ec27-4cdf-a322-55804b6ba0d3
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: e2840200-246e-4c68-b10f-a66461f2a118
+topic: Certification
+level: Intermediate
 ---
 # Adobe Training Services{#adobe-training-services}
 

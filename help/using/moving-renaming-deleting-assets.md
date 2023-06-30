@@ -10,6 +10,8 @@ discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
+topic: Content Management
+level: Intermediate
 ---
 # Move, rename, and delete assets{#moving-renaming-and-deleting-assets}
 

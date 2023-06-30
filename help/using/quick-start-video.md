@@ -8,6 +8,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
+topic: Content Management
+level: Beginner
 ---
 # Quick Start: Video in Adobe Dynamic Media Classic{#quick-start-video}
 

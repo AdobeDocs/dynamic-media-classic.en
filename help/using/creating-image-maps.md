@@ -10,6 +10,8 @@ discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
+topic: Content Management
+level: Intermediate
 ---
 # Create Image Maps {#creating-image-maps}
 

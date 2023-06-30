@@ -10,6 +10,8 @@ discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
+topic: Integrations, Development
+level: Experienced
 ---
 # Create eCatalog Image Maps{#creating-ecatalog-image-maps}
 

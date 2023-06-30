@@ -10,6 +10,8 @@ discoiquuid: 631d2b2d-9e69-4b96-8392-17e00a1a8de0
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 426b6e6b-daed-4ca6-b095-99bb06604b07
+topic: Content Management
+level: Intermediate
 ---
 # Create a Swatch Set{#creating-a-swatch-set}
 

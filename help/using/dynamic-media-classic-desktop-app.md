@@ -8,6 +8,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
+topic: Administration
+level: Intermediate
 ---
 # Now available: Adobe Dynamic Media Classic desktop app {#dynamic-media-classic-desktop-app}
 

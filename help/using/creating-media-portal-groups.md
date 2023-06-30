@@ -10,6 +10,8 @@ discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
+topic: Administration, Collaboration
+level: Intermediate
 ---
 # Create and manage Media Portal groups{#creating-and-managing-media-portal-groups}
 

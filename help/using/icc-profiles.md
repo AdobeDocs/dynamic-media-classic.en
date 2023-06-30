@@ -10,6 +10,8 @@ discoiquuid: 44f1b4c4-6d7f-4e0f-84ce-11d26745e0f0
 feature: Dynamic Media Classic
 role: User
 exl-id: 989f2761-f5d0-4ece-b2a6-f7b4577aa8a2
+topic: Administration, Content Management
+level: Intermediate
 ---
 # ICC profiles{#icc-profiles}
 

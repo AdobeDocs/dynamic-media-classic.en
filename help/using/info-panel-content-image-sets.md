@@ -10,6 +10,8 @@ discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 09fafdb4-51e2-4719-83b6-056f79d1ba9e
+topic: Content Management
+level: Intermediate
 ---
 # Manage Info Panel content in Image Sets{#managing-info-panel-content-in-image-sets}
 

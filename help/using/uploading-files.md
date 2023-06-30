@@ -9,6 +9,8 @@ discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
+topic: Content Management
+level: Intermediate
 ---
 # Upload files{#uploading-files}
 

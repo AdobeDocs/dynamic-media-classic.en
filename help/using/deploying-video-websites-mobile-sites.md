@@ -10,6 +10,8 @@ discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
+topic: Content Management
+level: Intermediate
 ---
 # Deploy video to your websites and mobile sites{#deploying-video-to-your-websites-and-mobile-sites}
 

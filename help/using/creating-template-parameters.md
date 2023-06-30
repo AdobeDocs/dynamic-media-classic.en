@@ -10,6 +10,8 @@ discoiquuid: d263f041-5a0d-4c4f-9266-aeff51a5a7e2
 feature: Dynamic Media Classic
 role: User
 exl-id: 118806ea-c8a7-4aaf-9ae3-739c6b04ea77
+topic: Development
+level: Experienced
 ---
 # Create template parameters{#creating-template-parameters}
 

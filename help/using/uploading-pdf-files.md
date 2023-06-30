@@ -9,6 +9,8 @@ discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
+topic: Integrations, Development
+level: Experienced
 ---
 # Upload the PDF files{#uploading-the-pdf-files}
 
