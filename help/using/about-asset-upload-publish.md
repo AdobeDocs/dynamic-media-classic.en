@@ -8,6 +8,8 @@ discoiquuid: 47dcbb26-b90f-40d7-964e-f08fe98fcdbb
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 98b12031-f88b-47ea-a95b-31d71eaf22c2
+topic: Content Management
+level: Intermediate
 ---
 # About uploading and publishing assets {#about-uploading-and-publishing-assets}
 

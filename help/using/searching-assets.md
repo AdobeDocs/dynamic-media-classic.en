@@ -10,6 +10,8 @@ discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
+topic: Content Management
+level: Intermediate
 ---
 # Search assets in Adobe Dynamic Media Classic{#searching-assets}
 

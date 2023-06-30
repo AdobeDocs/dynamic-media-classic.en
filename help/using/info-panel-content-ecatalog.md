@@ -10,6 +10,8 @@ discoiquuid: be277831-77cc-4011-ae30-e75c18eec99b
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
+topic: Integrations
+level: Experienced
 ---
 # Manage Info Panel content in eCatalogs{#managing-info-panel-content-in-ecatalogs}
 

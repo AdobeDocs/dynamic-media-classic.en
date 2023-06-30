@@ -7,6 +7,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: d15aaa18-123d-442e-928f-8e71fa266a64
+topic: Content Management
+level: Intermediate
 ---
 # About managing assets in Adobe Dynamic Media Classic {#about-managing-assets}
 

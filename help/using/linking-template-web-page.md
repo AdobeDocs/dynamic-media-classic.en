@@ -10,6 +10,8 @@ discoiquuid: 989dba07-448a-45b1-b157-af50abb5359a
 feature: Dynamic Media Classic
 role: User
 exl-id: 6305c287-360f-48c2-b456-58be0791c7af
+topic: "Administration, Content Management, Development"
+level: Experienced
 ---
 # Link a template to a web page{#linking-a-template-to-a-web-page}
 

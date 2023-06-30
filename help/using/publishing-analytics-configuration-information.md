@@ -10,6 +10,8 @@ discoiquuid: deeb9fed-ef27-4d58-af98-f381de33c431
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 02782dc0-601f-453a-98d1-1fdd7267df3b
+topic: "Integrations, Development"
+level: Experienced
 ---
 # Publish Adobe Analytics configuration information{#publishing-adobe-analytics-configuration-information}
 

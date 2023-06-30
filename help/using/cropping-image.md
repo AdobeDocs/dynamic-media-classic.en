@@ -10,6 +10,8 @@ discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
+topic: Content Management
+level: Intermediate
 ---
 # Crop an image{#cropping-an-image}
 

@@ -10,6 +10,8 @@ discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
 feature: Dynamic Media Classic
 role: Admin
 exl-id: f76b0e09-f148-46aa-b710-ec35bfebcb37
+topic: Content Management
+level: Intermediate
 ---
 # Video SEO (Search Engine Optimization){#video-seo-search-engine-optimization}
 

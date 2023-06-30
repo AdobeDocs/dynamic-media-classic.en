@@ -4,6 +4,8 @@ description: Upgrade from [!DNL Adobe Dynamic Media Classic] to [!DNL Dynamic Me
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5e322d81-1303-494b-b5dd-df29b5c5d8e2
+topic: "Administration, Migration"
+level: Intermediate
 ---
 # Why upgrade to [!DNL Dynamic Media]?
 

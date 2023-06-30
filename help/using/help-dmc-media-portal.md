@@ -10,6 +10,8 @@ discoiquuid: a55f7279-6bba-43f1-99fa-88e922ac1803
 feature: Dynamic Media Classic,Brand Portal
 role: Admin,User
 exl-id: 2c7c0838-0c48-450e-94ff-521bae19425f
+topic: "Collaboration, Content Management"
+level: Intermediate
 ---
 # Help for Adobe Dynamic Media Classic Media Portal{#help-for-scene-media-portal}
 

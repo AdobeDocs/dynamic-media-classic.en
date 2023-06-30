@@ -7,6 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: af29eabb-f7c6-420b-9c63-9d60ee2dc148
+topic: Administration
+level: Intermediate
 ---
 # Adobe Dynamic Media Classic Guide {#scene7-overview}
 

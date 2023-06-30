@@ -10,6 +10,8 @@ discoiquuid: 76e5732a-83c6-4e6b-a29f-a393b1c971aa
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 00b70162-2394-433d-a46c-1d90667030af
+topic: "Integrations, Development"
+level: Experienced
 ---
 # Publish eCatalogs and associated PDFs{#publishing-ecatalogs-and-associated-pdfs}
 

@@ -10,6 +10,8 @@ discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
+topic: "Collaboration, Content Management"
+level: Intermediate
 ---
 # Customize the Media Portal screen{#customizing-the-media-portal-screen}
 

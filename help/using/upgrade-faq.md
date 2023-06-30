@@ -4,6 +4,8 @@ description: Frequently asked questions (FAQ) when you upgrade from [!DNL Adobe 
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5c2e2937-fe4f-4b64-bee8-9572ca84695b
+topic: Content Management
+level: Intermediate
 ---
 # Frequently asking questions about upgrading from [!DNL Dynamic Media Classic] to [!DNL Dynamic Media] 
 

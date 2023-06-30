@@ -10,6 +10,8 @@ discoiquuid: 0c851ecd-be05-46a9-8654-3d028f3217a4
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 90216519-4b14-4f8b-8e72-3d7ce9ec89ff
+topic: Content Management
+level: Intermediate
 ---
 # Prepare Swatch Set assets for upload{#preparing-swatch-set-assets-for-upload}
 

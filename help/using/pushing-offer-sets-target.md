@@ -10,6 +10,8 @@ discoiquuid: 39a05654-4f66-4f1e-aec5-ebe6d174353f
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 778fd54b-a9e5-40c5-aff1-a156a5c15923
+topic: "Integrations, Development"
+level: Experienced
 ---
 # Push offer sets to Adobe Target Standard/Premium {#pushing-offer-sets-to-target}
 

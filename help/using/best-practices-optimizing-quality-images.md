@@ -8,6 +8,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
+topic: Content Management
+level: Intermediate
 ---
 # Best practices for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}
 

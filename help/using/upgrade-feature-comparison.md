@@ -4,6 +4,8 @@ description: Feature comparison table between [!DNL Dynamic Media] in [!DNL Adob
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: eb56533a-4e31-4367-8b68-879cd70c761e
+topic: Content Management
+level: Intermediate
 ---
 # Feature comparison
 

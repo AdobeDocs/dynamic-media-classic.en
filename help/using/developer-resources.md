@@ -9,6 +9,8 @@ discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
 feature: Dynamic Media Classic,SDK/API
 role: Developer
 exl-id: eaa6bf7b-ff38-4a15-b5b5-c60c3b75a35f
+topic: "Development, Integrations"
+level: Experienced
 ---
 # Developer resources {#developer-resources}
 

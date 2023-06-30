@@ -8,6 +8,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 9d017742-1ed2-411d-a8a6-438102bf1557
+topic: "Development, Integrations"
+level: Experienced
 ---
 # Enable Adobe Analytics Video Reports{#enabling-adobe-analytics-video-reports}
 

@@ -7,6 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
+topic: Content Management
+level: Intermediate
 ---
 # Upload a raster image asset {#uploading-an-image-asset-or-a-vector-asset}
 

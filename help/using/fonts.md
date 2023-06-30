@@ -10,6 +10,8 @@ discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 feature: Dynamic Media Classic
 role: User
 exl-id: 186f4c7f-16f6-42f5-bc0e-55362c55e794
+topic: Content Management
+level: Intermediate
 ---
 # Fonts{#fonts}
 

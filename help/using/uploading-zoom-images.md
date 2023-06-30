@@ -10,6 +10,8 @@ discoiquuid: e84b7b0e-527a-4c64-bc2a-e5e64d47b2d6
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: 44a82437-7592-484f-b45f-17ed1f6efbec
+topic: Content Management
+level: Intermediate
 ---
 # Upload Zoom images{#uploading-zoom-images}
 

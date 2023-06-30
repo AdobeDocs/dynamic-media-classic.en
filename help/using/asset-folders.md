@@ -10,6 +10,8 @@ discoiquuid: 588944c3-78ba-4bd1-a8da-9a6dd99a27a9
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
+topic: Content Management
+level: Intermediate
 ---
 # Work with asset folders{#working-with-asset-folders}
 

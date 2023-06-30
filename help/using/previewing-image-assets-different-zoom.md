@@ -10,6 +10,8 @@ discoiquuid: b072d3b7-0d30-4903-9c87-5fbbcc89bd51
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: bc83a94d-540a-46ad-aae0-e4a32ee9a302
+topic: Content Management
+level: Intermediate
 ---
 # Preview image assets with different Zoom Viewers{#previewing-image-assets-with-different-zoom-viewers}
 

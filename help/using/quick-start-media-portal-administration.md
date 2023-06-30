@@ -10,6 +10,8 @@ discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296
+topic: "Collaboration, Content Management"
+level: Beginner
 ---
 # Quick Start: Media Portal{#quick-start-media-portal}
 

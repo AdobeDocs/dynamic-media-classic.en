@@ -10,6 +10,8 @@ discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
 feature: Dynamic Media Classic,Image Presets
 role: User
 exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
+topic: Content Management
+level: Intermediate
 ---
 # Set up Image Presets{#setting-up-image-presets}
 

@@ -10,6 +10,8 @@ discoiquuid: 42df9adc-e563-4de2-87a4-bd40cef77cdf
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8d1e0c37-a648-4c7b-8f68-4b2ab71dfa11
+topic: "Integrations, Development"
+level: Experienced
 ---
 # Work with vignette, window covering, and cabinet files{#working-with-vignette-window-covering-and-cabinet-files}
 

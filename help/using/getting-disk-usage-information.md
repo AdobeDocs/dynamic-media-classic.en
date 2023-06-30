@@ -9,6 +9,8 @@ discoiquuid: 6763546d-83c4-42dc-879f-6bbfc8b56482
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 337a4681-ac9a-40d9-82e8-1999bbed980c
+topic: "Administration, Content Management"
+level: Intermediate
 ---
 # Get disk usage information {#getting-disk-usage-information}
 

@@ -10,6 +10,8 @@ discoiquuid: eaa214ff-d1ef-4691-9148-d01bf243c810
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
+topic: Content Management
+level: Intermediate
 ---
 # Work in Detail View{#working-in-detail-view}
 

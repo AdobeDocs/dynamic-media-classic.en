@@ -10,6 +10,8 @@ discoiquuid: 027aa3e0-f085-48ae-aff9-7b805bbdf8ab
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: c8d742a4-a1a1-4b5f-bcfd-6a1972edf9bc
+topic: Content Management
+level: Intermediate
 ---
 # View Image Sets{#viewing-image-sets}
 

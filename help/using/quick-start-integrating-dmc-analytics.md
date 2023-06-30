@@ -8,6 +8,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: a8fa2414-af01-4a58-bb33-dfd12c1056cc
+topic: Integrations
+level: Experienced
 ---
 # Quick Start: Integrate Adobe Dynamic Media Classic and Adobe Analytics {#quick-start-integrating-dmc-analytics}
 

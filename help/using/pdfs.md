@@ -10,6 +10,8 @@ discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
+topic: "Integrations, Development"
+level: Experienced
 ---
 # Work with PDFs{#working-with-pdfs}
 

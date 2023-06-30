@@ -7,6 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
+topic: Administration
+level: Intermediate
 ---
 # Adobe Dynamic Media Classic Desktop app - Now available {#new-ui-2020}
 

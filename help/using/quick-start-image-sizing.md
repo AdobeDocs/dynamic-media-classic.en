@@ -10,6 +10,8 @@ discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
+topic: Content Management
+level: Beginner
 ---
 # Quick Start: Image Sizing{#quick-start-image-sizing}
 

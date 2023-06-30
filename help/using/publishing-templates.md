@@ -10,6 +10,8 @@ discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 feature: Dynamic Media Classic
 role: User
 exl-id: d4315312-195c-453d-a3aa-c5e9f9365fc7
+topic: Content Management
+level: Experienced
 ---
 # Publish templates{#publishing-templates}
 

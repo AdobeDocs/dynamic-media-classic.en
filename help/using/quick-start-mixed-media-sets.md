@@ -10,6 +10,8 @@ discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
+topic: Content Management
+level: Beginner
 ---
 # Quick Start: Mixed Media Sets{#quick-start-mixed-media-sets}
 

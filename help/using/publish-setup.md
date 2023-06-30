@@ -7,6 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
+topic: "Administration, Content Management"
+level: Intermediate
 ---
 # Publish Setup {#publish-setup}
 

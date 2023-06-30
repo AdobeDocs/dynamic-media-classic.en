@@ -1,6 +1,6 @@
 ---
 title: System requirements for Adobe Dynamic Media Classic desktop app
-description: Learn about the system requirements for the best experience using Adobe Dynamic Media Classic. 
+description: Learn about the system requirements for the best experience using Adobe Dynamic Media Classic.
 uuid: 8dfc925b-7350-41af-9207-3b2a743c0998
 contentOwner: Rick Brough
 content-type: reference
@@ -10,6 +10,8 @@ discoiquuid: 27278fef-8b0e-41cd-b393-7a4c3625d5c0
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 3460f3bd-1616-44e7-9ddb-fe74ee0c8729
+topic: "Administration, Content Management"
+level: Intermediate
 ---
 # System requirements for Adobe Dynamic Media Classic desktop app {#system-requirements}
 
