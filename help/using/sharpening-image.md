@@ -17,11 +17,11 @@ level: Intermediate
 
 Sharpening is an image-manipulation technique for making the outlines of a digital image look more distinct. Sharpening increases the contrast between edge pixels and emphasizes the transition between dark and light areas. Sharpening increases local contrast and brings out fine detail. There is no strict formula for correctly sharpening all images. Too little sharpening can make for a soft image, but over-sharpening adds halos, artifacts, and noise.
 
-Adobe Dynamic Media Classic highly recommends you use Image Presets for all images. They ensure a uniform size, and sharpening is enforced on any image called with an Image Preset. Furthermore, you can edit and change an Image Preset’s sharpening parameters easily. The next time you publish, all images called with that preset are given the new values.
+Adobe Dynamic Media Classic highly recommends you use Image Presets for all images. They ensure a uniform size, and sharpening is enforced on any image called with an Image Preset. Furthermore, you can edit and change an Image Preset's sharpening parameters easily. The next time you publish, all images called with that preset are given the new values.
 
 Adobe Dynamic Media Classic also recommends adding sharpening to Viewer Presets, and then calling a viewer with that preset. Doing so ensures that images within your viewers are crisp and appealing.
 
-However, whether you use Image Presets and Viewer Presets, or some alternate method of sharpening, the bottom line is that you must sharpen your images. If you do not, your images (and website) can look soft and fuzzy.
+However, whether you use Image Presets and Viewer Presets, or some method of sharpening, the bottom line is that you must sharpen your images. If you do not, your images (and website) can look soft and fuzzy.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ It is often necessary to sharpen images. Adobe Dynamic Media Classic and Image S
 
 Image sharpening increases the contrast of pixels to create the effect of accentuating edges. Humans perceive this enhanced edge contrast as sharpness. Although it is easy to enhance an image by running sharpening filters on an image, it is also easy to over-sharpen an image.
 
-Over sharpening an image creates a halo effect, or banding of the edge’s lines.
+Over-sharpening an image creates a halo effect, or banding of the edge's lines.
 
 There are best practices that you can follow to optimize the sharpening of your images in Adobe Dynamic Media Classic and on Dynamic Media Image Server.
 
@@ -54,16 +54,16 @@ The following table shows the Image Server sharpening options.
 | Name | URL Protocol | Values | Example |
 | --- | --- | --- | --- |
 | Simple Sharpening | `op_sharpen` | `0` or `1` | `op_sharpen=1` |
-| Resample Mode | `resMode` | `bilin`, `bicub`, `sharp2`, `trilin`<br><br>`bilin`: Selects standard bi-linear interpolation. Fastest resampling method; some aliasing artifacts are often noticeable.<br>`bicub`: Selects bi-cubic interpolation. More CPU-intensive than bilin, but yields sharper images with less noticeable aliasing artifacts.<br><br>`sharp2`: Selects a modified Lanczos Windows® function as an interpolation algorithm. Can produce slightly sharper results than bi-cubic at a higher CPU cost.<br><br>`trilin`: Selects a modified trilinear interpolation, which uses both higher and lower resolutions, if available. Recommended only when aliasing is an issue. Reduces JPEG sizes due to reduced high frequency data. | `resMode=sharp2` |
+| Resample Mode | `resMode` | `bilin`, `bicub`, `sharp2`, `trilin`<br><br>`bilin`: Selects standard bi-linear interpolation. Fastest resampling method; some aliasing artifacts are often noticeable.<br>`bicub`: Selects bi-cubic interpolation. More CPU-intensive than bilin, but yields sharper images with less noticeable aliasing artifacts.<br><br>`sharp2`: Selects a modified Lanczos Windows&reg; function as an interpolation algorithm. Can produce slightly sharper results than bi-cubic at a higher CPU cost.<br><br>`trilin`: Selects a modified trilinear interpolation, which uses both higher and lower resolutions, if available. Recommended only when aliasing is an issue. Reduces JPEG sizes due to reduced high frequency data. | `resMode=sharp2` |
 | Unsharp Mask | `op_usm` | `amount`, `radius`, `threshold`, `monochrome`<br><br>`amount`: filter strength factor (real 0…5)<br><br>`radius`: filter kernel radius in pixels (real 0…250) <br><br>`threshold`: filter threshold level (int 0…255)<br><br>`monochrome`: set to `0` to unsharp-mask each color component separately, set to `1` to unsharp-mask image brightness (intensity) | `op_usm=1,1,10,0` |
 
 Select the **[!UICONTROL Sharpening]** menu and choose an option:
 
 * **None** - Disables sharpening.
 
-* **Sharpen** - Runs a simple sharpening pass on the file after it is resized. It is similar to the “Sharpen” filter in Adobe Photoshop and does support any user parameters. Normally, you would use this filter or **[!UICONTROL Unsharp Mask]**, but not both. As a best practice, this method is not recommended, but it can help compensate for blurriness. (URL: `op_sharpen`)
+* **Sharpen** - Runs a simple sharpening pass on the file after it is resized. It is similar to the "Sharpen" filter in Adobe Photoshop and does support any user parameters. Normally, you would use this filter or **[!UICONTROL Unsharp Mask]**, but not both. As a best practice, this method is not recommended, but it can help compensate for blurriness. (URL: `op_sharpen`)
 
-* **Unsharp Mask** - Lets you fine-tune a sharpening filter effect on the final downsampled image. You can control intensity of effect, radius of the effect (measured in pixels), and a threshold of contrast that is ignored. This effect uses the same options as Photoshop’s “Unsharp Mask” filter. (URL: `op_usm`)
+* **Unsharp Mask** - Lets you fine-tune a sharpening filter effect on the final downsampled image. You can control intensity of effect, radius of the effect (measured in pixels), and a threshold of contrast that is ignored. This effect uses the same options as Photoshop's "Unsharp Mask" filter. (URL: `op_usm`)
 
 Choose these options so you can fine-tune sharpening with Unsharp Mask:
 
@@ -79,7 +79,7 @@ For example, to get a similar sharpening effect for a 2000 x 2000 pixel image an
 
 Threshold uses a value from 0 through 255, which is the number of brightness steps in a grayscale image. 0=black, 128=50% gray and 255=white. For example, a threshold value of 12 ignores slight variations is skin tone brightness, so as not to add noise, while still adding edge contrast to contrasty areas, such as where eyelashes meet skin.
 
-As an example, suppose you have a photo of someone’s face. The Unsharp Mask affects the parts of the image with the most contrast and the smooth skin itself. Even the smoothest skin exhibits subtle changes in brightness values. If you do not use a threshold value, the filter accentuates these subtle changes in skin pixels, creating a noisy effect (probably undesirable) while also increasing the contrast on the eyelashes, enhancing sharpness (probably desirable). To avoid this issue, use a threshold value that tells the filter to ignore pixels that do not change contrast dramatically, like smooth skin. To avoid introducing noise or posterization&ndash;in images with flesh tones, for example&ndash;try experimenting with **[!UICONTROL Threshold]** values two through 20. The default **[!UICONTROL Threshold]** value of 0 sharpens all pixels in the image.
+As an example, suppose you have a photo of someone's face. The Unsharp Mask affects the parts of the image with the most contrast and the smooth skin itself. Even the smoothest skin exhibits subtle changes in brightness values. If you do not use a threshold value, the filter accentuates these subtle changes in skin pixels, creating a noisy effect (probably undesirable) while also increasing the contrast on the eyelashes, enhancing sharpness (probably desirable). To avoid this issue, use a threshold value that tells the filter to ignore pixels that do not change contrast dramatically, like smooth skin. To avoid introducing noise or posterization&ndash;in images with flesh tones, for example&ndash;try experimenting with **[!UICONTROL Threshold]** values two through 20. The default **[!UICONTROL Threshold]** value of 0 sharpens all pixels in the image.
 
 * **Apply To** - Choose **[!UICONTROL Each Color]** if you want to apply sharpening separately to each color component; choose **[!UICONTROL Brightness]** if you want to apply sharpening to image brightness areas.
 
@@ -99,14 +99,14 @@ Select the **[!UICONTROL Resampling]** menu and choose an option. These options 
 
 **Sharpen and image presets**
 
-You could incorporate all three sharpening effects to achieve your final result. However, this method is not recommended. Adobe Dynamic Media Classic recommends you save your sharpening effects as part of an Image Preset. Image Presets let you package the most often used image modifiers to create a dynamically resized image in a small text string. An Image Preset contains values for the file format (usually JPEG for the web), pixel count, and image sharpening. Instead of appending the URL with each image modifier that you must use to create a specific type of image size, create a named Image Preset, such as “thumbnail". Then, configure the thumbnail Image Preset with the appropriate size, file format, and sharpening options. Call the image using the Image Preset name. Image Presets shorten the length of the overall URL. These two URLs produce the same 350x350 JPEG image with sharpening:
+You could incorporate all three sharpening effects to achieve your final result. However, this method is not recommended. Adobe Dynamic Media Classic recommends you save your sharpening effects as part of an Image Preset. Image Presets let you package the most often used image modifiers to create a dynamically resized image in a small text string. An Image Preset contains values for the file format (usually JPEG for the web), pixel count, and image sharpening. Instead of appending the URL with each image modifier that you must use to create a specific type of image size, create a named Image Preset, such as "thumbnail". Then, configure the thumbnail Image Preset with the appropriate size, file format, and sharpening options. Call the image using the Image Preset name. Image Presets shorten the length of the overall URL. These two URLs produce the same 350x350 JPEG image with sharpening:
 
 * `https://sample.scene7.com/is/image/S7train/Backpack_A?wid=350&hei=350&fmt=jpeg&qlt=85,0&resMode=sharp2&op_usm=0.9,1.0,8,0`
 * `https://sample.scene7.com/is/image/S7train/Backpack_A?$!_s7product$`
 
 Image Presets can be changed and updated at any time. You see the results of a change to an Image Preset after you publish and after the cache for the URL clears.
 
-If you use one preset for every image in a size category, any Company Administrator can update the definition of that Image Preset, republish, and affect every image using that format, without changing any web code. As a best practice, use one Image Preset per unique size on your site. To add an image preset, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Image Presets]**. Then, select **[!UICONTROL Add]** or select **[!UICONTROL Edit]** to change an existing preset. The only required field is the name of the preset itself. However, it is best to include some level of sharpening in every preset.
+If you use one preset for every image in a size category, any Company Administrator can update the definition of that Image Preset, republish, and affect every image using that format, without changing any web code. As a best practice, use one Image Preset per unique size on your site. To add an image preset, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Image Presets]**. Then select **[!UICONTROL Add]** or select **[!UICONTROL Edit]** to change an existing preset. The only required field is the name of the preset itself. However, it is best to include some level of sharpening in every preset.
 
 **JPG Quality**
 
@@ -116,13 +116,13 @@ The JPG Quality options control the JPG compression level:
 
 * **Slider** - Determines the JPG compression level. This setting affects both file size and image quality. The JPG quality scale is 1-100.
 
-* **Enable JPG Chrominance Downsampling** - Because the eye is less sensitive to high-frequency color information than high-frequency luminance, JPEG images divide image information into luminance and color components. When a JPEG image is compressed, the luminance component is left at full resolution, while the color components are downsampled by averaging together groups of pixels. Downsampling reduces the data volume by one half or one third with almost no impact on perceived quality. Downsampling is not applicable to grayscale images. This technique reduces the amount of compression useful for images with high contrast (for example, images with overlaid text).
+* **Enable JPG Chrominance Downsampling** - Because the eye is less sensitive to high-frequency color information than high-frequency luminance, JPEG images divide image information into luminance and color components. When a JPEG image is compressed, the luminance component is left at full resolution, while the color components are downsampled by averaging together groups of pixels. Downsampling reduces the data volume by one-half or one-third with almost no impact on perceived quality. Downsampling is not applicable to grayscale images. This technique reduces the amount of compression useful for images with high contrast (for example, images with overlaid text).
 
 **Set company-wide sharpening options**
 
 If you do not use an Image Preset or pass specific Image Server sharpening protocols along the URL string, then your image is not sharpened when it is downsampled. However, if this lack of sharpening occurs, you can set default sharpening values, and then any image always has some sharpening.
 
-To set your company’s default sharpening options, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. If you set the Default Resampling Mode to **[!UICONTROL Sharp2]**, it always sharpens the image when downsampling.
+To set your company's default sharpening options, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. If you set the Default Resampling Mode to **[!UICONTROL Sharp2]**, it always sharpens the image when downsampling.
 
 **Add sharpening to viewer presets**
 

@@ -17,9 +17,9 @@ level: Intermediate
 
 Template Basics are dynamically created and addressable layered image files like layered files in image-editing applications such as Adobe Photoshop. Unlike a static file containing layers, such as a PSD file, a template can include parameters. Through parameters, the different aspects of the image can be addressed and customized.
 
-A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, and create templates in Adobe Dynamic Media Classic. You can create text layers in templates using fonts that you uploaded into Adobe Dynamic Media Classic. After you add text to a template, you can format it by changing its justification, fonts, font size, and color.
+A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, and create templates in Adobe Dynamic Media Classic. You can create text layers in templates using fonts that you uploaded into Adobe Dynamic Media Classic. After you add text to a template, you can format it by changing its justification, its font, font size, and color.
 
-Using the Parameters page, you can convert any aspect of a template to an addressable parameter. In so doing, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the image server.
+Using the Parameters page, you can convert any aspect of a template to an addressable parameter. In doing so, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the image server.
 
 See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) training video.
 
@@ -31,7 +31,7 @@ Start by uploading the PSD file or image file for your template. Adobe Dynamic M
 
 If you are using a PSD file to build your template, select **[!UICONTROL Create Template]** on the **[!UICONTROL Upload Job Options]** dialog box when you upload the PSD file. Also choose a **[!UICONTROL Layer Naming]** option so Adobe Dynamic Media Classic knows how to name PSD layers when they are uploaded to Adobe Dynamic Media Classic.
 
-If you are using image files, you can crop the images and also create a mask from clipping paths in the images as you upload them.
+If you are using image files, you can crop the images, and also create a mask from clipping paths in the images as you upload them.
 
 On the Global Navigation bar, select **[!UICONTROL Upload]** to upload a PSD file or other image files from your computer to a folder on Adobe Dynamic Media Classic. See [Upload template files](uploading-template-files.md#uploading_template_files).
 

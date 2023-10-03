@@ -2,9 +2,9 @@
 
 ## Adobe Dynamic Media Classic Documentation Philosophy
 
-We know that Adobe Dynamic Media Classic users are working in highly competitive environments, striving to create digital experiences that set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools, that these tools are complemented with accurate and clear documentation. Doing so lets the customer immediately use their Adobe Dynamic Media Classic investment and maximize ROI.
+Adobe knows that Adobe Dynamic Media Classic users are working in highly competitive environments, striving to create digital experiences that set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools, that these tools are complemented with accurate and clear documentation. Doing so lets the customer immediately use their Adobe Dynamic Media Classic investment and maximize ROI.
 
-The goal of the documentation is to put up-to-date documentation into the hands of users as soon as possible. Therefore we prioritize accurate, usable documentation and strive to continually update and improve it.
+The goal of the documentation is to put up-to-date documentation into the hands of users as soon as possible. Therefore, Adobe prioritizes accurate, usable documentation, and strives to continually update and improve it.
 
 ## Documentation Contributions
 
@@ -12,15 +12,15 @@ In the interest of continually improving the documentation, the entire community
 
 ## Documentation Standards
 
-While we welcome contributions to our documentation, any contribution to the documentation, either in the form of a pull request or an issue, should conform to our contribution and documentation standards.
+While Adobe welcomes contributions to its documentation, any contribution to the documentation, either in the form of a pull request or an issue, should conform to Adobe's contribution and documentation standards.
 
 Contributions that do not meet these standards may be rejected.
 
-### We document standard use cases.
+### Adobe documents standard use cases.
 
 The documentation covers standard use cases. Use cases beyond the scope of standard installation and usage of the product are not part of the documentation.
 
-### We do not generally document bugs or their workarounds.
+### Adobe does not generally document bugs or their workarounds.
 
 The documentation covers standard use cases. For this reason, bugs, effects caused by bugs, and workarounds for bugs are not documented.
 
@@ -42,9 +42,9 @@ This does not apply to pull requests because pull requests reference the affecte
 
 ## Documentation Guidelines
 
-We ask that any contributions to our documentation follow certain style guidelines.
+Adobe asks that any contributions to its documentation follow certain style guidelines.
 
-Following these guidelines makes the review of your contribution easier and therefore integration into our documentation is faster.
+Following these guidelines makes the review of your contribution easier and therefore integration into Adobe documentation is faster.
 
 ### Language and Style
 
@@ -56,9 +56,9 @@ Following these guidelines makes the review of your contribution easier and ther
 
 Remember, readers of the documentation are worldwide. They cannot be expected to be native or fluent English speakers. Avoid colloquialisms and keep the language as clear and simple as possible.
 
-#### Follow Microsoft® Manual of Style
+#### Follow Microsoft&reg; Manual of Style
 
-[The Microsoft® Manual of Style](https://docs.microsoft.com/en-us/style-guide/welcome/) is a freely available documentation style guide that focuses on software documentation and Adobe Dynamic Media Classic documentation follows this guide wherever possible.
+[The Microsoft&reg; Manual of Style](https://learn.microsoft.com/en-us/style-guide/welcome/) is a freely available documentation style guide that focuses on software documentation and Adobe Dynamic Media Classic documentation follows this guide wherever possible.
 
 ### Formatting
 
@@ -68,9 +68,9 @@ Remember, readers of the documentation are worldwide. They cannot be expected to
 |Filename, path, user-input, parameter-values|`monospaced`|
 |Code, command line|```Code Block```|
 
-### Screen Shots
+### Screenshots
 
-Screen shots are to be used judiciously and only when a textual description is insufficient.
+Screenshots are to be used judiciously and only when a textual description is insufficient.
 
 Markers or other annotations in screenshots (like red frames, arrows or text) should not be used. This way the screenshots are easier to reuse or replicate in localized versions of the documentation.
 

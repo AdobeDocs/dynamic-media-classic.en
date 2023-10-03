@@ -13,25 +13,25 @@ level: Beginner
 ---
 # Quick Start: Video in Adobe Dynamic Media Classic{#quick-start-video}
 
- Adobe Dynamic Media Classic Video is an end-to-end solution that makes it easy to publish high-quality Adaptive Video for streaming across multiple screens, including desktop, iOS, Android™, BlackBerry®, and Windows® mobile devices. An Adaptive Video Set groups versions of the same video that are encoded at different bit rates and formats such as 400 kbps, 800 kbps, and 1000 kbps. The desktop computer or mobile device detects the available bandwidth.
+ Adobe Dynamic Media Classic Video is an end-to-end solution that makes it easy to publish high-quality Adaptive Video for streaming across multiple screens, including desktop, iOS, Android&trade;, BlackBerry&reg;, and Windows&reg; mobile devices. An Adaptive Video Set groups versions of the same video that are encoded at different bit rates and formats such as 400 kbps, 800 kbps, and 1000 kbps. The desktop computer or mobile device detects the available bandwidth.
 
 For example, on an iOS mobile device, it detects a bandwidth such as 3G, 4G, or Wi-Fi. Then, it automatically selects the right encoded video from among the various video bit rates within the Adaptive Video Set. The video is streamed to desktops, mobile devices, or tablets.
 
-In addition, video quality is dynamically switched automatically if network conditions change on the desktop or on the mobile device. Also, if a customer enters full-screen mode on a desktop, the Adaptive Video Set responds by using a better resolution, improving the customer’s viewing experience. Using Adaptive Video Sets provides you with the best possible playback for customers playing Adobe Dynamic Media Classic video on multiple screens and devices.
+In addition, video quality is dynamically switched automatically if network conditions change on the desktop or on the mobile device. Also, if a customer enters full-screen mode on a desktop, the Adaptive Video Set responds by using a better resolution, improving the customer's viewing experience. Using Adaptive Video Sets provides you with the best possible playback for customers playing Adobe Dynamic Media Classic video on multiple screens and devices.
 
 The logic that a video player uses to determine which encoded video to play or to select during playback is based on the following algorithm:
 
-1. Video player loads the initial video fragment based on the bit rate that is closest to the value that is set for “initial bitrate” in the player itself.
+1. Video player loads the initial video fragment based on the bit rate that is closest to the value that is set for "initial bitrate" in the player itself.
 1. Video player switches based on changes to the bandwidth speed using the following criteria:
 
     1. Player picks the highest bandwidth stream below or equal to the estimated bandwidth. 
-    1. Player considers only 80% of the available bandwidth. However, if it is switching up, it is more conservative at only 70% to avoid overestimating and having to immediately switching back.
+    1. Player considers only 80% of the available bandwidth. However, if it is switching to up, it is more conservative at only 70% to avoid overestimating and having to immediately switch back.
 
-See the algorithm’s logic at [https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp](https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp) for technical information about it.
+See the algorithm's logic at [https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp](https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp) for technical information about it.
 
-For managing single video and Adaptive Video Sets, Adobe Dynamic Media Classic supports the following:
+For managing single videos, and Adaptive Video Sets, Adobe Dynamic Media Classic supports the following:
 
-* Uploading video from numerous, supported video formats and audio formats and encoding video to MP4 H.264 format for playback across multiple screens. You can use predefined Adobe Dynamic Media Classic adaptive video presets, single video encoding presets, or customize your own encoding to control the quality and size of the video.
+* Uploading video from numerous supported video formats and audio formats and encoding video to MP4 H.264 format for playback across multiple screens. You can use predefined Adobe Dynamic Media Classic adaptive video presets, single video encoding presets, or customize your own encoding to control the quality and size of the video.
 
 See [Activate or deactivate adaptive video presets](/help/using/application-setup.md#activating-or-deactivating-adaptive-video-presets)
 
@@ -50,19 +50,19 @@ See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
   See [Add chapter markers to video](adding-chapter-markers-video.md).
 
 * Organize, browse, and search video with full metadata support for efficient management of video assets.
-* Deliver Adaptive Video Sets to the web and to desktops, and mobile devices, including the iPhone, iPad, Android™, BlackBerry®, and Windows® phone.
+* Deliver Adaptive Video Sets to the web and to desktops and mobile devices, including the iPhone, iPad, Android&trade;, BlackBerry&reg;, and Windows&reg; phone.
 
   Adaptive video streaming is supported on various iOS platforms.
 
   See the latest support in the [Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
-  Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video. You can find BlackBerry® devices that support this video format at the following website:
+  Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video. You can find BlackBerry&reg; devices that support this video format at the following website:
 
-  See [Supported video formats on BlackBerry®](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
+  See [Supported video formats on BlackBerry&reg;](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
 
-  You can find Windows® devices that support this video format at the following:
+  You can find Windows&reg; devices that support this video format at the following:
 
-  See [Supported video formats on Windows® Phone](https://docs.microsoft.com/en-us/).
+  See [Supported video formats on Windows&reg; Phone](https://learn.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs).
 
 * Play back the video using Adobe Dynamic Media Classic Viewer Presets, including the following:
 
@@ -94,7 +94,7 @@ Upload and generate adaptive video sets using one of the following two scenarios
 
   This preferred option lets you create an Adaptive Video Set that automatically applies the correct encoding preset to the video, whether it is 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three encode video settings in the correct aspect ratio.
 
-  Or, in the same **[!UICONTROL Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, expand **[!UICONTROL Single Encoding Presets]**. Select individual video encoding presets that you want from **Desktop**, **Mobile (iPhone, iPad, Android™)**, and **Tablet (iPad, Android™)** so that you create the MP4 files.
+  Or, in the same **[!UICONTROL Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, expand **[!UICONTROL Single Encoding Presets]**. Select individual video encoding presets that you want from **Desktop**, **Mobile (iPhone, iPad, Android&trade;)**, and **Tablet (iPad, Android&trade;)** so that you create the MP4 files.
 
 * Or, you can reprocess a primary video using the **[!UICONTROL Reprocess]** feature. The newly encoded videos are added to the existing Adaptive Video Set.
 
@@ -142,7 +142,7 @@ To integrate video into your website, you can do either one of the following:
 
   To obtain the embed code for a video, in the Grid View or List View, select the video in the Browse Panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
 
-  Select **[!UICONTROL Close]** and paste the embed code in your web pages.
+  Select **[!UICONTROL Close]** and paste the embed code in one or more of your web pages.
 
   >[!NOTE]
   >

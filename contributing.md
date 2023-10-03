@@ -6,11 +6,11 @@ This file describes how you can contribute, and shows you the guidelines to foll
 
 ## Adobe Open Source Code of Conduct
 
-This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct.md). By contributing to the documentation, you agree to adhere to this code of conduct. Please report unacceptable behavior to [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct.md). By contributing to the documentation, you agree to adhere to this code of conduct. Report unacceptable behavior to [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Guidelines for contributing
 
-While Adobe welcomes any contributions to improve the documentation, be sure that what you contribute adheres to certain guidelines and standards where possible. Please review the [Guidelines for Contributing to Adobe Dynamic Media Classic Documentation](guidelines.md) for more information.
+While Adobe welcomes any contributions to improve the documentation, be sure that what you contribute adheres to certain guidelines and standards where possible. Review the [Guidelines for Contributing to Adobe Dynamic Media Classic Documentation](guidelines.md) for more information.
 
 ## How to contribute
 
@@ -27,7 +27,7 @@ Which method you choose depends on how comfortable you are editing the documenta
 
 ### Create an issue {#create-an-issue}
 
-Do you have a suggestion, observation about the current docs, or question the way something is described? Then please create an issue. Issues are also excellent if you have something to contribute, but do not feel comfortable editing the docs or making a pull request yourself.
+Do you have a suggestion, observation about the current docs, or question the way something is described? Then create an issue. Issues are also excellent if you have something to contribute, but do not feel comfortable editing the docs or making a pull request yourself.
 
 Issues let you easily describe your idea for improvement to the docs and a documentation team member can review it. To create an issue, select **[!UICONTROL Log an issue]** at the top of the right navigation panel on any page.
 
@@ -45,7 +45,7 @@ Have a look at the following video for a quick overview of how to create issues 
 
 ### Contributions from Adobe Employees
 
-If you are an Adobe employee and have a contribution, please use the `AdobeDocs` org in the corporate git.
+If you are an Adobe employee and have a contribution, use the `AdobeDocs` org in the corporate git.
 
 Adobe welcomes any contribution. Contributions are reviewed if it is made on the public repository. However, pull requests from Adobe employees are easier to process and are approved faster on the corporate repository. Make sure that any proprietary information is only discussed on the corporate repository.
 

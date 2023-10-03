@@ -17,7 +17,7 @@ You can use the Application Setup pages to enter general settings, create image 
 
 >[!NOTE]
 >
->Only Adobe Dynamic Media Classic administrators can change settings on the Application Setup pages.
+>Only Adobe Dynamic Media Classic administrators can change settings on the pages in Application Setup.
 
 ## General Settings {#general-settings}
 
@@ -81,11 +81,11 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 * **[!UICONTROL Show Encoded Videos]** - Deselected (off) by default.
 
-   To quickly search and browse for videos in Adobe Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video, leave this option deselected (default). Only the Primary Video thumbnail (the source video you uploaded and used to create the derivatives), and the “parent” Adaptive Video Set thumbnail (which contains the “child” derivatives of the encoded video set), are displayed.
+   To quickly search and browse for videos in Adobe Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video, leave this option deselected (default). Only the Primary Video thumbnail (the source video you uploaded and used to create the derivatives), and the "parent" Adaptive Video Set thumbnail (which contains the "child" derivatives of the encoded video set), are displayed.
 
-   You can, however, still access individual encoded videos from the Primary Video or the Adaptive Video Set. To do so, double-click the video thumbnail image to open Detail View. Then select **[!UICONTROL Encoded Videos]** in the right panel so you can access all the “child” videos.
+   You can, however, still access individual encoded videos from the Primary Video or the Adaptive Video Set. To do so, double-click the video thumbnail image to open Detail View. Then select **[!UICONTROL Encoded Videos]** in the right panel so you can access all the "child" videos.
 
-   You can also go to **[!UICONTROL File]** > **[!UICONTROL Reprocess]** to create more encoded “child” videos directly from an Adaptive Video Set. Adobe Dynamic Media Classic automatically finds the “parent” Primary Video of the Adaptive Video Set and uses that as the source video for transcoding. When you save the new individual encoded videos, however, they are not seen when you search or browse. However, they are still accessible from the Encoded Videos tab in Detail View.
+   You can also go to **[!UICONTROL File]** > **[!UICONTROL Reprocess]** to create more encoded "child" videos directly from an Adaptive Video Set. Adobe Dynamic Media Classic automatically finds the "parent" Primary Video of the Adaptive Video Set and uses that as the source video for transcoding. When you save the new individual encoded videos, however, they are not seen when you search or browse. However, they are still accessible from the Encoded Videos tab in Detail View.
 
    See [Upload and transcode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
@@ -109,7 +109,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/569_Default%20Job%20Options_converted%20renamed_Getting%20Started-AVS) training video.
 
-* **[!UICONTROL Overwrite Images]** - Adobe Dynamic Media Classic does not allow two files to have the same name. Each item's Adobe Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). See [Use the Overwrite Images option](#using-the-overwrite-images-option).
+* **[!UICONTROL Overwrite Images]** - Adobe Dynamic Media Classic does not allow two files to have the same name. Each item's Adobe Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a "-1" (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). See [Use the Overwrite Images option](#using-the-overwrite-images-option).
 
   * **[!UICONTROL Overwrite in current folder, same base image name/extension]** - This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
 
@@ -133,7 +133,7 @@ See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/Vi
 
 ### Other Settings, to Application
 
-* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/using/trash-folder.md).
+* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select "Send emails before trash items are automatically deleted" if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/using/trash-folder.md).
 
 ## Use the Overwrite Images option {#using-the-overwrite-images-option}
 
@@ -141,7 +141,7 @@ Adobe Dynamic Media Classic does not allow two files to have the same name. Each
 
 If you previously uploaded images and then changed the original files (or replaced them), the chosen Overwrite option specifies how Adobe Dynamic Media Classic replaces the images. No information about the image changes, but the new image replaces the old one. If the folder also contains images that are not already in Adobe Dynamic Media Classic, these images are added.
 
-Use this option if images that you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe® PDFs. To fine-tune how Adobe Dynamic Media Classic *rips* the image, adjust the ICC color profile options in the Upload dialog box and reupload using the Overwrite feature.
+Use this option if images that you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe&reg; PDFs. To fine-tune how Adobe Dynamic Media Classic *rips* the image, adjust the ICC color profile options in the Upload dialog box and reupload using the Overwrite feature.
 
 The Adobe Dynamic Media Classic IDs that are used to access images from the production servers are derived from the image filenames. The use of uppercase and lowercase characters in the filename is important, both in the replacement of existing files and for the Adobe Dynamic Media Classic IDs used to access the image. Be sure the use of uppercase and lowercase characters in filenames is correct before uploading into Adobe Dynamic Media Classic to avoid Adobe Dynamic Media Classic IDs that differ only in case for the same image.
 
@@ -199,7 +199,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
     * **[!UICONTROL Quality]** - Controls the JPEG compression level. This setting affects both file size and image quality. The JPEG quality scale is 1-100.
 
-    * **[!UICONTROL Enable JPG Chrominance Downsampling]** - Because the eye is less sensitive to high-frequency color information than high-frequency luminance, JPEG images divide image information into luminance and color components. When a JPEG image is compressed, the luminance component is left at full resolution, while the color components are downsampled by averaging together groups of pixels. Downsampling reduces the data volume by one half or one third with almost no impact on perceived quality. Downsampling is not applicable to grayscale images. This technique reduces the amount of compression useful for images with high contrast (for example, images with overlaid text).
+    * **[!UICONTROL Enable JPG Chrominance Downsampling]** - Because the eye is less sensitive to high-frequency color information than high-frequency luminance, JPEG images divide image information into luminance and color components. When a JPEG image is compressed, the luminance component is left at full resolution, while the color components are downsampled by averaging together groups of pixels. Downsampling reduces the data volume by one-half or one-third with almost no impact on perceived quality. Downsampling is not applicable to grayscale images. This technique reduces the amount of compression useful for images with high contrast (for example, images with overlaid text).
 
   * PDF and TIFF options
 
@@ -239,13 +239,13 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 * **[!UICONTROL Rendering Intent]** - Select an option if you want to override the default rendering intent of the color profile. Use this option when one of the default ICC profiles is the target color space of a color conversion. Or, an output device (printer or monitor) is characterized by this profile, and the specified rendering intent is valid for this profile.
 
-* **[!UICONTROL Embed Profile]** - Select this option so that, if you open this image in Adobe® Photoshop®, it uses this profile.
+* **[!UICONTROL Embed Profile]** - Select this option so that, if you open this image in Adobe&reg; Photoshop&reg;, it uses this profile.
 
 * **[!UICONTROL Print Resolution]** - Select a resolution for printing this image; 72 pixels is the default.
 
 * **[!UICONTROL URL Modifiers]** - If you prefer to specify the URL modifiers that define your Image Preset, rather than the settings, enter the modifiers here.
 
-* **[!UICONTROL Sample Image URL]** - Lists the “raw” URL string that the Dynamic Media Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings that you select in the Add Preset or Edit Preset screen.
+* **[!UICONTROL Sample Image URL]** - Lists the "raw" URL string that the Dynamic Media Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings that you select in the Add Preset or Edit Preset screen.
 
 ### Edit, remove, or deactivate an image preset {#editing-removing-or-deactivating-an-image-preset}
 
@@ -260,7 +260,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 Adobe Dynamic Media Classic offers Adaptive Video encoding presets. It is a primary list of presets that combines both 16:9 Adaptive Video presets and 4:3 Adaptive Video presets into one group. These predefined presets reflect the most common encoding settings and are optimized for playback on target mobile devices, tablets, and desktops.
 
-Only “Adaptive Video” encoding presets are activated (enabled or “turned on”) by default. You can deactivate it, if desired. Inactive Adaptive Video presets do not appear as a selectable option in the eVideo section of the Upload Job Options dialog box.
+Only "Adaptive Video" encoding presets are activated (enabled or "turned on") by default. You can deactivate it, if desired. Inactive Adaptive Video presets do not appear as a selectable option in the eVideo section of the Upload Job Options dialog box.
 
 See [Upload and encode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
@@ -278,21 +278,21 @@ To select an encoding preset, in the lower-right corner of the Upload page, sele
 
 >[!NOTE]
 >
->Except for “Adaptive Video”, which is enabled by default, you cannot see all other adaptive video or single video encoding presets in the Upload Job Options dialog box. Adobe Dynamic Media Classic Administrators determine which video encoding presets are visible in the Upload Job Options dialog box.
+>Except for "Adaptive Video", which is enabled by default, you cannot see all other adaptive video or single video encoding presets in the Upload Job Options dialog box. Adobe Dynamic Media Classic Administrators determine which video encoding presets are visible in the Upload Job Options dialog box.
 
-* Select from the following adaptive video encoding or single encoding presets:
+* Select from the following adaptive video encoding or single-encoding presets:
 
-  * **[!UICONTROL 16:9 Adaptive Video]** - Create 16:9 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android™), and tablets (iPad, Android™), optimized with the resolution and bit rate that best matches the viewer's connection speed.
+  * **[!UICONTROL 16:9 Adaptive Video]** - Create 16:9 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;), optimized with the resolution and bit rate that best matches the viewer's connection speed.
 
-  * **[!UICONTROL 4:3 Adaptive Video]** - Create 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android™), and tablets (iPad, Android™), optimized with the resolution and bit rate that best matches the viewer's connection speed.
+  * **[!UICONTROL 4:3 Adaptive Video]** - Create 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;), optimized with the resolution and bit rate that best matches the viewer's connection speed.
 
-  * **[!UICONTROL Adaptive Video]** - A single encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video’s aspect ratio.
+  * **[!UICONTROL Adaptive Video]** - A single-encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio.
 
-      This flexibility of having an “Auto-scale” is also available by default when you create your own custom video encoding preset.
+      This flexibility of having an "Auto-scale" is also available by default when you create your own custom video encoding preset.
 
       See [Add or edit a video encoding preset](uploading-encoding-videos.md#adding_or_editing_a_video_encoding_preset).
 
-  * **[!UICONTROL Adaptive Video Encoding (16:9 or 4:3)]** - Create both 16:9 and 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android™), and tablets (iPad, Android™). All optimized with the resolution and bit rate that best matches the viewer's connection speed.
+  * **[!UICONTROL Adaptive Video Encoding (16:9 or 4:3)]** - Create both 16:9 and 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;). All optimized with the resolution and bit rate that best matches the viewer's connection speed.
 
       See [Adaptive Video Encoding (16:9 or 4:3) video presets](application-setup.md#adaptive_video_encoding_16_9_or_4_3_video_presets).
 
@@ -328,14 +328,14 @@ The following tables show you recommended best practices for selecting video pre
 
 ### Adaptive Video (default) {#adaptive-video-default}
 
-An encoding preset that works with any aspect ratio to let you create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded using this preset (the default and a best practice) are set to a fixed height while the width automatically scales to preserve the video’s aspect ratio.
+An encoding preset that works with any aspect ratio to let you create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded using this preset (the default and a best practice) are set to a fixed height while the width automatically scales to preserve the video's aspect ratio.
 
 **Adaptive Video (default)**
 
 ||Encoding Preset Name/Tooltip Text|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |
-|1|Auto x 360, 800 Kbps|_Mobile_Autox360p_800K|800|Autox360|Same as source|64|For mobile (iPhone, iPad, Android™)|
-|2|Auto x 480, 1400 Kbps|_Tablet_Autox480p_1400K|1400|Autox480|Same as source|96|For tablet (iPad, Android™)|
+|1|Auto x 360, 800 Kbps|_Mobile_Autox360p_800K|800|Autox360|Same as source|64|For mobile (iPhone, iPad, Android&trade;)|
+|2|Auto x 480, 1400 Kbps|_Tablet_Autox480p_1400K|1400|Autox480|Same as source|96|For tablets (iPad, Android&trade;)|
 |3|Auto x 720, 2600 Kbps|_Desktop_Autox720p_2600K|2600|Autox720|Same as source|128|For desktop|
 
 ### Adaptive Video Encoding (16:9 or 4:3) video presets {#adaptive-video-encoding-or-video-presets}
@@ -348,14 +348,14 @@ For information about encoding options parameters, see [About encoding preset op
 
 ||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-|1|`16:9, 512x288, Mobile (iPhone, iPad, Android™), (400 Kbps)`|500|_Mobile_512x288_400K|400|512x288|Same as source|64|Low resolution, 3G|
-|2|`4:3, 384x288px, Mobile (iPhone, iPad, Android™), (400 Kbps)`|500|_Mobile_384x288_400K|400|384x288|Same as source|64|Low resolution, 3G|
-|3|`16:9, 512x288, Mobile (iPhone, iPad, Android™), (600 Kbps)`|700|_Mobile_512x288_600K|600|512x288|Same as source|64|Medium resolution, 3G|
-|4|`4:3, 384x288, Mobile (iPhone, iPad, Android™), (600 Kbps)`|700|_Mobile_384x288_600|600|384x288|Same as source|64|Medium resolution, 3G|
-|5|`16:9, 640x360, Tablet (iPad, Android™), (800 Kbps)`|900|_iPad_640x360_800K|800|640x360|Same as source|80|Medium resolution, WiFi|
-|6|`4:3, 640x480, Tablet (iPad, Android™), (800 Kbps)`|900|_iPad_640x480_800K|800|640x480|Same as source|80|Medium resolution, WiFi|
-|7|`16:9, 768x432, Tablet (iPad, Android™), (1200 Kbps)`|1.5 Mbps|_iPad_768x432_1200K|1200|768x432|Same as source|96|High resolution, WiFi|
-|8|`4:3, 768x576, Tablet (iPad, Android™), (1200 Kbps)`|1.5 Mbps|_iPad_768x576_1200K|1200|768x576|Same as source|96|High resolution, WiFi|
+|1|`16:9, 512x288, Mobile (iPhone, iPad, Android&trade;), (400 Kbps)`|500|_Mobile_512x288_400K|400|512x288|Same as source|64|Low resolution, 3G|
+|2|`4:3, 384x288px, Mobile (iPhone, iPad, Android&trade;), (400 Kbps)`|500|_Mobile_384x288_400K|400|384x288|Same as source|64|Low resolution, 3G|
+|3|`16:9, 512x288, Mobile (iPhone, iPad, Android&trade;), (600 Kbps)`|700|_Mobile_512x288_600K|600|512x288|Same as source|64|Medium resolution, 3G|
+|4|`4:3, 384x288, Mobile (iPhone, iPad, Android&trade;), (600 Kbps)`|700|_Mobile_384x288_600|600|384x288|Same as source|64|Medium resolution, 3G|
+|5|`16:9, 640x360, Tablet (iPad, Android&trade;), (800 Kbps)`|900|_iPad_640x360_800K|800|640x360|Same as source|80|Medium resolution, WiFi|
+|6|`4:3, 640x480, Tablet (iPad, Android&trade;), (800 Kbps)`|900|_iPad_640x480_800K|800|640x480|Same as source|80|Medium resolution, WiFi|
+|7|`16:9, 768x432, Tablet (iPad, Android&trade;), (1200 Kbps)`|1.5 Mbps|_iPad_768x432_1200K|1200|768x432|Same as source|96|High resolution, WiFi|
+|8|`4:3, 768x576, Tablet (iPad, Android&trade;), (1200 Kbps)`|1.5 Mbps|_iPad_768x576_1200K|1200|768x576|Same as source|96|High resolution, WiFi|
 |9|`16:9, 1280x720, Desktop, (2000 Kbps)`|3.0 Mbps|_1280x720_2000K|2000|1280x720|Same as source|128|High-definition, widescreen|
 |10|`4:3, 1280x960, Desktop, (2000 Kbps)`|3.0 Mbps|_1280x960_2000K|2000 Kbps|1280x960|Same as source|128|High-definition|
 
@@ -393,7 +393,7 @@ For information about encoding options parameters, see [About the encoding prese
 
 ### Mobile video encoding presets {#mobile-video-encoding-presets}
 
-Same as source fps. Video encoding presets for iPhone, iPad, and Android™ mobile devices.
+Same as source fps. Video encoding presets for iPhone, iPad, and Android&trade; mobile devices.
 
 For information about encoding options parameters, see [About the encoding preset options](application-setup.md#about_encoding_preset_options).
 
@@ -426,7 +426,7 @@ By combining into a single player the following:
 
 * The ability to design the playback components using HTML5 and CSS.
 * Have embedded playback.
-* Use adaptive and progressive streaming depending on the browser’s capability.
+* Use adaptive and progressive streaming depending on the browser's capability.
 
 You extend the reach of your rich media content to desktop, tablet, and mobile users, and ensure a streamlined video experience.
 
@@ -474,7 +474,7 @@ For example, if your main image size is 350 by 350 pixels, with a Zoom Factor of
 
 **Flash Viewers End-of-Life Notice**: Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform.
 
-The following table identifies the currently available Adobe Dynamic Media Classic Viewer Presets. The table also specifies the viewer’s compatibility with desktop and mobile devices, and the technology that is used for each given viewer.
+The following table identifies the currently available Adobe Dynamic Media Classic Viewer Presets. The table also specifies the viewer's compatibility with desktop and mobile devices, and the technology that is used for each given viewer.
 
 See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
@@ -482,7 +482,7 @@ For information about supported web browser and operating system versions for Vi
 
 See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
-||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
 |Zoom Viewers|||||||
 |Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
@@ -491,27 +491,27 @@ See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/d
 |Universal_HTML5_Zoom_light|HTML5|X|X|X|X|X|
 
 
-||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
 |Image Set Viewers|||||||
 |Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
 |Universal_HTML5_ImageSet_dark|HTML5|X|X|X|X|X|
 |Universal_HTML5_ImageSet_light|HTML5|X|X|X|X|X|
 
-||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
 |Swatch Set Viewers|||||||
 |Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
 |Universal_HTML5_SwatchSet_dark|HTML5|X|X|X|X|X|
 |Universal_HTML5_SwatchSet_light|HTML5|X|X|X|X|X|
 
-||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
 |eCatalog Viewers|||||||
 |Universal_HTML5_eCatalog_Adv(Includes support for social media and catalog search.)|HTML5|X|X|X|X|X|
 |Universal_HTML5_eCatalog(Includes support for social media and catalog search.)|HTML5|X|X|X|X|X|
 
-||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
 |Spin Viewers|||||||
 |Universal_HTML5_SpinSet_dark|HTML5|X|X|X|X|X|
@@ -521,15 +521,15 @@ See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/d
 
 Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video. 
 
-* You can find BlackBerry® devices that support this video format at the following: [Supported video formats on BlackBerry®](https://developers.blackberry.com/us/en)
-* You can also find Windows® devices that support this video format at the following: [Supported video formats on Windows® Phone](https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs)
+* You can find BlackBerry&reg; devices that support this video format at the following: [Supported video formats on BlackBerry&reg;](https://developers.blackberry.com/us/en)
+* You can also find Windows&reg; devices that support this video format at the following: [Supported video formats on Windows&reg; Phone](https://learn.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs)
 
-||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|BlackBerry® Smartphone|Windows® Phone|
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|BlackBerry&reg; Smartphone|Windows&reg; Phone|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |Universal_HTML5_Video(Includes support for closed captioning.) See [Best practice: Using the Universal HTML5 Video viewer.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer)|HTML5|X|X|X|X|X|X|X|
 |Universal_HTML5_Video_social(Includes support for closed captioning and social media.)|HTML5|X|X|X|X|X|X|X|
 
-||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
 |Mixed Media Set Viewers|||||||
 |Universal_HTML5_MixedMedia_dark|HTML5|X|X|X|X|X|
@@ -537,9 +537,9 @@ Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video.
 
 ### Supported Mobile Viewers Gestures matrix {#supported-mobile-viewers-gestures-matrix}
 
-The following table identifies the mobile viewer gestures that are supported on iOS, Android™ 2.x, and Android™ 3.x devices.
+The following table identifies the mobile viewer gestures that are supported on iOS, Android&trade; 2.x, and Android&trade; 3.x devices.
 
-||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android™ Smartphone|Android™ Tablet|
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
 |Image Set Viewers|||||||
 |Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
@@ -573,7 +573,7 @@ The Viewer Presets screen offers tools for doing these tasks:
 
 * **Sort presets** - Select a column heading (**[!UICONTROL Active]**, **[!UICONTROL Type]**, **[!UICONTROL Preset]**, or **[!UICONTROL Platform]**) to sort the list on a column. Select a column heading a second time to sort the list in descending (or ascending) order.
 
-* **Activate and deactivate presets** - Select a preset, and then select its Active option to activate or deactivate it.
+* **Activate and deactivate presets** - Select a preset, and then select its Active option so you can activate or deactivate it.
 
       See [Activate or deactivate Viewer presets](application-setup.md#activating_or_deactivating_viewer_presets).
 
@@ -743,7 +743,7 @@ You can use Default Viewers to configure the default viewer that is associated w
 1. In the Setup drop-down list, select **[!UICONTROL Application Setup]**.
 1. In the Setup window, in the left pane, go to **[!UICONTROL Application Setup]** > **[!UICONTROL Viewers]**
 1. Select **[!UICONTROL Default Viewers]**.
-1. In the Default Viewers window, in the drop-down list for each asset type, select the viewer that you want to associate with the asset’s preview.
+1. In the Default Viewers window, in the drop-down list for each asset type, select the viewer that you want to associate with the asset's preview.
 1. In the lower-right corner of the Default Viewers window, select **[!UICONTROL Save Settings]**.
 1. In the lower-right corner of the Setup window, select **[!UICONTROL Close]** to return to the Asset window.
 
@@ -806,7 +806,7 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 
 A Media Portal Administrator or a Company Administrator can create custom, user-defined metadata fields. Custom fields can help you organize assets in Adobe Dynamic Media Classic. You can mark the fields as Active, as necessary. When activated, the names of these custom metadata fields appear in the Metadata panel in Detail View. Users can enter information in user-defined metadata fields to describe assets. Users can also make a user-defined metadata field a criterion in searches.
 
-One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an “activation” field, based on the type *Date*. Then, using the **[!UICONTROL Metadata]** panel in Detail View or **[!UICONTROL File]** > **[!UICONTROL Edit Info]**, you can specify when the asset is activated. Adobe Dynamic Media Classic checks the publish status of an asset, and the publish history. If it is not within the activation time, the publish status shows as “Not Published”.
+One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an "activation" field, based on the type *Date*. Then, using the **[!UICONTROL Metadata]** panel in Detail View or **[!UICONTROL File]** > **[!UICONTROL Edit Info]**, you can specify when the asset is activated. Adobe Dynamic Media Classic checks the publish status of an asset, and the publish history. If it is not within the activation time, the publish status shows as "Not Published".
 
 >[!NOTE]
 >
@@ -866,11 +866,11 @@ To open this screen, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Se
 
 * **Delete a field** - Select the field, and then select **[!UICONTROL Delete]**.
 
-* **Activate field** - Select or deselect the **[!UICONTROL Active]** option next to the name of a field. If you are in a company administration role, this option is not shown. Because this option is related to MediaPortal, you must select (turn on) Show MediaPortal Features in Personal Setup to see the activate fields.
+* **Activate field** - Select or deselect the **[!UICONTROL Active]** option next to the name of a field. If you are in a company administration role, this option is not shown. Because this option is related to MediaPortal, you must select (turn on) Show MediaPortal Features in Personal Setup to see the activated fields.
 
 ## Optimize Files {#optimize-files}
 
-As you upload files to the Adobe Dynamic Media Classic, the system optimizes them for storage and publishing. If the upload process is interrupted, however, some images cannot be optimized. In this case, you see the “Image not yet optimized” message. You can, however, optimize these files if you are an administrator.
+As you upload files to the Adobe Dynamic Media Classic, the system optimizes them for storage and publishing. If the upload process is interrupted, however, some images cannot be optimized. In this case, you see the "Image not yet optimized" message. You can, however, optimize these files if you are an administrator.
 
 Adobe Dynamic Media Classic searches through your files and optimizes only those images that were not fully optimized before.
 
@@ -908,7 +908,7 @@ Setting up a default naming convention is not required to use batch set preset f
 
 Alternately, you can use View Code with no form fields available. In this view, you create your naming convention definitions entirely using regular expressions.
 
-Two elements are available for definition, Match and Base Name. These fields let you define all elements of a naming convention and identify the part of the convention used to name the set in which they are contained. A company’s individual naming convention could use one or more lines of definition for each of these elements. You can use as many lines for your unique definition and group them into distinct elements, such as for Main Image, Color element, Alternate View element, and Swatch element.
+Two elements are available for definition, Match and Base Name. These fields let you define all elements of a naming convention and identify the part of the convention used to name the set in which they are contained. A company's individual naming convention could use one or more lines of definition for each of these elements. You can use as many lines for your unique definition and group them into distinct elements, such as for Main Image, Color element, Alternate View element, and Swatch element.
 
 ### Create a batch set preset {#creating-a-batch-set-preset}
 
@@ -945,7 +945,7 @@ See also [2D spin sets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html
 
 ### Create a batch set preset for the auto generation of a 2D Spin Set {#creating-a-batch-set-preset-for-the-auto-generation-of-a-d-spin-set}
 
-You can use the Batch Set Type **Multi-Axis Spin Set** to create a “recipe” that automates the generation of 2D Spin Sets. The grouping of images uses Row and Column regular expressions so that the image assets are properly aligned in the corresponding location in the multi-dimensional array.
+You can use the Batch Set Type **Multi-Axis Spin Set** to create a "recipe" that automates the generation of 2D Spin Sets. The grouping of images uses Row and Column regular expressions so that the image assets are properly aligned in the corresponding location in the multi-dimensional array.
 
 See also [Create a batch set preset](application-setup.md#creating_a_batch_set_preset).
 
@@ -977,7 +977,7 @@ When the Spin Set is uploaded and published, you would activate the name of the 
 1. In the Preset List panel, select **[!UICONTROL Add]** to activate the definition fields in the Details panel on the right side of the page.
 1. In the Details panel, in the Preset Name field, type a name for the preset.
 1. In the Batch Set Type drop-down menu, select **[!UICONTROL Asset Set]**.
-1. In the Sub Type drop-down list, select **[!UICONTROL Multi-Axis Spin Set]**.
+1. In the Sub-Type drop-down list, select **[!UICONTROL Multi-Axis Spin Set]**.
 1. Expand **[!UICONTROL Asset Naming Conventions]**, and then in the File Naming drop-down list, select **[!UICONTROL Custom]**.
 1. Use the **[!UICONTROL Match]** and, optionally, **[!UICONTROL Base Name]** attributes to define a regular expression for the naming of image assets that make up the grouping.
 
@@ -989,7 +989,7 @@ When the Spin Set is uploaded and published, you would activate the name of the 
 
    Use the parenthesis to embrace the row or column position in the file name.
 
-   For example, for your row regular expression, it could look like the following:
+   For example, for your row's regular expression, it could look like the following:
 
    `\w+-R([0-9]+)-\w+`
 
@@ -1009,7 +1009,7 @@ When the Spin Set is uploaded and published, you would activate the name of the 
 
    >[!NOTE]
    >
-   >If the combination of regular expressions in rows and columns cannot determine the position of the asset within the multi-dimensional spin set array, that asset is not added to the set and an error is logged.
+   >If the combination of regular expressions in rows and columns cannot determine the position of the asset within the multi-dimensional spin set array, that asset is not added to the set, and an error is logged.
 
 1. For Set Naming and Creation Convention, specify the suffix or prefix to the base name you defined in the Asset Naming Convention. Also define where the image set is created within the Adobe Dynamic Media Classic folder structure.
 

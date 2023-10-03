@@ -23,15 +23,15 @@ level: Intermediate
 
 +++**What are the key benefits of upgrading to [!DNL Dynamic Media]?**
 
-*   Collaboration and shared file sync with [!DNL Adobe Creative Cloud] applications.
-*   Enterprise-level digital asset management with robust metadata support, smart search, lightbox and collections, version control, and secure asset sharing for use by vendors, partners, and franchisees
+* Collaboration and shared file sync with [!DNL Adobe Creative Cloud] applications.
+* Enterprise-level digital asset management with robust metadata support, smart search, lightbox and collections, version control, and secure asset sharing for use by vendors, partners, and franchisees
 Review and approval workflows for work in process assets.
-*   Ease of adoption and use with new UI.
-*   Create Shoppable/Interactive Media experiences using images and video that drive conversion and enrich user engagement and satisfaction.
-*   Combine campaign assets with product information to streamline click to cart.
-*   Easily create, adjust, brand, and deploy interactive viewers using the WYSIWYG Viewer Designer.
-*   Deliver optimized rich media to [!DNL Experience Cloud] solutions.
-*   Integration with [!DNL Experience Cloud] for advanced asset analytics, targeting, and asset reuse across marketing touch points. Those touchpoints include [!DNL Adobe Campaign] for email, [!DNL Adobe Social] for social channels, and [!DNL Experience Manager] Sites for responsive web and mobile apps.
+* Ease of adoption and use with new UI.
+* Create Shoppable/Interactive Media experiences using images and video that drive conversion and enrich user engagement and satisfaction.
+* Combine campaign assets with product information so you can streamline click to cart.
+* Easily create, adjust, brand, and deploy interactive viewers using the WYSIWYG Viewer Designer.
+* Deliver optimized rich media to [!DNL Experience Cloud] solutions.
+* Integration with [!DNL Experience Cloud] for advanced asset analytics, targeting, and asset reuse across marketing touch points. Those touchpoints include [!DNL Adobe Campaign] for email, [!DNL Adobe Social] for social channels, and [!DNL Experience Manager] Sites for responsive web and mobile apps.
 
 +++
 
@@ -40,7 +40,7 @@ Yes, [!DNL Dynamic Media] uses Adobe's robust, top-tier delivery network.
 
 * Top rich media vendor to Internet Retail 1000, nine years in a row.
 * 24/7/265 support, 99.95% SLAs.
-* Proven infrastructure serving over 800 clients world wide, 3.5 petabytes traffic per month and more than 500 million assets in management, 60% growth in traffic year over year.
+* Proven infrastructure serving over 800 clients world wide, 3.5-petabytes traffic per month and more than 500 million assets in management, 60% growth in traffic year over year.
 
 +++
 
@@ -172,7 +172,7 @@ Adobe continues to fully support and maintain [!DNL Dynamic Media Classic] (cust
 +++
 
 +++**How much storage comes with [!DNL Dynamic Media]?**
-Sixty gigabytes of storage is included. You can purchase additional storage in blocks of 250 GB. Check your contract details to obtain your current storage allotment.
+Dynamic Media comes with 60 GB of storage. You can purchase additional storage in blocks of 250 GB. Check your contract details so you can obtain your current storage allotment.
 
 +++
 
@@ -201,8 +201,8 @@ Yes. You can use your own CDN with [!DNL Dynamic Media].
 
 +++
 
-+++**Does [!DNL Dynamic Media] have the features I need to upgrade? What features are available with [!DNL Dynamic Media] on [!DNL Experience Manager] Assets?**
-See the [Feature Comparison](/help/using/upgrade-feature-comparison.md) page to learn more.
++++**Does [!DNL Dynamic Media] have the features I need so I can upgrade? What features are available with [!DNL Dynamic Media] on [!DNL Experience Manager] Assets?**
+See the [Feature Comparison](/help/using/upgrade-feature-comparison.md) page where you can learn more.
 
 +++
 
@@ -213,7 +213,7 @@ Customers who require the following can continue to have access to [!DNL Dynamic
 * Image templates.
 * eCatalogs.
 
-See also the [Feature Comparison](/help/using/upgrade-feature-comparison.md) page to learn more.
+See also the [Feature Comparison](/help/using/upgrade-feature-comparison.md) page where you can learn more.
 
 +++
 
@@ -248,7 +248,7 @@ Phone: 1-800-898-9743 (US) | +44 (0)20 35641782 (UK) | +81-3-6743-9632 (Japan)
 +++**Where can I learn more about paid training options?**
 See [Adobe Digital Learning Services](https://learning.adobe.com).
 
-For custom or individual training, please contact your Adobe Account Team representative.
+For custom or individual training, contact your Adobe Account Team representative.
 
 +++
 

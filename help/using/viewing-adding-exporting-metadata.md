@@ -25,7 +25,7 @@ For more information about embedded metadata, see [Extensible Metadata Platform]
 
 ## View metadata {#view-metadata}
 
-To view an asset’s metadata, open the asset in Detail View, and tap the Metadata panel. To select a set of metadata fields, choose an option on the Metadata View menu. Adobe Dynamic Media Classic offers these Metadata Views:
+To view an asset's metadata, open the asset in Detail View, and tap the Metadata panel. To select a set of metadata fields, choose an option on the Metadata View menu. Adobe Dynamic Media Classic offers these Metadata Views:
 
 * **Compact View** - A basic list of values.
 
@@ -55,7 +55,7 @@ See [Metadata Views](application-setup.md#metadata_views) for information about 
 
 In addition to metadata, you can use keywords to help with searching and managing your assets.
 
-If you’ve added keywords to other files during this session, or if you have removed keywords from your list, they appear in the Keyword Suggestions table.
+If you've added keywords to other files during this session, or if you have removed keywords from your list, they appear in the Keyword Suggestions table.
 
 1. Open the file in Detail View.
 1. Select **[!UICONTROL Keywords]**.
@@ -133,7 +133,7 @@ On the Global Navigation bar, select **[!UICONTROL Upload]**. To import the meta
 
 Using metadata imported from a tab-delimited file or XML file, you can rename Adobe Dynamic Media Classic IDs. The imported metadata is applied only to the images specified in the metadata file itself. It does not matter whether images are selected on the Browse Panel.
 
-To rename an image’s Adobe Dynamic Media Classic ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called `new_vc_objectname` to the XML data.
+To rename an image's Adobe Dynamic Media Classic ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called `new_vc_objectname` to the XML data.
 
 For example:
 
@@ -170,7 +170,7 @@ You can use the Metadata Schema Editor to perform the following actions:
 | Add | Adds a property to the schema. A modal dialog collects the information: ID, Label, Structure, and Data Type. |
 | Add Choice Value | Adds a new selectable choice to a property with structure Open Choice or Closed Choice. All choice values have the same type. Select the property itself to enable the button. |
 |Edit|Edit the Label of a property or choice value. You can only change the Label, ID, and type information is immutable. |
-| Move Up/Move Down | The order in the schema is reflected in the UI. To change the order, select a property or choice value and move it with the buttons. Drag & drop is not supported currently.|
+| Move Up/Move Down | The order in the schema is reflected in the UI. To change the order, select a property or choice value and move it with the buttons. Drag & drop is not currently supported.|
 | Delete | Deletes a property or choice value from the schema. It does not delete values from the XMP block or the Database. The property is no longer available for Metadata Views and is removed from the Asset Detail View. If the property was published to the Metadata Server, perform a force publish to remove the data from the public-facing Metadata Server. |
 
 The system automatically generates a custom schema for User-defined fields with the prefix `s7udf`. It is existing User-defined Fields and they are edited in their own Setup section.
