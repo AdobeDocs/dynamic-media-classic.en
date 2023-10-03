@@ -15,7 +15,7 @@ level: Intermediate
 ---
 # Create and manage Media Portal groups{#creating-and-managing-media-portal-groups}
 
-*Groups* are designed to help you administer Media Portal users. To access an asset, a user must be a member of at least one group that has permission to access that asset. When you add a user, you assign the user to one or more groups. In so doing, you grant the user access to folders to which the group has been assigned. You can also choose which Image Presets are available to a group.
+*Groups* are designed to help you administer Media Portal users. To access an asset, a user must be a member of at least one group that has permission to access that asset. When you add a user, you assign the user to one or more groups. In doing so, you grant the user access to folders to which the group has been assigned. You can also choose which Image Presets are available to a group.
 
 ## Use groups to restrict access to folders, assets, and Image Presets {#using-groups-to-restrict-access-to-folders-assets-and-image-presets}
 
@@ -49,7 +49,7 @@ If you do not specifically grant a group permission to an asset or folder, that 
 1. On the Groups list page, do one of the following:
 
     * To add a group and specify permissions, select **[!UICONTROL Add]**. In the Add Group dialog box, enter a name for the group, select **[!UICONTROL Add Group]**, and add users to the group.
-    * To edit a group’s permissions, select the group, and then select **[!UICONTROL Edit]**.
+    * To edit a group's permissions, select the group, and then select **[!UICONTROL Edit]**.
 
 1. In the Add Group or Edit group dialog box, select the **[!UICONTROL Asset Access Permissions]** tab. The right side of the tab offers boxes for establishing read, write, and delete permissions for folders and assets. You can expand and collapse folders and subfolders in the left pane.
 1. To assign rights to folders or individual assets, select the folder in the left pane. The folder contents appear in the right pane. Then assign rights for the group by selecting the boxes for the corresponding files or folders in the right pane.
@@ -83,7 +83,7 @@ See also [Specify export options available to Media Portal users](specifying-exp
 1. On the Groups list page, do one of the following:
 
     * To add a group and specify which Image Presets are available to it, select **[!UICONTROL Add]**. In the Add Group dialog box, enter a name for the group, select **[!UICONTROL Add Group]**, and add users to the group.
-    * To edit a group’s Image Preset options, select the group, and then select **[!UICONTROL Edit]**.
+    * To edit a group's Image Preset options, select the group, and then select **[!UICONTROL Edit]**.
 
 1. In the Add Group or Edit group dialog box, select the **[!UICONTROL Image Preset Access Permissions]** tab.
 1. To specify which presets are available to Media Portal users when they export assets, select or deselect Image Presets.

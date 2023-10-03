@@ -1,12 +1,10 @@
 ---
 title: "Quick Start: eCatalogs"
 description: An introduction and Quick Start to eCatalogs to help you get up and running quickly with eCatalog techniques in Adobe Dynamic Media Classic.
-uuid: 1ec41927-3df6-4845-8d9d-bb92cf6dca08
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: 781dacd0-ef0c-42b7-92e0-12791994874d
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
@@ -22,7 +20,7 @@ See also the following training videos:
 * [Quick start 1: eCatalogs](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/561_Quick%20Start%20-%20Part%201_converted%20renamed_eCatalogs-AVS)
 * [Quick start 2: eCatalogs](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/562_Quick%20Start%20-%20Part%202_converted%20renamed_eCatalogs-AVS)
 
-Depending on the settings you choose for your eCatalog, the viewer can let you do the following:
+Depending on the settings that you choose for your eCatalog, the viewer can let you do the following:
 
 * Search the catalog for a keyword or keywords. The search results are displayed as a list of thumbnails in a search panel on the left side of the catalog. Each clickable thumbnail represents a catalog spread where the highlighted search term was found.
 
@@ -94,7 +92,7 @@ See [Manage Info Panel content in eCatalogs](/help/using/info-panel-content-ecat
 
 ## 4. Set up eCatalog Viewer Presets
 
-End users see your eCatalog in the eCatalog Viewer. If you are an administrator, you can configure the eCatalog Viewer. You can change its outline color and select a new “skin” to brand your eCatalog. Adobe Dynamic Media Classic comes with several “best practice” eCatalog Viewer Presets. You can choose one of these presets for displaying your eCatalogs. You can also create an eCatalog Viewer Preset of your own if you are an administrator.
+End users see your eCatalog in the eCatalog Viewer. If you are an administrator, you can configure the eCatalog Viewer. You can change its outline color and select a new "skin" to brand your eCatalog. Adobe Dynamic Media Classic comes with several "best practice" eCatalog Viewer Presets. You can choose one of these presets for displaying your eCatalogs. You can also create an eCatalog Viewer Preset of your own if you are an administrator.
 
 To create an eCatalog Viewer Preset, on the Global Navigation bar, select **[!UICONTROL Setup]**, and then choose **[!UICONTROL Viewer Presets]**. Select **[!UICONTROL Add]**, choose a platform, and then select **[!UICONTROL eCatalog]** > **[!UICONTROL Viewer]**.
 

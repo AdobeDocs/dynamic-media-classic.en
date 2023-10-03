@@ -15,7 +15,7 @@ level: Intermediate
 ---
 # Check job files{#checking-job-files}
 
-To monitor file uploads to the Adobe Dynamic Media Classic and files that you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
+To monitor file uploads to Adobe Dynamic Media Classic, and files that you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
 
 When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can select the icon to see more information about the active job.
 
@@ -37,7 +37,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 * **[!UICONTROL Total]** - The number of files transferred.
 
-* **[!UICONTROL W (warnings)]** - The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Macintosh) and Thumbs.db files (Windows®) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
+* **[!UICONTROL W (warnings)]** - The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Macintosh) and Thumbs.db files (Windows&reg;) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don't pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
 
 * **[!UICONTROL E (errors)]** - Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
 
@@ -45,7 +45,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 * **[!UICONTROL Status]** - Shows the status of the job.
 
-* **[!UICONTROL Destination]** - For upload jobs, the company name, and folder to which the files were uploaded. This category doesn’t apply to publish jobs.
+* **[!UICONTROL Destination]** - For upload jobs, the company name, and folder to which the files were uploaded. This category does not apply to jobs for publishing.
 
 * **[!UICONTROL Submitted By]** - Lists who uploaded the assets.
 
@@ -65,9 +65,9 @@ Use these techniques to sort jobs or change your view of the History tab of the 
 
 * **[!UICONTROL Show]** - Go to **[!UICONTROL Show]** > **[!UICONTROL My Jobs]** or **[!UICONTROL Show]** > **[!UICONTROL All Jobs]** to narrow the list to jobs you ordered or jobs that people in your company ordered.
 
-## View, copy, or print a Job Details report {#viewing-copying-or-printing-a-job-details-report}
+## View, or copy, or print a Job Details report {#viewing-copying-or-printing-a-job-details-report}
 
-Double-click the name of a report on the Jobs page so the Job Details page opens. This page provides a summary report about the files in the job. Select **[!UICONTROL View Detail]** so you can see an entry’s Adobe Dynamic Media Classic ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in Adobe Dynamic Media Classic, the report lists the missing fonts.
+Double-click the name of a report on the Jobs page so the Job Details page opens. This page provides a summary report about the files in the job. Select **[!UICONTROL View Detail]** so you can see an entry's Adobe Dynamic Media Classic ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in Adobe Dynamic Media Classic, the report lists the missing fonts.
 
 You can copy this information to the Clipboard.
 
@@ -77,7 +77,7 @@ You can copy this information to the Clipboard.
 
 ## Handle recurring upload and publish jobs {#handling-recurring-upload-and-publish-jobs}
 
-Recurring upload and publish jobs that you create on the Upload and Publish pages are listed on the Scheduled tab of the Jobs page. You can edit and delete recurring jobs on the Scheduled tab.
+Recurring upload and publish jobs, that you create on the Upload and Publish pages, are listed on the Scheduled tab of the Jobs page. You can edit and delete recurring jobs on the Scheduled tab.
 
 Select the Jobs button on the Global Navigation bar and, on the Jobs page, select the **[!UICONTROL Scheduled]** tab so you can edit and delete recurring jobs.
 
@@ -116,9 +116,9 @@ This table shows the time increments, their allowed values, and the wildcards th
 |Seconds|0-59||`, - * /`|
 |Minutes|0-59||`, - * /`|
 |Hours|0-23|Note the use of a 24-hour clock.|`, - * /`|
-|Day of the month|1-31|You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a `?` wildcard character.|`, - * / ? L C`|
+|Day of the month|1-31|You cannot specify a numeric value for both "day of the month" and "day of the week." One of these fields must use a `?` wildcard character.|`, - * / ? L C`|
 |Month|1-12 or Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Sep, Oct, Nov, Dec|Values are case-sensitive.|`, - * /`|
-|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case-sensitive. You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a `?` wildcard character.|`, - * / ? L C #`|
+|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case-sensitive. You cannot specify a numeric value for both "day of the month" and "day of the week." One of these fields must use a `?` wildcard character.|`, - * / ? L C #`|
 |Year (optional)|Empty or 1970-2099||`, - * /`|
 
 
@@ -126,14 +126,14 @@ This table describes the wildcard characters that are allowed in the Rule box an
 
 |Wildcard character|Name|What it describes|
 |--- |--- |--- |
-|`*`|Asterisk|All values (for example, “every minute”).|
-|`?`|Question mark|No specific value (for example, “any minute within the specified hour”).|
-|`,`|Comma|Other values (for example, “Monday and Wednesday”).|
-|`-`|Hyphen|Range of values (for example, “Monday through Friday”).|
-|`/`|Forward slash|Increments (for example, “every 15 minutes”).|
-|`L`|Capital L|Last “day of the month” or “day of the week” (available for these fields only). For example, if the month is January, an L value for the “day of the month” field schedules the job for January 31. For the “day of the week” field, you can enter this character alone to schedule the job on Saturday. You can use it with a number (for example, `6L`) to specify the last Friday of the month. Do not specify `L` with the comma or hyphen wildcards.|
-|`#`|Number sign|“Nth” weekday of the month (available for the “day of the week” field only). For example, `6#3` in the “day of the week” field specifies the third Friday of the month. The `6` denotes “Friday” (the sixth day of the week) and the `3` denotes the third occurrence in the month.|
-|`C`|# Capital C|First calendar “day of the month” or “day of the week” (available for these fields only). For example, specifying a value of `1C` for “day of the month” schedules the first day in the calendar that occurs on or after the fifth. For the “day of the week” field, specifying `1C` schedules the first day in the calendar that occurs on or after Sunday|
+|`*`|Asterisk|All values (for example, "every minute").|
+|`?`|Question mark|No specific value (for example, "any minute within the specified hour").|
+|`,`|Comma|Other values (for example, "Monday and Wednesday").|
+|`-`|Hyphen|Range of values (for example, "Monday through Friday").|
+|`/`|Forward slash|Increments (for example, "every 15 minutes").|
+|`L`|Capital L|Last "day of the month" or "day of the week" (available for these fields only). For example, if the month is January, an L value for the "day of the month" field schedules the job for January 31. For the "day of the week" field, you can enter this character alone to schedule the job on Saturday. You can use it with a number (for example, `6L`) to specify the last Friday of the month. Do not specify `L` with the comma or hyphen wildcards.|
+|`#`|Number sign|"Nth" weekday of the month (available for the "day of the week" field only). For example, `6#3` in the "day of the week" field specifies the third Friday of the month. The `6` denotes "Friday" (the sixth day of the week) and the `3` denotes the third occurrence in the month.|
+|`C`|# Capital C|First calendar "day of the month" or "day of the week" (available for these fields only). For example, specifying a value of `1C` for "day of the month" schedules the first day in the calendar that occurs on or after the fifth. For the "day of the week" field, specifying `1C` schedules the first day in the calendar that occurs on or after Sunday|
 
 This list gives examples of describing time intervals in the Rule box:
 
