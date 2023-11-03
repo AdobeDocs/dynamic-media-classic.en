@@ -68,7 +68,7 @@ Adobe Dynamic Media Classic tracks publish jobs on the Jobs page. You can review
 
 Create a one-time publish job by selecting the **[!UICONTROL One-Time]** option on the Publish page.
 
-If you want the publish job to occur later, in the Publish page, select **[!UICONTROL One-Time]**, then select **[!UICONTROL Schedule For Later]** drop-down. Use the Calendar and the Time slider to select a day and time to run the publish job.
+If you want the publish job to occur later, in the Publish page, select **[!UICONTROL One-Time]**, then select **[!UICONTROL Schedule For Later]** from the drop-down list. Use the Calendar and the Time slider to select a day and time to run the publish job.
 
 ### Create a recurring publish job {#creating-a-recurring-publish-job}
 
@@ -100,17 +100,17 @@ See [Use an upload or publish job as a trigger](checking-job-files.md#using_an_u
 
 You can cancel a publish job that is in progress. Moreover, if you are an administrator, you can cancel an in-progress publishing job from the company Jobs page.
 
-To cancel a publishing job, go to the Jobs page and select **[!UICONTROL Cancel]**. On the Scheduled tab of the Jobs page, you can pause or resume a job by deselecting or selecting the check box in the job’s Active column.
+To cancel a publishing job, go to the Jobs page and select **[!UICONTROL Cancel]**. On the Scheduled tab of the Jobs page, you can pause or resume a job by deselecting or selecting the check box in the job's Active column.
 
 >[!NOTE]
 >
->After you cancel a publish job, its status changes to “stopping” until the job reaches a point where it can stop safely. Stopping a publish job can take some time if the job is in the process of getting data from the database.
+>After you cancel a publish job, its status changes to "stopping" until the job reaches a point where it can stop safely. Stopping a publish job can take some time if the job is in the process of getting data from the database.
 
 ## Manually publish assets {#manually-publishing-assets}
 
-You can publish individual assets manually instead of creating a publishing job. When you publish sets, such as an Image Set or an Adaptive Video Set, the set (or “parent”) and all members (or “children”) within that set get published.
+You can publish individual assets manually instead of creating a publishing job. When you publish sets, such as an Image Set or an Adaptive Video Set, the set (or "parent") and all members (or "children") within that set get published.
 
-Unpublished assets are indicated in the user interface by a gray, round icon with a slash through it (unpublished state), to the left of the asset’s name. After an asset is published, the icon turns green and has a white check mark in the center (published state).
+Unpublished assets are indicated in the user interface by a gray, round icon with a slash through it (unpublished state), to the left of the asset's name. After an asset is published, the icon turns green and has a white check mark in the center (published state).
 
 **To manually publish assets:**
 
@@ -120,13 +120,13 @@ Unpublished assets are indicated in the user interface by a gray, round icon wit
 
       On the Global Navigation Bar, go to **[!UICONTROL File]** > **[!UICONTROL Publish]**.
 
-    * In the Grid View, List View, or Details View, select the gray, round icon with a slash through it, to the left of the asset’s name.
+    * In the Grid View, List View, or Details View, select the gray, round icon with a slash through it, to the left of the asset's name.
 
 ## Manually unpublish assets {#manually-unpublishing-assets}
 
-You can unpublish individual assets manually. When you unpublish sets, such as a Swatch Set or an eCatalog, the set (or “parent”) itself goes into an unpublished state. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+You can unpublish individual assets manually. When you unpublish sets, such as a Swatch Set or an eCatalog, the set (or "parent") itself goes into an unpublished state. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
-Published assets are indicated in the user interface by a round, green icon with a white check mark in the center (published state), to the left of the asset’s name. After an asset is unpublished, the icon turns gray with a slash through it (unpublished state),
+Published assets are indicated in the user interface by a round, green icon with a white check mark in the center (published state), to the left of the asset's name. After an asset is unpublished, the icon turns gray with a slash through it (unpublished state),
 
 **To manually unpublish assets:**
 
@@ -136,9 +136,9 @@ Published assets are indicated in the user interface by a round, green icon with
 
       On the Global Navigation Bar, go to **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
-    * In the Grid View, List View, or Details View, select the round, green check mark icon to the left of the asset’s name.
+    * In the Grid View, List View, or Details View, select the round, green check mark icon to the left of the asset's name.
 
-## Get an asset’s publish history {#getting-an-asset-s-publish-history}
+## Get an asset's publish history {#getting-an-asset-s-publish-history}
 
 The last date that an asset was published is shown in Detail View at the top of the panel. You can get more details about the publishing history by opening the History & Published Servers panel in Detail View. From there, you can see when the asset was published and to which servers it was published.
 

@@ -1,12 +1,10 @@
 ---
 title: Add chapter markers to video
 description: Learn how to add chapter markers to a video in Adobe Dynamic Media Classic.
-uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
-discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
@@ -15,7 +13,7 @@ level: Intermediate
 ---
 # Add chapter markers to video {#adding-chapter-markers-to-video}
 
-You can make your long form videos easier to watch and navigate by adding chapter markers to single videos or to Adaptive Video Sets. When a user plays the video, they can select the chapter markers on the video timeline (also known as the video scrubber). Doing so lets them easily navigate to their point of interest, or immediately jump to new content, demonstrations, tutorials, and so on.
+You can make your long-form videos easier to watch and navigate by adding chapter markers to single videos or to Adaptive Video Sets. When a user plays the video, they can select the chapter markers on the video timeline (also known as the video scrubber). Doing so lets them easily navigate to their point of interest, or immediately jump to new content, demonstrations, tutorials, and so on.
 
 >[!NOTE]
 >
@@ -45,7 +43,7 @@ Chapter 4
 Cost-efficient access to rapidly evolving technology.
 ```
 
-In the example above, `Chapter 1` is the cue identifier and is optional. The cue time of `00:00:000 --> 01:04:364` specifies the start time and end time of the chapter, in 00:00:000 format. That last three digits are milliseconds and can be left as 000, if preferred. The chapter title of `The bicycle store behind it all` is the actual description of the chapter’s contents. The cue identifier, the starting cue time, and the chapter title all appear in a pop-up in the video player when the pointer is hovered over a visual cue point in the video’s timeline.
+In the example above, `Chapter 1` is the cue identifier and is optional. The cue time of `00:00:000 --> 01:04:364` specifies the start time and end time of the chapter, in 00:00:000 format. That last three digits are milliseconds and can be left as 000, if preferred. The chapter title of `The bicycle store behind it all` is the actual description of the chapter's contents. The cue identifier, the starting cue time, and the chapter title all appear in a pop-up in the video player when the pointer is hovered over a visual cue point in the video's timeline.
 
 Because you are using an HTML5 video viewer, ensure that the chapter file you create follows the WebVTT (Web Video Text Tracks) standard. The chapter filename extension is .VTT. You can learn more information about the WebVTT captioning standard.
 
@@ -83,4 +81,4 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
 
       For the HTML5 `Universal_HTML5_Video` viewer, append the copied embed code with the following:
 
-      `videoViewer.setParam("navigation","*<full Copy URL path to the chapter navigation file .vtt>*”`
+      `videoViewer.setParam("navigation","*<full Copy URL path to the chapter navigation file .vtt>*"`

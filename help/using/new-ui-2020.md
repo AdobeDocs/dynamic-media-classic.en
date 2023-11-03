@@ -16,7 +16,7 @@ See [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-
 
 ## _Last revision June 30, 2020_
 
-Adobe Dynamic Media Classic users now have access to a new sign-in experience that no longer relies on Adobe Flash technology in the browser.
+Adobe Dynamic Media Classic users now have access to a new sign-in that no longer relies on Adobe Flash technology in the browser.
 
 ## Frequently Asked Questions
 
@@ -33,7 +33,7 @@ See [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-
 <!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
 
 +++**_How does the new desktop app work?_**
-After you download, install, and launch the desktop app, you are presented with a refreshed sign-in experience. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the familiar web browser version that you are used to. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
+After you download, install, and launch the desktop app, you are presented with a refreshed sign-in. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the familiar web browser version that you are used to. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
 
 >[!IMPORTANT]
 >

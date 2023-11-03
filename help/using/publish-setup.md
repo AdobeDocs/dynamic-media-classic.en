@@ -16,7 +16,7 @@ The Publish Setup page settings determine how assets are delivered by default fr
 
 Administrators can change the default settings on the Image Server, Image Renderer, and Vignette pages to establish default settings for delivering assets from servers.
 
-To open the Publish Setup pages, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]**.
+To open the pages of Publish Setup, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]**.
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ Change these settings only with the assistance of an Adobe Dynamic Media Classic
 
 * **[!UICONTROL Localization Support]*** - These settings let you manage multiple locale attributes. It also lets you specify a locale map string so you can define which languages you want to support for the various tooltips in Viewers.
 
-    For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer’s preset by adding the translated text strings for the language that you want.
+    For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer's preset by adding the translated text strings for the language that you want.
 
     >[!NOTE]
     > To set up Localization Support options, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In your support case, request setup help.
@@ -57,7 +57,7 @@ Change these settings only with the assistance of an Adobe Dynamic Media Classic
 >
 >If you want to set up Localization Support options in Adobe Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In your support case, request setup help.
 
-A common way to use Adobe Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a few parts of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single primary asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Adobe Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
+A common way to use Adobe Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a few parts of the overall media. Addressing such differences by copying all assets for each of the countries and overwrite just the differences is a tremendous effort and contradicts the single primary asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Adobe Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
 
 #### How assets are localized
 
@@ -65,7 +65,7 @@ The locale for an IS (Image Serving) request is identified with the following IS
 
 `locale=`
 
-This command accepts a locale id (locId) string which is not case-sensitive. The locale id is typically a 2-6 character string composed of letters and “_”.
+This command accepts a locale id (locId) string which is not case-sensitive. The locale id is typically a 2-6 character string composed of letters and "_".
 
 IS supports arbitrary printable ASCII strings. The `locale=` command has a global scope, meaning that it is applied to the entire request, including all nested IS and IR requests, referenced templates, and image layers. Multiple locales per request, such as a different locale for each layer, is not supported. However, it is conceivable to allow explicit overrides in nested requests.
 
@@ -89,11 +89,11 @@ Some of the benefits of using `locale=` and `attribute::DefaultLocale` include t
 | --- | --- |
 | Viewer Localization | After static content catalogs are implemented, localization is controlled entirely with the locale= parameter, appended to all requests that are made to IS. Configuration records, skins, splash screens, and so on, can have locale-specific variants or not. The correct contents is provided by IS without the viewer needing to know which contents is localized and what its IDs are. |
 | Images and Video | Multi-national companies often have a mix of generic and locale-specific contents. With this mechanism, a reference to an image or video can be generic, and IS serves up the locale-specific contents if it is available. |
-| Image Sets and Media Sets | The entire image set can be different for some locales--such as when an eCatalog is different--with the translation from a generic to a locale-specific image set handled by the viewer. More commonly, individual IDs in a generic set can refer to localized contents. For example, most photos of an appliance can be the same in all languages, except the photo of the Control Panel. IS automatically translate IDs, so there is no need to generate locale-specific image sets. |
+| Image Sets and Media Sets | The entire image set can be different for some locales--such as when an eCatalog is different--with the translation from a generic to a locale-specific image set handled by the viewer. More commonly, individual IDs in a generic set can refer to contents that is localized. For example, most photos of an appliance can be the same in all languages, except the photo of the Control Panel. IS automatically translate IDs, so there is no need to generate locale-specific image sets. |
 
 #### Implement asset localization
 
-Adobe Dynamic Media Classic and Image Serving have an interface that allows for the localizations of images and static content.
+Adobe Dynamic Media Classic and Image Serving have an interface that allows for the localization of images and static content.
 
 Without localization, an Image Server URL looks like the following:
 
@@ -119,7 +119,7 @@ Whether a suffix value or a replacement value is applied depends on the Global L
 
 | URL | localeMap IDs | Result |
 | --- | --- | --- |
-| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,|fr_FR,_FR,` | Notice that there is no GlobalLocale defined. The locale parameter de_DE is matched against the first entry in the `localeMap`. The first corresponding value _DE is added as a suffix to the asset image_DE and an attempt is made to find it on the Image Server. If it is found on the server, it is returned. Otherwise, the second value “” is used as a suffix, resulting in the image itself being returned. |
+| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,|fr_FR,_FR,` | Notice that there is no GlobalLocale defined. The locale parameter de_DE is matched against the first entry in the `localeMap`. The first corresponding value _DE is added as a suffix to the asset image_DE and an attempt is made to find it on the Image Server. If it is found on the server, it is returned. Otherwise, the second value "" is used as a suffix, resulting in the image itself being returned. |
 
 **Replacement example:**
 
@@ -129,7 +129,7 @@ Whether a suffix value or a replacement value is applied depends on the Global L
 
 If no locale is defined in the URL, the Image Server takes the DefaultLocale, if it is defined, and applies it to the URL.
 
-If an unknown or empty locale parameter is supplied with `locale=`, then the `localeMap` is scanned for the empty value “starting with,”. It is important to have a default locale applied for unknown locales.
+If an unknown or empty locale parameter is supplied with `locale=`, then the `localeMap` is scanned for the empty value "starting with,". It is important to have a default locale applied for unknown locales.
 
 #### About defaultImage
 

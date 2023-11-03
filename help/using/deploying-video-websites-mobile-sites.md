@@ -1,12 +1,10 @@
 ---
 title: Deploy video to your websites and mobile sites
 description: Learn how to deploy video to your websites and mobile sites from Adobe Dynamic Media Classic.
-uuid: 22bb4402-c0ab-4df0-89b9-99707d111927
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
-discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
@@ -42,7 +40,7 @@ After you publish videos, Adobe Dynamic Media Classic activates the URL strings 
 
 ## Link a video URL to a mobile site or a website {#linking-a-video-url-to-a-mobile-site-or-a-website}
 
-After you publish a video, you can obtain its URL for use in your website, mobile site, or desktop application. Use the video URL when you want to display video in a pop-up or modal window on top of the web page.
+When you publish a video, you can obtain its associated URL for use in your website, mobile site, or desktop application. Use the video URL when you want to display video in a pop-up or modal window on top of the web page.
 
 When a customer selects the link, their device, bandwidth, and screen size are automatically detected. The appropriate video is displayed for playback in a pre-defined viewer for desktop, or in the mobile device's native video player for smartphones and tablets.
 
@@ -50,7 +48,7 @@ See also [Embed the video viewer on a web page](deploying-video-websites-mobile-
 
 **To link a video URL to a mobile site or a website:**
 
-1. In the Asset Browse panel, in the **[!UICONTROL Show]** drop-down list, select **[!UICONTROL Video]** or **[!UICONTROL Adaptive Video Set]**.
+1. In the Asset Browse panel, in the **[!UICONTROL Show]** drop-down list, select **[!UICONTROL Video]**, or **[!UICONTROL Adaptive Video Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set you want to link.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
@@ -77,7 +75,7 @@ See also [Link a video URL to a mobile site or a website](deploying-video-websit
 
 **To embed the video viewer on a web page:**
 
-1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Video]** or **[!UICONTROL Adaptive Video Set]**.
+1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Video]**, or **[!UICONTROL Adaptive Video Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set whose embed code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
@@ -113,15 +111,15 @@ If you do not use the Adobe Dynamic Media Classic HTML5 video player, but instea
 </video>
 ```
 
-* Replace `"S7 video thumbnail URL"` with the video’s thumbnail URL which is the video’s thumbnail image that a user sees before they play the video.
+* Replace `"S7 video thumbnail URL"` with the video's thumbnail URL which is the video's thumbnail image that a user sees before they play the video.
 
   See [Obtain video thumbnail URLs](deploying-video-websites-mobile-sites.md#obtaining_video_thumbnail_urls).
 
-* Replace `"S7 OGG video asset URL (no player)"` with the video’s progressive URL for OGG video.
+* Replace `"S7 OGG video asset URL (no player)"` with the video's progressive URL for OGG video.
 
   See [Link a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
-* Replace `"S7 MP4 mobile progressive video asset URL (no player)"` with the video’s mobile progressive URL.
+* Replace `"S7 MP4 mobile progressive video asset URL (no player)"` with the video's mobile progressive URL.
 
   See [Link a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
@@ -173,7 +171,7 @@ To generate URLs for video thumbnails, perform a publish operation.
 
 See [Publish video](deploying-video-websites-mobile-sites.md#publishing_video).
 
-After publishing, you can obtain video thumbnail URLs in Detail View in the URLs and Embed Code panel. Select **[!UICONTROL Copy URL]** to the right of the video thumbnail so you can copy its URL.
+After publishing, you can obtain video thumbnail URLs in Detail View in the URLs and Embed Code panel. Select **[!UICONTROL Copy URL]** to the right of the video thumbnail so you can copy its associated URL.
 
 ### Modify poster frames in video viewers {#modifying-poster-frames-in-video-viewers}
 

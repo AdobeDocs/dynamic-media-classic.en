@@ -1,12 +1,10 @@
 ---
 title: Manage Info Panel content in eCatalogs
 description: Learn how to manage Info Panel content in eCatalogs in Adobe Dynamic Media Classic.
-uuid: 5aa634f9-0874-4bb5-a3d9-8ce4d5577941
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: be277831-77cc-4011-ae30-e75c18eec99b
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
@@ -45,7 +43,7 @@ You can select one of three preset response templates for displaying text in an 
 1. In the Response TTL box, enter the number of hours you want to wait before caching the data:
 
     * Set a lower number if the data is updated frequently throughout a day.
-    * Set a higher number if the data is relatively stable and doesn’t require updating frequently throughout the day. The default is ten hours.
+    * Set a higher number if the data is relatively stable and doesn't require updating frequently throughout the day. The default is ten hours.
 
 1. Select **[!UICONTROL Publish]**.
 
@@ -91,7 +89,7 @@ Adobe Dynamic Media Classic sends you an e-mail message letting you know if the 
 
 Using the Map Pages screen, you can easily and quickly view Info Panel text for the Image Maps on a specific page of your eCatalog.
 
-1. Select the Catalog’s rollover **[!UICONTROL Edit]** button.
+1. Select the Catalog's rollover **[!UICONTROL Edit]** button.
 1. Select **[!UICONTROL Map Pages]**.
 1. At the top of the table on the right side of the screen, choose **[!UICONTROL Info Panel]** from the Show menu.
 

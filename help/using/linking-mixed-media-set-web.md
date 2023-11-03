@@ -1,12 +1,10 @@
 ---
 title: Link a Mixed Media Set to a web page
 description: Learn how to link a Mixed Media Set to a web page in Adobe Dynamic Media Classic.
-uuid: 120326a2-77e9-4d6f-9b02-0a00fa9cbab1
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
-discoiquuid: b33dacc4-509d-4878-a769-76642bfaeb4e
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
@@ -15,7 +13,7 @@ level: Intermediate
 ---
 # Link a Mixed Media Set to a web page{#linking-a-mixed-media-set-to-a-web-page}
 
-After you publish a Mixed Media Set, you can obtain its URL for use in your web site or application. Then you can deploy the URL as necessary so users can view the Mixed Media Set on your web site or application.
+After you publish a Mixed Media Set, you can obtain its associated URL for use in your web site or application. Then you can deploy the URL as necessary so users can view the Mixed Media Set on your web site or application.
 
 ## Obtain a Mixed Media Set URL {#obtain-a-mixed-media-set-url}
 

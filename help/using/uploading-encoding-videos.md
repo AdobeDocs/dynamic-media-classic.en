@@ -104,7 +104,7 @@ The following table lists video file types (with permitted video codecs) that yo
   | M2V | MPEG-2 ES |
   | M4V | H.264 |
   | MOV | DV, DVCPro 50, H.261, H.263, H.264, Sorenson Video 1 |
-  | MP4 | H.264/MPEG-4 AVC |
+  | MP4 | H.264 / MPEG-4 AVC |
   | MPEG | MPEG-2 SS |
   | MPG | MPEG-2 SS |
   | MTS | MPEG-2 |
@@ -164,7 +164,7 @@ The following table describes how formula results translate to common aspect rat
 | 1.78 | 16:9 |
 | 0.56 | 9:16 |
 
-For example, a video that is 1440 width x 1080 height has an aspect ratio of 1440/1080, or 1.33. In this case, you choose a video encoding preset with a 4:3 aspect ratio to encode the video file.
+For example, a video that is 1440 width &times; 1080 height has an aspect ratio of 1440/1080, or 1.33. In this case, you choose a video encoding preset with a 4:3 aspect ratio to encode the video file.
 
 ### Data rate {#data-rate}
 
@@ -187,16 +187,16 @@ This table describes the data rate of typical connection speeds.
 
 ### Resolution {#resolution}
 
-*Resolution* describes a video file's height and width in pixels. Most source video is stored at a high resolution (for example, 1920 x 1080). For streaming purposes, source video is compressed to a smaller resolution (640 x 480 or smaller).
+*Resolution* describes a video file's height and width in pixels. Most source video is stored at a high resolution (for example, 1920 &times; 1080). For streaming purposes, source video is compressed to a smaller resolution (640 &times; 480 or smaller).
 
-Resolution and data rate are two integrally linked factors that determine video quality. To maintain the same video quality, the higher the number of pixels in a video file (the higher the resolution), the higher the data rate must be. For example, consider the number of pixels per frame in a 320 x 240 resolution and a 640 x 480 resolution video file:
+Resolution and data rate are two integrally linked factors that determine video quality. To maintain the same video quality, the higher the number of pixels in a video file (the higher the resolution), the higher the data rate must be. For example, consider the number of pixels per frame in a 320 &times; 240 resolution and a 640 &times; 480 resolution video file:
 
 | Resolution | Pixels per frame |
 | --- | --- |
-| 320 x 240 | 76,800 |
-| 640 x 480 | 307,200 |
+| 320 &times; 240 | 76,800 |
+| 640 &times; 480 | 307,200 |
 
-The 640 x 480 file has four times more pixels per frame. To achieve the same data rate for these two example resolutions, you apply four times the compression to the 640 x 480 file, which can reduce the quality of the video. Therefore, a video data rate of 250 Kbps produces high-quality viewing at a 320 x 240 resolution, but not at a 640 x 480 resolution.
+The 640 &times; 480 file has four times more pixels per frame. To achieve the same data rate for these two example resolutions, you apply four times the compression to the 640 &times; 480 file, which can reduce the quality of the video. Therefore, a video data rate of 250 Kbps produces high-quality viewing at a 320 &times; 240 resolution, but not at a 640 &times; 480 resolution.
 
 >[!NOTE]
 >
@@ -232,14 +232,14 @@ To calculate this ratio, you divide source width by encoded width to get the wid
 
 If the resulting ratio is a whole integer, it means that the video is optimally scaled. If the resulting ratio is not a whole integer, it impacts video quality by leaving leftover pixel artifacts on the display. This effect is most noticeable when the video has text.
 
-As an example, suppose that your source video is 1920 x 1080. In the following table, the three encoded videos provide the optimal encoding settings to use.
+As an example, suppose that your source video is 1920 &times; 1080. In the following table, the three encoded videos provide the optimal encoding settings to use.
 
-| Video Type | Width x Height | Width Ratio | Height Ratio |
+| Video Type | Width &times; Height | Width Ratio | Height Ratio |
 | --- | --- | --- | --- |
-| Source | 1920 x 1080 | 1 | 1 |
-| Encoded | 960 x 540 | 2 | 2 |
-| Encoded | 640 x 360 | 3 | 3 |
-| Encoded | 480 x 270 | 4 | 4 |
+| Source | 1920 &times; 1080 | 1 | 1 |
+| Encoded | 960 &times; 540 | 2 | 2 |
+| Encoded | 640 &times; 360 | 3 | 3 |
+| Encoded | 480 &times; 270 | 4 | 4 |
 
 ### Encoded video file format {#encoded-video-file-format}
 

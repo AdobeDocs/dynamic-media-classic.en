@@ -27,7 +27,7 @@ Using Adobe Dynamic Media Classic Video SEO, you can apply video metadata to pro
 >
 >Google supports both the Video Sitemap and mRSS feed protocol for submitting information to search engines.
 
-Adobe Dynamic Media Classic can generate Video Sitemaps and mRSS feeds from metadata that is stored with each video. When you create Video Sitemaps and mRSS feeds, you decide which metadata fields from video files to include. In this way, you describe your videos to search engines so that search engines can more accurately direct traffic to videos on your web site
+Adobe Dynamic Media Classic can generate Video Sitemaps and mRSS feeds from metadata that is stored with each video. When you create Video Sitemaps and mRSS feeds, you decide which metadata fields from video files to include. In this way, you describe your videos to search engines so that search engines can more accurately direct traffic to videos on your web site.
 
 >[!NOTE]
 >
@@ -103,7 +103,7 @@ Video Sitemap and Media RSS (mRSS) feed files are stored in the root folder of t
 * `https://{publish-server}/is/content/{companyname}/mrss-feed.xml`
 * `https://{publish-server}/is/content/{companyname}/video-sitemap.xml`
 
-Copy one of these URLs into the search engine’s webmaster tools to submit your Video Sitemap or Media RSS (mRSS) feed file to search engines.
+Copy one of these URLs into the search engine's webmaster tools to submit your Video Sitemap or Media RSS (mRSS) feed file to search engines.
 
 ## View Video SEO reports {#viewing-video-seo-reports}
 

@@ -1,6 +1,6 @@
 ---
 title: Dynamic Media newsletter archive
-description: "The archived Dynamic Media newsletter by Experience League was a monthly newsletter. It was designed to help you get up to speed with Dynamic Media and Adobe Dynamic Media Classic so that you could realize value right away. The archived newsletters contain valuable knowledge-building resources that were available in this one-stop-shop newsletter that is now discontinued. Archived newsletters include how-to videos and solution overviews. There are also introductions to key features and capabilities like image presets, viewer presets, and video profiles."
+description: The archived Dynamic Media newsletter by Experience League was a monthly newsletter designed to help you get up to speed with Dynamic Media in AEM and Dynamic Media Classic.
 keywords: dynamic media;newsletter;product updates;tips and tricks;events;customer success;blog;blogs;images;videos;features;capabilities
 feature: Dynamic Media Classic
 role: Admin,User
@@ -124,7 +124,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
   * Learn about an upcoming webinar on protecting your digital assets.
   * Next stop on the information-filled Adobe Insider Tour.
   * Exciting capabilities available when you have Dynamic Media within Experience Manager Assets (Experience Manager Assets).
-  * Adding 360° videos and custom video thumbnails to your website.
+  * Adding 360-degree videos and custom video thumbnails to your website.
   * Meet `Andrew Hathaway`, Principal Solutions Consultant for Dynamic Media within Experience Manager Assets.
 
 * **[June 2019, Issue 06](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_06_2019_June.html)**

@@ -1,12 +1,10 @@
 ---
 title: Link an Image Set to a web page
 description: Learn how to link an Image Set to a web page in Adobe Dynamic Media Classic.
-uuid: 8153a228-b2ec-4bc2-8996-266113a83df5
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
-discoiquuid: 40f4abab-9059-4d92-a761-f6d573b42e00
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: df4e5218-2a66-413c-b247-b2a16d884041
@@ -15,7 +13,7 @@ level: Intermediate
 ---
 # Link an Image Set to a web page{#linking-an-image-set-to-a-web-page}
 
-After you publish an Image Set, you can copy its URL or its embed code for use in your web site or application. Then you can deploy the URL or paste the embed code as necessary so users can view the Image Set on your web site or application.
+After you publish an Image Set, you can copy its associated URL or its embed code for use in your web site or application. Then you can deploy the URL or paste the embed code as necessary so users can view the Image Set on your web site or application.
 
 >[!NOTE]
 >
