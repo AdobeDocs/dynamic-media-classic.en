@@ -62,7 +62,7 @@ Adobe is committed to ensuring its products meet the security requirements of it
 +++
 
 +++**_My company does not let me install software and apps onto my computer. How do you recommend I get access to the new desktop app?_**
-Some companies do not let you download and install software and apps onto your system without approval. In such cases, work with your IT teams early to gain permission to access the new Adobe Dynamic Media Classic desktop app. Remember that after December 31, 2020 the browser version will be deprecated. It is important that you avoid waiting until the last minute to download the new desktop app.
+Some companies do not let you download and install software and apps onto your system without approval. In such cases, work with your IT team early to gain permission to access the new Adobe Dynamic Media Classic desktop app. Remember that after December 31, 2020 the browser version will be deprecated. It is important that you avoid waiting until the last minute to download the new desktop app.
 +++
 
 +++**_Can multiple instances of the new desktop app be open at the same time?_**
@@ -96,7 +96,7 @@ Adobe Dynamic Media Classic is a powerful, feature-rich solution designed to enh
 <!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic), and the complementary audit program. -->
 
 +++**_I'm interested in learning more about upgrading to Adobe Dynamic Media with Adobe Experience Manager Assets. Where can I find more information?_**
-To learn more about the benefits of upgrading to the next generation of rich media authoring, publishing, and dynamic delivery, visit the [Adobe Dynamic Media portal for upgrading](https://exploreadobe.com/dynamic-media-upgrade/).
+To learn more about the benefits of upgrading to the next generation of rich media authoring, publishing, and dynamic delivery, visit the [Adobe Dynamic Media portal for upgrading](/help/using/upgrade.md).
 +++
 
 >[!MORELIKETHIS]
