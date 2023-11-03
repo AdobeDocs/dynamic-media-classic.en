@@ -17,7 +17,7 @@ index: y
   + [Upgrade readiness check list](upgrade-readiness.md)
 + [Adobe Dynamic Media Classic Guide](home.md)
 + [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NEW Adobe Dynamic Media Classic sign-in experience now available](new-ui-2020.md)
++ [NEW Adobe Dynamic Media Classic sign-in now available](new-ui-2020.md)
 + [Adobe Dynamic Media newsletter archive by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
   + [Adobe Dynamic Media Classic Desktop app - Now available](dynamic-media-classic-desktop-app.md)

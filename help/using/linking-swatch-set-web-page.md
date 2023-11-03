@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Link a Swatch Set to a web page{#linking-a-swatch-set-to-a-web-page}
 
-After you publish a Swatch Set, you can use its URL or embed code in your web site or application. Then you can deploy the URL or embed code as necessary so users can view the Swatch Set on your web site or application.
+After you publish a Swatch Set, you can use its associated URL or embed code in your web site or application. Then you can deploy the URL or embed code as necessary so users can view the Swatch Set on your web site or application.
 
 >[!NOTE]
 >

@@ -105,7 +105,7 @@ Use these tools on the Template screen so you can create templates:
 
 * **[!UICONTROL Designer and Developer]** - Select the option that best describes your role.
 
-* **[!UICONTROL Canvas]** - Defines the total available area, in pixels, for defining your template. The default size is 300 x 300 pixels. Layers are placed on the canvas.
+* **[!UICONTROL Canvas]** - Defines the total available area, in pixels, for defining your template. The default size is 300 &times; 300 pixels. Layers are placed on the canvas.
 
 * **[!UICONTROL Layers list]** - Lists the name of layers in the template. To select a layer, select its name in the Layers list. The Layers list offers tools for adding effects to layers, deleting layers, reordering layers, and parameterizing layers. See [Work with layers](#working-with-layers).
 

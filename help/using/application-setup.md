@@ -17,7 +17,7 @@ You can use the Application Setup pages to enter general settings, create image 
 
 >[!NOTE]
 >
->Only Adobe Dynamic Media Classic administrators can change settings on the pages in Application Setup.
+>Only Adobe Dynamic Media Classic administrators can change settings in Application Setup.
 
 ## General Settings {#general-settings}
 
@@ -125,13 +125,13 @@ See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/Vi
 
 * **[!UICONTROL Default Upload Options]** - Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see [Upload options](/help/using/uploading-files.md#upload_options).
 
-### Image Map Editor, to Application
+### Image Map Editor (to Application)
 
 * **[!UICONTROL Default Image Mapping HREF]** - Defines the default URL that is used for the HREF column in image mapping. This URL is the default URL that you see when you create Image Maps.
 
 * **[!UICONTROL Default Image Mapping Template]** - Defines the default JavaScript for the HREF template in image mapping. You can set custom code here to be run whenever you select an image map.
 
-### Other Settings, to Application
+### Other Settings (to Application)
 
 * **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select "Send emails before trash items are automatically deleted" if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/using/trash-folder.md).
 
@@ -217,7 +217,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 * **[!UICONTROL Bi-Cubic]** - Increases CPU usage on the Image Server, but yields sharper images with less noticeable aliasing artifacts.
 
-* **[!UICONTROL Sharp2]** - Can produce slightly sharper results than the Bi-Cubic option, but at even higher CPU cost on the Image Server.
+* **[!UICONTROL `Sharp 2`]** - Can produce slightly sharper results than the Bi-Cubic option, but at even higher CPU cost on the Image Server.
 
 * **[!UICONTROL Tri-Linear]** - Uses both higher and lower resolutions, if available; recommended only when aliasing is an issue. This method reduces JPEG size due to reduced high-frequency data.
 
@@ -302,7 +302,7 @@ To select an encoding preset, in the lower-right corner of the Upload page, sele
       >
       >To deliver video to iPads, you can select a Mobile encoding preset or a Tablet encoding preset. Tablet presets are designed especially for the iPad, typically with higher resolution and quality to take advantage of the larger screen size and bandwidth connection. Delivering video files encoded with a Tablet preset requires you to include device-detection code on your mobile site or application. This code switches between an iPhone or iPad video experience, depending on the playback device. Choosing a Mobile preset for delivering video files to the iPad is a more simplified workflow. The reason is because you can use the same video file for both iPhones and iPads. However, the quality is standardized to the lower resolution iPhone experience.
 
-    * Under the Encoding Presets group, in the Sort Encoding Presets drop-down list, select Name or Size to sort presets by name or resolution size.
+    * Under the Encoding Presets group, in the Sort Encoding Presets drop-down list, select Name, or Size to sort presets by name or resolution size.
     * Select an encoding preset based on the resolution size and bandwidth with which you plan to play the video.
     * You can select Adaptive Video Encoding and one or more encoding presets per video. For example, you can encode a file for both desktop and mobile in one upload job.
 
@@ -334,9 +334,9 @@ An encoding preset that works with any aspect ratio to let you create videos for
 
 ||Encoding Preset Name/Tooltip Text|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |
-|1|Auto x 360, 800 Kbps|_Mobile_Autox360p_800K|800|Autox360|Same as source|64|For mobile (iPhone, iPad, Android&trade;)|
-|2|Auto x 480, 1400 Kbps|_Tablet_Autox480p_1400K|1400|Autox480|Same as source|96|For tablets (iPad, Android&trade;)|
-|3|Auto x 720, 2600 Kbps|_Desktop_Autox720p_2600K|2600|Autox720|Same as source|128|For desktop|
+|1|Auto &times; 360, 800 Kbps|_Mobile_Auto&times;360p_800K|800|Auto&times;360|Same as source|64|For mobile (iPhone, iPad, Android&trade;)|
+|2|Auto &times; 480, 1400 Kbps|_Tablet_Auto&times;480p_1400K|1400|Auto&times;480|Same as source|96|For tablets (iPad, Android&trade;)|
+|3|Auto &times; 720, 2600 Kbps|_Desktop_Auto&times;720p_2600K|2600|Auto&times;720|Same as source|128|For desktop|
 
 ### Adaptive Video Encoding (16:9 or 4:3) video presets {#adaptive-video-encoding-or-video-presets}
 
@@ -629,7 +629,7 @@ All default, out-of-box Viewer preset CSS files in Adobe Dynamic Media Classic u
 
 `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`
 
-However, if you host Viewer CSS files on your own site, you must resolve these relative image paths by using an explicit path to the Image Server in your own environment. For example, if you were to update the relative path above to an explicit path, it could look like the following, where `https://s7d1.scene7.com` is the direct path to your image server: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
+However, if you host Viewer CSS files on your own site, you must resolve these relative image paths by using an explicit path to the Image Server in your own environment. For example, if you updated the relative path above to an explicit path, it could look like the following, where `https://s7d1.scene7.com` is the direct path to your image server: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **To export an HTML5 Viewer Preset:**
 
@@ -920,7 +920,7 @@ You can use either the form field method to define a batch set preset or the cod
 
 See also [Create a batch set preset for the auto generation of a 2D Spin Set](application-setup.md#creating_a_batch_set_preset_for_the_auto_generation_of_a_2d_spin_set).
 
-See also [2D spin sets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) training video.
+See also [2D spin set](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) training video.
 
 **To create a batch set preset:**
 

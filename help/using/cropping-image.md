@@ -1,12 +1,10 @@
 ---
 title: Crop an image
 description: Learn how to crop an image in Adobe Dynamic Media Classic.
-uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
@@ -58,6 +56,6 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 
 >[!MORELIKETHIS]
 >
->* [Options for image editing at upload](image-editing-options-upload.md#image-editing-options-at-upload)
+>* [Options for image-editing at upload](image-editing-options-upload.md#image-editing-options-at-upload)
 >* [Crop white space from a PDF file](pdfs.md#cropping_white_space_from_a_pdf_file)
 >* [Crop from the sides of PDF pages](pdfs.md#cropping_from_the_sides_of_pdf_pages)

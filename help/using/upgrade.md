@@ -50,4 +50,4 @@ The new [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] builds on the fu
 * Strong performer in 2016 Online Video Platform report.
 * Top rich media vendor to Internet Retail 1000, nine years in a row.
 * 24/7/265 support, 99.95% SLAs, Adobe Professional Services.
-* Proven infrastructure serving over 800 clients world wide, 3.5 petabytes traffic per month and more than 500 million assets in management, 60% growth in traffic year-over-year.
+* Proven infrastructure serving over 800 clients world wide, 3.5 PB traffic per month and more than 500 million assets in management, 60% growth in traffic year-over-year.

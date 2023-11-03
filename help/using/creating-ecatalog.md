@@ -23,7 +23,7 @@ You can include image files and PDF files in your eCatalog.
 
 When you create an eCatalog, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
-|“Publish after save” option selected before saving?|State of set after saving|State of set members after saving|
+|"Publish after save" option selected before saving?|State of set after saving|State of set members after saving|
 | --- | --- | --- |
 |Yes|Published|Published|
 |No|Unpublished|Set members retain their published or unpublished state.|
@@ -63,7 +63,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 Whether you edit a published set or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
-|Set already published?|“Publish after save” option selected before saving your edit?|State of set after saving|State of set members after saving|
+|Set already published?|"Publish after save" option selected before saving your edit?|State of set after saving|State of set members after saving|
 | --- | --- | --- | --- |
 | Yes | Yes | Published | Published |
 | Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state.|
@@ -74,14 +74,14 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To edit an eCatalog:**
 
-1. Select the eCatalog’s rollover **[!UICONTROL Edit]** button.
+1. Select the eCatalog's rollover **[!UICONTROL Edit]** button.
 1. Make your changes as necessary.
 1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete an eCatalog {#deleting-an-ecatalog}
 
-When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
@@ -92,7 +92,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Customize the table of contents (TOC) {#customizing-the-table-of-contents-toc}
 
-Adobe Dynamic Media Classic provides default page numbers in your eCatalog on the Order Pages tab of the eCatalog screen. For custom page names, you can change the page labels that constitute the table of contents (TOC). Renaming the front and back cover is recommended. For example, the front cover page can read “Cover” instead of “Page 0-1.”
+Adobe Dynamic Media Classic provides default page numbers in your eCatalog on the Order Pages tab of the eCatalog screen. For custom page names, you can change the page labels that constitute the table of contents (TOC). Renaming the front and back cover is recommended. For example, the front cover page can read "Cover" instead of "Page 0-1."
 
 You can create a customized table of contents (TOC) for your eCatalog manually or by importing the page names from a CSV (Mac only) or XML file.
 
@@ -108,7 +108,7 @@ To manually enter page names one at a time, go to the Order Pages tab of the eCa
 
 Importing page names is recommended if you are dealing with an eCatalog with many pages. You can import the names from a tab-delimited or XML file.
 
-The TOC label is stored in an image’s User Data field; format this data as a list of `name=<value>` ` pairs separated by two question marks “??” `. For example, to set one label for a TOC field named `tocEN`, set the User Data of the image to:
+The TOC label is stored in an image's User Data field; format this data as a list of `name=<value>` ` pairs separated by two question marks "??" `. For example, to set one label for a TOC field that is named `tocEN`, set the User Data of the image to:
 
 `tocEN=&lt;EN_page_label>`
 

@@ -20,7 +20,7 @@ Sometimes, Adobe Dynamic Media Classic requires you to upload a font file to ent
 Adobe Dynamic Media Classic supports these font types:
 
 * All TrueType fonts
-* PostScript® fonts
+* PostScript&reg; fonts
 * OpenType/TrueType fonts
 * OpenType/PostScript fonts
 * PhotoFonts
@@ -29,7 +29,7 @@ After a font file has been uploaded, you can change its Adobe Dynamic Media Clas
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic recommends uploading all font styles (bold, italic, bold/italic, and regular) if you plan to use fonts in template layers. Adobe Dynamic Media Classic needs these font styles to process requests. Uploading all PostScript/Adobe Type1 files associated with a font is also recommended because some of these fonts contain detailed kerning information.
+>Adobe Dynamic Media Classic recommends uploading all font styles (bold, italic, bold/italic, and regular) if you plan to use fonts in template layers. Adobe Dynamic Media Classic needs these font styles to process requests. Uploading all `PostScript/Adobe Type1` files associated with a font is also recommended because some of these fonts contain detailed kerning information.
 
 ## Upload font files {#uploading-font-files}
 

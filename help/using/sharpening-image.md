@@ -54,7 +54,7 @@ The following table shows the Image Server sharpening options.
 | Name | URL Protocol | Values | Example |
 | --- | --- | --- | --- |
 | Simple Sharpening | `op_sharpen` | `0` or `1` | `op_sharpen=1` |
-| Resample Mode | `resMode` | `bilin`, `bicub`, `sharp2`, `trilin`<br><br>`bilin`: Selects standard bi-linear interpolation. Fastest resampling method; some aliasing artifacts are often noticeable.<br>`bicub`: Selects bi-cubic interpolation. More CPU-intensive than bilin, but yields sharper images with less noticeable aliasing artifacts.<br><br>`sharp2`: Selects a modified Lanczos Windows&reg; function as an interpolation algorithm. Can produce slightly sharper results than bi-cubic at a higher CPU cost.<br><br>`trilin`: Selects a modified trilinear interpolation, which uses both higher and lower resolutions, if available. Recommended only when aliasing is an issue. Reduces JPEG sizes due to reduced high frequency data. | `resMode=sharp2` |
+| Resample Mode | `resMode` | `bilin`, `bicub`, `sharp2`, `trilin`<br><br>`bilin`: Selects standard bi-linear interpolation. Fastest resampling method; some aliasing artifacts are often noticeable.<br>`bicub`: Selects bi-cubic interpolation. More CPU-intensive than `bilin`, but yields sharper images with less noticeable aliasing artifacts.<br><br>`sharp2`: Selects a modified Lanczos Windows&reg; function as an interpolation algorithm. Can produce slightly sharper results than bi-cubic at a higher CPU cost.<br><br>`trilin`: Selects a modified trilinear interpolation, which uses both higher and lower resolutions, if available. Recommended only when aliasing is an issue. Reduces JPEG sizes due to reduced high frequency data. | `resMode=sharp2` |
 | Unsharp Mask | `op_usm` | `amount`, `radius`, `threshold`, `monochrome`<br><br>`amount`: filter strength factor (real 0…5)<br><br>`radius`: filter kernel radius in pixels (real 0…250) <br><br>`threshold`: filter threshold level (int 0…255)<br><br>`monochrome`: set to `0` to unsharp-mask each color component separately, set to `1` to unsharp-mask image brightness (intensity) | `op_usm=1,1,10,0` |
 
 Select the **[!UICONTROL Sharpening]** menu and choose an option:
@@ -73,7 +73,7 @@ Choose these options so you can fine-tune sharpening with Unsharp Mask:
 
 The best radius value depends on the size of the image. A low value sharpens only the edge pixels. A high value sharpens a wider band of pixels.
 
-For example, to get a similar sharpening effect for a 2000 x 2000 pixel image and 500 x 500 pixel image, you could set a radius value of two pixels on the 2000 x 2000 pixel image. Then, set a radius value of one pixel on the 500 x 500 pixel image (a larger value for an image with more pixels).
+For example, to get a similar sharpening effect for a 2000 &times; 2000 pixel image and 500 &times; 500 pixel image, you could set a radius value of two pixels on the 2000 &times; 2000 pixel image. Then, set a radius value of one pixel on the 500 &times; 500 pixel image (a larger value for an image with more pixels).
 
 * **Threshold** - Determines the range of contrast to ignore when the unsharp mask filter is applied. This option determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and are sharpened.
 
@@ -93,7 +93,7 @@ Select the **[!UICONTROL Resampling]** menu and choose an option. These options 
 
 * **[!UICONTROL Bicubic]** - Increases CPU usage on the Image Server, but yields sharper images with less noticeable aliasing artifacts.
 
-* **[!UICONTROL Sharpen2]** - Produces slightly sharper results than **[!UICONTROL Bicubic]**, but at even higher CPU cost on the Image Server.
+* **[!UICONTROL `Sharpen2`]** - Produces slightly sharper results than **[!UICONTROL Bicubic]**, but at even higher CPU cost on the Image Server.
 
 * **[!UICONTROL Trilinear]** - Uses both higher and lower resolutions if available; recommended only when aliasing is an issue. This method reduces JPEG size due to reduced high-frequency data.
 
@@ -122,7 +122,7 @@ The JPG Quality options control the JPG compression level:
 
 If you do not use an Image Preset or pass specific Image Server sharpening protocols along the URL string, then your image is not sharpened when it is downsampled. However, if this lack of sharpening occurs, you can set default sharpening values, and then any image always has some sharpening.
 
-To set your company's default sharpening options, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. If you set the Default Resampling Mode to **[!UICONTROL Sharp2]**, it always sharpens the image when downsampling.
+To set your company's default sharpening options, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. If you set the Default Resampling Mode to **[!UICONTROL `Sharp2`]**, it always sharpens the image when downsampling.
 
 **Add sharpening to viewer presets**
 

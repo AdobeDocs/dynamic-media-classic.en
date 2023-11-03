@@ -32,9 +32,9 @@ This table lists the asset file formats that Adobe Dynamic Media Classic support
 | Fonts | AFM, OTF, PFB, PFM, PhotoFont, TTC, TTF |
 | FXG | FXG |
 | Illustrator | AI, FXG |
-| Images | BMP, FPX, GIF, JPEG, JPG, PNG, PICT (Windows® only), TIF, TIFF |
+| Images | BMP, FPX, GIF, JPEG, JPG, PNG, PICT (Windows&reg; only), TIF, TIFF |
 | InDesign | INDD, INDT |
-| MS® Office | DOC, PPT, RTF, XLS |
+| MS&reg; Office | DOC, PPT, RTF, XLS |
 | PDF | PDF |
 | Photoshop | PSD, FXG, and Camera Raw |
 | PostScript | EPS, PS |
@@ -68,10 +68,10 @@ To achieve optimal results with the Adobe Dynamic Media Classic program, be sure
 | --- | --- |
 | Audio | Input audio asset formats include AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. You can transcode audio to the following formats: MP3, AAC, and HE-AAC. |
 | Images (for Image Sizing, Zoom, Image Sets, Spin Sets) | Images have to be at least 2000 pixels at the longest size; typical image sizes range from 1500 to 2500 pixels in the longest size. Lossless image formats, including TIFF and PNG files, are recommended. If you use a JPEG image, use the highest-quality settings. Animate GIF files are handled like other static content. |
-| eCatalogs | Use high-resolution PDF files created in Adobe Acrobat or an Adobe Creative Suite application saved as “press-ready.” PDFs include all needed fonts, images, masks, and referenced graphical elements, either as single-pages, double-page spreads, or in a multi-page format. Order your pages by naming the files in alphanumeric order. Place all PDFs for your eCatalog in a single folder for ease of uploading. You can select cropping options on upload to remove the trim area from PDFs, including crop marks, registration targets, or color bars. Most press-ready PDF files are in the CMYK color space, so it is important to obtain the CMYK ICC color profile used with your PDF files. |
+| eCatalogs | Use high-resolution PDF files created in Adobe Acrobat or an Adobe Creative Suite application saved as "press-ready." PDFs include all needed fonts, images, masks, and referenced graphical elements, either as single-pages, double-page spreads, or in a multi-page format. Order your pages by naming the files in alphanumeric order. Place all PDFs for your eCatalog in a single folder for ease of uploading. You can select cropping options on upload to remove the trim area from PDFs, including crop marks, registration targets, or color bars. Most press-ready PDF files are in the CMYK color space, so it is important to obtain the CMYK ICC color profile used with your PDF files. |
 | Templates | Layered image or layout design that can include text, images, and layers. Image layers, text strings, and attributes, such as color and size, can be parameterized so that variable data can be customized. Image requirements for use in templates are the same as other images. Prepare your graphics in Photoshop or another image-editing program. Save each graphic as a flattened transparent file in TIFF or PNG format. Ensure that the image resolution is appropriate for expected use. Images for print are 300 ppi.|
 | Videos | Adobe Dynamic Media Classic supports video files saved in the OGV and MP4 format. You can transcode files to MP4 format at upload. See [Supported asset file formats](#supported-static-file-formats). |
-| Fonts | Uploaded TrueType, Type1 (Windows® Only), OpenType® fonts, and PhotoFonts. |
+| Fonts | Uploaded TrueType, `Type1` (Windows&reg; Only), OpenType&reg; fonts, and PhotoFonts. |
 | Images | Images and layered image files. |
 | Image Sets and Swatch Sets | A set of related images that can be displayed in a viewer. |
 | ICC profiles | A color profile that you can use to convert an uploaded image from its source color space into a different color space.|
@@ -151,7 +151,7 @@ You can upload individual files from the desktop or upload folders via FTP. If y
 
 Adobe Dynamic Media Classic sends you an email message to confirm when your upload job begins and ends, and to notify you of any problems.
 
-During (or immediately after) a large upload job, some new items could display the “Image not yet optimized” message. This message appears because the files are not yet fully processed and added to Adobe Dynamic Media Classic. You can optimize these files later. See [Optimize files](application-setup.md#optimize_files).
+During (or immediately after) a large upload job, some new items could display the "Image not yet optimized" message. This message appears because the files are not yet fully processed and added to Adobe Dynamic Media Classic. You can optimize these files later. See [Optimize files](application-setup.md#optimize_files).
 
 ### Upload files using the From Desktop tab {#upload-files-using-sps-desktop-application}
 
@@ -248,16 +248,16 @@ See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-meta
 * **Image edit options** - You can preserve the clipping <> masks in images, and choose a color profile.
 See [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
-* **PostScript® options** - You can rasterize PostScript® files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
+* **PostScript&reg; options** - You can rasterize PostScript&reg; files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Work with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-* **Photoshop options** - You can create templates from Adobe® Photoshop® files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
+* **Photoshop options** - You can create templates from Adobe&reg; Photoshop&reg; files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
 See [PSD upload options](psd-files.md#psd_upload_options).
 
 * **PDF options** - You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
 See [PDF upload options](pdfs.md#pdf_upload_options).
 
-* **Illustrator options** - You can rasterize Adobe Illustrator® files, maintain transparent backgrounds, choose a resolution, and choose a color space.
+* **Illustrator options** - You can rasterize Adobe Illustrator&reg; files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Work with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
 * **EVIDEO options** - You can transcode a video file by choosing a Video Preset.
