@@ -35,7 +35,7 @@ To sort the contents of a folder or search results that appear in the Browse Pan
 
 You can also choose **[!UICONTROL Ascending]** or **[!UICONTROL Descending]** to sort assets in ascending or descending order by the criteria you choose.
 
-In List View, you can sort by clicking a column name.
+In List View, you can sort by selecting a column name.
 
 ## Conduct a simple search {#conducting-a-simple-search}
 

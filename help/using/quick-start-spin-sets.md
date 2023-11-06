@@ -19,7 +19,7 @@ A Spin Set simulates the real-world act of turning an object to examine it. Spin
 
 ![Images for a spin set.](/help/using/assets/spin_set.png)
 
-Spin Sets also accept Image Maps. An Image Map is a region on an image within the Spin Set that displays a rollover panel with text. When the user clicks an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. To point out an image map in a Spin Set, an outline appears around the Image Map itself when the user moves their mouse pointer over it.
+Spin Sets also accept Image Maps. An Image Map is a region on an image within the Spin Set that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. To point out an image map in a Spin Set, an outline appears around the Image Map itself when the user moves their mouse pointer over it.
 
 See [Create Image Maps](creating-image-maps.md).
 

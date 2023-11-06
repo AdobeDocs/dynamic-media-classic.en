@@ -19,7 +19,7 @@ Publishing your image files publishes them to Dynamic Media Image Servers, where
 
 ## Mark primary images for publish {#marking-master-images-for-publish}
 
-Primary images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your primary images for publish in the Browse Panel by clicking **[!UICONTROL Mark for Publish]** icon. You can also mark images for publish when you upload them to Adobe Dynamic Media Classic.
+Primary images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your primary images for publish in the Browse Panel by selecting **[!UICONTROL Mark for Publish]** icon. You can also mark images for publish when you upload them to Adobe Dynamic Media Classic.
 
 ## Publish your primary images {#publishing-your-master-images}
 

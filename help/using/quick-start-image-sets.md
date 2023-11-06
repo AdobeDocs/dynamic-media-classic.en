@@ -15,7 +15,7 @@ level: Beginner
 ---
 # Quick Start: Image Sets{#quick-start-image-sets}
 
-Adobe Dynamic Media Classic Image Sets give users an integrated viewing experience. In the dynamic Image Set Viewer, users can see different views of an item by clicking a thumbnail image. Image Sets lets you present alternative high-resolution views of an item.
+Adobe Dynamic Media Classic Image Sets give users an integrated viewing experience. In the dynamic Image Set Viewer, users can see different views of an item by selecting a thumbnail image. Image Sets lets you present alternative high-resolution views of an item.
 
 The Image Set Viewer offers zooming tools for examining images closely. If you want, you can make guided zoom targets and Image Maps part of your Image Set. Image Sets make for a more concerted, intimate viewing experience.
 

@@ -15,7 +15,7 @@ level: Intermediate
 ---
 # Edit images{#editing-images}
 
-Adobe Dynamic Media Classic offers many tools for creating rich-media effects. These tools are available by clicking the rollover **[!UICONTROL Edit]** button and in the Browse Panel in Detail View. You can do the following image-editing tasks in Adobe Dynamic Media Classic:
+Adobe Dynamic Media Classic offers many tools for creating rich-media effects. These tools are available by selecting the rollover **[!UICONTROL Edit]** button and in the Browse Panel in Detail View. You can do the following image-editing tasks in Adobe Dynamic Media Classic:
 
 * **Create Image Maps** - To create an Image Map, select the Image command or **[!UICONTROL Image Map]** button. An Image Map is a hotspot on an image, or an eCatalog page, or an image in a SpinSet, that displays a panel with rollover text. Users can select an Image Map, for example, to launch a new web page. See [Create Image Maps](/help/using/creating-image-maps.md).
 

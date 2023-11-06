@@ -36,7 +36,7 @@ After you publish a Mixed Media Set, you can obtain its associated URL for use i
 
 ## Add Mixed Media Set URLs to your web page {#add-mixed-media-set-urls-to-your-web-page}
 
-The most common way to deploy a Mixed Media Set is to place a link (by way of a navigation icon) on your web page. When clicked, the link launches a dynamic page (ASP or JSP) that displays the Mixed Media Set in Mixed Media Set Viewer.
+The most common way to deploy a Mixed Media Set is to place a link (by way of a navigation icon) on your web page. When selected, the link launches a dynamic page (ASP or JSP) that displays the Mixed Media Set in Mixed Media Set Viewer.
 
 ## Copy the embed code of a Mixed Media Set viewer {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 

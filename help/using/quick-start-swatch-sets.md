@@ -15,7 +15,7 @@ level: Beginner
 ---
 # Quick Start: Swatch Sets{#quick-start-swatch-sets}
 
-Adobe Dynamic Media Classic Swatch Sets give users an integrated viewing experience. In the dynamic Swatch Set Viewer, users can see an item rendered in a different color, material, texture, finish, or fabric merely by clicking a thumbnail.
+Adobe Dynamic Media Classic Swatch Sets give users an integrated viewing experience. In the dynamic Swatch Set Viewer, users can see an item rendered in a different color, material, texture, finish, or fabric merely by selecting a thumbnail.
 
 This Swatch Sets Quick Start is designed to get you up and running quickly with Swatch Set techniques in Adobe Dynamic Media Classic.
 

@@ -15,7 +15,7 @@ level: Experienced
 
 Adobe Analytics is the industry-leading product that provides marketers with one place where they can measure, analyze, and optimize integrated data from all online initiatives across multiple marketing channels.
 
-After integrating Adobe Analytics with Adobe Dynamic Media Classic, you can get reports about the behavior of website visitors using Adobe Dynamic Media Classic viewers on your website. For example, when a website visitor clicks a zoom target in an Adobe Dynamic Media Classic Zoom Viewer, Adobe Analytics records this action. Adobe Analytics reports can gather cumulative information about user activity in Adobe Dynamic Media Classic viewers.
+After integrating Adobe Analytics with Adobe Dynamic Media Classic, you can get reports about the behavior of website visitors using Adobe Dynamic Media Classic viewers on your website. For example, when a website visitor selects a zoom target in an Adobe Dynamic Media Classic Zoom Viewer, Adobe Analytics records this action. Adobe Analytics reports can gather cumulative information about user activity in Adobe Dynamic Media Classic viewers.
 
 Using Adobe Analytics reports, you can get a clear picture of the activity of customers on your website. You can determine which product presentations lead to conversion and which do not attract customer interest.
 

@@ -134,7 +134,7 @@ See Knockout Background in [Image fine-tuning options at upload](image-editing-o
 
 You can view the HTML source code associated with the form above by select [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
-In Firefox, right-click in the browser window, and then select **[!UICONTROL View Page Source]**. The code shows the corresponding URL query string and the POST method that are run when the user clicks **[!UICONTROL Submit]**.
+In Firefox, right-click in the browser window, and then select **[!UICONTROL View Page Source]**. The code shows the corresponding URL query string and the POST method that are run when the user selects **[!UICONTROL Submit]**.
 
 To view the XML response in Internet Explorer, go to **[!UICONTROL View]** > **[!UICONTROL Source]**. To view the XML response in Firefox, go to **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox is recommended for viewing XML responses.
 
