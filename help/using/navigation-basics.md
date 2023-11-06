@@ -27,7 +27,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 * **[!UICONTROL Select Company]** - Choose the company you want to access from the menu. This button is not available if you are working with one company.
 
-* **[!UICONTROL Upload]** - Opens the Upload screen so you can upload files from your computer or network to Adobe Dynamic Media Classic. You can upload files from your desktop or via FTP. See [Upload files](/help/using/uploading-files.md).
+* **[!UICONTROL Upload]** - Opens the Upload screen so you can upload files from your computer or network to Adobe Dynamic Media Classic. You can upload files from your desktop or by way of FTP. See [Upload files](/help/using/uploading-files.md).
 
 * **[!UICONTROL Build]** - Choose a Build task from the menu. The Build panel opens so you can create an asset type.
 

@@ -132,7 +132,7 @@ Usually, an asset filename can be the same as its item number, product SKU, or o
 
 Organize and structure folders and subfolders for your content in Adobe Dynamic Media Classic before you upload your content to the system. Planning ahead this way has two major advantages:
 
-* When you upload your content to Adobe Dynamic Media Classic via FTP, you can tell the system to replicate your folder structure during the upload. This way, your content is organized in the same folders and subfolders in Adobe Dynamic Media Classic as it is on your computer or network. (To replicate your folder structure in Adobe Dynamic Media Classic, select the Include Subfolders option when you upload assets via FTP.)
+* When you upload your content to Adobe Dynamic Media Classic by way of FTP, you can tell the system to replicate your folder structure during the upload. This way, your content is organized in the same folders and subfolders in Adobe Dynamic Media Classic as it is on your computer or network. (To replicate your folder structure in Adobe Dynamic Media Classic, select the Include Subfolders option when you upload assets by way of FTP.)
 * Reorganizing folders inside the system after files are uploaded is much more difficult than starting with a carefully considered folder structure.
 
 The folder-naming approach and structure you choose for storing your content on the Adobe Dynamic Media Classic depends on the needs of your organization. Here are some sample folder structures:
@@ -147,7 +147,7 @@ The folder-naming approach and structure you choose for storing your content on 
 
 ## About uploading files {#uploading-your-files}
 
-You can upload individual files from the desktop or upload folders via FTP. If you want to upload more than 100 MB of files or upload entire folders and subfolders, select the **VIA FTP** tab.
+You can upload individual files from the desktop or upload folders by way of FTP. If you want to upload more than 100 MB of files or upload entire folders and subfolders, select the **VIA FTP** tab.
 
 Adobe Dynamic Media Classic sends you an email message to confirm when your upload job begins and ends, and to notify you of any problems.
 

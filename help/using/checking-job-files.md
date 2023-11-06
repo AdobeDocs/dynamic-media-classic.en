@@ -99,7 +99,7 @@ See [Create a custom upload or publish job time interval](checking-job-files.md#
 
 ### Create a custom upload or publish job time interval {#creating-a-custom-upload-or-publish-job-time-interval}
 
-To create a custom time interval for an upload (via FTP) or a publish job, on the Upload or Publish page, go to **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**. Then enter numbers and wildcards in the Rule box describing a time interval for the upload or publish jobs to recur.
+To create a custom time interval for an upload (by way of FTP) or a publish job, on the Upload or Publish page, go to **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**. Then enter numbers and wildcards in the Rule box describing a time interval for the upload or publish jobs to recur.
 
 The syntax for describing custom upload and publish time intervals in the Rule box is:
 
@@ -150,6 +150,6 @@ This list gives examples of describing time intervals in the Rule box:
 
 ## Use an upload or publish job as a trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
-When you upload assets via FTP or run a publish job, you can schedule a subsequent job to begin when the upload is complete. (If other jobs are scheduled to begin then, the job you schedule here is queued behind them.) The new job sends a notification to the address that you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix _Pub.
+When you upload assets by way of FTP or run a publish job, you can schedule a subsequent job to begin when the upload is complete. (If other jobs are scheduled to begin then, the job you schedule here is queued behind them.) The new job sends a notification to the address that you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix _Pub.
 
 To make one upload or publish job trigger another job, select **[!UICONTROL Advanced]** on the Upload or Publish page. Then enter the URL in the HTTP Notification text field.

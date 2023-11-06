@@ -147,7 +147,7 @@ Follow these instructions on the Filters tab so you can save, repeat, and delete
 
 ## Use the metadata server {#using-the-metadata-server}
 
-The metadata server is a public API that you can use to search for assets by metadata via http requests.
+The metadata server is a public API that you can use to search for assets by metadata by way of http requests.
 
 To configure the metadata server, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Metadata Server]**.
 

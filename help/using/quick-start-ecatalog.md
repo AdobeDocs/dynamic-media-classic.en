@@ -56,7 +56,7 @@ This eCatalog Quick Start is designed to help you get up and running quickly wit
 
 Adobe PDF files are usually the source for an eCatalog. Because they are meant to be printed, PDF files usually contain CMYK images. Adobe Dynamic Media Classic detects these images and converts them using a standard CMYK color profile. However, you must upload and use a custom color profile.
 
-On the Global Navigation bar, select **[!UICONTROL Upload]** to start uploading PDF files or images for your eCatalog. You can upload files from your desktop or via FTP; FTP is recommended if you are uploading many files or files larger than 100 MB.
+On the Global Navigation bar, select **[!UICONTROL Upload]** to start uploading PDF files or images for your eCatalog. You can upload files from your desktop or by way of FTP; FTP is recommended if you are uploading many files or files larger than 100 MB.
 
 Under PDF Options, the Upload screen provides options for uploading PDF files at the proper resolution and correct color space. A 150 pixels-per-inch resolution is recommended. You can select the Auto-Generate eCatalog option to create an eCatalog when you upload a PDF file.
 

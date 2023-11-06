@@ -15,7 +15,7 @@ level: Intermediate
 ---
 # Link URLs to your web application{#linking-urls-to-your-web-application}
 
-Your web sites and applications access Dynamic Media Image Server content via URL strings. After you publish an image, Adobe Dynamic Media Classic activates a URL string that references the Image Preset on Dynamic Media Image Servers. You can paste these URLs into a web browser for testing.
+Your web sites and applications access Dynamic Media Image Server content by way of URL strings. After you publish an image, Adobe Dynamic Media Classic activates a URL string that references the Image Preset on Dynamic Media Image Servers. You can paste these URLs into a web browser for testing.
 
 To place these URL strings in your web pages and applications, copy them from Adobe Dynamic Media Classic. To obtain a URL string generated with an Image Preset, go to the Preview screen or the Browse Panel (in Detail View).
 
