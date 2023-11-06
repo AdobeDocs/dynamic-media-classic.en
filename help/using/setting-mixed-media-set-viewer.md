@@ -54,7 +54,7 @@ You can choose to include all or some community features in the Mixed Media Set 
 
    * **Link** - Select **[!UICONTROL Live]**. In the Link Button Label box, type the name you want displayed in the viewer for the Link button. If desired, select **[!UICONTROL Browse]** to locate and select a custom skin for the button.
 
-   * **Visit** - Select **[!UICONTROL Live]**. In the Visit Button Label box, type the name you want displayed in the viewer for the Visit button. In the Visit URL box, type the URL to the web site that you want to open when the link is clicked.
+   * **Visit** - Select **[!UICONTROL Live]**. In the Visit Button Label box, type the name you want displayed in the viewer for the Visit button. In the Visit URL box, type the URL to the web site that you want to open when the link is selected.
 
 1. Specify other options as desired. To see a description of an option, select the Info Tip icon next to the option.
 

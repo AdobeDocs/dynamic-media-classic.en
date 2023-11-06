@@ -25,7 +25,7 @@ Depending on the settings that you choose for your eCatalog, the viewer can let 
 * Search the catalog for a keyword or keywords. The search results are displayed as a list of thumbnails in a search panel on the left side of the catalog. Each clickable thumbnail represents a catalog spread where the highlighted search term was found.
 
 * Share the catalog by way of social media; download the catalog to view offline; enable Favorites to mark items you want to return to quickly, or print the catalog.
-* Navigate the catalog using the table of contents or the page grid view; page forward or backward by clicking the middle edge of a page.
+* Navigate the catalog using the table of contents or the page grid view; page forward or backward by selecting the middle edge of a page.
 * Zoom in, zoom out, and pan to examine items on a page.
 * Move the pointer over a page region (called an Image Map) so you can see a pop-up window with information about an item.
 * Select a page region so it opens a new web page with more information about an item.
@@ -56,7 +56,7 @@ This eCatalog Quick Start is designed to help you get up and running quickly wit
 
 Adobe PDF files are usually the source for an eCatalog. Because they are meant to be printed, PDF files usually contain CMYK images. Adobe Dynamic Media Classic detects these images and converts them using a standard CMYK color profile. However, you must upload and use a custom color profile.
 
-On the Global Navigation bar, select **[!UICONTROL Upload]** to start uploading PDF files or images for your eCatalog. You can upload files from your desktop or via FTP; FTP is recommended if you are uploading many files or files larger than 100 MB.
+On the Global Navigation bar, select **[!UICONTROL Upload]** to start uploading PDF files or images for your eCatalog. You can upload files from your desktop or by way of FTP; FTP is recommended if you are uploading many files or files larger than 100 MB.
 
 Under PDF Options, the Upload screen provides options for uploading PDF files at the proper resolution and correct color space. A 150 pixels-per-inch resolution is recommended. You can select the Auto-Generate eCatalog option to create an eCatalog when you upload a PDF file.
 
@@ -70,7 +70,7 @@ On the eCatalog page, on the **[!UICONTROL Order Pages]** tab, select a Layout o
 
 To add pages, select a folder in the Asset Library, and then drag PDF or image files from into the Order Pages screen. Instead of default page numbers, you can provide custom page names or import many page names.
 
-Select **[!UICONTROL Save]**, enter a name for your eCatalog, choose an Adobe Dynamic Media Classic folder for storing it, and select **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by clicking **[!UICONTROL Save]**.
+Select **[!UICONTROL Save]**, enter a name for your eCatalog, choose an Adobe Dynamic Media Classic folder for storing it, and select **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by selecting **[!UICONTROL Save]**.
 
 See [Create an eCatalog](creating-ecatalog.md).
 

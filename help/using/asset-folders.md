@@ -43,7 +43,7 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
    >[!NOTE]
    >
-   >You can also create folders in Adobe Dynamic Media Classic when you upload files via FTP. Selecting the **[!UICONTROL Include Subfolders]** option when you upload via FTP replicates the folder structure on your computer in the system. Files and subfolders on your computer or network are replicated in the Asset Library, and the assets you upload are placed in these folders.
+   >You can also create folders in Adobe Dynamic Media Classic when you upload files by way of FTP. Selecting the **[!UICONTROL Include Subfolders]** option when you upload by way of FTP replicates the folder structure on your computer in the system. Files and subfolders on your computer or network are replicated in the Asset Library, and the assets you upload are placed in these folders.
 
 ## Delete and rename folders {#deleting-and-renaming-folders}
 

@@ -35,7 +35,7 @@ To sort the contents of a folder or search results that appear in the Browse Pan
 
 You can also choose **[!UICONTROL Ascending]** or **[!UICONTROL Descending]** to sort assets in ascending or descending order by the criteria you choose.
 
-In List View, you can sort by clicking a column name.
+In List View, you can sort by selecting a column name.
 
 ## Conduct a simple search {#conducting-a-simple-search}
 
@@ -147,7 +147,7 @@ Follow these instructions on the Filters tab so you can save, repeat, and delete
 
 ## Use the metadata server {#using-the-metadata-server}
 
-The metadata server is a public API that you can use to search for assets by metadata via http requests.
+The metadata server is a public API that you can use to search for assets by metadata by way of http requests.
 
 To configure the metadata server, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Metadata Server]**.
 

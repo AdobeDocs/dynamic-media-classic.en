@@ -15,7 +15,7 @@ level: Intermediate
 ---
 # Manage the Trash folder{#managing-the-trash-folder}
 
-Items that you delete from Adobe Dynamic Media Classic are moved to the Trash folder. The deleted remain in this folder for seven days until they are restored or permanently deleted. You can examine deleted items by clicking the **[!UICONTROL Trash]** icon at the bottom of the Asset Library, and viewing items in the Trash folder page.
+Items that you delete from Adobe Dynamic Media Classic are moved to the Trash folder. The deleted remain in this folder for seven days until they are restored or permanently deleted. You can examine deleted items by selecting the **[!UICONTROL Trash]** icon at the bottom of the Asset Library, and viewing items in the Trash folder page.
 
 All users can restore items in the Trash folder to the folders from which they were deleted. All users can also empty the Trash folder of all its contents.
 
