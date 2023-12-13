@@ -56,13 +56,13 @@ See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
 
   See the latest support in the [Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
-  Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video. You can find BlackBerry&reg; devices that support this video format at the following website:
+  Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video. <!-- LINK IS 404; NO SUITABLE REPLACEMENT WAS FOUND You can find BlackBerry&reg; devices that support this video format at the following website: -->
 
-  See [Supported video formats on BlackBerry&reg;](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
+  <!-- See [Supported video formats on BlackBerry&reg;](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482). -->
 
   You can find Windows&reg; devices that support this video format at the following:
 
-  See [Supported video formats on Windows&reg; Phone](https://learn.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs).
+  [Supported video formats on Windows&reg; Phone](https://learn.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs).
 
 * Play back the video using Adobe Dynamic Media Classic Viewer Presets, including the following:
 
