@@ -122,7 +122,7 @@ The JPG Quality options control the JPG compression level:
 
 If you do not use an Image Preset or pass specific Image Server sharpening protocols along the URL string, then your image is not sharpened when it is downsampled. However, if this lack of sharpening occurs, you can set default sharpening values, and then any image always has some sharpening.
 
-To set your company's default sharpening options, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. If you set the Default Resampling Mode to **[!UICONTROL `Sharp2`]**, it always sharpens the image when downsampling.
+To set your company's default sharpening options, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. If you set the Default Resampling Mode to **`Sharp2`**, it always sharpens the image when downsampling.
 
 **Add sharpening to viewer presets**
 

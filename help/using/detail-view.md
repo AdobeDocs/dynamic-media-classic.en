@@ -68,14 +68,14 @@ Detail View offers tools for working with the asset that you opened. Which tools
 
 * **Delete the asset** - Go to **[!UICONTROL File]** > **[!UICONTROL Delete]**.
 
-For discrete files—images, Image Sets, and fonts, for example—you can view the publishing and editing history, and check job details, in Detail View.  
+For discrete files—images, Image Sets, and fonts, for example—you can view the publishing and editing history, and check job details, in Detail View.
   
 This table shows which other options are available with different types of assets in Detail View.
 
 | Asset type | Edit/adjust | Preview |
 | --- | --- | --- |
 | Images | Add Image Maps<br>Add zoom targets<br>Crop<br>Sharpen<br>Create adjusted views | Yes; Zoom and Image Presets |
-| Cabinet and window-covering images | No | Thumbnail |
+| Cabinet and window covering images | No | Thumbnail |
 | eCatalogs | Edit | Yes<br>Info Panel is also available |
 | Fonts | Edit font information | No |
 | FXG files | Edit | Yes |

@@ -56,7 +56,7 @@ Upgrade notification within the Adobe Dynamic Media Classic desktop application 
 
 * Updated authentication mechanism with Adobe Analytics. Relevant for new integrations or if some Analytics variables must be updated from within Dynamic Media Classic desktop app.
 
-    See [Log in to Adobe Analytics](/help/using/log-analytics.md) for updated steps.
+    See [Log on to Adobe Analytics](/help/using/log-analytics.md) for updated steps.
 
 ## Fixes in release 20.21.2 {#minor-release}
 
@@ -267,7 +267,7 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 
 **_I am unable to see Media Cart panel on the landing page of Adobe Dynamic Media Classic._**<br>In Adobe Dynamic Media Classic, tap **[!UICONTROL Setup > Personal Setup]**. In the Browser section, make sure **[!UICONTROL Show MediaPortal Features]** is selected (checked). Tap **[!UICONTROL Save > Close]**.
 
-**_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser user interface, a relogin to the UI was required to see the correct publish state of assets. In the desktop app, Adobe has introduced a **[!UICONTROL Refresh]** icon in the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No relogin required as with the browser UI.
+**_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser user interface, a relogin to the UI was required to see the correct publish state of assets. In the desktop app, Adobe has introduced a **[!UICONTROL Refresh]** icon in the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No relogon required as with the browser UI.
 
 ![Refresh icon](/help/using/assets/refresh-icon1.png)
 *Refresh icon*

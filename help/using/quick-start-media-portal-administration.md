@@ -55,7 +55,7 @@ See [Manage FTP accounts](ftp-accounts.md#managing_ftp_accounts).
 
 >[!NOTE]
 >
->Only Media Portal Administrators can administer these FTP accounts . In addition, only users with the role of Media Portal Contributor-User or Media Portal Contributor can upload files.
+>Only Media Portal Administrators can administer these FTP accounts. In addition, only users with the role of Media Portal Contributor-User or Media Portal Contributor can upload files.
 
 See [Media Portal user roles](media-portal-user-roles.md#media_portal_user_roles).
 
@@ -67,7 +67,7 @@ See [Specify export options available to Media Portal users](specifying-export-o
 
 ## 6. Create Image Presets
 
-An Image Preset is a collection of pre-defined settings that change the size, image quality, format, resolution, and other aspects of an image’s appearance when it is exported. You can create Image Presets to control how images are reformatted when users export them.
+An Image Preset is a collection of pre-defined settings that change the size, image quality, format, resolution, and other aspects of an image's appearance when it is exported. You can create Image Presets to control how images are reformatted when users export them.
 
 See [Create and enable Image Presets](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
 

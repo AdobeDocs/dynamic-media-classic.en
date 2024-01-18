@@ -19,7 +19,7 @@ Select an asset in the Browse Panel so you can work with it. Use these technique
 
 * **A single asset** - Select the asset (double-clicking opens the asset in Detail View).
 
-* **Several assets** - Ctrl+click (Windows®) or Command+click (Macintosh) assets to select assets in different places on the Browse Panel. Shift+click (click one asset, and then Shift+click another) to select adjacent assets.
+* **Several assets** - Ctrl+click (Windows&reg;) or Command+click (Mac) assets to select assets in different places on the Browse Panel. Shift+click (click one asset, and then Shift+click another) to select adjacent assets.
 
 * **All assets in the Browse Panel** - Go to **[!UICONTROL Select]** > **[!UICONTROL All]**.
 

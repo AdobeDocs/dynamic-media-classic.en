@@ -1,12 +1,10 @@
 ---
 title: Manage Info Panel content in Image Sets
 description: Learn how to manage Info Panel content in Image Sets in Adobe Dynamic Media Classic.
-uuid: ed7b4344-f180-41fc-a95a-62a9767dc056
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 content-type: reference
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
-discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 09fafdb4-51e2-4719-83b6-056f79d1ba9e
@@ -15,12 +13,12 @@ level: Intermediate
 ---
 # Manage Info Panel content in Image Sets{#managing-info-panel-content-in-image-sets}
 
-In addition to using Image Map text for your rollovers in Image Sets, you can use an info panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.  
+In addition to using Image Map text for your rollovers in Image Sets, you can use an info panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.
   
 You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
 
 * InfoPanel Setup panel lets you specify the template used to display the info panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the Image Set is automatically published.
-* InfoPanel Datafeed panel lets you specify a CSV file containing the text you want to appear in the info panel rollover text, and schedule times for updating the information.
+* InfoPanel Data feed panel lets you specify a CSV file containing the text you want to appear in the info panel rollover text, and schedule times for updating the information.
 * Import Metadata dialog box lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the InfoPanel Data feed panel with the CSV file option for your rollover text.
 
 ## Set up a response template for Image Sets {#set-up-a-response-template-for-image-sets}
@@ -62,7 +60,7 @@ When formatting source content, keep in mind the following guidelines:
 ### Import CSV content into Image Sets from an externally hosted location {#import-csv-content-into-image-sets-from-an-externally-hosted-location}
 
 1. Double-click the Image Set so it opens in Detail View.
-1. Select **[!UICONTROL InfoPanel Datafeed]**.
+1. Select **[!UICONTROL InfoPanel Data feed]**.
 1. In the Externally hosted CSV file location (HTTP) text field, enter the URL to the CSV file.
 1. (Optional) In the Schedule Update fields, specify a time to update the content, and then select **[!UICONTROL Add]**.
 

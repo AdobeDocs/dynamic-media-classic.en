@@ -17,10 +17,10 @@ level: Intermediate
 
 For the best experience using Adobe Dynamic Media Classic Media Portal, make sure that your system meets the following system requirements and suggestions:
 
-* Microsoft® Windows® 7 or later or macOS X 10.6 or higher Macintosh Intel® processor required.
+* Microsoft&reg; Windows&reg; 7 or later or macOS X 10.6 or higher Mac Intel&reg; processor required.
 * 3-GB RAM or higher required (4 GB or higher suggested).
 * Color monitor.
-* Video card supporting True Color at 1280x1024 resolution or higher.
-* JAVA-enabled browser.
+* A video card that supports True Color at 1280x1024 resolution or higher.
+* Java-enabled browser.
 * Windows-supported browsers: Internet Explorer 9 or higher; Firefox 23.0 or higher.
-* Macintosh-supported browsers: Safari 6.0 or higher, Firefox™ 23 or higher.
+* Mac supported browsers: Safari 6.0 or higher, Firefox&trade; 23 or higher.

@@ -49,7 +49,7 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 Select a folder and use these techniques to delete or rename it:
 
-* **Delete** - Select the **[!UICONTROL Remove Folder]** button . Assets in a deleted folder are placed in the Trash folder. You can recover them from there.
+* **Delete** - Select the **[!UICONTROL Remove Folder]** button. Assets in a deleted folder are placed in the Trash folder. You can recover them from there.
 
 * **Rename** - Double-click the name and enter a new name.
 

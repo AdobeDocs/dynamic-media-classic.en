@@ -73,14 +73,14 @@ If you selected the Maintain Layers option when you uploaded your PSD, Adobe Dyn
 >
 >Adobe Dynamic Media Classic supports up to five levels in a nested layer group.
 
-1.  Double-click the full PSD file in the Browse Panel. The file opens in Detail View.
+1. Double-click the full PSD file in the Browse Panel. The file opens in Detail View.
 
     >[!NOTE]
     >
     >Make sure that you open the full asset and not one of the PSD layers.
 
-1.  Select **[!UICONTROL Layers]**. All the layers appear as separate images in the Layers panel.
-1.  Double-click a layer and do any of the following:
+1. Select **[!UICONTROL Layers]**. All the layers appear as separate images in the Layers panel.
+1. Double-click a layer and do any of the following:
 
     * To create an image map on the layer, select **[!UICONTROL Image Map]** icon. (See [Create Image Maps](creating-image-maps.md#creating_image_maps).)
     * To create zoom targets on the layer, select **[!UICONTROL Zoom Targets]** icon. (See [Create zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
@@ -88,6 +88,6 @@ If you selected the Maintain Layers option when you uploaded your PSD, Adobe Dyn
     * To sharpen the layer, select **[!UICONTROL Sharpen]**. (See [Sharpen an image](sharpening-image.md#sharpening_an_image).)
     * To adjust the layer, select **[!UICONTROL Adjust]**. (See [Adjust an image](adjusting-image.md#adjusting_an_image).)
 
-1.  Select **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
-1.  To view or edit a different layer, select an arrow at the bottom of the layer preview.
-1.  To exit the layer Detail View, select the **[!UICONTROL Grid View]** icon.
+1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
+1. To view or edit a different layer, select an arrow at the bottom of the layer preview.
+1. To exit the layer Detail View, select the **[!UICONTROL Grid View]** icon.

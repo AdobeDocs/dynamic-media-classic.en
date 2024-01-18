@@ -33,7 +33,7 @@ In general, the more images you have in a Spin Set, the better the image-spinnin
 
 ## Create a Spin Set {#create}
 
-The order in which the Spin Set is authored or created in Adobe Dynamic Media Classic is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction . Therefore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
+The order in which the Spin Set is authored or created in Adobe Dynamic Media Classic is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction. Therefore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
 
 When you create a set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
@@ -85,7 +85,7 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 
 **To edit a Spin Set:**
 
-1. Select the Spin Set’s rollover **[!UICONTROL Edit]** button.
+1. Select the Spin Set's rollover **[!UICONTROL Edit]** button.
 1. Do any of the following:
 
     * **Removing images** - Select the image, and then select **[!UICONTROL Delete]**.
@@ -101,7 +101,7 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 
 ## Delete a Spin Set {#deleting-a-spin-set}
 
-When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
 

@@ -37,7 +37,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 * **[!UICONTROL Total]** - The number of files transferred.
 
-* **[!UICONTROL W (warnings)]** - The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Macintosh) and Thumbs.db files (Windows&reg;) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don't pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
+* **[!UICONTROL W (warnings)]** - The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Mac) and Thumbs.db files (Windows&reg;) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don't pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
 
 * **[!UICONTROL E (errors)]** - Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
 

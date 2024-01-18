@@ -164,7 +164,7 @@ The following is a sample response from a successful upload:
 >
 >The uploaded asset (JPG, GIF, and so on) is converted to the PTIFF format and the response sends a direct link to that PTIFF asset.
 
-The asset is like any other ImageServing resource; you can apply processing queries to it. For example, the following URL requests an asset that is stretched to the specified width and height.
+The asset is like any other ImageServing resource; you can apply processing queries to it. For example, the following URL requests an asset that is stretched to the specified width and its height.
 
 ```as3
 https://s7w2p1.scene7.com/is/image/S7WebUGC/ugc/9536356.tif?&wid=800&hei=100&fit=stretch

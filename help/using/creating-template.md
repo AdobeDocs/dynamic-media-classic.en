@@ -21,7 +21,7 @@ See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.h
 
 >[!NOTE]
 >
->If you edit a template created in an earlier version of Adobe Dynamic Media Classic, a prompt asks you upon saving “Do you want to add a canvas layer?”. Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.
+>If you edit a template created in an earlier version of Adobe Dynamic Media Classic, a prompt asks you upon saving "Do you want to add a canvas layer?". Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.
 
 ## Create the initial template {#creating-the-initial-template}
 
@@ -44,7 +44,7 @@ You can create a template from an existing template. Open the template, select *
 
    * **Start from the Template screen** - Go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Select either Designer or Developer.
 
-1. In the Enter Canvas Size dialog box, enter width and height measurements for your template.
+1. In the Enter Canvas Size dialog box, enter the width and the height measurements for your template.
 1. Select a folder in the Asset Library and drag the PSD file or images you want for your template onto the Template screen.
 1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**.
@@ -74,7 +74,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Delete a Template {#deleting-a-template}
 
-When you delete a Template set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a Template set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
@@ -97,7 +97,7 @@ Use these tools on the Template screen so you can create templates:
 
 * **[!UICONTROL Parameter Summary]** Opens the Parameter Summary screen. You can see the name of each layer in a template, and on each layer, the names of parameters that have been activated.
 
-* **[!UICONTROL Text Editor v4.3 and Text Editor v4.2]** - You can choose to use the latest and most fully featured text editor, Text Editor v4.3, or the previous text editor, Text Editor v4.2. When creating templates, Text Editor v4.3 is selected by default. When editing older templates, Text Editor v4.2 is selected by default. Text Editor v4.3 does not currently support word wrap, so when editing older templates that use word wrap, use Text Editor v4.2 to keep the template’s fidelity fully intact. If your older template does not use word wrap, you can choose Text Editor v4.3 to take advantage of the many new features it offers. For example, Increase Margins, Decrease Margins, Set Text In All Caps, and Copy Fit Text.
+* **[!UICONTROL Text Editor v4.3 and Text Editor v4.2]** - You can choose to use the latest and most fully featured text editor, Text Editor v4.3, or the previous text editor, Text Editor v4.2. When creating templates, Text Editor v4.3 is selected by default. When editing older templates, Text Editor v4.2 is selected by default. Text Editor v4.3 does not currently support word wrap, so when editing older templates that use word wrap, use Text Editor v4.2 to keep the template's fidelity fully intact. If your older template does not use word wrap, you can choose Text Editor v4.3 to take advantage of the many new features it offers. For example, Increase Margins, Decrease Margins, Set Text In All Caps, and Copy Fit Text.
 
    >[!NOTE]
    >
@@ -158,7 +158,7 @@ To format text in a text layer, do the following:
 
    * **[!UICONTROL Line Spacing]** - Type or select a numeric value by which to adjust the amount of space between lines.
 
-   * **[!UICONTROL Baseline Shift]** - Type or select a numeric value by which to move a selected character up or down relative to the baseline of the surrounding text. This option is especially useful when you’re hand-setting fractions or adjusting the position of inline graphics.
+   * **[!UICONTROL Baseline Shift]** - Type or select a numeric value by which to move a selected character up or down relative to the baseline of the surrounding text. This option is especially useful when you're hand-setting fractions or adjusting the position of inline graphics.
 
 >[!NOTE]
 >
@@ -242,7 +242,7 @@ Layers must be small enough to fit on the canvas. You can change the size of a l
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic recommends creating an Image Preset that is the exact size of your template. Matching the Image Preset size to the template size ensures that the final output size and sharpening options for the template are set correctly. After you’ve created this Image Preset, you can choose it from the Apply Preset menu on the Template Preview screen. The screen shows you what the image looks like when it is delivered from the server. See [Set up Image Presets](setting-image-presets.md#setting_up_image_presets).
+>Adobe Dynamic Media Classic recommends creating an Image Preset that is the exact size of your template. Matching the Image Preset size to the template size ensures that the final output size and sharpening options for the template are set correctly. After you've created this Image Preset, you can choose it from the Apply Preset menu on the Template Preview screen. The screen shows you what the image looks like when it is delivered from the server. See [Set up Image Presets](setting-image-presets.md#setting_up_image_presets).
 
 * **Changing the size of a layer** - To change the size of a layer or the canvas, select the layer or canvas on the Layers list and use one of these techniques:
 

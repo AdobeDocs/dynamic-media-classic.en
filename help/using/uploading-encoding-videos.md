@@ -1,11 +1,9 @@
 ---
 title: Upload and encode videos
 description: Learn how to upload and encode videos in Adobe Dynamic Media Classic.
-uuid: 9a7d6513-b10c-40b0-aebb-18a795c2b8d1
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
@@ -34,7 +32,7 @@ To create single video or adaptive video sets for delivery to the web or mobile 
 
   * Choose a video encoding preset.
 
-    See [Video presets for encoding video files](application-setup.md#video-presets-for-encoding-video-files).  
+    See [Video presets for encoding video files](application-setup.md#video-presets-for-encoding-video-files).
   
     See [Best practices for video encoding](uploading-encoding-videos.md#best-practices-for-video-encoding).
 
@@ -151,7 +149,7 @@ You can obtain a file's metadata by viewing its metadata in Adobe Dynamic Media 
 
 When you choose or create a video encoding preset for your primary video file, make sure that the preset has the same aspect ratio as the primary video file. The *aspect ratio* is the ratio of the width to the height of the video.
 
-To determine the aspect ratio of a video file, obtain the file's metadata, and note the file's width and height (see [Obtain a file's metadata](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Then use this formula to determine the aspect ratio:
+To determine the aspect ratio of a video file, obtain the file's metadata, and note the file's width and its height (see [Obtain a file's metadata](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Then use this formula to determine the aspect ratio:
 
 width/height = aspect ratio
 
@@ -349,8 +347,8 @@ Adobe Dynamic Media Classic has set maximum limits on the target data rate, reso
     | Description | Describe the Video Preset. What you enter appears as a tooltip when you move the pointer over the name of the preset in the Upload Job Options dialog box in which users choose transcoding options. |
     | Playback Device | Choose the device that the video is intended to play back on. The options are Computer (desktops), Mobile (iPhone, iPad, Android&trade;); or Tablet (iPad only). This setting automatically determines the appropriate video and audio codec that is used during encoding. |
     | Target Data Rate | Enter the average Internet connection speed (in kilobits per second) of the target end user. You can enter the rate or drag the slider to enter it. The User Connection Speed spectrum lists typical speeds for broadband, DSL, mobile, and dial-up connections. This setting automatically determines the combined video and audio data rate. In other words, the amount of data that is encoded to make up a single second of video playback. The higher the data rate, the better the quality of the resulting video. However, data rates that are too high result in large file sizes that create subpar viewing experiences for users with a low bandwidth. As a best practice, strike a balance between high and low data rates. Aim to create an adequate quality playback experience without alienating users who have narrow bandwidths. |
-    | Aspect Ratio | Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3 - Used for almost all standard definition TV broadcast content.</li><li>16:9 - Used for almost all wide-screen content and movies on High-Definition Television (HDTV).</li><li>Auto-scale - (Default) A single-encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio (width to height ratio).</li><li>Custom - Used when you want to define a non-standard video size.</li><li>The aspect ratio that you choose determines the width and height settings for the Resolution Size; the width and height value automatically scale to the proper aspect ratio.</li></ul> |
-    | Resolution Size | Resolution size, expressed by the number of pixels wide by the number of pixels high, determines the size. Enter a width and height value in pixels or drag the slider to enter these values. The Resolution spectrum lists typical resolution sizes. The width and height values automatically adhere to the aspect ratio that you selected. For example, if you select 4:3 as the aspect ratio and enter 400 for width, 300 is entered automatically for height. If you selected Auto-scale for the Aspect Ratio setting, then the Width value for the Resolution Size is automatically set to Auto. Select **[!UICONTROL Preview]** so you can open a browser window and see your resolution choices there. |
+    | Aspect Ratio | Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3 - Used for almost all standard definition TV broadcast content.</li><li>16:9 - Used for almost all wide-screen content and movies on High-Definition Television (HDTV).</li><li>Auto-scale - (Default) A single-encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio (width to height ratio).</li><li>Custom - Used when you want to define a non-standard video size.</li><li>The aspect ratio that you choose determines the width and the height settings for the Resolution Size; the width and the height value automatically scale to the proper aspect ratio.</li></ul> |
+    | Resolution Size | Resolution size, expressed by the number of pixels wide by the number of pixels high, determines the size. Enter a width and a height value in pixels or drag the slider to enter these values. The Resolution spectrum lists typical resolution sizes. The width and the height values automatically adhere to the aspect ratio that you selected. For example, if you select 4:3 as the aspect ratio and enter 400 for width, 300 is entered automatically for height. If you selected Auto-scale for the Aspect Ratio setting, then the Width value for the Resolution Size is automatically set to Auto. Select **[!UICONTROL Preview]** so you can open a browser window and see your resolution choices there. |
     | Encode File Suffix | Enter a suffix. This suffix is appended to the resulting encoded video file. You can enter a hyphen and underscore in the name; blank spaces and special characters are not allowed. |
     | Other Settings | Adobe Dynamic Media Classic determines all other encoding settings automatically according to best-practice encoding guidelines. |
 

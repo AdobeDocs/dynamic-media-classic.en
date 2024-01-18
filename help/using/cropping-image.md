@@ -19,7 +19,7 @@ You can crop an image to remove white space around it, or crop an area of the im
 
 >[!NOTE]
 >
->After you crop, you can select **[!UICONTROL Save As]** and save a cropped version of the image under a different name. In the Save As window, select **[!UICONTROL Save As New Master]** to save a second copy of the image. Select **[!UICONTROL Save As Addition View Of Master]** so you can save the original and its cropped version under a different name. Select **[!UICONTROL Replace Original]** to delete the original file from which you cropped your image. Then enter a name for the image, and select **[!UICONTROL Submit]**.
+>After you crop, you can select **[!UICONTROL Save As]** and save a cropped version of the image under a different name. In the Save As window, select **[!UICONTROL Save As New Primary]** to save a second copy of the image. Select **[!UICONTROL Save As Addition View Of Primary]** so you can save the original and its cropped version under a different name. Select **[!UICONTROL Replace Original]** to delete the original file from which you cropped your image. Then enter a name for the image, and select **[!UICONTROL Submit]**.
 
 ## Crop to remove white space around an image {#crop-to-remove-white-space-around-an-image}
 
