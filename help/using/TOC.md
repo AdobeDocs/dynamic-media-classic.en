@@ -148,7 +148,7 @@ index: y
   + [Link a Mixed Media Set to a web page](linking-mixed-media-set-web.md)
 + Adobe Analytics instrumentation kit {#analytics-kit}
   + [Quick Start: Integrating Adobe Dynamic Media Classic with Adobe Analytics](quick-start-integrating-dmc-analytics.md)
-  + [Log in to Adobe Analytics](log-analytics.md)
+  + [Log on to Adobe Analytics](log-analytics.md)
   + [Configure Adobe Analytics reports](configuring-analytics-reports.md)
   + [Instrumenting a viewer using the Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
   + [Disable Adobe Analytics tracking](disabling-analytics-tracking.md)

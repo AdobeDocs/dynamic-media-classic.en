@@ -16,5 +16,5 @@ level: Intermediate
 # Print assets{#printing-assets}
 
 1. In the Browse Panel, select the asset or assets you want to print.
-1. Go to **[!UICONTROL File]** > **[!UICONTROL Print]** or press `Ctrl+P` (Windows®) or `Command+P` (Macintosh).
+1. Go to **[!UICONTROL File]** > **[!UICONTROL Print]** or press `Ctrl+P` (Windows&reg;) or `Command+P` (Mac).
 1. In the Print dialog box, choose how many copies to print and then click **[!UICONTROL Print]**.

@@ -30,7 +30,7 @@ Adobe Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 
    * **[!UICONTROL Conversion]** - Convert the asset file or the original image.
 
-   * **[!UICONTROL Size]** - You can select a standard size. Or, you can select **[!UICONTROL Other]** from the **[!UICONTROL Size]** drop-down list, choose the desired unit of measure, and then specify the width and height.
+   * **[!UICONTROL Size]** - You can select a standard size. Or, you can select **[!UICONTROL Other]** from the **[!UICONTROL Size]** drop-down list, choose the desired unit of measure, and then specify the width and the height.
 
         See also [Specify export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
@@ -61,7 +61,7 @@ The following asset types cannot be exported. All others generate an export.
 * Multibitrate Sets
 * eCatalogs
 
-In addition, templates cannot be exported as an “original file.”
+In addition, templates cannot be exported as an "original file."
 
 You can use conversion to export the following asset types:
 
@@ -69,7 +69,7 @@ You can use conversion to export the following asset types:
 * Templates
 * Adjusted Images
 * PDF (generates converted pages)
-* PostScript®
+* PostScript&reg;
 
 The following behavior results when a large selection of various asset types are fed into the exporter:
 

@@ -44,7 +44,7 @@ After you add a user, Adobe Dynamic Media Classic sends the user a Welcome e-mai
 
    >[!NOTE]
    >
-   >The apostrophe character (`‘`) is not allowed in email addresses.
+   >The apostrophe character (`'`) is not allowed in email addresses.
 
 1. To assign a role to the user, choose a Role option.
 
@@ -88,7 +88,7 @@ The user information that you can edit depends on your role as an administrator 
 1. Select a user from the list, and then select **[!UICONTROL Edit]**.
 1. Select the entry in the table that shows the company you are trying to modify permissions or access for, then select **[!UICONTROL Manage Company]**.
 1. Select the user role.
-1. If you want to change the user’s group membership (if you are editing or adding a Media Portal user or contributor), select **[!UICONTROL Next]** and edit the group membership.
+1. If you want to change the user's group membership (if you are editing or adding a Media Portal user or contributor), select **[!UICONTROL Next]** and edit the group membership.
 1. Select **[!UICONTROL Save]**.
 
 ### Filter and sort the user list {#filtering-and-sorting-the-user-list}
@@ -134,7 +134,7 @@ You can link an Adobe IMS user identity to an Adobe Dynamic Media Classic IPS us
 
       https://s7spsN.scene7.com/IpsWeb?ims=1
 
-      Replace “N” in the above path with the number for your IPS company region. That is, N = 1 for North America; 3 for EMEA; or 5 for JAPAC.
+      Replace "N" in the above path with the number for your IPS company region. That is, N = 1 for North America; 3 for EMEA; or 5 for JAPAC.
  -->
 
 ## Bandwidth and Storage {#bandwidth-storage}
@@ -172,7 +172,7 @@ The Image Content report provides information about requests for the following i
 
 >[!NOTE]
 >
->The Video Streaming report applies to streaming videos only. It doesn’t track the viewing of progressive videos.
+>The Video Streaming report applies to streaming videos only. It doesn't track the viewing of progressive videos.
 
 ### Generate a report {#generating-a-report}
 
@@ -198,7 +198,7 @@ After you generate a report on the Bandwidth & Storage page, you can choose opti
 
 * **Custom time period** - On the Pre-defined Report menu, select **[!UICONTROL Custom]**. Then choose a date on the **[!UICONTROL Start Month]** (or **[!UICONTROL Start Date]**) menu and a date on the # of Months (or # or Days) menu. For Domain and Video Content Reports, you can choose a specific start and end date for capturing report information.
 
-* **Sort data (Data view only)** - To sort information on a column, select the column’s heading. Select again to sort in descending order.
+* **Sort data (Data view only)** - To sort information on a column, select the column's heading. Select again to sort in descending order.
 
 * **Rearrange columns (Data view only)** - To move a column to a different location on the data grid, drag its heading.
 
@@ -220,7 +220,7 @@ Adobe Dynamic Media Classic Administrators can generate Image Error reports. An 
 
     * To sort errors by the heading information, select a heading. By default, errors are sorted by number of occurrences, highest to lowest.
     * Move the cursor over the Response field for an error to see the specific error message.
-    * To see the link to the image or referrer web page, move the cursor over the URL field or the Referrer field.
+    * To see the link to the image or the referrer web page, move the cursor over the URL field or the Referrer field.
     * To copy the link to the actual image, select **[!UICONTROL URL Copy URL]**. You can paste this link in a browser window to go to the image and investigate the error.
     * To copy the link to the referrer web page, select **[!UICONTROL Referrer Copy URL]**.
 

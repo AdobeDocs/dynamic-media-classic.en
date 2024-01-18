@@ -176,7 +176,7 @@ The name of this option could be different, depending on the settings in **[!UIC
 
 ### Upload files using the VIA FTP tab {#upload-files-using-via-ftp}
 
-1. Log in to the Adobe Dynamic Media Classic FTP site that is specific to your particular region. Use the FTP user name and password that you received from your administrator.
+1. Log on to the Adobe Dynamic Media Classic FTP site that is specific to your particular region. Use the FTP user name and password that you received from your administrator.
 1. In Adobe Dynamic Media Classic, on the Global Navigation bar, select **[!UICONTROL Upload]**.
 1. On the Upload page, select the **[!UICONTROL VIA FTP]** tab.
 1. On the left side of the Upload page, in the **[!UICONTROL Choose FTP Folder For Upload]** area, choose an FTP folder from which to upload files. 

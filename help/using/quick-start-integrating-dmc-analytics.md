@@ -27,15 +27,15 @@ See also [Measure Video in Adobe Analytics](https://experienceleague.adobe.com/d
 
 This Quick Start is designed to get you up and running quickly with Adobe Analytics Instrumentation Kit.
 
-## 1. Log in to Adobe Analytics by way of Adobe Dynamic Media Classic and download Adobe Analytics report variables
+## 1. Log on to Adobe Analytics by way of Adobe Dynamic Media Classic and download Adobe Analytics report variables
 
 >[!NOTE]
 >
->Before you can configure Adobe Analytics reports and match Adobe Analytics report variables to Adobe Dynamic Media Classic events, verify that you are added as a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Experience Cloud’s Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
+>Before you can configure Adobe Analytics reports and match Adobe Analytics report variables to Adobe Dynamic Media Classic events, verify that you are added as a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Experience Cloud's Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
 After you have verified that you are a member of the Web Service Access group, in Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Adobe Analytics]**. On the Adobe Analytics Configuration page, select **[!UICONTROL Adobe Analytics Login]**.
 
-See [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
+See [Log on to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
 In the Adobe Analytics Login dialog box, type your Experience Cloud Org ID (optional), and your complete credentials, then select **[!UICONTROL Login]**. On the Report Suite drop-down menu, select the name of the report suite that you want to use.
 

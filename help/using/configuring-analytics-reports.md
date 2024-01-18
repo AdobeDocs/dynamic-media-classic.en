@@ -23,13 +23,13 @@ Besides associating viewer events with variables, the Adobe Analytics Configurat
 >
 >Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Adobe Dynamic Media Classic, resave your Adobe Analytics configuration settings, and then republish.
 
-See [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
+See [Log on to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
 See [Publish configuration information](publishing-analytics-configuration-information.md#publishing_adobe_analytics_configuration_information).
 
 ## Assign Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables {#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables}
 
-Use the Adobe Analytics Configuration screen to associate viewer events with Adobe Analytics variables and Adobe Dynamic Media Classic variables. For each viewer event, choose one Adobe Analytics variable and one Adobe Dynamic Media Classic variable. For instructions about opening the Adobe Analytics Configuration screen, see [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
+Use the Adobe Analytics Configuration screen to associate viewer events with Adobe Analytics variables and Adobe Dynamic Media Classic variables. For each viewer event, choose one Adobe Analytics variable and one Adobe Dynamic Media Classic variable. For instructions about opening the Adobe Analytics Configuration screen, see [Log on to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
 **To assign Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables:**
 
@@ -55,7 +55,7 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
 
 ### Viewer events {#viewer-events}
 
-Viewer events describe actions that users perform with Adobe Dynamic Media Classic viewers. When a user initiates a certain action, such as selecting a thumbnail or starting or stopping a video, the viewer “broadcasts” an event to the web page, along with data associated with that event.
+Viewer events describe actions that users perform with Adobe Dynamic Media Classic viewers. When a user initiates a certain action, such as selecting a thumbnail or starting or stopping a video, the viewer "broadcasts" an event to the web page, along with data associated with that event.
 
 The following table describes viewer events that you can add to the Adobe Analytics Configuration screen.
 

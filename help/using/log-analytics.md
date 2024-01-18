@@ -1,7 +1,6 @@
 ---
-title: Log in to Adobe Analytics
-description: Learn how to log in to Adobe Analytics from Adobe Dynamic Media Classic.
-uuid: 5614babe-1097-4228-a3dc-27e5a25366d5
+title: Log on to Adobe Analytics
+description: Learn how to log on to Adobe Analytics from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -13,9 +12,9 @@ exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
 topic: Integrations, Development
 level: Experienced
 ---
-# Log in to Adobe Analytics{#log-in-to-adobe-analytics}
+# Log on to Adobe Analytics{#log-in-to-adobe-analytics}
 
-Before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Adobe Dynamic Media Classic events, verify that you are a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Experience Cloud’s Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
+Before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Adobe Dynamic Media Classic events, verify that you are a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Experience Cloud's Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
 When you log in, you have the option of entering your Experience Cloud Org ID to use the latest video analytics implementation. If you choose not to enter your ID, video reporting still works. However, it can cause the data to not integrate correctly with other data for that client from outside Adobe Dynamic Media Classic.
 
@@ -23,7 +22,7 @@ When you log in, you have the option of entering your Experience Cloud Org ID to
 >
 >If your Adobe Analytics account has been migrated to Adobe IMS-based authentication (Identity Management System) for login, entering direct credentials does not work.
 
-## Log in to Adobe Analytics from Adobe Dynamic Media Classic {#log-in-to-analytics-from-dmc}
+## Log on to Adobe Analytics from Adobe Dynamic Media Classic {#log-in-to-analytics-from-dmc}
 
 Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe Analytics OAuth integration with Dynamic Media Classic is typically only done once per user.
 

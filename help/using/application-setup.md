@@ -155,7 +155,7 @@ Administrators can create presets for exporting assets. Users can choose a prese
 
 To open the Image Preset screen, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 
-See [Smart imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
+See [Smart imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html).
 
 ### Create and edit Image Presets {#creating-and-editing-image-presets}
 
@@ -187,7 +187,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
   * GIF Color Quantization Options
 
-    * **[!UICONTROL Type]** - Select Adaptive (the default), Web, or Macintosh. If you select **[!UICONTROL GIF With Alpha]**, the Macintosh option is not available.
+    * **[!UICONTROL Type]** - Select Adaptive (the default), Web, or Mac. If you select **[!UICONTROL GIF With Alpha]**, the Mac option is not available.
 
     * **[!UICONTROL Dither]** - Select Diffuse or Off.
 
@@ -840,7 +840,7 @@ One effective use of user-defined metadata fields is to delay the activation tim
 
    * **[!UICONTROL Color]** - The name of a color.
 
-   * **[!UICONTROL Dimension]** - The width and height of the asset.
+   * **[!UICONTROL Dimension]** - The width and the height of the asset.
 
    * **[!UICONTROL Untyped]** - For backwards-compatibility. Do not select this option.
 

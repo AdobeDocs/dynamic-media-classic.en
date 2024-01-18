@@ -37,7 +37,7 @@ On the Global Navigation bar, select **[!UICONTROL Upload]** to upload a PSD fil
 
 ## 2. Create a template
 
-To create a template from a PSD file, select **[!UICONTROL Create Template]** when you upload the file. To create a template from images, on the Global Navigation bar, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**, enter a width and height measurement for the canvas. Near the upper-right corner of the page, select either **[!UICONTROL Designer]** or **[!UICONTROL Developer]**, and drag images onto the Template page. You can also select the images *before* you go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. The Template page offers tools for:
+To create a template from a PSD file, select **[!UICONTROL Create Template]** when you upload the file. To create a template from images, on the Global Navigation bar, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**, enter a width and a height measurement for the canvas. Near the upper-right corner of the page, select either **[!UICONTROL Designer]** or **[!UICONTROL Developer]**, and drag images onto the Template page. You can also select the images *before* you go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. The Template page offers tools for:
 
 * Adding image layers. To add a layer, drag an image into the Template page.
 * Adding text layers. Select the **[!UICONTROL Text tool]** icon. Drag the pointer to create a box for the text layer; then format the text with tools on the Text page.

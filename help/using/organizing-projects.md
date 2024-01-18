@@ -17,7 +17,7 @@ level: Intermediate
 
 Projects provide an optional, secondary way for you to organize assets independently of the folders in which they are stored. An asset can be placed in only one folder, but it can be copied into more than one Project folder for organizational purposes.
 
-After you create a Project folder, you can place assets in it. However, assets in a Project are actually pointers to the Asset Library folder in which the assets are stored. You can place an asset in more than one Project. For example, an image of a blouse can be placed in both the “Blouses” and “Fall Collection” Project folders.
+After you create a Project folder, you can place assets in it. However, assets in a Project are actually pointers to the Asset Library folder in which the assets are stored. You can place an asset in more than one Project. For example, an image of a blouse can be placed in both the "Blouses" and "Fall Collection" Project folders.
 
 You can create a Project when you upload files or create Projects in the Asset Library Panel.
 
@@ -27,7 +27,7 @@ You can create a Project when you upload files or create Projects in the Asset L
 
 >[!NOTE]
 >
->For you to organize assets in Projects, your administrator must have set you up to use them. If you don’t see a Projects folder section at the bottom of the Assets Library, this method of organizing assets is not available to you. See [Application General Settings](application-setup.md#general-settings).
+>For you to organize assets in Projects, your administrator must have set you up to use them. If you don't see a Projects folder section at the bottom of the Assets Library, this method of organizing assets is not available to you. See [Application General Settings](application-setup.md#general-settings).
 
 ## Create a Project folder {#creating-a-project-folder}
 
@@ -55,6 +55,6 @@ To display, delete, and rename a Project folder, do any of the following:
 
 You can add images to a Project folder starting in the Browse Panel or when you upload files to Adobe Dynamic Media Classic:
 
-* **From the Browse Panel** - Select the assets and drag them to a Project folder. You can also go to **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Select a Project folder name in the Select Project dialog box, and then select **[!UICONTROL Submit]**.
+* **From the Browse Panel**, select the assets and drag them to a Project folder. You can also go to **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Select a Project folder name in the Select Project dialog box, and then select **[!UICONTROL Submit]**.
 
 * **When uploading files** - In the Upload page, select **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, select **[!UICONTROL Projects]**, and then select a project name.

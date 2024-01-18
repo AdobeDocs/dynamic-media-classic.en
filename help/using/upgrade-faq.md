@@ -40,7 +40,7 @@ Yes, [!DNL Dynamic Media] uses Adobe's robust, top-tier delivery network.
 
 * Top rich media vendor to Internet Retail 1000, nine years in a row.
 * 24/7/265 support, 99.95% SLAs.
-* Proven infrastructure serving over 800 clients world wide, 3.5 PB traffic per month and more than 500 million assets in management, 60% growth in traffic year over year.
+* Proven infrastructure serving more than 800 clients world wide, 3.5 petabytes of traffic per month and more than 500 million assets in management, 60% growth in traffic year over year.
 
 +++
 
@@ -108,7 +108,7 @@ You can upgrade when you are ready to take advantage of the new features offered
 
 +++
 
-+++**Can I continue to use [!DNL Dynamic Media Classic] (formerly Adobe Scene7) after I have upgraded to [!DNL Dynamic Media]?**
++++**Can I still use [!DNL Dynamic Media Classic] (formerly Adobe Scene7) after I have upgraded to [!DNL Dynamic Media]?**
 After you have upgraded to [!DNL Dynamic Media], you should only use Dynamic Media for imaging and video. You can continue to use [!DNL Dynamic Media Classic] only for features that are not yet available in [!DNL Dynamic Media] including the following:
 
 * Visual configurator (image author, image render).

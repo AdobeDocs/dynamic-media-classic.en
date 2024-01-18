@@ -28,7 +28,7 @@ See also [Export assets from Adobe Dynamic Media Classic](exporting-assets-from-
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 1. In the Image Presets window, select any of the following:
 
-   * **Enable User-Defined Conversion** - When selected, this option lets users choose other from the **[!UICONTROL Size]** drop-down list in the Export Selected Assets window. Users can then choose a unit of measure such as pixels or centimeters, and then specify the desired width and height. When they export or download these files, the image files are reformatted.
+   * **Enable User-Defined Conversion** - When selected, this option lets users choose other from the **[!UICONTROL Size]** drop-down list in the Export Selected Assets window. Users can then choose a unit of measure such as pixels or centimeters, and then specify the desired width and the height. When they export or download these files, the image files are reformatted.
 
      When **[!UICONTROL pixels]** are chosen from the **[!UICONTROL Size]** drop-down list, the resulting image width &times; height cannot exceed 100 million pixels. This size equates to 10,000 &times; 10,000 pixels for a square image, or roughly 8,000 &times; 12,000 pixels for a 2x3 aspect ratio image. This size limitation does not apply if you export original primary images.
 
