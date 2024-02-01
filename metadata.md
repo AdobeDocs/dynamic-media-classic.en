@@ -4,6 +4,7 @@ solution: Dynamic Media Classic
 type: Documentation
 feature-set: Experience Manager Assets
 git-repo: https://github.com/AdobeDocs/dynamic-media-classic.en
+recommendations: noDisplay
 ---
 
 # Metadata for internal use
