@@ -607,7 +607,7 @@ See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.ht
 
    * **Edit** - Select an existing Viewer Preset, and then select **[!UICONTROL Edit]**.
 
-1. In the Configure Viewer screen, in the Preset Name field, enter, or edit the preset name.
+1. In the Configure Viewer page, in the Preset Name field, enter, or edit the preset name.
 1. Set the remaining options that you want.
 
    >[!NOTE]

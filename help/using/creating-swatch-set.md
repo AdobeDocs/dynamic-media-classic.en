@@ -51,12 +51,12 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 Whether you edit a published or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
-|Set already published?|**[!UICONTROL Publish after]** save option selected before saving your edit?|State of set after saving|State of set members after saving|
-|--- |--- |--- |--- |
-|Yes|Yes|Published|Published|
-|Yes|No|Published|Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state.|
-|No|Yes|Published|Published|
-|No|No|Unpublished|Existing set members and any new set members that you added during your edit retain their published or unpublished state.|
+| Set already published? | **[!UICONTROL Publish after]** save option selected before saving your edit?|State of set after saving | State of set members after saving |
+|--- | --- | --- | --- |
+| Yes | Yes | Published | Published. |
+|Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |
+| No | Yes | Published | Published. |
+| No | No | Unpublished | Existing set members and any new set members that you added during your edit retain their published or unpublished state. |
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
@@ -65,7 +65,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. In the Grid View, browse to a SwatchSet, and then below the image, select **[!UICONTROL Edit]**.
 1. Do any of the following:
 
-    * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Swatch Set’s **[!UICONTROL Views]** page.
+    * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Swatch Set's **[!UICONTROL Views]** page.
     * To remove an image, select it, and then select **[!UICONTROL Delete]** on the toolbar.
     * To reorder images, drag an image to a new position.
 
@@ -74,7 +74,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Delete a Swatch Set {#deleting-a-swatch-set}
 
-When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 

@@ -117,7 +117,7 @@ Make sure that all users in your company understand these rules for naming files
 * As a best practice, make sure that asset IDs do not contain blank spaces (for example, black jacket.tif and blue jacket.jpg). Adobe Dynamic Media Classic ASCII-encodes blank spaces in asset names when it uses asset names to construct URL strings. These ASCII codes are hard to read, which can make reading URLs more difficult.
 * Language-specific characters are permitted in filenames. However, the following characters are not permitted in filenames:
 
-  \ ; / ? : @ & = + $ , &#42; " &lt; > | ' { } %
+  `\ ; / ? : @ & = + $ , &#42; " &lt; > | ' { } %`
 
   If a filename contains one or more of the above characters, the characters are removed from the filename on upload.
 

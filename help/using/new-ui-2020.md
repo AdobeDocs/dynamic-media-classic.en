@@ -66,7 +66,7 @@ Some companies do not let you download and install software and apps onto your s
 +++
 
 +++**_Can multiple instances of the new desktop app be open at the same time?_**
-No, the AIR technology on which the new Adobe Dynamic Media Classic desktop app is built restricts a user from having multiple instances of the app open at a given time.
+No. The AIR technology on which the new Adobe Dynamic Media Classic desktop app is built restricts a user from having multiple instances of the app open at a given time.
 +++
 
 +++**_Are there any restrictions on the number of files that can be uploaded to Adobe Dynamic Media Classic by way of a local computer?_**
@@ -74,7 +74,7 @@ When using the new Adobe Dynamic Media Classic desktop app on Windows&reg;, you 
 +++
 
 +++**_Does the new Adobe Dynamic Media Classic desktop app require a new SKU? Is there a license cost involved?_**
-No SKU or license change is required to use the new Adobe Dynamic Media Classic desktop app.
+No to both questions. No SKU or license change is required to use the new Adobe Dynamic Media Classic desktop app.
 +++
 
 +++**_How are upgrades to Adobe Dynamic Media Classic desktop app enabled?_**

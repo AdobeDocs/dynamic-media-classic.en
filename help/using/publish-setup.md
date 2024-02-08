@@ -151,8 +151,8 @@ The locale IDs are mapped to their corresponding suffixes. If no locale-specific
 
 | locale= | Output IDs to search |
 | --- | --- |
-| en , en_us, en_uk | myImg_E, myImg |
-| de , de_de , de_at | myImg_D, myImg |
+| en, en_us, en_uk | myImg_E, myImg |
+| de, de_de, de_at | myImg_D, myImg |
 | fr | myImg_F, myImg |
 | All others | - |
 
