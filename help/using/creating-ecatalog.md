@@ -23,10 +23,10 @@ You can include image files and PDF files in your eCatalog.
 
 When you create an eCatalog, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
-|"Publish after save" option selected before saving?|State of set after saving|State of set members after saving|
+| "Publish after save" option selected before saving? | State of set after saving|State of set members after saving |
 | --- | --- | --- |
-|Yes|Published|Published|
-|No|Unpublished|Set members retain their published or unpublished state.|
+| Yes | Published | Published |
+| No | Unpublished | Set members retain their published or unpublished state. |
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 

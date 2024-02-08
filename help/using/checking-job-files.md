@@ -124,16 +124,16 @@ This table shows the time increments, their allowed values, and the wildcards th
 
 This table describes the wildcard characters that are allowed in the Rule box and how to use them:
 
-|Wildcard character|Name|What it describes|
-|--- |--- |--- |
-|`*`|Asterisk|All values (for example, "every minute").|
-|`?`|Question mark|No specific value (for example, "any minute within the specified hour").|
-|`,`|Comma|Other values (for example, "Monday and Wednesday").|
-|`-`|Hyphen|Range of values (for example, "Monday through Friday").|
-|`/`|Forward slash|Increments (for example, "every 15 minutes").|
-|`L`|Capital L|Last "day of the month" or "day of the week" (available for these fields only). For example, if the month is January, an L value for the "day of the month" field schedules the job for January 31. For the "day of the week" field, you can enter this character alone to schedule the job on Saturday. You can use it with a number (for example, `6L`) to specify the last Friday of the month. Do not specify `L` with the comma or hyphen wildcards.|
-|`#`|Number sign|"Nth" weekday of the month (available for the "day of the week" field only). For example, `6#3` in the "day of the week" field specifies the third Friday of the month. The `6` denotes "Friday" (the sixth day of the week) and the `3` denotes the third occurrence in the month.|
-|`C`|# Capital C|First calendar "day of the month" or "day of the week" (available for these fields only). For example, specifying a value of `1C` for "day of the month" schedules the first day in the calendar that occurs on or after the fifth. For the "day of the week" field, specifying `1C` schedules the first day in the calendar that occurs on or after Sunday|
+| Wildcard character | Name | What it describes |
+| --- | --- | --- |
+| `*` | Asterisk | All values (for example, "every minute"). |
+| `?` | Question mark | No specific value (for example, "any minute within the specified hour"). |
+| `,` | Comma | Other values (for example, "Monday and Wednesday"). |
+| `-` | Hyphen | Range of values (for example, "Monday through Friday"). |
+| `/` | Forward slash | Increments (for example, "every 15 minutes"). |
+| `L` | Capital L | Last "day of the month" or "day of the week" (available for these fields only). For example, if the month is January, an L value for the "day of the month" field schedules the job for January 31. For the "day of the week" field, you can enter this character alone to schedule the job on Saturday. You can use it with a number (for example, `6L`) to specify the last Friday of the month. Do not specify `L` with the comma or hyphen wildcards. |
+| `#` | Number sign | "Nth" weekday of the month (available for the "day of the week" field only). For example, `6#3` in the "day of the week" field specifies the third Friday of the month. The `6` denotes "Friday" (the sixth day of the week) and the `3` denotes the third occurrence in the month. |
+| `C` | # Capital C | First calendar "day of the month" or "day of the week" (available for these fields only). For example, specifying a value of `1C` for "day of the month" schedules the first day in the calendar that occurs on or after the fifth. For the "day of the week" field, specifying `1C` schedules the first day in the calendar that occurs on or after Sunday. |
 
 This list gives examples of describing time intervals in the Rule box:
 

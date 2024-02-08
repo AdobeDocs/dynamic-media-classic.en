@@ -27,7 +27,7 @@ For all HTML5 viewers, add the following JavaScript to the HTML container, usual
 <!-- ***** Adobe Analytics Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<Adobe Dynamic Media Classic Company ID>&preset=companypreset-1"></script>
 ```
 
-Where `Adobe Dynamic Media Classic Company ID` is set to the Adobe Dynamic Media Classic company name. And `&preset` is optional unless the company preset name is not `companypreset`. In such cases, it could be `companypreset-1, companypreset-2`, and so on. The higher number is a newer instance of the preset. To determine the correct company preset value name, select **[!UICONTROL Copy URL]** , and then look at the `preset=`parameter to find the company preset name.
+Where `Adobe Dynamic Media Classic Company ID` is set to the Adobe Dynamic Media Classic company name. And `&preset` is optional unless the company preset name is not `companypreset`. In such cases, it could be `companypreset-1, companypreset-2`, and so on. The higher number is a newer instance of the preset. To determine the correct company preset value name, select **[!UICONTROL Copy URL]**, and then look at the `preset=`parameter to find the company preset name.
 
 Continuing, now add a function that transmits the viewer event to the Adobe Analytics tracking code.
 
