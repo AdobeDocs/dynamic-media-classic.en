@@ -1,12 +1,10 @@
 ---
 title: "Quick Start: Image Sets"
 description: An introduction and Quick Start to Image Sets to help you get up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
-uuid: daf17d13-9c06-41f0-8fc5-2e56d460d341
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
-discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
@@ -25,8 +23,10 @@ When you create an Image Set, Adobe recommends the following best practices and 
 
 | Limit type | Best practice | Limit imposed |
 | --- | --- | --- |
-| Number of duplicate assets per set | No duplicates | 20 |
+| Number of duplicate assets per set | No duplicates | 20&Dagger; |
 | Maximum number of images per set | 5-10 images per set  | 1000 |
+
+&Dagger; Best practice is to not have duplicate assets in a set. The limit is 20 duplicates for a single asset. If you add another duplicate for that asset&mdash;within that set&mdash;the request either gives an error or ignores the duplicate.
 
 See also [Dynamic Media limitations](/help/using/limitations.md).
 
