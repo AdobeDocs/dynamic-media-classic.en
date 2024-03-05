@@ -1,12 +1,10 @@
 ---
 title: Create an Image Set
 description: Learn how to create an image set in Adobe Dynamic Media Classic.
-uuid: 689fdc14-4f51-4c94-8515-cd8551e101d8
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
-discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
 feature: Dynamic Media Classic,Viewers,Image Sets,Spin Sets
 role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
@@ -32,8 +30,10 @@ When you create an Image Set, Adobe recommends the following best practices and 
 
 | Limit type | Best practice | Limit imposed |
 | --- | --- | --- |
-| Number of duplicate assets per set | No duplicates | 20 |
+| Number of duplicate assets per set | No duplicates | 20&Dagger; |
 | Maximum number of images per set | 5-10 images per set  | 1000 |
+
+&Dagger; Best practice is to not have duplicate assets in a set. The limit is 20 duplicates for a single asset. If you add another duplicate for that asset&mdash;within that set&mdash;the request either gives an error or ignores the duplicate.
 
 See also [Dynamic Media limitations](/help/using/limitations.md).
 
@@ -68,7 +68,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. In the Grid View, browse to an ImageSet, and then below the image, select **[!UICONTROL Edit]**.
 1. Do any of the following:
 
-    * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Image Set’s **[!UICONTROL Views]** page.
+    * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Image Set's **[!UICONTROL Views]** page.
     * To remove an image, select it, and then select **[!UICONTROL Delete]** on the toolbar.
     * To reorder images, drag an image to a new position.
 
@@ -77,7 +77,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Delete an Image Set {#deleting-an-image-set}
 
-When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
