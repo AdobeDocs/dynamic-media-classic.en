@@ -21,7 +21,7 @@ This new app is now available for Windows&reg; and macOS.
 >
 >Adobe recommends that you install the new Adobe Dynamic Media Classic desktop app by October 1, 2020. Doing so will ensure you have a smooth transition before Adobe Flash Player is deprecated on December 31, 2020. After that date, you cannot log on to the browser version of Adobe Dynamic Media Classic user interface, labeled as Adobe Dynamic Media Classic in the product.
 
-See the FAQ for the [New Adobe Dynamic Media Classic sign-in now available.](/help/using/new-ui-2020.md)
+See the FAQ for the [New Adobe Dynamic Media Classic sign in now available.](/help/using/new-ui-2020.md)
 
 ## System requirements for Adobe Dynamic Media Classic desktop app {#system-requirements-dmc-app}
 

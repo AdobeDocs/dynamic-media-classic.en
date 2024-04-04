@@ -1,6 +1,6 @@
 ---
 title: "Quick Start: Integrate Adobe Dynamic Media Classic and Adobe Analytics"
-description: An introduction and Quick Start on how to integrate Adobe Dynamic Media Classic and Adobe Analytics to help you get up and running quickly.
+description: An introduction and Quick Start on how to integrate Adobe Dynamic Media Classic and Adobe Analytics.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -19,7 +19,7 @@ After integrating Adobe Analytics with Adobe Dynamic Media Classic, you can get 
 
 Using Adobe Analytics reports, you can get a clear picture of the activity of customers on your website. You can determine which product presentations lead to conversion and which do not attract customer interest.
 
-See also [Measure Video in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html).
+See also [Measure Video in Adobe Analytics](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ See [Configure Adobe Analytics reports](configuring-analytics-reports.md#configu
 
 ## 3. Publish your Adobe Dynamic Media Classic viewers
 
-Publish your Adobe Dynamic Media Classic viewers so that the viewers (with code for tracking user activity in Adobe Analytics reports) are loaded on Adobe Dynamic Media Classic servers. After you publish, this information is included in viewers and can be used for analyses by Adobe Analytics.
+Publish your Adobe Dynamic Media Classic viewers so that the viewers (with code for tracking user activity in Adobe Analytics reports) are loaded on Adobe Dynamic Media Classic servers. After you publish, this information is included in viewers and can be used for analysis by Adobe Analytics.
 
 See [Publish configuration information](publishing-analytics-configuration-information.md#publishing_adobe_analytics_configuration_information).
 

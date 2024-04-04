@@ -1,11 +1,9 @@
 ---
 title: Upload files
 description: Learn how to upload files in Adobe Dynamic Media Classic.
-uuid: b3025f84-4f28-4276-bc9c-f0c0c2a26e12
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
@@ -98,7 +96,7 @@ The following file types can be published:
 * CSS
 * JavaScript (when the company is configured with its own domain)
 * Primary video
-* PDF (when PDF is marked for publish after upload, to avoid delivery of all PDFs for existing eCatalog/PDF workflow)
+* PDF (when PDF is marked for publishment after upload, to avoid delivery of all PDFs for existing eCatalog/PDF workflow)
 * PrX video
 * SVG
 * XML
@@ -160,8 +158,8 @@ The Adobe Dynamic Media Classic Desktop application lets you upload files and fo
 1. In the Adobe Dynamic Media Classic Desktop application, on the Global Navigation bar, select **[!UICONTROL Upload]**.
 1. On the Upload page, select the **[!UICONTROL From Desktop]** tab.
 1. On the left side of the Upload page, in the **[!UICONTROL Select Files for Upload]** area, select **[!UICONTROL Browse]** to select the files or folders you want to upload, then select **[!UICONTROL Open]**.
-1. On the right side of the Upload page, in the **Choose Folder Destination** area, navigate to a destination folder where you want the uploaded files or folders added.
-1. (Optional) Near the bottom of the Upload page, in the Job Name text field, enter the new name of the upload job. Or, you can simply use the default, system-generated name that Adobe Dynamic Media Classic provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs. See [Checking job files](checking-job-files.md#checking_job_files).
+1. On the right side of the Upload page, in the chosen **Folder Destination** area, navigate to a destination folder where you want the uploaded files or folders added.
+1. (Optional) Near the bottom of the Upload page, in the Job Name text field, enter the new name of the uploading job. Or, you can simply use the default, system-generated name that Adobe Dynamic Media Classic provides. Upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs. See [Checking job files](checking-job-files.md#checking_job_files).
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Publish After Uploading]** if you want to automatically publish the assets that you upload.
 When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This same option is also available in the Job Options dialog box.
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** if you want the files you upload to replace existing files with the same names. This same option is also available in the Job Options dialog box.
@@ -180,8 +178,8 @@ The name of this option could be different, depending on the settings in **[!UIC
 1. In Adobe Dynamic Media Classic, on the Global Navigation bar, select **[!UICONTROL Upload]**.
 1. On the Upload page, select the **[!UICONTROL VIA FTP]** tab.
 1. On the left side of the Upload page, in the **[!UICONTROL Choose FTP Folder For Upload]** area, choose an FTP folder from which to upload files. 
-1. On the right side of the Upload page, in the **[!UICONTROL Choose Adobe Dynamic Media Folder Destination]** area, choose a destination folder in Adobe Dynamic Media Classic.
-1. (Optional) Near the bottom of the Upload page, in the Job Name text field, enter the new name of the upload job. Or, you can simply use the default, system-generated name that Adobe Dynamic Media Classic provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
+1. On the right side of the Upload page, in the chosen **[!UICONTROL Adobe Dynamic Media Folder Destination]** area, choose a destination folder in Adobe Dynamic Media Classic.
+1. (Optional) Near the bottom of the Upload page, in the Job Name text field, enter the new name of the uploading job. Or, you can simply use the default, system-generated name that Adobe Dynamic Media Classic provides. Upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
 See [Checking job files](checking-job-files.md#checking_job_files).
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Publish After Upload]** if you want to automatically publish the assets that you upload.
 When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This same option is also available in the Job Options dialog box.
@@ -242,7 +240,7 @@ See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-meta
 * **Color profile options** - Choose a color conversion when you create optimized files that are used for Adobe Dynamic Media Classic dynamic delivery:
 
   * **[!UICONTROL Default Color Preservation]** - Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on web pages.
-  * **[!UICONTROL Keep Original Color Space]** - Retains the original colors without any color conversion at the point of ingestion into Adobe Dynamic Media Classic. For images without an embedded color profile, any required color conversion to process requests for the image is done using the default color profiles as configured in the Publish settings. These color profiles do not always align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
+  * **[!UICONTROL Keep Original Color Space]** - Retains the original colors without any color conversion at the point of ingestion into Adobe Dynamic Media Classic. For images without an embedded color profile, any required color conversion to process requests for the image is done using the default color profiles as configured in the Publishing settings. These color profiles do not always align with the colors in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
   * **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a **[!UICONTROL Convert From]** and **[!UICONTROL Convert To]** color space. This advanced option overrides any color information that is embedded in the source file. Select this option only when all the images that you are submitting contain incorrect or missing color profile data.
 
 * **Image edit options** - You can preserve the clipping <> masks in images, and choose a color profile.
@@ -263,8 +261,9 @@ See [Work with PostScript and Illustrator files](postscript-illustrator-files.md
 * **EVIDEO options** - You can transcode a video file by choosing a Video Preset.
 See [Work with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
-* **Additional Metadata** - Enter keywords that describe the files you intend to upload. Separate keywords by comma. Keywords make searching for assets easier.
-See [Conduct an advanced search](searching-assets.md#conducting_an_advanced_search). See also [Upload keywords](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) training video.
+* **More Metadata** - Enter keywords that describe the files you intend to upload. Separate keywords by comma. Keywords make searching for assets easier.
+See [Conduct an advanced search](searching-assets.md#conducting_an_advanced_search). 
+See also [Upload keywords](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) training video.
 
 * **Batch Set Presets** - If you want to create an Image Set, Spin Set, or Swatch Set from the uploaded files, select the **[!UICONTROL Active]** column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
 See [Batch Set Presets](application-setup.md#batch_set_presets).
@@ -273,7 +272,7 @@ See [Batch Set Presets](application-setup.md#batch_set_presets).
 
 ## Follow an upload with another job {#follow-an-upload-with-another-job}
 
-When you upload items using FTP, you can schedule a subsequent job to begin when the upload is complete. If other jobs are scheduled to begin, the job you schedule here is queued after them.
+When you upload items using FTP, you can schedule a subsequent job to begin when the upload is complete. If other jobs are scheduled to begin, the jobs you schedule here are queued after them.
 
 The new job sends a notification to the address that you specify so that the code at that location can be triggered. This follow-on publishing job uses the same name as the upload job, but with the text *Pub_* added to the beginning.
 
@@ -301,5 +300,5 @@ The new job sends a notification to the address that you specify so that the cod
 >[!MORELIKETHIS]
 >
 >* [Work with asset folders](asset-folders.md#working_with_asset_folders)
->* [Handle recurring upload and publish jobs](checking-job-files.md#handling_recurring_upload_and_publish_jobs)
->* [Use an upload or publish job as a trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger)
+>* [Handle recurring upload and publishment jobs](checking-job-files.md#handling_recurring_upload_and_publish_jobs)
+>* [Use an upload or publishment job as a trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger)

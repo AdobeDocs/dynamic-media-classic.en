@@ -1,6 +1,6 @@
 ---
 title: Application Setup
-description: Learn how to set up and configure the Application area of Adobe Dynamic Media Classic. The Application area lets you enter general settings, create image, viewer, and video encoding presets, define default viewers and metadata, publishing settings, and video SEO settings. You can also use the area to set up batch set presets to automate the generation of 2D spin sets.
+description: Learn how to set up and configure the Application area of Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -43,7 +43,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 * **[!UICONTROL Progressive Video Server Name]** - The URL to your [!DNL Adobe Dynamic Media Classic] progressive video server. This server delivers progressive video using HTTP protocol.
 
-* **[!UICONTROL Show URL for unpublished assets]** - Select this option if you want [!DNL Adobe Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
+* **[!UICONTROL Show URL for unpublished assets]** - Select this option if you wanted [!DNL Adobe Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
 
 <!-- **Allow AIR install** Select this option to allow users to download Adobe Dynamic Media Classic desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen. -->
 
@@ -55,7 +55,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
    `https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
 
-   If the Template just contains `<ID>`, then Adobe Dynamic Media Classic fills in the `https://<server>/is/image`, where `<server>` is the Publish Server Name that is defined in General Settings.
+   If the Template just contains `<ID>`, then Adobe Dynamic Media Classic fills in the `https://<server>/is/image`, where `<server>` is the Publishing Server Name that is defined in General Settings.
 
    Setting the CDN Invalidate Template, select an image named Backpack_B, and then go to **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** results in the following generated URL in the CDN Invalidate interface:
 
@@ -141,7 +141,7 @@ Adobe Dynamic Media Classic does not allow two files to have the same name. Each
 
 If you previously uploaded images and then changed the original files (or replaced them), the chosen Overwrite option specifies how Adobe Dynamic Media Classic replaces the images. No information about the image changes, but the new image replaces the old one. If the folder also contains images that are not already in Adobe Dynamic Media Classic, these images are added.
 
-Use this option if images that you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe&reg; PDFs. To fine-tune how Adobe Dynamic Media Classic *rips* the image, adjust the ICC color profile options in the Upload dialog box and reupload using the Overwrite feature.
+Use this option if images that you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe&reg; PDFs. To fine-tune how Adobe Dynamic Media Classic *rips* the image, adjust the ICC color profile options in the Upload dialog box and reupload using the overwrite feature.
 
 The Adobe Dynamic Media Classic IDs that are used to access images from the production servers are derived from the image filenames. The use of uppercase and lowercase characters in the filename is important, both in the replacement of existing files and for the Adobe Dynamic Media Classic IDs used to access the image. Be sure the use of uppercase and lowercase characters in filenames is correct before uploading into Adobe Dynamic Media Classic to avoid Adobe Dynamic Media Classic IDs that differ only in case for the same image.
 
@@ -155,7 +155,7 @@ Administrators can create presets for exporting assets. Users can choose a prese
 
 To open the Image Preset screen, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 
-See [Smart imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html).
+See [Smart imaging](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/imaging-faq).
 
 ### Create and edit Image Presets {#creating-and-editing-image-presets}
 
@@ -430,7 +430,7 @@ By combining into a single player the following:
 
 You extend the reach of your rich media content to desktop, tablet, and mobile users, and ensure a streamlined video experience.
 
-See [About HTML5 Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in the Adobe Viewers Reference Guide.
+See [About HTML5 Viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in the Adobe Viewers Reference Guide.
 
 See [Adobe Dynamic Media Classic Viewer Preset compatibility matrix](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
@@ -444,7 +444,7 @@ See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en
 
 Different web pages have different needs. Sometimes you want a web page that provides a link that opens the HTML5 Viewer in a separate browser window. In other cases, it is necessary to embed the HTML5 Viewer directly on the hosting page. In the latter case, the web page likely has a static layout. Or, it is "responsive" and displays differently on different devices or for different browser window sizes. To accommodate these needs, the HTML5 Viewers that come with Adobe Dynamic Media Classic support both static web pages and responsive-designed web pages.
 
-For more information on how to embed responsive viewers onto your web pages, see [About Responsive Image library](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library.html#image-serving-api), [Use Responsive Image Library](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#image-serving-api), and [Command reference - Command attributes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#responsive-static-image-library).
+For more information on how to embed responsive viewers onto your web pages, see [About Responsive Image library](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library#image-serving-api), [Use Responsive Image Library](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#image-serving-api), and [Command reference - Command attributes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#responsive-static-image-library).
 
 ### Viewer Preset types {#viewer-preset-types}
 
@@ -480,7 +480,7 @@ See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en
 
 For information about supported web browser and operating system versions for Viewers, you can review the Viewers Release Notes.
 
-See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
+See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
@@ -607,7 +607,7 @@ See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.ht
 
    * **Edit** - Select an existing Viewer Preset, and then select **[!UICONTROL Edit]**.
 
-1. In the Configure Viewer page, in the Preset Name field, enter, or edit the preset name.
+1. In the Configuring Viewer page, in the Preset Name field, enter, or edit the preset name.
 1. Set the remaining options that you want.
 
    >[!NOTE]
@@ -726,7 +726,7 @@ Editing of the code is not permitted in the Embed Code dialog box.
 1. In the Embed Code dialog box, select **[!UICONTROL Copy to Clipboard]**.
 1. Select **[!UICONTROL Close]**.
 
-## Configure default viewers {#configuring-default-viewers}
+## Configure default viewers {#configure-default-viewers}
 
 You can use Default Viewers to configure the default viewer that is associated with an asset when you use Preview in Adobe Dynamic Media Classic. You can set up the default preview experience for the following asset types:
 
@@ -806,7 +806,7 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 
 A Media Portal Administrator or a Company Administrator can create custom, user-defined metadata fields. Custom fields can help you organize assets in Adobe Dynamic Media Classic. You can mark the fields as Active, as necessary. When activated, the names of these custom metadata fields appear in the Metadata panel in Detail View. Users can enter information in user-defined metadata fields to describe assets. Users can also make a user-defined metadata field a criterion in searches.
 
-One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an "activation" field, based on the type *Date*. Then, using the **[!UICONTROL Metadata]** panel in Detail View or **[!UICONTROL File]** > **[!UICONTROL Edit Info]**, you can specify when the asset is activated. Adobe Dynamic Media Classic checks the publish status of an asset, and the publish history. If it is not within the activation time, the publish status shows as "Not Published".
+One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an "activation" field, based on the type *Date*. Then, using the **[!UICONTROL Metadata]** panel in Detail View or **[!UICONTROL File]** > **[!UICONTROL Edit Info]**, you can specify when the asset is activated. Adobe Dynamic Media Classic checks the published status of an asset, and the publishment history. If it is not within the activation time, the publish status shows as "Not Published".
 
 >[!NOTE]
 >
@@ -908,7 +908,7 @@ Setting up a default naming convention is not required to use batch set preset f
 
 Alternately, you can use View Code with no form fields available. In this view, you create your naming convention definitions entirely using regular expressions.
 
-Two elements are available for definition, Match and Base Name. These fields let you define all elements of a naming convention and identify the part of the convention used to name the set in which they are contained. A company's individual naming convention could use one or more lines of definition for each of these elements. You can use as many lines for your unique definition and group them into distinct elements, such as for Main Image, Color element, Alternate View element, and Swatch element.
+Two elements are available for definition, Match and Base Name. These fields are all the elements that you defined for a naming convention and identify the part of the convention used to name the set in which they are contained. A company's individual naming convention could use one or more lines of definition for each of these elements. You can use as many lines for your unique definition and group them into distinct elements, such as for Main Image, Color element, Alternate View element, and Swatch element.
 
 ### Create a batch set preset {#creating-a-batch-set-preset}
 

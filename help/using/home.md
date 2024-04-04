@@ -12,9 +12,9 @@ level: Intermediate
 
 Welcome to the Adobe Dynamic Media Classic Help. Here you can access all available resources to successfully learn more about using Adobe Dynamic Media Classic (formerly known as Scene7).
 
-## New Adobe Dynamic Media Classic sign-in available June 30, 2020
+## New Adobe Dynamic Media Classic sign in available June 30, 2020
 
-On June 30, 2020, Dynamic Media classic users gained access to a new sign-in that no longer relies on Adobe Flash technology in the browser.
+On June 30, 2020, Dynamic Media classic users gained access to a new sign in that no longer relies on Adobe Flash technology in the browser.
 
 See [Frequently Asked Questions](new-ui-2020.md). New updates as of May 7, 2020.
 

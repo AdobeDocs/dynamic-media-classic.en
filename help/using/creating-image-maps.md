@@ -1,12 +1,10 @@
 ---
 title: Create Image Maps
 description: Learn how to create image maps in Adobe Dynamic Media Classic.
-uuid: 0dcc4956-006e-4a74-9d6a-6d4bb23790ce
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
@@ -15,7 +13,7 @@ level: Intermediate
 ---
 # Create Image Maps {#creating-image-maps}
 
-An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet, that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. An outline appears around an Image Map when the user moves the pointer over it.
+An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. An outline appears around an Image Map when the user moves the pointer over it.
 
 Besides the ability to create image maps in Adobe Dynamic Media Classic, you can also create image maps when you design a catalog in Adobe Acrobat or Adobe InDesign.
 
@@ -97,7 +95,7 @@ Rather than enter Image Map data on each page, you can import the data for your 
 1. Go to the Image Map editor page (for images or images in SpinSets) or the Map Pages tab of the eCatalog editing screen.
 1. Select **[!UICONTROL Import Metadata]**.
 1. In the Upload Metadata dialog box, select Image or Image Map to upload the metadata from desired asset property type.
-1. In the Generate File drop-down list, select the type of file that you want to create.
+1. In the `Generate File` drop-down list, select the type of file that you want to create.
 1. (Optional) Select **[!UICONTROL Generate]** to preview the resulting data based on the type of file you want to create. Select **[!UICONTROL Close]** to return to the Upload Metadata dialog box.
 1. Browse to the file that you want to upload. In the File Name text field, specify the name of the generated file.
 1. (Optional) In the Job Name field, specify a name for the metadata upload job.
@@ -130,17 +128,17 @@ You can define a URL template (also known as an Href template) to make entering 
 
 ### About URL templates {#about-url-templates}
 
-The URL template works by substituting the contents of the URL column in the Image Map list with the double dollar signs (‘$$’) in the template:
+The URL template works by substituting the contents of the URL column in the Image Map list with the double dollar signs ('$$') in the template:
 
 ```as3
-Javascript:loadProduct(‘$$’);void(0);
+Javascript:loadProduct('$$');void(0);
 ```
 
 You place all values that do not change between Image Maps in the URL template. Add only the values that do change in the URL column in the Image Map list. For example:
 
-* URL template - `javascript:loadProduct(‘https://www.examplesitehere.com/$$’);void(0);`
+* URL template - `javascript:loadProduct('https://www.examplesitehere.com/$$');void(0);`
 * URL value - `product.htm`
-* Actual URL generated - `javascript:loadProduct(‘https://www.examplesitehere.com/product.html);void(0);`
+* Actual URL generated - `javascript:loadProduct('https://www.examplesitehere.com/product.html);void(0);`
 
 By default, the URL template includes a proprietary Adobe Dynamic Media Classic JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Adobe Dynamic Media Classic handlers:
 
@@ -194,7 +192,7 @@ For more information, see Adobe InDesign Help or Adobe Acrobat Help.
 
 ### To create Image Maps in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
 
-1. In Adobe InDesign, go to **[!UICONTROL Windows®]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]**.
+1. In Adobe InDesign, go to **[!UICONTROL Windows&reg;]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]**.
 1. In the Hyperlinks panel, select the text, frame, or graphic that you want to make into an Image Map.
 1. Select **[!UICONTROL New Hyperlink]** from the panel menu. 
 1. In the New Hyperlink dialog box, from the **[!UICONTROL Link To]** menu, choose **[!UICONTROL URL]**.

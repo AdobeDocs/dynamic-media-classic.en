@@ -1,6 +1,6 @@
 ---
 title: Upload a raster image asset
-description: Learn how to upload a raster image asset into Adobe Dynamic Media Classic
+description: Learn how to upload a raster image asset into Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -114,7 +114,7 @@ https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-99
 
 The `file_limit` parameter specifies the file-size limit in bytes. The `file_exts` parameter specifies the filename extensions that are allowed for upload. Both of these values are optional.
 
-A global limit is set in the application for the file size limit and the filename extensions allowed. If what you send in the request is a subset of the global limits, it is honored. The global limits are the following:
+A global limit is set in the application for the file size limit and the filename extensions allowed. If what you sent in the request is a subset of the global limits, it is honored. The global limits are the following:
 
 | Global limit | Value |
 | --- | --- |
@@ -132,9 +132,9 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 See Knockout Background in [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
-You can view the HTML source code associated with the form above by select [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
+You can view the HTML source code associated with the form above by selecting [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
-In Firefox, right-click in the browser window, and then select **[!UICONTROL View Page Source]**. The code shows the corresponding URL query string and the POST method that are run when the user selects **[!UICONTROL Submit]**.
+In Firefox, right-click in the browser window, and then select **[!UICONTROL View Page Source]**. The code shows the corresponding URL query string and the POST method that is run when the user selects **[!UICONTROL Submit]**.
 
 To view the XML response in Internet Explorer, go to **[!UICONTROL View]** > **[!UICONTROL Source]**. To view the XML response in Firefox, go to **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox is recommended for viewing XML responses.
 
@@ -231,7 +231,7 @@ You can use the following fields in the URL query string to request information 
 | URL Parameter | Required or optional | Value |
 | --- | --- | --- |
 | `op` |Required | image_info |
-| `shared_secret` | Required | The shared-secret key for the company. |
+| `shared_secret` | Required | The key that is shared-secret for the company. |
 | `image_name` | Required | Name of the image. |
 
 **Sample URL:**

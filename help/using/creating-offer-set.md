@@ -130,14 +130,14 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
     >[!NOTE]
     >
-    >You cannot delete an offer set that is associated with a campaign. To delete an offer set associated with a campaign, sign in to Adobe Target Standard/Premium and remove the campaign associations first. Even after unassociating from a campaign, the asset can only be deleted from Adobe Dynamic Media Classic, requiring a sign-in to Adobe Target Standard/Premium, and not from within Adobe Target Standard/Premium.
+    >You cannot delete an offer set that is associated with a campaign. To delete an offer set associated with a campaign, sign in to Adobe Target Standard/Premium and remove the campaign associations first. Even after unassociating from a campaign, the asset can only be deleted from Adobe Dynamic Media Classic, requiring a sign in to Adobe Target Standard/Premium, and not from within Adobe Target Standard/Premium.
 
 1. When you finish editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete an offer set {#deleting-an-offer-set}
 
-When you delete an Offer Set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete an Offer Set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 

@@ -1,12 +1,10 @@
 ---
 title: Add and manage Media Portal users
 description: Learn how to add and manage Media Portal users in Adobe Dynamic Media Classic.
-uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
-discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
@@ -37,7 +35,7 @@ Media Portal users, contributors, and contributor-users are sent a Welcome e-mai
 
 1. Navigate to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. On the User Administration page, select **Add**.
-1. In the Add User dialog box, in the User Info panel, enter the First Name, Last Name, and Email address of the user, and then select **[!UICONTROL Next]**.
+1. In the **[!UICONTROL `Add User`]** dialog box, in the User Info panel, enter the First Name, Last Name, and Email address of the user, and then select **[!UICONTROL Next]**.
 1. In the Company/Role panel, in the Companies drop-down list, select a company or companies for the user.
 1. In the Role list, select a Media Portal role, and then select **[!UICONTROL Next]**.
 
@@ -61,7 +59,7 @@ If you have numerous users to add, you can upload a user list. The users are add
 
 Create the user list as a CSV (comma-separated values) file containing the user information. After the list is uploaded, the users in the list are automatically added to the account with their specified group assignments. A Welcome e-mail is sent to each new user, including a link to Media Portal and a temporary password.
 
-### Create the CSV file {#creating-the-csv-file}
+### Create the CSV file {#create-the-csv-file}
 
 Create a CSV file (filename.csv) that conforms to the following format and fields. The first row of the file must contain the column headings listed in this table; you can order these columns as desired. All columns are required.
 
@@ -87,11 +85,11 @@ The following sample spreadsheet demonstrates how to lay out a CSV file:
 1. Select **[!UICONTROL Upload User List]**.
 1. In the Select File to Upload dialog box, select the CSV file, and then select **[!UICONTROL Open]**.
 
-Each user in the list is automatically added to the groups specified. A Welcome e-mail message is sent to each.
+Each user in the list is automatically added to the specified groups. A Welcome e-mail message is sent to each.
 
 >[!NOTE]
 >
->If the CSV file was not formatted correctly, the following error message appears: “An error occurred while processing the uploaded CSV file. Check the file contents for valid data.” In addition, if the CSV contains an existing IP or IPS user, the user is not added to the User List.
+>If the CSV file was not formatted correctly, the following error message appears: "An error occurred while processing the uploaded CSV file. Check the file contents for valid data." In addition, if the CSV contains an existing IP or IPS user, the user is not added to the User List.
 
 ## Generate a selectable list of Media Portal users {#generating-a-selectable-list-of-media-portal-users}
 
@@ -109,7 +107,7 @@ You can send a Welcome e-mail when you add new Media Portal users, contributors,
 1. In the User Administration Setup screen, select **[!UICONTROL Email Settings]**.
 1. In the Email Settings dialog box, specify any of the following settings:
 
-   * **[!UICONTROL Send Email]** - Deselect this option if you do not want to inform new users by e-mail that you have signed them up.
+   * **[!UICONTROL Send Email]** - Deselect this option to inform new users by e-mail that you have signed them up.
 
    * **[!UICONTROL Default Password]** - Enter a temporary password for new users, or leave the field empty to have Adobe Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they sign in.
 

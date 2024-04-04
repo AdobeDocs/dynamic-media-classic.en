@@ -1,12 +1,10 @@
 ---
 title: View, add, and export metadata
 description: Learn how to view, add, and export metadata in Adobe Dynamic Media Classic.
-uuid: a5254c51-9e04-45ae-8236-3eab2925e5fc
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
 feature: Dynamic Media Classic,Asset Management,Metadata
 role: User
 exl-id: 2be50cc7-9a8b-4f7b-8ebf-18a3208654f2
@@ -49,13 +47,13 @@ See [Metadata Views](application-setup.md#metadata_views) for information about 
 
 >[!NOTE]
 >
->To edit the metadata of several assets at once, select the assets and go to **[!UICONTROL File]** > **[!UICONTROL Edit Info]**. Edits you make to metadata in the Edit Info window apply to all the assets you selected.
+>To edit the metadata of several assets at once, select the assets and go to **[!UICONTROL File]** > **[!UICONTROL Edit Info]**. Edits you made to metadata in the Edit Info window apply to all the assets you selected.
 
 ## Add or edit keywords {#add-or-edit-keywords}
 
 In addition to metadata, you can use keywords to help with searching and managing your assets.
 
-If you've added keywords to other files during this session, or if you have removed keywords from your list, they appear in the Keyword Suggestions table.
+If you added keywords to other files during this session, or if you have removed keywords from your list, they appear in the Keyword Suggestions table.
 
 1. Open the file in Detail View.
 1. Select **[!UICONTROL Keywords]**.
@@ -68,7 +66,7 @@ If you've added keywords to other files during this session, or if you have remo
 
 >[!NOTE]
 >
->You can add keywords to files as you upload them to Adobe Dynamic Media Classic. In the Upload Job Options dialog box, choose **[!UICONTROL Additional Metadata]** and enter keywords.
+>You can add keywords to files as you upload them to Adobe Dynamic Media Classic. In the Upload Job Options dialog box, choose **[!UICONTROL More Metadata]** and enter keywords.
 >See [Upload options](uploading-files.md#upload_options).
 
 ## Import metadata {#import-metadata}
@@ -93,9 +91,9 @@ You can find more information about standardized properties at [Adobe XMP Develo
 
 Keep the following in mind when identifying different metadata types to import:
 
-* User-Defined Fields are identified by their name as created in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined fields]**. Use the Generate file functionality to get a list of all defined UDFs in the correct import format.
-* XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]** editor. The technical names can be found in documentation of related XMP schema. XMP properties names do not appear in the Generate file feature.
-* Metadata Schema properties must have the related prefix before the (property-) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema editor. Metadata Schema properties names do not appear in the Generate file feature.
+* User-Defined Fields are identified by their name as created in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined fields]**. Use the `Generate file` functionality to get a list of all defined UDFs in the correct import format.
+* XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]** editor. The technical names can be found in documentation of related XMP schema. XMP propert names do not appear in the `Generate file` feature.
+* Metadata Schema properties must have the related prefix before the (property-) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema editor. Metadata Schema properties names do not appear in the `Generate file` feature.
 
 For example: The XMP property for keywords is the XMP schema "Dublin Core" with the prefix `dc` and `subject` is the technical XMP name. The prefix and technical XMP name are combined into the `dc:subject` full property name. In the XML metadata import format, `dc.subject` must be the property name. In the tab-delimited import format, it must be the column header.
 
@@ -151,7 +149,7 @@ Adobe Dynamic Media Classic offers a command for creating a template for recordi
 1. Select image assets with metadata fields that you want for your template.
 1. Go to **[!UICONTROL File]** > **[!UICONTROL Import Metadata]**.
 1. For the **[!UICONTROL Asset Properties Type]**, select **[!UICONTROL Image]**.
-1. From the **[!UICONTROL Generate File]** drop-down list, choose **[!UICONTROL Tab-delimited Template]**, **[!UICONTROL Asset's XML Metadata]**, or **[!UICONTROL XML DTD]**.
+1. From the **[!UICONTROL `Generate File`]** drop-down list, choose **[!UICONTROL Tab-delimited Template]**, **[!UICONTROL Asset's XML Metadata]**, or **[!UICONTROL XML DTD]**.
 1. Select **[!UICONTROL Generate]**.
 1. In the dialog box that appears, copy the data. Use this data to construct the template.
 
@@ -173,7 +171,7 @@ You can use the Metadata Schema Editor to perform the following actions:
 | Move Up/Move Down | The order in the schema is reflected in the UI. To change the order, select a property or choice value and move it with the buttons. Drag & drop is not currently supported.|
 | Delete | Deletes a property or choice value from the schema. It does not delete values from the XMP block or the Database. The property is no longer available for Metadata Views and is removed from the Asset Detail View. If the property was published to the Metadata Server, perform a force publish to remove the data from the public-facing Metadata Server. |
 
-The system automatically generates a custom schema for User-defined fields with the prefix `s7udf`. It is existing User-defined Fields and they are edited in their own Setup section.
+The system automatically generates a custom schema for User-defined fields with the prefix `s7udf`. The schema consists of existing User-defined Fields that are edited in their own Setup section.
 
 >[!NOTE]
 >
@@ -183,7 +181,7 @@ The Metadata Schema Editor offers a graphical way to add or edit a custom compan
 
 * **[!UICONTROL Name]** - UI-Name for the schema. Used to identify the properties in Metadata Views and Advanced Search. Similar to XMP Sections like Basic, IPTC, PDF.
 
-* **[!UICONTROL Prefix]** - Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Adobe Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and the database. The prefix is used, to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
+* **[!UICONTROL Prefix]** - Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Adobe Dynamic Media Classic UI, but used when metadata for an asset is stored in the XMP block and the database. The prefix is used to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
 
 * **[!UICONTROL Namespace]** - Technical unique identifier for the schema, typically a URL in the form `https://your.company.com/name/version/`. See the list of standard schemas for examples. The namespace is not visible in the Adobe Dynamic Media Classic UI, but is used to store metadata in the XMP block.
 
@@ -197,7 +195,7 @@ Properties describe the metadata that can be stored with this schema in the XMP 
 
 | Property | Description |
 | --- | --- |
-| ID | Technical identifier for this property. The ID is not visible in the Adobe Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and the database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
+| ID | Technical identifier for this property. The ID is not visible in the Adobe Dynamic Media Classic UI, but used when metadata for an asset is stored in the XMP block and the database. The ID is used to create search queries on the Metadata Server. The ID has some restrictions such as: `<ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul>` <br>Once created, the ID cannot be changed.|
 | Label | UI-Name for this property. |
 | Structure | Determines the type of the property together with Data Type. Structure can be one of:<ul><li>Simple Type: single value of data type</li><li>Sequence: a list of values of the same data type</li><li>Open Choice: select one item from a list of predefined values, or enter free text. Can be only of data type String or Integer</li><li>Closed Choice: select one item from a list of predefined values (a popup or combo-box)</li></ul> |
 | Data Type | Select from these available types: <ul><li>String</li><li>Integer</li><li>Float</li><li>Yes/No (Boolean)</li><li>Date</li></ul> |

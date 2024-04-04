@@ -1,12 +1,10 @@
 ---
 title: Check job files
 description: Learn how to check job files in Adobe Dynamic Media Classic.
-uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
-discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
@@ -83,7 +81,7 @@ Select the Jobs button on the Global Navigation bar and, on the Jobs page, selec
 
 >[!NOTE]
 >
->You can filter the job list on the **[!UICONTROL Scheduled]** tab with the **[!UICONTROL Job Type]** and **[!UICONTROL Show]** menus. Select a job type so you can narrow the list to publish jobs of a specific kind. Select a **[!UICONTROL Show]** option if you want to display jobs you created or jobs created by everyone in your company.
+>You can filter the job list on the **[!UICONTROL Scheduled]** tab with the **[!UICONTROL Job Type]** and **[!UICONTROL Show]** menus. Select a job type so you can narrow the list to publish jobs of a specific kind. Select a **[!UICONTROL Show]** option so you can display jobs you created or jobs created by everyone in your company.
 
 ### Edit, delete, pause, and resume recurring jobs {#editing-deleting-pausing-and-resuming-recurring-jobs}
 

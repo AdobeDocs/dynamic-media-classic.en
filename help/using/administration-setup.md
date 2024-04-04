@@ -1,11 +1,9 @@
 ---
 title: Administration setup
 description: Learn how to set up the administration area of Adobe Dynamic Media Classic.
-uuid: 16ba9fed-b5c6-4991-83b3-8d7d7129013a
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
@@ -60,11 +58,11 @@ After you add a user, Adobe Dynamic Media Classic sends the user a Welcome e-mai
 
    New users are sent a Welcome e-mail after you add them. The e-mail provides a temporary password and explains how to sign in to Adobe Dynamic Media Classic.
 
-   If the user does not receive the welcome email, have them go the Adobe Dynamic Media Classic sign-in page (https://s7sps1.scene7.com), and select **[!UICONTROL Forgot My Password]**. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
+   If the user does not receive the welcome email, have them go the Adobe Dynamic Media Classic sign in page (https://s7sps1.scene7.com), and select **[!UICONTROL Forgot My Password]**. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
 
    When adding new Media Portal users, you can also go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]**, then select **[!UICONTROL Upload User List]** and select a .csv file containing no more than 500 users.
 
-### Delete a user {#deleting-a-user}
+### Delete a user {#delet-a-user}
 
 You can delete users from Adobe Dynamic Media Classic by making them invalid. Invalid users are removed from the system and all accounts.
 
