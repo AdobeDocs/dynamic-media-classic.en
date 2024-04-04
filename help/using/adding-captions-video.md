@@ -10,7 +10,7 @@ exl-id: 66a1ab20-6036-4c3d-bb66-dd06d917c7f2
 topic: Content Management
 level: Intermediate
 ---
-# Add captions to video {#adding-captions-to-video}
+# Add captions to video {#add-captions-to-video}
 
 You can extend the reach of your videos to global markets by adding captioning to single videos or to Adaptive Video Sets. By adding captioning you avoid the need to dub the audio, or the need to use native speakers to rerecord the audio for each different language. The video is played in the language that it was recorded. Foreign language subtitles appear so that people of different languages can still understand the audio portion.
 
@@ -33,7 +33,7 @@ See also [Add and edit Viewer Presets](application-setup.md#adding_and_editing_v
 Adobe Dynamic Media Classic can convert caption files to JSON (JavaScript Object Notation) format. This conversion means you can embed the JSON text into a web page as a hidden but complete transcript of the video. Search engines can then crawl and index the content to make the videos more easily discoverable and give customers more details about the video content.
 
 See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) in the *Adobe Image Serving API Help* for more information about using the JSON function in a URL.
-#image-serving-api
+
 **To add captions to video:**
 
 1. Using a third-party application outside Adobe Dynamic Media Classic, create your video caption file based on the viewer type that you are using.
@@ -46,7 +46,7 @@ See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/do
 
    See [Upload files](uploading-files.md#uploading_files).
 
-1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file that you want to associate with the caption file that you uploaded.
+1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file to associate with the caption file that you uploaded.
 1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, select **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 1. In the Viewer List table, find the HTML5 viewer named **Univeral_HTML5_Video**, **Universal_HTML5_MixedMedia_dark**, or **Universal_HTML5_MixedMedia_light**, then do one of the following:
 
