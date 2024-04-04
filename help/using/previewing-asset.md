@@ -1,12 +1,10 @@
 ---
 title: Preview an asset
 description: Learn how to preview an asset in Adobe Dynamic Media Classic.
-uuid: 4a01be21-e37f-4d79-9220-f4e177e9179a
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 17d0bfd6-fc62-4ed6-8a51-7ac1a6bb96cc
 feature: Dynamic Media Classic,Asset Management,Viewers
 role: User
 exl-id: 7e6f652c-b197-4171-b11b-f532795f7cf2
@@ -25,7 +23,7 @@ See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en
 
 **To preview an asset:**
 
-1. In the Asset Library panel on the left side, navigate to the Asset folders that contains the asset you want to preview.
+1. In the Asset Library panel on the left side, navigate to the Asset folder that contains the asset you want to preview.
 1. Do any one of the following:
 
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Grid View]**.
@@ -41,13 +39,13 @@ See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en
 
 You can use Viewer List to preview how an asset appears on particular viewer platform type such as HTML5. Depending on the asset type and the associated viewer that you have selected to preview, not all platforms are available in Viewer List.
 
-You can also use Viewer List to copy a viewer’s URL or view and copy the viewer code for embedding in your web pages.
+You can also use Viewer List to copy a viewer's URL or view and copy the viewer code for embedding in your web pages.
 
 For a given viewer platform, the Viewer List window lets you visually see what devices, such as tablets and Smartphones, that a viewer is available for use.
 
 **To preview an asset based on viewer platform type:**
 
-1. In the Asset Library panel on the left side, navigate to the Asset folders that contains the asset you want to preview.
+1. In the Asset Library panel on the left side, navigate to the Asset folder that contains the asset you want to preview.
 1. Do any one of the following:
 
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Grid View]**. In the Asset window, select a single asset, and then below the thumbnail image, go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
@@ -59,7 +57,7 @@ For a given viewer platform, the Viewer List window lets you visually see what d
 
    Close the displayed preview.
 
-1. (Optional) In the Viewer List window, in the URL Encoding for Copy URL Generation drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
+1. (Optional) In the Viewer List window, in the URL Encoding for Copy URL Generation drop-down list at the bottom, select the URL encoding to apply to the asset's URL when it is copied.
 1. (Optional) Do any of the following:
 
     * In the Viewer List window, under the Actions column of the table, select **[!UICONTROL Copy URL]** for a selected viewer and platform type.
@@ -78,7 +76,7 @@ For a given viewer platform, the Viewer List window lets you visually see what d
 
 You can preview an image asset based on its Image Preset to find out what your image looks like when it is delivered dynamically to your web site or application at different sizes.
 
-An Image Preset is a collection of pre-defined settings that change the size, image quality, format, resolution, and other aspects of an image’s appearance when it is exported.
+An Image Preset is a collection of pre-defined settings that change the size, image quality, format, resolution, and other aspects of an image's appearance when it is exported.
 
 See [Set up Image Presets](setting-image-presets.md#setting_up_image_presets).
 
@@ -86,7 +84,7 @@ See [Create and enable Image Presets](creating-enabling-image-presets.md#creatin
 
 **To preview an image asset based on its Image Preset:**
 
-1. In the Asset Library panel on the left side, navigate to the Asset folders that contains the image asset you want to preview.
+1. In the Asset Library panel on the left side, navigate to the Asset folder that contains the image asset you want to preview.
 1. Do any one of the following:
 
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Grid View]**. In the Asset window, select a single image asset, and then below the thumbnail image, go to **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
@@ -94,7 +92,7 @@ See [Create and enable Image Presets](creating-enabling-image-presets.md#creatin
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Detail View]**. On the same toolbar, go to **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
 
 1. In the Image Preset List window, in the table, select the name of a preset type whose image asset you want to preview inline in the right pane.
-1. (Optional) In the Image Preset List window, in the **[!UICONTROL URL Encoding for Copy URL Generation]** drop-down list at the bottom, select the URL encoding to apply to the image asset’s URL when it is copied.
+1. (Optional) In the Image Preset List window, in the **[!UICONTROL URL Encoding for Copy URL Generation]** drop-down list at the bottom, select the URL encoding to apply to the image asset's URL when it is copied.
 1. (Optional) In the Image Preset List window, in the upper-right area of the preview pane, select **[!UICONTROL Copy URL]** for the selected preset type.
 
    When you select **[!UICONTROL Copy URL]**, its associated URL is automatically copied to the clipboard.

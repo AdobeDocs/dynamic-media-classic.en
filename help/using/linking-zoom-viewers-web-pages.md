@@ -41,7 +41,7 @@ Your web sites and applications access Dynamic Media Image Server content, inclu
 
 Typically, visitors zoom images on a website by first selecting a Zoom icon (often the icon shows the image of a magnifying glass). Selecting this icon launches a dynamic web page (ASP or JSP) that displays the image in a pop-up window. The pop-up window is where visitors actually zoom the image.
 
-For more details and code samples, see [Embed HTML5 Basic Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
+For more details and code samples, see [Embed HTML5 Basic Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copy the embed copy of a Zoom viewer {#copying-the-embed-copy-of-a-zoom-viewer}
 

@@ -1,6 +1,6 @@
 ---
 title: Publish files
-description: "Learn how to publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Adobe Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Adobe Dynamic Media Classic and add them to your website or application."
+description: Learn how to publish your assets to Dynamic Media Image Servers.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -15,7 +15,7 @@ level: Intermediate
 
 You publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Adobe Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Adobe Dynamic Media Classic and add them to your website or application.
 
-Adobe Dynamic Media Classic now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Adobe Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/http2.html).
+Adobe Dynamic Media Classic now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Adobe Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/http2).
 
 ## Publish After Uploading {#publish-after-uploading}
 
@@ -23,13 +23,13 @@ Assets either in a published or unpublished state. By default, any assets that y
 
 For more information, see the [Instant Publish Notice PDF](/help/using/assets/rendering-instant-publish-notification.pdf).
 
-Use these techniques to mark assets for publish:
+Use these techniques to mark assets for publishment:
 
 * **[!UICONTROL Publish After Uploading]** - On the Upload page, near the bottom, select **[!UICONTROL Publish After Uploading]**. The default is a selected state.
 
 * **[!UICONTROL Publish After Uploading]** - In the Job Options dialog box, select **[!UICONTROL Publish After Uploading]**. The default is a selected state.
 
-Some "child" assets are automatically marked for publish when their parents are marked for publish. This table lists child assets that are marked for publish automatically.
+Some "child" assets are automatically marked for publish when their parents are marked for publish. This table lists child assets that are marked for publishment automatically.
 
 | Parent (group) item | Child (member) items |
 | --- | --- |
@@ -38,18 +38,18 @@ Some "child" assets are automatically marked for publish when their parents are 
 | Spin Sets | Images within the set. |
 | Templates | Template files, pages, and images. |
 
-Derived images are also automatically marked for publish when their parent images are being published. Derived images include images you adjusted with image-editing options. You can see these derived images in Detail View under Built & Derivatives.
+Derived images are also automatically marked for publishment when their parent images are being published. Derived images include images you adjusted with image-editing options. You can see these derived images in Detail View under Built & Derivatives.
 
 ## Create a publish job {#creating-a-publish-job}
 
-Create a publish job to publish assets you have uploaded to Adobe Dynamic Media Classic servers but do not want to automatically publish them yet. You can perform a one-time publish job or schedule jobs to recur regularly. Adobe Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
+Create a publish job to publish assets you have uploaded to Adobe Dynamic Media Classic servers but do not want to automatically publish them yet. You can perform a one-time publishing job or schedule jobs to recur regularly. Adobe Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
 
-**To create a publish job:**
+**To create a publishment job:**
 
 1. On the Global Navigation bar, select **[!UICONTROL Publish]**.
-1. In the Publish dialog box, choose whether you want a one-time or recurring publish job.
+1. In the Publishing dialog box, choose whether you want a one-time or recurring publishment job.
 
-   See [Create a one-time publish job](publishing-files.md#creating_a_one_time_publish_job) and [Create a recurring publish job](publishing-files.md#creating_a_recurring_publish_job).
+   See [Create a one-time publishment job](publishing-files.md#creating_a_one_time_publish_job) and [Create a recurring publishment job](publishing-files.md#creating_a_recurring_publish_job).
 
 1. Enter a job name.
 1. Optionally, display the Advanced options and choose these options.
@@ -62,19 +62,19 @@ Adobe Dynamic Media Classic tracks publish jobs on the Jobs page. You can review
 
 >[!NOTE]
 >
->Assets you republish (you have published them before) do not appear immediately on your website because of the web-caching mechanism on the content delivery network (CDN). See [Republished assets and CDN delays](publishing-files.md#republished_assets_and_cdn_delays).
+>Assets you republished (you have published them before) do not appear immediately on your website because of the web-caching mechanism on the content delivery network (CDN). See [Republished assets and CDN delays](publishing-files.md#republished_assets_and_cdn_delays).
 
 ### Create a one-time publish job {#creating-a-one-time-publish-job}
 
-Create a one-time publish job by selecting the **[!UICONTROL One-Time]** option on the Publish page.
+Create a one-time publishment job by selecting the **[!UICONTROL One-Time]** option on the Publishing page.
 
-If you want the publish job to occur later, in the Publish page, select **[!UICONTROL One-Time]**, then select **[!UICONTROL Schedule For Later]** from the drop-down list. Use the Calendar and the Time slider to select a day and time to run the publish job.
+If you want the publishing job to occur later, in the Publishing page, select **[!UICONTROL One-Time]**. From the drop-down list, select **[!UICONTROL Schedule For Later]**. Use the Calendar and the Time slider to select a day and time to run the publish job.
 
-### Create a recurring publish job {#creating-a-recurring-publish-job}
+### Create a recurring publishment job {#creating-a-recurring-publish-job}
 
-Create a recurring publish job by selecting **[!UICONTROL Recurring]** on the Publish page.
+Create a recurring publishment job by selecting **[!UICONTROL Recurring]** on the Publishing page.
 
-Then choose a Repeat option of **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]**, or **[!UICONTROL Custom]**, then specify when you want the publishing job to recur. Adobe Dynamic Media Classic presents calendar tools for scheduling the recurring publish job. You can select **[!UICONTROL Custom]** option and enter a rule in the Rule text field to describe a custom job interval.
+Then choose a Repeat option of **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]**, or **[!UICONTROL Custom]**, then specify when you want the publishing job to recur. Adobe Dynamic Media Classic presents calendar tools for scheduling the recurring publishment job. You can select **[!UICONTROL Custom]** option and enter a rule in the Rule text field to describe a custom job interval.
 
 See [Create a custom upload or publish job time interval](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
@@ -84,27 +84,27 @@ See [Create a custom upload or publish job time interval](checking-job-files.md#
 
 ### Advanced publish options {#advanced-publish-options}
 
-You can display the Advanced options on the Publish page and choose these options for handling a publish job:
+You can display the Advanced options on the Publishing page and choose these options for handling a publishment job:
 
 * **[!UICONTROL Publish To]** - To publish assets only to a specific server, choose a server type.
 
 * **[!UICONTROL Publish]** - By default, Adobe Dynamic Media Classic publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can select **[!UICONTROL Full Publish]** to also publish assets that have been updated or changed since they were last published. Select **[!UICONTROL Full w/ Search Data]** if you are publishing an eCatalog and you want readers to be able to search it by keyword.
 
-* **[!UICONTROL Run Job As]** - Choose a user name from the list. You can sort jobs by user name on the Jobs page. By choosing a name, you associate a publish job with a user.
+* **[!UICONTROL Run Job As]** - Choose a user name from the list. You can sort jobs by user name on the Jobs page. By choosing a name, you associate a publishment job with a user.
 
 **[!UICONTROL HTTP Notification]** - Enter a URL to trigger subsequent publish jobs.
 
 See [Use an upload or publish job as a trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger).)
 
-## Cancel a publish job {#canceling-a-publish-job}
+## Cancel a publishment job {#canceling-a-publish-job}
 
-You can cancel a publish job that is in progress. Moreover, if you are an administrator, you can cancel an in-progress publishing job from the company Jobs page.
+You can cancel a publishing job that is in progress. Moreover, if you are an administrator, you can cancel an in-progress publishing job from the company Jobs page.
 
 To cancel a publishing job, go to the Jobs page and select **[!UICONTROL Cancel]**. On the Scheduled tab of the Jobs page, you can pause or resume a job by deselecting or selecting the check box in the job's Active column.
 
 >[!NOTE]
 >
->After you cancel a publish job, its status changes to "stopping" until the job reaches a point where it can stop safely. Stopping a publish job can take some time if the job is in the process of getting data from the database.
+>After you cancel a publish job, its status changes to "stopping" until the job reaches a point where it can stop safely. Stopping a publishment job can take some time if the job is in the process of getting data from the database.
 
 ## Manually publish assets {#manually-publishing-assets}
 

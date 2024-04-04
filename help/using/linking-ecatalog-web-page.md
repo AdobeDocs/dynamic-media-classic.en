@@ -1,12 +1,10 @@
 ---
 title: Link an eCatalog to a web page
 description: Learn how to link an eCatalog to a web page in Adobe Dynamic Media Classic.
-uuid: 90098a90-180b-477a-8533-24a52a93200b
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
@@ -44,7 +42,7 @@ Your web sites and applications access Dynamic Media Image Server content, inclu
 
 The most common way to deploy an eCatalog is to place a link in the form of an eCatalog thumbnail cover page on your web page. Work with your IT team to make sure that the eCatalog launches in a clean, centered pop-up window. Ask your IT team to keep the toolbar and address bar in the browser from showing.
 
-For more details and code samples, see [Embed HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
+For more details and code samples, see [Embed HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copy the embed code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
 

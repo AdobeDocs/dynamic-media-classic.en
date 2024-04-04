@@ -42,7 +42,7 @@ After you publish a Swatch Set, you can use its associated URL or embed code in 
 
 The most common way to deploy Swatch Sets is to place a link (by way of a navigation icon) on your web page. When selected, the link launches a dynamic page (ASP or JSP) that displays the Swatch Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
 
-For more details and code samples, see [Embedding HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
+For more details and code samples, see [Embedding HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copy the embed code of a Swatch Set viewer {#copying-the-embed-code-of-a-swatch-set-viewer}
 

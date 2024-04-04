@@ -117,15 +117,15 @@ Whether a suffix value or a replacement value is applied depends on the Global L
 
 **Suffix example:**
 
-| URL | localeMap IDs | Result |
-| --- | --- | --- |
-| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,|fr_FR,_FR,` | Notice that there is no GlobalLocale defined. The locale parameter de_DE is matched against the first entry in the `localeMap`. The first corresponding value _DE is added as a suffix to the asset image_DE and an attempt is made to find it on the Image Server. If it is found on the server, it is returned. Otherwise, the second value "" is used as a suffix, resulting in the image itself being returned. |
+| URL | localeMap IDs | Result | Notes |
+| --- | --- | --- | --- |
+| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,`| `fr_FR,_FR,` | Notice that there is no GlobalLocale defined. The locale parameter de_DE is matched against the first entry in the `localeMap`. The first corresponding value _DE is added as a suffix to the asset image_DE and an attempt is made to find it on the Image Server. If found on the server, it is returned. Otherwise, the second value "" is used as a suffix, resulting in the image itself being returned. |
 
 **Replacement example:**
 
-|URL|`GlobalLocale` and `localeMap` IDs|Result|
-|--- |--- |--- |
-|`https://server/is/image/company/image-main-01?locale=de_DE` | `GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main|fr_FR,fr,main` | In the replacement example above, GlobalLocale is set to main. The locale parameter de_DE is matched against the first entry in the `localeMap`. The GlobalLocale substring is found and replaced with the first corresponding value `de` in the `localeMap`: `image-de-01`. If it is found on the Image Server, it is returned. If not, the second value is replaced, resulting in `image-main-01`. |
+|URL|`GlobalLocale` and `localeMap` IDs | Result | Notes |
+| --- | --- | --- | --- |
+|`https://server/is/image/company/image-main-01?locale=de_DE` | `GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main`|`fr_FR,fr,main` | In the replacement example above, GlobalLocale is set to main. The locale parameter de_DE is matched against the first entry in the `localeMap`. The GlobalLocale substring is found and replaced with the first corresponding value `de` in the `localeMap`: `image-de-01`. If found on the Image Server, it is returned. If not, the second value is replaced, resulting in `image-main-01`. |
 
 If no locale is defined in the URL, the Image Server takes the DefaultLocale, if it is defined, and applies it to the URL.
 

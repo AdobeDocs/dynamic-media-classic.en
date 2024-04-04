@@ -1,12 +1,10 @@
 ---
 title: Create an offer set
 description: Learn how to create an offer set in Adobe Dynamic Media Classic.
-uuid: 6d6a4af9-70c0-4cfa-9a8f-855d6adfcc8f
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
-discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 05f2cce0-72bf-4933-87ab-c9003c848e35
@@ -21,7 +19,7 @@ You can create any of the following types of offer sets:
 * Parameterized template
 * Image
 
-For templates, select **[!UICONTROL Add and Preview]**, then set the parameters you choose. The other offer set types do not include parameters, but you can still customize them by selecting **[!UICONTROL Preview]** and changing the available presets.
+For templates, select **[!UICONTROL Add and Preview]**, then set the parameters you choose. Other offer set types do not include parameters, but you can still customize them by selecting **[!UICONTROL Preview]** and changing the available presets.
 
 Adobe Dynamic Media Classic offers tools for editing as well as creating offer sets.
 
@@ -135,9 +133,9 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. When you finish editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
-## Delete an offer set {#deleting-an-offer-set}
+## Delete an offer set {#delet-an-offer-set}
 
-When you delete an Offer Set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete an Offer Set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 

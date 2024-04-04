@@ -13,13 +13,13 @@ level: Intermediate
 ---
 <!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
 
-# Sign in to Adobe Dynamic Media Classic {#dmc-sign-in}
+# Sign in to Adobe Dynamic Media Classic {#dmc-signin}
 
 Make sure that you have the following before using the Adobe Dynamic Media Classic desktop application:
 
 * **User name** - You use your e-mail address as your login name.
 
-* **Password** - You obtain your temporary password in a “Welcome” e-mail from Adobe Dynamic Media Classic or from your Adobe Dynamic Media Classic administrator. The first time you sign in, you are prompted to change this temporary password.
+* **Password** - You obtain your temporary password in a "Welcome" e-mail from Adobe Dynamic Media Classic or from your Adobe Dynamic Media Classic administrator. The first time you sign in, you are prompted to change this temporary password.
 
 1. Open Adobe Dynamic Media Classic desktop application.
 

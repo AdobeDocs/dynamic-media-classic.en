@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic Desktop app
-description: Adobe Dynamic Media Classic users can now experience a complete refresh of the user interface. The experience delivers an updated sign-in with links to valuable resources, plus this update no longer relies on Adobe Flash technology in the browser.
+description: Adobe Dynamic Media Classic users can now experience a complete refresh of the user interface.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -33,7 +33,7 @@ See [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-
 <!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
 
 +++**_How does the new desktop app work?_**
-After you download, install, and launch the desktop app, you are presented with a refreshed sign-in. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the familiar web browser version that you are used to. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
+After downloading, installing, and launching the desktop app, you are presented with a refreshed sign-in. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the familiar web browser version that you are used to. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
 
 >[!IMPORTANT]
 >
@@ -88,9 +88,9 @@ Contact Adobe Support with any issues that you have while using the app.
 +++**_I want to make sure I'm optimizing my rich media strategy. How can I learn even more about Adobe Dynamic Media Classic?_** 
 Adobe Dynamic Media Classic is a powerful, feature-rich solution designed to enhance your rich media strategies. To ensure you take advantage of all the capabilities, be sure you explore these practical resources:
 
-* [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
+* [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
 * [Adobe Blog Posts](https://blog.adobe.com/)<!-- (https://blog.adobe.com/tag/dynamic-media/) -->
-* [Adobe Dynamic Media Newsletter Archives](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/dynamic-media-newsletter.html)
+* [Adobe Dynamic Media Newsletter Archives](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/dynamic-media-newsletter)
 +++
 
 <!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html), and the complementary audit program. -->

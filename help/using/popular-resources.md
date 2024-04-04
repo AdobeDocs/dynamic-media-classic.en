@@ -12,14 +12,14 @@ level: Intermediate
 
 ## Adobe Dynamic Media Classic Technical Documentation
 
-* [Release Notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html)
+* [Release Notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
 * [User Guide](introduction.md)
 
 ## Adobe Dynamic Media Classic Developer Resources
 
-* [Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html)
+* [Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources)
 * [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
-* [Image Serving and Image Rendering API](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html)
+* [Image Serving and Image Rendering API](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources)
 
 ## Adobe Dynamic Media Classic Newsletters, Tutorials, and Webinars
 
@@ -36,6 +36,6 @@ level: Intermediate
 ## Adobe Dynamic Media Classic Training
 
 Go [here](https://training.adobe.com/training/courses.html#product=adobe-scene7) to see the training courses that are currently available.
-[Adobe Dynamic Media Classic training videos](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/intro/training-videos.html#intro).
+[Adobe Dynamic Media Classic training videos](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/intro/training-videos#intro).
 
 See all the popular resources available for [Adobe Dynamic Media Classic](home.md).

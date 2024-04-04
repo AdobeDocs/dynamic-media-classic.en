@@ -15,17 +15,17 @@ level: Experienced
 
 Using Adobe Analytics heartbeat-based video reporting, you no longer must enable the four video viewer events (Play, Pause, Stop, Milestone) when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and Mixed Media viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports.
 
-* For an introduction to streaming media and 'heartbeat measurement', see [About Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html).
+* For an introduction to streaming media and 'heartbeat measurement', see [About Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
 
 * The integration of Adobe Analytics video reports with Adobe Dynamic Media Classic supports solution variables, but not custom variables.
 
-  See [Audio and Video parameters](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/variables/audio-video-parameters.html) for more information about solution variables and custom variables.
+  See [Audio and Video parameters](https://experienceleague.adobe.com/en/docs/media-analytics/using/implementation/variables/audio-video-parameters) for more information about solution variables and custom variables.
 
 * Out-of-the-box segments of one-minute increments are supported. However, custom segment reporting, such as customer-defined milestones based on time increments, % milestones, or offset milestones, is not supported.
 
-  For more information about streaming media requirements and setup, see [Measure Steaming Media in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html).
+  For more information about streaming media requirements and setup, see [Measure Steaming Media in Adobe Analytics](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
 
-* For information about custom and solution variables, see [Media reports enablement](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-reports-enable.html?lang=en#media-reports).
+* For information about custom and solution variables, see [Media reports enablement](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-reports/media-reports-enable#media-reports).
 
 >[!NOTE]
 >

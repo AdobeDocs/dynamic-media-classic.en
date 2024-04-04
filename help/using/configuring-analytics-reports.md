@@ -1,12 +1,10 @@
 ---
 title: Configure Adobe Analytics reports
 description: Learn how to configure Adobe Analytics reports in Adobe Dynamic Media Classic.
-uuid: bf210f68-dcb0-4e86-be04-0a8b2117ef2a
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
-discoiquuid: f4c8c2b3-cc95-416f-9a5d-da81c231dfc2
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: d9fda3b8-7da8-4a30-a5f8-9bb34ec1b43d
@@ -29,7 +27,7 @@ See [Publish configuration information](publishing-analytics-configuration-infor
 
 ## Assign Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables {#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables}
 
-Use the Adobe Analytics Configuration screen to associate viewer events with Adobe Analytics variables and Adobe Dynamic Media Classic variables. For each viewer event, choose one Adobe Analytics variable and one Adobe Dynamic Media Classic variable. For instructions about opening the Adobe Analytics Configuration screen, see [Log on to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
+Use the Adobe Analytics Configuration screen to associate viewer events with Adobe Analytics variables and Adobe Dynamic Media Classic variables. For each viewer event, choose one Adobe Analytics variable and one Adobe Dynamic Media Classic variable. For instructions about opening the Adobe Analytics Configuration screen, see [Logon to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
 **To assign Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables:**
 
