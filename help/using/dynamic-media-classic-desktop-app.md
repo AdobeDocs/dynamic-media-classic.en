@@ -40,7 +40,7 @@ Upgrade notification within the Adobe Dynamic Media Classic desktop application 
 
 ## Fixes in the latest release (20.22.1) {#release-jan2022}
 
-* Image editing **[!UICONTROL Save]** buttons were non-functional.
+* When editing an image, the **[!UICONTROL Save]** buttons were non-functional.
 * In the Set editors, the **[!UICONTROL Close]**, **[!UICONTROL Save]**, and **[!UICONTROL Save As]** buttons become disabled after scrolling assets in the **[!UICONTROL Add Assets]** panel.
 * **[!UICONTROL Play]** button in Video Detail view did not work.
 * Could not enter `d` and `e` in **[!UICONTROL Username]** and **[!UICONTROL Password]** fields when running macOS Monterey.
@@ -227,7 +227,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 ## Video walk-through on using Adobe Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
-Watch a [video walk-through on using Adobe Dynamic Media Classic Desktop App](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html#dynamic-media) (Length: 2 minutes 36 seconds).
+Watch a [video walk-through on using Adobe Dynamic Media Classic Desktop App](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application#dynamic-media) (Length: 2 minutes 36 seconds).
 
 ## Clearing the image cache and asset cache on your computer using the desktop app {#clear-cache}
 
@@ -246,7 +246,7 @@ Besides clearing the image and asset cache using the desktop app, you can manual
     * macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
     * Windows&reg;: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
 
-## Known limitation in Adobe Dynamic Media Classic 20.21.1
+## Known limitations in Adobe Dynamic Media Classic 20.21.1
 
 * The **[!UICONTROL Server]** drop-down list is empty after updating to Adobe Dynamic Media Classic desktop app 20.21.1 - Scenario: You install and sign in to Adobe Dynamic Media Classic 20.20.1 or 20.20.2, then close the application. Then you update to Adobe Dynamic Media Classic 20.21.1. When you attempt to sign in, the **[!UICONTROL Server]** drop-down list in the **[!UICONTROL Sign in to your account]** dialog box is empty. To work around this issue, you must [manually clear the cache](#clear-cache) (see steps above).
 

@@ -16,8 +16,8 @@ index: y
   + [Feature list comparison](upgrade-feature-comparison.md)
   + [Upgrade readiness check list](upgrade-readiness.md)
 + [Adobe Dynamic Media Classic Guide](home.md)
-+ [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NEW Adobe Dynamic Media Classic sign in now available](new-ui-2020.md)
++ [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
++ [NEW Adobe Dynamic Media Classic log on now available](new-ui-2020.md)
 + [Adobe Dynamic Media newsletter archive by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
   + [Adobe Dynamic Media Classic Desktop app - Now available](dynamic-media-classic-desktop-app.md)
@@ -176,7 +176,7 @@ index: y
   + [Work with PDFs](pdfs.md)
   + [Work with PSD files](psd-files.md)
   + [Work with PostScript and Illustrator files](postscript-illustrator-files.md)
-  + [Work with vignette, window covering, and cabinet files](vignette-window-covering-cabinet-files.md)
+  + [Work with vignettes, window coverings, and cabinet files](vignette-window-covering-cabinet-files.md)
 + Support files {#support-files}
   + [Fonts](fonts.md)
   + [XML files](xml-files.md)
