@@ -1,12 +1,10 @@
 ---
 title: "Quick Start: Swatch Sets"
 description: An introduction and Quick Start to Swatch Set to help you get up and running quickly in Adobe Dynamic Media Classic.
-uuid: 6f8a95e8-e82a-477f-9f21-d2b7b511f8ae
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
-discoiquuid: 1ea70fdf-3cbd-409c-ae7d-06286c99c6ac
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
@@ -45,7 +43,7 @@ See [Preview an asset](previewing-asset.md#previewing-an-asset).
 
 Publishing a Swatch Set places it on Adobe Dynamic Media Classic servers and activates the URL string.
 
-Select the **[!UICONTROL Mark For Publish]** icon to the left of its name in the Browse Panel. Then, select **[!UICONTROL Publish]**. On the Publish page, select **[!UICONTROL Submit Publish]**.
+Select the **[!UICONTROL Mark For Publish]** icon to the left of its name in the Browse Panel. Then select **[!UICONTROL Publish]**. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish files](publishing-files.md#publishing-files).
 

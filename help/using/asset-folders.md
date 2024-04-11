@@ -1,12 +1,10 @@
 ---
 title: Work with asset folders
 description: Learn how to work with asset folders in Adobe Dynamic Media Classic.
-uuid: 3bd83701-e2c2-4e39-b225-c2d27ad836c2
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 588944c3-78ba-4bd1-a8da-9a6dd99a27a9
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
@@ -15,9 +13,9 @@ level: Intermediate
 ---
 # Work with asset folders{#working-with-asset-folders}
 
-File assets in the Adobe Dynamic Media Classic are kept in folders. These folders are listed in alphabetical order in the Asset Library Panel. Before you upload files from your computer or network to Adobe Dynamic Media Classic, you are asked to name a folder for storing the files. Create these folders before uploading any files.
+File assets in the Adobe Dynamic Media Classic are kept in folders. These folders are listed in alphabetical order in the Asset Library Panel. Before uploading files from your computer or network to Adobe Dynamic Media Classic, you are asked to name a folder for storing the files. Create these folders before uploading any files.
 
-Be sure to establish a folder structure and organization for storing your files on Adobe Dynamic Media Classic before you upload files.
+Be sure to establish a folder structure and organization for storing your files on Adobe Dynamic Media Classic before uploading files.
 
 ## Display, move, hide, and open folders {#displaying-moving-hiding-and-opening-folders}
 
@@ -35,10 +33,10 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 >
 >You can hide or display the Asset Library by selecting **[!UICONTROL Expand]** or **[!UICONTROL Collapse]** control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse Panel.
 
-## Create folders {#creating-folders}
+## Create folders
 
 1. In the Asset Library, select the folder you want to create a folder in.
-1. Select the **[!UICONTROL Add Folder]** button. This icon is at the top of the folder list.
+1. Select the **[!UICONTROL `Add Folder`]** button. This icon is at the top of the folder list.
 1. Enter a descriptive name for your new folder or subfolder by typing it into the field next to the folder icon.
 
    >[!NOTE]
@@ -49,7 +47,7 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 Select a folder and use these techniques to delete or rename it:
 
-* **Delete** - Select the **[!UICONTROL Remove Folder]** button. Assets in a deleted folder are placed in the Trash folder. You can recover them from there.
+* **Delete** - Select the **[!UICONTROL `Remove Folder`]** button. Assets in a deleted folder are placed in the Trash folder. You can recover them from there.
 
 * **Rename** - Double-click the name and enter a new name.
 

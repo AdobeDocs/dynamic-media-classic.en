@@ -1,11 +1,9 @@
 ---
 title: Delete an uploaded raster image asset
 description: Learn how to delete an uploaded asset in Adobe Dynamic Media Classic.
-uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 feature: Dynamic Media Classic
 role: User
 exl-id: d845bcb2-f914-4727-8df2-049dc172f266
@@ -43,7 +41,7 @@ You can use the following fields in the URL query string to delete an asset:
 | URL parameter | Required/optional | Value |
 | --- | --- | --- |
 | `op` | Required | delete |
-| `shared_secret` | Required | The shared-secret key for the company. |
+| `shared_secret` | Required | The key that is a shared-secret for the company. |
 |`image_name` | Required | Name of the asset to delete. |
 
 <!-- <li>For Vector:fxg_name</li> -->

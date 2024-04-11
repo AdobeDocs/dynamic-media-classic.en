@@ -1,12 +1,10 @@
 ---
 title: Prepare Swatch Set assets for upload
 description: Learn how to prepare Swatch Set assets for upload into Adobe Dynamic Media Classic.
-uuid: ed78da8c-d708-418b-97ce-3c37d9df9c90
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
-discoiquuid: 0c851ecd-be05-46a9-8654-3d028f3217a4
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 90216519-4b14-4f8b-8e72-3d7ce9ec89ff
@@ -28,4 +26,4 @@ For detailed instructions on uploading assets, see [Upload files](uploading-file
 
 >[!MORELIKETHIS]
 >
->* [Work with vignette, window covering, and cabinet files](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)
+>* [Work with vignettes, window coverings, and cabinet files](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)

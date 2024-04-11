@@ -1,12 +1,10 @@
 ---
 title: Test the integration by viewing an Adobe Analytics report
 description: Learn how to test the integration in Adobe Dynamic Media Classic by viewing an Adobe Analytics report.
-uuid: 937375e0-6dea-4baa-a2b0-4f3e461c9ee2
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
-discoiquuid: 1ddc89ff-d2e9-42eb-a442-aa6b9871c991
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 6186fcf0-99b4-447d-ae94-b4124dcb405b
@@ -15,7 +13,7 @@ level: Experienced
 ---
 # Test the integration by viewing an Adobe Analytics report{#testing-the-integration-by-viewing-an-adobe-analytics-report}
 
-After you have created the necessary variables in Adobe Analytics, linked them to Adobe Dynamic Media Classic events, and completed the necessary implementation steps, you can test the setup. You can test and verify that the data is being captured, inside Adobe Analytics itself. If the setup works here, then no further steps are needed. Assuming you followed the steps above and linked your Adobe Dynamic Media Classic event data to one or more custom traffic variables, then follow this workflow to test your data inside Adobe Analytics.
+After you have created the necessary variables in Adobe Analytics, linked them to Adobe Dynamic Media Classic events, and completed the necessary implementation steps, you can test the setup. You can test and verify that the data is being captured inside Adobe Analytics itself. If the setup works here, then no further steps are needed. Assuming you followed the steps above and linked your Adobe Dynamic Media Classic event data to one or more custom traffic variables, then follow this workflow to test your data inside Adobe Analytics.
 
 **To test the integration by viewing an Adobe Analytics report:**
 
@@ -33,4 +31,4 @@ After you have created the necessary variables in Adobe Analytics, linked them t
 >
 >All Adobe Dynamic Media Classic viewer data is displayed and reported in Custom Traffic reports or Custom Conversion reports of Adobe Analytics.
 
-For more information, see [Analytics Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html).
+For more information, see [Analytics Tutorials](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/overview).

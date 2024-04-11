@@ -1,12 +1,10 @@
 ---
 title: Work in Detail View
 description: Learn how to work in Detail View in Adobe Dynamic Media Classic.
-uuid: cb62f765-9b7f-4a53-8206-99afae2fb80d
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: eaa214ff-d1ef-4691-9148-d01bf243c810
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
@@ -50,15 +48,15 @@ To closely examine, preview, or work on an asset, you can display it in Detail V
 
 ## Get information in Detail View {#getting-information-in-detail-view}
 
-Detail View provides information about an asset or file. It shows this information about an item: the folder where it is stored, its filename, the date the item was uploaded to Adobe Dynamic Media Classic, and its publishing history. You can also view and edit metadata and add keywords for an asset in Detail View.
+Detail View provides information about an asset or file. This information is displayed about an item: the folder where it is stored, its filename, the date the item was uploaded to Adobe Dynamic Media Classic, and its publishing history. You can also view and edit metadata and add keywords for an asset in Detail View.
 
-You can obtain an asset URL in Detail View; however, the URL is not active until you publish the asset. For images, Detail View also provides a list of build and derived assets and metadata, such as zoom targets and Image Sets.
+You can obtain an asset URL in Detail View; however, the URL is not active until you publish the asset. For images, Detail View also provides a list of built and derived assets and metadata, such as zoom targets and Image Sets.
 
 ## Work with assets in Detail View {#working-with-assets-in-detail-view}
 
 Detail View offers tools for working with the asset that you opened. Which tools are available depends on the type of asset you are working with, but Detail View always offers these functions:
 
-* **items for publish** - Select the **[!UICONTROL Publish]** icon to the left of the name, or go to **[!UICONTROL File]** > **[!UICONTROL Publish]** or **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
+* **items for publish** - Select the **[!UICONTROL `Publish`]** icon to the left of the name, or go to **[!UICONTROL File]** > **[!UICONTROL Publish]** or **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
 * **Rename the asset** - Select the name and enter a new name.
 

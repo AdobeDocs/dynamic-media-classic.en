@@ -1,11 +1,9 @@
 ---
 title: Set up eCatalog Viewer Presets
 description: Learn how to set up eCatalog Viewer Presets in Adobe Dynamic Media Classic.
-uuid: aca66bc5-8491-4d81-9a06-1d3531860a14
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 feature: Dynamic Media Classic,Viewers,Viewer Presets,eCatalog
 role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
@@ -29,8 +27,8 @@ Follow these steps so you can create a eCatalog Viewer Preset (you must be an ad
 
    * **Edit an eCatalog Viewer Preset** - Select an eCatalog Viewer Preset, then select **[!UICONTROL Edit]**. Select **[!UICONTROL Save As]** after you finish creating the preset.
 
-1. On the Configure Viewer page, enter a name for your eCatalog Viewer Preset.
-1. On the Configure Viewer page, set the options you want.
+1. On the `Configure Viewer` page, enter a name for your eCatalog Viewer Preset.
+1. On the `Configure Viewer` page, set the options you want.
 
    select the **[!UICONTROL Info Tip]** icon next to the option if you want to read its description.
 
@@ -51,7 +49,7 @@ Follow these steps so you can create a eCatalog Viewer Preset (you must be an ad
 >To use this Response Template instead of the template defined in the eCatalog itself, add `fmt=1` to the end of the Information Server URL. For example: `https://.../$3$/$4$/$1$/?FMT=1`.
 
 1. Select **[!UICONTROL Save]**.
-1. Select **[!UICONTROL Default]** if you want the eCatalog Viewer Preset you created to be the one that is used to display eCatalogs on your web page.
+1. Select **[!UICONTROL Default]** so that the eCatalog Viewer Preset you created is the one that is used to display eCatalogs on your web page.
 
 To delete an eCatalog Viewer Preset, select it on the Viewer Presets screen and select **[!UICONTROL Delete]**.
 
