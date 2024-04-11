@@ -1,12 +1,10 @@
 ---
 title: View Image Sets
 description: Learn how to view Image Sets in Adobe Dynamic Media Classic.
-uuid: bb5b0fee-abc0-4236-ac43-09edb9bb3651
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
-discoiquuid: 027aa3e0-f085-48ae-aff9-7b805bbdf8ab
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: c8d742a4-a1a1-4b5f-bcfd-6a1972edf9bc
@@ -26,12 +24,12 @@ You can create and customize Viewer Presets to suit your needs.
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Create or edit a Viewer preset on the Viewer Presets page by doing one of the following:
 
-   * **Create** - Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, in the Viewer drop-down list, choose **[!UICONTROL Zoom Viewer]**, and then select **[!UICONTROL Add]**. You can also create a Zoom Viewer preset by starting from an existing one. Display the name of the preset, select it, and then select **[!UICONTROL Edit]**. On the Configure Viewer page, enter a new name for the preset.
+   * **Create** - Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, in the Viewer drop-down list, choose **[!UICONTROL Zoom Viewer]**, and then select **[!UICONTROL Add]**. You can also create a Zoom Viewer preset by starting from an existing one. Display the name of the preset, select it, and then select **[!UICONTROL Edit]**. On the `Configure Viewer` page, enter a new name for the preset.
 
    * **Edit** - Display the name of a preset, select it, then select **[!UICONTROL Edit]**.
 
-1. On the Configure Viewer page, in the Preset Name text field, type a name for the Swatch Set Viewer preset.
-1. Choose options in the Configure Viewer page.
+1. On the `Configure Viewer` page, in the Preset Name text field, type a name for the Swatch Set Viewer preset.
+1. Choose options in the `Configure Viewer` page.
 
    To see a description of an option, select the **[!UICONTROL Info Tip]** icon to the right of the option.
 
@@ -51,7 +49,7 @@ You can use Preview to see how an asset appears on particular viewer type such a
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL Grid View]** icon. In the Asset window, in an asset thumbnail window, select **[!UICONTROL Preview]** (not the Preview drop-down list).
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL Detail View]** icon. On the same toolbar, select **[!UICONTROL Preview]** (not the Preview drop-down list).
 
-1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
+1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding to apply to the asset's URL when it is copied.
 1. To preview the asset in the selected viewer, select a viewer link.
 
    When you select a given viewer link, its associated URL is automatically copied to the clipboard.

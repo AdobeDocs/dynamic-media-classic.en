@@ -1,12 +1,10 @@
 ---
 title: Prepare Image Set assets for upload
 description: Learn how to prepare Image Set assets for upload into Adobe Dynamic Media Classic.
-uuid: ea90643f-f52f-43cd-8a74-ebffc78ab717
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
-discoiquuid: c341f5ea-aa7b-4749-975d-68a45c6fa77c
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 63bc3b37-7d5f-4707-a743-ec4192c88f0b
@@ -26,4 +24,4 @@ For detailed instructions on uploading assets, see [Upload files](uploading-file
 >[!MORELIKETHIS]
 >
 >* [Upload your files](uploading-files.md#uploading_your_files)
->* [Work with vignette, window covering, and cabinet files](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)
+>* [Work with vignettes, window coverings, and cabinet files](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)

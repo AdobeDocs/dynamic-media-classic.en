@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Manage Info Panel content in Image Sets{#managing-info-panel-content-in-image-sets}
 
-In addition to using Image Map text for your rollovers in Image Sets, you can use an info panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.
+In addition to using Image Map text for your rollovers in Image Sets, you can use an info panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using time caching and scheduling content updates.
   
 You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
 
@@ -40,7 +40,7 @@ You can select one of three preset response templates for displaying text in an 
     * Set a lower number if the data is updated frequently throughout the day.
     * Set a higher number if the data is relatively stable and does not require updating frequently throughout the day. The default is ten hours.
 
-1. Select **[!UICONTROL Upload]** to upload info panel content, based on the rollover_key values, to s7info.
+1. Select **[!UICONTROL Upload]** to upload info panel content, based on the rollover_key value, to s7info.
 1. In the S7Info Upload dialog box, browse to the file that you want to use, and then select **[!UICONTROL Upload]**.
 
    Supported file formats are TAB-delimited files with UTF-16 encoding and CSV files with ASCII encoding. For CSV files, non-ASCII characters must be HTML encoded.
@@ -49,7 +49,7 @@ You can select one of three preset response templates for displaying text in an 
 
 ## Import source content for the Info Panel in Image Sets {#import-source-content-for-the-info-panel-in-image-sets}
 
-You can use a CSV (Comma-Separated Value) file with ASCII encoding (non-ASCII character must be HTML encoded) or a tab-delimited file for the source text for an info panel for an Image Set. Tab-delimited files must use UTF-16 (Unicode) encoding. You import the different file types using different methods.
+You can use a CSV (Comma-Separated Value) file with ASCII encoding (non-ASCII characters must be HTML encoded) or a tab-delimited file for the source text for an info panel for an Image Set. Tab-delimited files must use UTF-16 (Unicode) encoding. You import the different file types using different methods.
 
 When formatting source content, keep in mind the following guidelines:
 
@@ -62,7 +62,7 @@ When formatting source content, keep in mind the following guidelines:
 1. Double-click the Image Set so it opens in Detail View.
 1. Select **[!UICONTROL InfoPanel Data feed]**.
 1. In the Externally hosted CSV file location (HTTP) text field, enter the URL to the CSV file.
-1. (Optional) In the Schedule Update fields, specify a time to update the content, and then select **[!UICONTROL Add]**.
+1. (Optional) In the Schedule Update field, specify a time to update the content, and then select **[!UICONTROL Add]**.
 
    You can select multiple times for updating. Each update time appears in the Update Times text box. To remove a scheduled time, select it, and then select **[!UICONTROL Delete]**.
 

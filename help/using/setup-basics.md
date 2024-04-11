@@ -1,12 +1,10 @@
 ---
 title: Setup basics
 description: Learn how to use the Setup screen to enter your personal settings in Adobe Dynamic Media Classic. If you are an administrator, set up your company settings.
-uuid: 38f487d7-33f2-4a9e-a32e-bb08f3dd3284
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
-discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
@@ -30,7 +28,7 @@ Administrators can also set up Image presets and Viewer presets in the **[!UICON
 
 >[!MORELIKETHIS]
 >
->* [Setup basics training video](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/573_Setup%20Basics_converted%20renamed_Getting%20Started-AVS)
+>* [Basic setup training video](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/573_Setup%20Basics_converted%20renamed_Getting%20Started-AVS)
 >* [Adobe Dynamic Media Classic user roles and privileges](administration-setup.md#user_administration)
 >* [Image presets](application-setup.md#image_presets)
 >* [Viewer presets](application-setup.md#viewer_presets)

@@ -29,8 +29,8 @@ You can create and customize Viewer Presets to suit your needs.
     * To create a preset, select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, in the Viewer drop-down list, choose **[!UICONTROL Swatch Set Viewer]**, then select **[!UICONTROL Add]**.
     * To edit an existing Swatch Set Viewer preset, select the preset, and then select **[!UICONTROL Edit]**.
 
-1. On the Configure Viewer page, in the Preset Name text field, type a name for the Swatch Set Viewer preset.
-1. Select options on the Configure Viewer page.
+1. On the `Configure Viewer` page, in the Preset Name text field, type a name for the Swatch Set Viewer preset.
+1. Select options on the `Configure Viewer` page.
 
    To see a description of an option, select the **[!UICONTROL Info Tip]** icon to the right of the option.
 
@@ -50,7 +50,7 @@ You can use Preview to see how an asset appears on particular viewer type such a
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL Grid View]** icon. In the Asset window, in an asset thumbnail window, select **[!UICONTROL Preview]** (not the Preview drop-down list).
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL Detail View]** icon. On the same toolbar, select **[!UICONTROL Preview]** (not the Preview drop-down list).
 
-1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset's URL when it is copied.
+1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding to apply to the asset's URL when it is copied.
 1. To preview the asset in the selected viewer, select a viewer link.
 
    When you select a given viewer link, its associated URL is automatically copied to the clipboard.
