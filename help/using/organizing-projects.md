@@ -1,12 +1,10 @@
 ---
 title: Organize your work with Projects
 description: Learn how to organize your work with Projects in Adobe Dynamic Media Classic.
-uuid: bd2b1792-e2d9-4a15-90c1-8ef2cf632867
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 036dfc1f-8317-4887-a6e1-d8f2cb61819c
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57

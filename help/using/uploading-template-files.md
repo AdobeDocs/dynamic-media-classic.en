@@ -1,12 +1,10 @@
 ---
 title: Upload template files
 description: Learn how to upload template files in Adobe Dynamic Media Classic.
-uuid: e19979b5-3f41-49c5-99aa-107ede3be98c
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
-discoiquuid: 75658717-5c39-473e-9d32-718d00706310
 feature: Dynamic Media Classic
 role: User
 exl-id: a105c18a-7e06-43cb-938c-a3bcdc3e9d22
@@ -15,7 +13,7 @@ level: Experienced
 ---
 # Upload template files{#uploading-template-files}
 
-Upload the files that you need for your template into Adobe Dynamic Media Classic before you begin building the template. You can build templates from an Adobe® Photoshop® PSD or an image file. TIFF and PNG images are recommended because they allow for transparency.
+Upload the files that you need for your template into Adobe Dynamic Media Classic before you begin building the template. You can build templates from an Adobe&reg; Photoshop&reg; PSD or an image file. TIFF and PNG images are recommended because they allow for transparency.
 
 >[!NOTE]
 >

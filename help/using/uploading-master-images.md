@@ -1,12 +1,10 @@
 ---
 title: Upload primary images
 description: Learn how to upload primary images into Adobe Dynamic Media Classic.
-uuid: 50bcf2e2-852b-48f1-a7c7-5063a87ce9c1
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
-discoiquuid: 8c94bafc-94cc-496f-a394-a945cd7b02cf
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 410ba80c-7f01-4cd0-9ab3-db9658757ba7
