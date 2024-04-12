@@ -1,12 +1,10 @@
 ---
 title: Set up Image Presets
 description: Learn how to set up Image Presets in Adobe Dynamic Media Classic.
-uuid: 90530948-dee9-41bd-b39e-684140446abc
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
-discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
 feature: Dynamic Media Classic,Image Presets
 role: User
 exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
@@ -15,7 +13,7 @@ level: Intermediate
 ---
 # Set up Image Presets{#setting-up-image-presets}
 
-Like a macro, an Image Preset is a predefined collection of sizing and formatting commands saved under a name. To understand how Image Presets work, suppose that your web site requires each product image to appear at two different sizes: 500 &times; 500 pixels and 150 &times; 150 pixels. You create two Image Presets, one called "Enlarge" to display images at 500x500 pixels and one called "Thumbnail" to display images at 150 &times; 150 pixels. To deliver images at the "Enlarge" and "Thumbnail" size, a Dynamic Media Image Server looks up the definition of the Enlarge Image Preset and Thumbnail Image Preset. Then the server dynamically generates an image at the size and formatting specifications of each Image Preset.
+Like a macro, an Image Preset is a predefined collection of sizing and formatting commands saved under a name. To understand how Image Presets work, suppose that your web site requires each product image to appear at two different sizes: 500 &times; 500 pixels and 150 &times; 150 pixels. You create two Image Presets, one called "Enlarge" to display images at 500x500 pixels and one called "Thumbnail" to display images at 150 &times; 150 pixels. To deliver images at the "Enlarge" and "Thumbnail" size, a Dynamic Media Image Server looks up the definition of the "Enlarge Image Preset" and "Thumbnail Image Preset". Then the server dynamically generates an image at the size and formatting specifications of each Image Preset.
 
 Adobe Dynamic Media Classic comes with several "best practice" Image Presets that are already set up for you to use. Administrators can create Image Presets as well. To create an Image Preset, you can start from scratch or you can start from an existing one and save it under a new name.
 
@@ -42,7 +40,7 @@ You can create your own Image Presets if you are a company administrator. You ca
 
    Adobe Dynamic Media Classic recommends these "best practice" option choices to start:
 
-   * **[!UICONTROL Format]** - Choose JPEG or another format that meets your requirements. All web browsers support the JPEG image format; it offers a good balance between small files sizes and image quality. However, JPEG images use a lossy compression scheme that can introduce unwanted image artifacts if the compression setting is too low. For that reason, Adobe Dynamic Media Classic recommends setting the compression quality (on the slider) to 75. This setting offers a good balance between image quality and small file size.
+   * **[!UICONTROL Format]** - Choose JPEG or another format that meets your requirements. All web browsers support the JPEG image format; it offers a good balance between small file sizes and image quality. However, JPEG images use a lossy compression scheme that can introduce unwanted image artifacts if the compression setting is too low. For that reason, Adobe Dynamic Media Classic recommends setting the compression quality (on the slider) to 75. This setting offers a good balance between image quality and small file size.
 
    * **[!UICONTROL Sharpening]** - Do not select Sharpening (this sharpening filter offers less control than **[!UICONTROL Unsharp Masking]** settings).
 

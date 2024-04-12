@@ -1,11 +1,9 @@
 ---
 title: Specify export options available to Media Portal users
 description: Learn how to specify export options that are available to Media Portal users in Adobe Dynamic Media Classic.
-uuid: 5258b8a4-0704-43cd-97d1-c9af2e4e298b
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
@@ -32,7 +30,7 @@ See also [Export assets from Adobe Dynamic Media Classic](exporting-assets-from-
 
      When **[!UICONTROL pixels]** are chosen from the **[!UICONTROL Size]** drop-down list, the resulting image width &times; height cannot exceed 100 million pixels. This size equates to 10,000 &times; 10,000 pixels for a square image, or roughly 8,000 &times; 12,000 pixels for a 2x3 aspect ratio image. This size limitation does not apply if you export original primary images.
 
-     Deselect this option if you want users to download files without reformatting them as they are downloaded.
+     Deselect this option for users to download files without reformatting them as they are downloaded.
 
    * **Enable Export Original** - Lets you export original primary images. In the **[!UICONTROL Export Selected Assets]** panel, users can open the **[!UICONTROL Conversion]** drop-down menu and choose **[!UICONTROL Export Original]** to export original files. Deselect this option if you want to force users to choose an image preset or choose conversion options when they export images.
 

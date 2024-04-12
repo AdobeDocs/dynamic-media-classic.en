@@ -1,7 +1,6 @@
 ---
 title: "Quick Start: Image Sizing"
 description: An introduction and Quick Start to Image Sizing to help you get up and running quickly with Image Sizing techniques in Adobe Dynamic Media Classic.
-uuid: 6c4ad4b7-549d-4daa-b6b9-5997a8427af8
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -9,16 +8,16 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
 feature: Dynamic Media Classic,Asset Management
 role: User
-exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
 topic: Content Management
 level: Beginner
+exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
 ---
 # Quick Start: Image Sizing{#quick-start-image-sizing}
 
 Image Sizing refers to the ability of Adobe Dynamic Media Classic to create multiple derivative images based on a single high-resolution image. Rather than manually creating several images—for example, a thumbnail and enlarged-view image—for your web site or application, you provide a single primary image. Adobe Dynamic Media Classic generates all modified images just as you request them. Being able to deliver images dynamically from a single primary image has many advantages:
 
 * You do not have to manually create several copies of the image at different sizes. You supply one primary image to Adobe Dynamic Media Classic, and Adobe Dynamic Media Classic generates different-sized derivatives from the primary image. 
-* You can quickly change the size of an image type throughout your web site or application. For example, to change all thumbnail images, you can modify the “thumbnail” Image Preset. An Image Preset—it’s similar to a macro—is a collection of size and formatting attributes. You can modify the “thumbnail” Image Preset to change the size of all thumbnail images throughout your web site or application. 
+* You can quickly change the size of an image type throughout your web site or application. For example, to change all thumbnail images, you can modify the "thumbnail" Image Preset. An Image Preset—it's similar to a macro—is a collection of size and formatting attributes. You can modify the "thumbnail" Image Preset to change the size of all thumbnail images throughout your web site or application. 
 * You do not have to manage the primary files and all the various derivatives in any of your content or asset management systems internally or externally.
 
 ![You can create multiple derivative images at different sized from the same high-resolution primary file.](/help/using/assets/is_derivative_sizes_popup.png)
@@ -58,7 +57,7 @@ Publishing your primary image files serves two essential purposes:
 * Publishing your primary images to Dynamic Media Image Servers so that images can be dynamically delivered to your web site and application.
 * Publishing activates the URL strings for calling images from Dynamic Media Image Servers to your web site or application. After publishing, you can copy and place the Adobe Dynamic Media Classic-generated URLs where necessary in your web site or application.
 
-On the Global Navigation bar, select **[!UICONTROL Publish]** to start a publish job. On the Publish dialog box, select **[!UICONTROL Submit Publish]**. See [Publish primary images](publishing-master-images.md#publishing_master_images).
+On the Global Navigation bar, select **[!UICONTROL Publish]** to start a publishment job. On the Publishing dialog box, select **[!UICONTROL Submit Publish]**. See [Publish primary images](publishing-master-images.md#publishing_master_images).
 
 ## 5. Link URLs to your web application
 

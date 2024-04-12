@@ -51,13 +51,13 @@ See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for
 
 ## Create an alias for an image {#creating-an-alias-for-an-image}
 
-When you have adjusted an image, you can save it as another view of the primary image. To do so, you can create an alias for the image by using the **[!UICONTROL Save as additional view of primary]** feature.
+When you have adjusted an image, you can save it as another view of the primary image. To do so, you can create an alias for the image by using the **[!UICONTROL Save as another view of primary]** feature.
 
 **To create an alias for an image:**
 
 1. In the Grid View or List View, in the **[!UICONTROL Edit]** drop-down list next to an image for which you want to create an alias, select **[!UICONTROL Adjust]**.
 1. In the lower-right corner of the page, select **[!UICONTROL Save As]**.
-1. From the drop-down list in the **[!UICONTROL Save As]** dialog box, select **[!UICONTROL Save as additional view of primary]**.
+1. From the drop-down list in the **[!UICONTROL Save As]** dialog box, select **[!UICONTROL Save as another view of primary]**.
 1. In the **[!UICONTROL Folder Name]** list box, select the folder where you want to save the aliased image.
 1. In the **[!UICONTROL File Name]** field, type the name you want to use for the alias.
 1. Select **[!UICONTROL Save]**.

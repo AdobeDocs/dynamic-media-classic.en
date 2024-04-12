@@ -1,12 +1,10 @@
 ---
 title: Navigation basics
 description: Learn about navigating the user interface of Adobe Dynamic Media Classic.
-uuid: ee143695-e42d-479d-b907-fe61ef6cfc0f
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
-discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 feature: Dynamic Media Classic
 role: User
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
@@ -31,7 +29,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 * **[!UICONTROL Build]** - Choose a Build task from the menu. The Build panel opens so you can create an asset type.
 
-* **[!UICONTROL Publish]** - Opens the Publish screen so you can publish rich media assets to Adobe Dynamic Media Image Servers and the rest of the Adobe Dynamic Media Classic SAAS Infrastructure.
+* **[!UICONTROL Publish]** - Opens the Publishing screen so you can publish rich media assets to Adobe Dynamic Media Image Servers and the rest of the Adobe Dynamic Media Classic SAAS Infrastructure.
 
 * **[!UICONTROL Jobs]** - Opens the Jobs screen so you can examine records of upload and publish jobs.
 
@@ -53,7 +51,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 Use the Asset Library to organize the assets you are working with. You can create folders and subfolders for organizing your assets in the Asset Library.
 
-The top of the Asset Library panel has commands for locating assets. You can search for assets and filter to locate assets. Select the **[!UICONTROL Trash]** icon at the bottom of the Asset Library if you want to examine assets you deleted.
+The top of the Asset Library panel has commands for locating assets. You can search for assets and filter to locate assets. To examine assets you deleted, select the **[!UICONTROL Trash]** icon at the bottom of the Asset Library.
 
 >[!NOTE]
 >

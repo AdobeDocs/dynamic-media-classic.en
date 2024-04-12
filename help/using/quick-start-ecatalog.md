@@ -58,7 +58,7 @@ Adobe PDF files are usually the source for an eCatalog. Because they are meant t
 
 On the Global Navigation bar, select **[!UICONTROL Upload]** to start uploading PDF files or images for your eCatalog. You can upload files from your desktop or by way of FTP; FTP is recommended if you are uploading many files or files larger than 100 MB.
 
-Under PDF Options, the Upload screen provides options for uploading PDF files at the proper resolution and correct color space. A 150 pixels-per-inch resolution is recommended. You can select the Auto-Generate eCatalog option to create an eCatalog when you upload a PDF file.
+Under PDF Options, the Upload screen provides options for uploading PDF files at the proper resolution and correct color space. A 150 pixels-per-inch resolution is recommended. You can select the option **[!UICONTROL Auto-Generate eCatalog]** to create an eCatalog when you upload a PDF file.
 
 See [Upload the PDF files](uploading-pdf-files.md#uploading_the_pdf_files).
 
@@ -112,7 +112,7 @@ See [Preview eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-vie
 
 Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your web site or application.
 
-After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, select **[!UICONTROL Submit Publish]**.
+After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 

@@ -65,7 +65,7 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
 
    See [Upload files](uploading-files.md#uploading_files).
 
-1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file that you want to associate with the chapter file that you uploaded.
+1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file to associate with the chapter file that you uploaded.
 1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, select **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 1. In the Viewer List table, find the HTML5 viewer named **Univeral_HTML5_Video**, and then do one of the following:
 

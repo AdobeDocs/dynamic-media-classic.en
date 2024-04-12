@@ -27,7 +27,7 @@ Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can
 
    If you set up your eCatalog so that viewers can perform keyword searches, make sure that the keyword data is published. On the Publishing dialog box, select **[!UICONTROL Advanced]**. From the **[!UICONTROL Publish]** drop-down menu, select **[!UICONTROL Full w/ Search Data]**. This option is selected by default.
 
-1. Click **[!UICONTROL Submit Publish]**.
+1. Select **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >

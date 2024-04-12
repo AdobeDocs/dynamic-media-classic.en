@@ -1,12 +1,10 @@
 ---
 title: "Quick Start: Zoom"
 description: An introduction and Quick Start to Zoom to help you get up and running quickly.
-uuid: 31eda632-3469-4f90-885b-e90c6a2e5e75
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-discoiquuid: 559c986d-313d-46df-a5ff-0b49316ad3a7
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
@@ -39,9 +37,9 @@ To create a zoom target, select **[!UICONTROL Edit]** and choose Zoom Targets, o
 
 ## 3. Set up Zoom Viewer Presets
 
-Zoom Viewer Presets determine the style and behavior of your Zoom Viewers. You can set up Zoom Viewer Presets if you are an administrator; Adobe Dynamic Media Classic comes with default “best practice” Zoom Viewer Presets as well.
+Zoom Viewer Presets determine the style and behavior of your Zoom Viewers. You can set up Zoom Viewer Presets if you are an administrator; Adobe Dynamic Media Classic comes with default "best practice" Zoom Viewer Presets as well.
 
-To create a Zoom Viewer Preset, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. On the Viewer Presets page, select **[!UICONTROL Add]**, choose a platform, and a Zoom Viewer, and then select **[!UICONTROL Add]**. Then choose options on the Configure Viewer page.
+To create a Zoom Viewer Preset, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. On the Viewer Presets page, select **[!UICONTROL Add]**, choose a platform, and a Zoom Viewer, and then select **[!UICONTROL Add]**. Then choose options on the `Configure Viewer` page.
 
 Adobe Dynamic Media Classic offers **[!UICONTROL Zoom Viewer Preset]** options that let you select the button style and overall look of the viewer. You can also customize the zoom settings for your web site. See [Set up Zoom Viewer Presets](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
 
@@ -49,7 +47,7 @@ Adobe Dynamic Media Classic offers **[!UICONTROL Zoom Viewer Preset]** options t
 
 You can preview images in a Zoom Viewer to see what the zooming experience is when images are zoomed.
 
-To explore different Zoom Viewer Presets and how they present the zooming experience, select an image in the Browse Panel and select **[!UICONTROL Preview]**. Go to **[!UICONTROL Presets]** > **[!UICONTROL Zoom]**, and then select a preset with the Zoom menus.
+To explore different Zoom Viewer Presets and how they present the zooming experience, select an image in the Browse Panel and select **[!UICONTROL Preview]**. Go to **[!UICONTROL Presets]** > **[!UICONTROL Zoom]**, and then select a preset with the Zoom menu.
 
 Zoom buttons appear. You can see what the zoom images look like on your web site. Select the Zoom buttons (and zoom targets) so you can test the settings of the Zoom Viewer Preset you chose. See [Preview images with different Zoom Viewers](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
 
@@ -57,7 +55,7 @@ Zoom buttons appear. You can see what the zoom images look like on your web site
 
 Publishing your zoom images places them on Dynamic Media Image Servers so that they can be delivered to your web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates URL strings. These URL strings call zoom images from Dynamic Media Image Servers to your web site or application.
 
-On the Global Navigation bar, select **[!UICONTROL Publish]**. On the Publish dialog box, select **[!UICONTROL Submit Publish]**. See [Publishing zoom images](publishing-zoom-images.md#publishing_zoom_images).
+On the Global Navigation bar, select **[!UICONTROL Publish]**. On the Publishing dialog box, select **[!UICONTROL Submit Publish]**. See [Publishing zoom images](publishing-zoom-images.md#publishing_zoom_images).
 
 ## 6. Link Zoom Viewers to your web page
 

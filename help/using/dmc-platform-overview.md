@@ -1,12 +1,10 @@
 ---
 title: Adobe Dynamic Media Classic program overview
 description: An overview of the Adobe Dynamic Media Classic program and its entire workflow process.
-uuid: e7d3bfb3-1cfe-43ea-b862-aae3b3928c71
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
-discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
@@ -37,7 +35,7 @@ The key Adobe Dynamic Media Classic workflow steps are:
 
 Adobe Dynamic Media Classic is fundamentally different from other systems because you can use Adobe Dynamic Media Classic to deliver media dynamically from single primary assets and URL calls.
 
-The URL strings that you generate with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same primary image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you visually configure the effects. In doing so, you create the URL calls that correctly tell the server how to present your primary asset to applications.
+The URL strings that you generated with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same primary image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you visually configure the effects. In doing so, you create the URL calls that correctly tell the server how to present your primary asset to applications.
 
 ![Adobe Dynamic Media Classic can deliver the same primary image to different mediums in different sizes and formats.](/help/using/assets/gs_dynamic_publishing.png)
 *Adobe Dynamic Media Classic ensures that consistent, quality experiences are delivered to any screen, regardless of size or bandwidth.*

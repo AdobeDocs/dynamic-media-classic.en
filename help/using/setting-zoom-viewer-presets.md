@@ -1,12 +1,10 @@
 ---
 title: Set up Zoom Viewer Presets
 description: Learn how to set up Zoom Viewer Presets in Adobe Dynamic Media Classic.
-uuid: 202d80cb-8282-45d4-89e8-942c8677aa93
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-discoiquuid: 5023a933-e229-4d3c-8e91-3ac5e9f4970b
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: ddaaff6c-5447-408e-9c92-bcdfd1a0e72e
@@ -55,7 +53,7 @@ Adobe Dynamic Media Classic recommends the following parameters for fly-out Zoom
    The Preview page displays the viewer as you update and change settings.
 
 1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
-1. On the Viewer Presets page, examine the Zoom Viewer Preset or Guided Zoom Viewer Preset you created. If it needs adjusting, select **[!UICONTROL Edit]**, change settings on the Configure Viewer page, and then select **[!UICONTROL Save]**.
+1. On the Viewer Presets page, examine the Zoom Viewer Preset or Guided Zoom Viewer Preset you created. If it needs adjusting, select **[!UICONTROL Edit]**, change settings on the `Configure Viewer` page, and then select **[!UICONTROL Save]**.
 
 For information about managing Viewer Presets on the Viewer Presets screen, see [Viewer Presets](application-setup.md#viewer_presets).
 

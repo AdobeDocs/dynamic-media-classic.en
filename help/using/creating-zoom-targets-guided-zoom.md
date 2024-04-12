@@ -1,12 +1,10 @@
 ---
 title: Create zoom targets for Guided Zoom
 description: Learn how to create zoom targets for Guided Zoom in Adobe Dynamic Media Classic.
-uuid: 501ea37b-adc5-4290-87eb-52a3501e5d26
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-discoiquuid: e7b4673c-8681-4741-912e-9a31cf106449
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: ffb799ba-1cf1-48e0-91a8-dea758139140
@@ -76,9 +74,9 @@ To edit zoom targets, use the following techniques on the Zoom Target Editor pag
 
 * **Resize** - With the Select Target button (the arrow), select the target. To enlarge or shrink the target, move the pointer over a corner of the zoom target and drag.
 
-* **Delete** - Select the target’s thumbnail image on the right side of the screen. Then select **[!UICONTROL Delete Target]**.
+* **Delete** - Select the target's thumbnail image on the right side of the screen. Then select **[!UICONTROL Delete Target]**.
 
-* **Renaming** - Select the target’s thumbnail image on the right side of the screen. Then enter a name in the **[!UICONTROL Name]** text field and select **[!UICONTROL Save]**.
+* **Renaming** - Select the target's thumbnail image on the right side of the screen. Then enter a name in the **[!UICONTROL Name]** text field and select **[!UICONTROL Save]**.
 
 ### Copy zoom targets {#copying-zoom-targets}
 

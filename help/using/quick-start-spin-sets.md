@@ -1,12 +1,10 @@
 ---
 title: "Quick Start: Spin Sets"
 description: An introduction and Quick Start to Spin Set to help you get up and running quickly in Adobe Dynamic Media Classic.
-uuid: d0af9db6-cb6f-48f0-89f6-f3ab2da0659f
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
-discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
@@ -59,7 +57,7 @@ See [Edit a Spin Set](creating-spin-set.md#editing-a-spin-set).
 
 Administrators can create Spin Set Viewer Presets. These presets determine the look of the Spin Set Viewer. To set up a new Spin Set Viewer Preset, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
-On the Viewer Presets page, select **[!UICONTROL Add]**, then select **[!UICONTROL Spin Set Viewer]** from the drop-down list, and then select **[!UICONTROL Add]**. Choose options in the Configure Viewer page, then select **[!UICONTROL Save]**.
+On the Viewer Presets page, select **[!UICONTROL Add]**, then select **[!UICONTROL Spin Set Viewer]** from the drop-down list, and then select **[!UICONTROL Add]**. Choose options in the `Configure Viewer` page, then select **[!UICONTROL Save]**.
 
 See [Setup Spin Set Viewer Presets](setting-spin-set-viewer-presets.md#setting-up-spin-set-viewer-presets).
 
@@ -73,7 +71,7 @@ See [Preview a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
 Publishing a Spin Set places it on Adobe Dynamic Media Classic servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image servers to your web site or application.
 
-To publish a Spin Set, mark it for publish by selecting the **[!UICONTROL Mark for Publish]** icon beside its name in the Browse Panel. On the Global Navigation bar, select **[!UICONTROL Publish]** to initiate a publishing. On the Publish screen, select **[!UICONTROL Submit Publish]**.
+To publish a Spin Set, mark it for publish by selecting the **[!UICONTROL Mark for Publish]** icon beside its name in the Browse Panel. On the Global Navigation bar, select **[!UICONTROL Publish]** to initiate a publishing. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish a Spin Set](publishing-spin-set.md#publishing-a-spin-set).
 
