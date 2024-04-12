@@ -1,12 +1,10 @@
 ---
 title: Sharpen an image
 description: Learn how to sharpen an image in Adobe Dynamic Media Classic.
-uuid: d86af74a-89c5-4f2b-96ba-f2e7da600bca
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 11cd5362-d90a-4c1e-bfbd-46a65a554409
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
@@ -93,7 +91,7 @@ Select the **[!UICONTROL Resampling]** menu and choose an option. These options 
 
 * **[!UICONTROL Bicubic]** - Increases CPU usage on the Image Server, but yields sharper images with less noticeable aliasing artifacts.
 
-* **[!UICONTROL `Sharpen2`]** - Produces slightly sharper results than **[!UICONTROL Bicubic]**, but at even higher CPU cost on the Image Server.
+* **[!UICONTROL `Sharpen 2`]** - Produces slightly sharper results than **[!UICONTROL Bicubic]**, but at even higher CPU cost on the Image Server.
 
 * **[!UICONTROL Trilinear]** - Uses both higher and lower resolutions if available; recommended only when aliasing is an issue. This method reduces JPEG size due to reduced high-frequency data.
 
@@ -120,13 +118,13 @@ The JPG Quality options control the JPG compression level:
 
 **Set company-wide sharpening options**
 
-If you do not use an Image Preset or pass specific Image Server sharpening protocols along the URL string, then your image is not sharpened when it is downsampled. However, if this lack of sharpening occurs, you can set default sharpening values, and then any image always has some sharpening.
+If you did not use an Image Preset or pass specific Image Server sharpening protocols along the URL string, then your image is not sharpened when it is downsampled. However, if this lack of sharpening occurs, you can set default sharpening values to ensure that any image always has some sharpening.
 
 To set your company's default sharpening options, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. If you set the Default Resampling Mode to **`Sharp2`**, it always sharpens the image when downsampling.
 
 **Add sharpening to viewer presets**
 
-Unless you add sharpening image modifiers to the preset, the small initial load image can look soft because it is downsampled to fit into the viewer window without being sharpened.
+Unless you added sharpening image modifiers to the preset, the small initial load image can look soft because it is downsampled to fit into the viewer window without being sharpened.
 
 Viewer Presets (like Image Presets) let you centralize many options into one location, including choice of skin and viewer options (such as including a Print button or controlling the speed of the zoom animation). Viewer Presets are found in the same section as Image Presets, under **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Viewer Presets]**.
 

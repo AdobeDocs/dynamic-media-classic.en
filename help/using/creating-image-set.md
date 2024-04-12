@@ -75,7 +75,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. When you are finished editing the set, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder for your set, enter a name for the set, and then select **[!UICONTROL Save]**.
 
-## Delete an Image Set {#deleting-an-image-set}
+## Delete an Image Set
 
 When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 

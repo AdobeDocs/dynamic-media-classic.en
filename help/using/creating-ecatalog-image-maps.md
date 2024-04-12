@@ -1,12 +1,10 @@
 ---
 title: Create eCatalog Image Maps
 description: Learn how to create eCatalog image maps in Adobe Dynamic Media Classic.
-uuid: 943ad3f7-a885-4bc2-88cb-77083384bdf8
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
@@ -21,7 +19,7 @@ An Image Map is a region on an eCatalog page that you can roll over with your mo
 
 For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. This screen consists of the Image Map area where eCatalog pages are displayed and, on the right, the Image Map list. As you create Image Maps, their names are entered on the Image Map List.
 
-1. Select the eCatalog’s rollover **[!UICONTROL Edit]** button.
+1. Select the eCatalog's rollover **[!UICONTROL Edit]** button.
 1. Select **[!UICONTROL Map Pages]**.
 1. On the left of the Map Pages screen, select the page you want.
 1. In the Image Map area, draw a rectangular or polygonal (many-sided) Image Map:
@@ -47,11 +45,11 @@ See [Use a template to enter JavaScript and URLs](creating-image-maps.md#using_a
 1. Select **[!UICONTROL Save]**.
 1. (Optional) Select **[!UICONTROL Preview]** to view the eCatalog with the default eCatalog Viewer preset.
 
-To delete an Image Map, select its name in the Image Map list and select **[!UICONTROL Delete]**. To temporarily disable an Image Map on a page without deleting the Image Map, deselect the Image Map’s On option in the Image Map List panel.
+To delete an Image Map, select its name in the Image Map list and select **[!UICONTROL Delete]**. To temporarily disable an Image Map on a page without deleting the Image Map, deselect the Image Map's On option in the Image Map List panel.
 
 ## Embed rich media in an eCatalog {#embedding-rich-media-in-an-ecatalog}
 
-You can use eCatalog’s Rich Media option to add videos in MP4 format or spin sets to Image Maps that you have added to an eCatalog. When a user selects the Image Map area in the eCatalog, the associated spin set or video is displayed. This functionality is especially helpful if you want customers to see an item in use or see an item from different angles and perspectives.
+You can use eCatalog's Rich Media option to add videos in MP4 format or spin sets to Image Maps that you have added to an eCatalog. When a user selects the Image Map area in the eCatalog, the associated spin set or video is displayed. This functionality is especially helpful if you want customers to see an item in use or see an item from different angles and perspectives.
 
 You can also optionally display tooltip text when customers move their pointers over your Image Map so they know what they are selecting.
 
@@ -135,7 +133,7 @@ You can copy all the Image Maps in an eCatalog to a different eCatalog. Copying 
 
 To copy all the Image Maps in one eCatalog to another eCatalog, do the following:
 
-1. Select the eCatalog with the Image Maps you want to copy, and select the eCatalog’s rollover **[!UICONTROL Edit]** button.
+1. Select the eCatalog with the Image Maps you want to copy, and select the eCatalog's rollover **[!UICONTROL Edit]** button.
 1. On the Order Pages tab, select **[!UICONTROL Copy Maps]**.
 1. In the Select Asset dialog box, select the eCatalog where you want to copy the Image Maps, and then select **[!UICONTROL Select]**.
 

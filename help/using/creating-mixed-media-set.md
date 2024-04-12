@@ -1,11 +1,9 @@
 ---
 title: Create a Mixed Media Set
 description: Learn how to create a Mixed Media Set in Adobe Dynamic Media Classic.
-uuid: a0c6e5fa-7a85-4376-b9a3-b72ae63d3d95
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 0ff9e763-897c-4ba5-b606-a95d5e45f35e
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 18669c65-a1c4-4012-8587-cd5095f4bd4e
@@ -22,7 +20,7 @@ Create a Mixed Media Set when you want to combine multiple types of viewers in o
 
 When you create a set, the **Publish after save** option affects the set and set members in the following ways:
 
-|“Publish after save” option selected before saving?|State of set after saving|State of set members after saving|
+|"Publish after save" option selected before saving?|State of set after saving|State of set members after saving|
 | --- | --- | --- |
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
@@ -68,7 +66,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To edit a Mixed Media Set:**
 
-1. Select the Mixed Media Set’s rollover **[!UICONTROL Edit]** button.
+1. Select the Mixed Media Set's rollover **[!UICONTROL Edit]** button.
 1. Do any of the following:
 
     * To remove items, select them and select **[!UICONTROL Delete]**.
@@ -77,9 +75,9 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. When you are finished editing the set, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
 
-## Delete a Mixed Media Set {#deleting-a-mixed-media-set}
+## Delete a Mixed Media Set
 
-When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 

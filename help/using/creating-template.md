@@ -1,19 +1,17 @@
 ---
 title: Create a template
 description: Learn how to create a template in Adobe Dynamic Media Classic.
-uuid: c762224b-7c6c-4434-bada-c26570079645
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
-discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 feature: Dynamic Media Classic
 role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
 topic: Content Management
 level: Experienced
 ---
-# Create a template {#creating-a-template}
+# Create a template
 
 To create a template, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Select either Designer or Developer. On this page, you can add image and text layers. You can also reorder layers, change the size and position of layers, and apply shadow and glow effects to images and text.
 
@@ -72,7 +70,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
-## Delete a Template {#deleting-a-template}
+## Delete a Template
 
 When you delete a Template set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
@@ -272,7 +270,7 @@ You can hide a layer or layer effect by selecting the eye icon next to a layer n
 
 `layer=5&src=is{PortalCo/title}&pos=274,192&hide=1&effect=-1&.effect=Drop Shadow&blendmode`
 
-### Determine the background color, opacity, and blend mode {#determining-the-background-color-opacity-and-blend-mode}
+### Determine the background color, opacity, and blend mode
 
 To choose a background color, opacity, and blend mode for a layer or the canvas, select the layer or canvas and use these techniques:
 
@@ -293,7 +291,7 @@ After you apply a shadow or glow effect, you can adjust its size, color, opacity
 ### Apply a shadow or glow effect to a layer {#applying-a-shadow-or-glow-effect-to-a-layer}
 
 1. Select a layer in the Layers list.
-1. Select the Add Effect menu and choose an option:
+1. Select the **[!UICONTROL `Add Effect`]** menu and choose an option:
 
    * **[!UICONTROL Drop Shadow]** - Applies a shadow to the bottom and right side of the layer.
 

@@ -1,12 +1,10 @@
 ---
 title: Video SEO (Search Engine Optimization)
 description: Learn how to configure video SEO settings in Adobe Dynamic Media Classic.
-uuid: bac2c6a9-8466-4b8f-b835-6cb0b4168513
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
-discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
 feature: Dynamic Media Classic
 role: Admin
 exl-id: f76b0e09-f148-46aa-b710-ec35bfebcb37
@@ -37,9 +35,9 @@ Adobe Dynamic Media Classic creates reports about Video Sitemaps and mRSS feeds 
 
 >[!NOTE]
 >
->For the Video Sitemaps and mRSS feeds, Adobe Dynamic Media Classic captures metadata only from videos that are marked for publish. Mark videos for publish to include their metadata in Video Sitemaps and mRSS feeds.
+>For the Video Sitemaps and mRSS feeds, Adobe Dynamic Media Classic captures metadata only from videos that are marked for publish. Mark videos for publishment to include their metadata in Video Sitemaps and mRSS feeds.
 
-## Choose video SEO settings {#choosing-video-seo-settings}
+## Choose video SEO settings
 
 Select Video SEO settings for video Sitemaps and mRSS feeds on the **[!UICONTROL Video Search Engine Optimization Settings]** page. To open this page, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Settings]**.
 

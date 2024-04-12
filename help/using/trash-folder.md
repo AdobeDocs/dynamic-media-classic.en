@@ -1,12 +1,10 @@
 ---
 title: Manage the Trash folder
 description: Learn how to manage the Trash folder.
-uuid: 3992a5b8-1919-4924-b07d-7fb25565effd
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 553c95fc-0a41-4f06-af50-a62bc1438149
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
@@ -15,7 +13,7 @@ level: Intermediate
 ---
 # Manage the Trash folder{#managing-the-trash-folder}
 
-Items that you delete from Adobe Dynamic Media Classic are moved to the Trash folder. The deleted remain in this folder for seven days until they are restored or permanently deleted. You can examine deleted items by selecting the **[!UICONTROL Trash]** icon at the bottom of the Asset Library, and viewing items in the Trash folder page.
+Items that you delete from Adobe Dynamic Media Classic are moved to the Trash folder. These deleted items remain in this folder for seven days until they are restored or permanently deleted. You can examine deleted items by selecting the **[!UICONTROL Trash]** icon at the bottom of the Asset Library, and viewing items in the Trash folder page.
 
 All users can restore items in the Trash folder to the folders from which they were deleted. All users can also empty the Trash folder of all its contents.
 
@@ -29,7 +27,7 @@ Deleting items from the Trash folder permanently deletes items from Adobe Dynami
 
 Deleting an item in a folder places the item in the Trash folder. The following happens when you delete an item and move it to the Trash folder:
 
-* Although the item has been removed from your Adobe Dynamic Media Classic folders, its ID cannot be assigned to another asset while it remains in the Trash folder. If you try to upload an asset with the same name as a file in the Trash folder, Adobe Dynamic Media Classic appends a numeral to the name of the asset. 
+* Although the item is removed from your Adobe Dynamic Media Classic folder, its ID cannot be assigned to another asset while it remains in the Trash folder. If you try to upload an asset with the same name as a file in the Trash folder, Adobe Dynamic Media Classic appends a numeral to the name of the asset. 
 * The item cannot be published. Even if the item was marked for publish when you deleted it, it is not published.
 * The item remains in the Trash folder until it is restored, seven days pass, or someone chooses the **[!UICONTROL Empty the Trash]** command. After seven days, an automatic clean-up operation permanently deletes the item.
 

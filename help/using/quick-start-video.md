@@ -54,7 +54,7 @@ See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
 
   Adaptive video streaming is supported on various iOS platforms.
 
-  See the latest support in the [Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
+  See the latest support in the [Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 
   Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video. <!-- LINK IS 404; NO SUITABLE REPLACEMENT WAS FOUND You can find BlackBerry&reg; devices that support this video format at the following website: -->
 
@@ -92,11 +92,11 @@ Upload and generate adaptive video sets using one of the following two scenarios
 * **Upload pre-encoded videos** - If your videos were already encoded outside Adobe Dynamic Media Classic, on the Global Navigation bar, select **[!UICONTROL Upload]** to browse and upload MP4 video files directly to Adobe Dynamic Media Classic. Then, go to **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Browse to your video files. Drag-and-drop the video files that you want into the Adaptive Video Set table, and then save the set.
 * **Upload primary source videos** - If your videos are not encoded, on the Global Navigation bar, select **[!UICONTROL Upload]** to upload primary video source files (non-MP4). Adobe Dynamic Media Classic encodes them to MP4 files for you. In the **[!UICONTROL Upload Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, select **[!UICONTROL Adaptive Video]**.
 
-  This preferred option lets you create an Adaptive Video Set that automatically applies the correct encoding preset to the video, whether it is 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three encode video settings in the correct aspect ratio.
+  With this preferred option, you can create Adaptive Video Sets that automatically apply the correct encoding preset to the video, whether 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three encode video settings in the correct aspect ratio.
 
   Or, in the same **[!UICONTROL Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, expand **[!UICONTROL Single Encoding Presets]**. Select individual video encoding presets that you want from **Desktop**, **Mobile (iPhone, iPad, Android&trade;)**, and **Tablet (iPad, Android&trade;)** so that you create the MP4 files.
 
-* Or, you can reprocess a primary video using the **[!UICONTROL Reprocess]** feature. The newly encoded videos are added to the existing Adaptive Video Set.
+* Or, you can reprocess a primary video using the **[!UICONTROL Reprocessing]** feature. The newly encoded videos are added to the existing Adaptive Video Set.
 
 See [Upload and encode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
