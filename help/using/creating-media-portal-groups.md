@@ -1,12 +1,10 @@
 ---
 title: Create and manage Media Portal groups
 description: Learn how to create and manage Media Portal groups in Adobe Dynamic Media Classic.
-uuid: 23f360e1-ddcb-491b-ab9f-428f3ac9c316
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
-discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
@@ -21,7 +19,7 @@ level: Intermediate
 
 To grant access permission at different levels, you create groups. For each group, you assign read, write, and delete permissions to different folders and assets in folders. As well, you decide which Image Presets are available to the group. You then assign users to groups. A user can be a member of more than one group. The group concept gives you the flexibility to assign access to limited sets of the total content.
 
-If you do not specifically grant a group permission to an asset or folder, that asset or folder inherits the permissions you assigned to its parent folder (the folder above it in the folder hierarchy). Grant permissions to a parent folder if you want to make sure that all its child folders inherit the same permissions.
+If you specifically do not grant a group permission to an asset or folder, that asset or folder inherits the permissions you assigned to its parent folder (the folder above it in the folder hierarchy). Grant permissions to a parent folder if you want to make sure that all its child folders inherit the same permissions.
 
 >[!NOTE]
 >
@@ -69,9 +67,9 @@ If you do not specifically grant a group permission to an asset or folder, that 
 
 >[!NOTE]
 >
->Access rights are established when you select a box. When you assign rights to a folder, its subfolders and all files within it are given the same rights as the parent folder. However, you can specify different rights for individual subfolders and asset files.
+>Access rights are established when you select a box. When you assigned rights to a folder, its subfolders and all files within it are given the same rights as the parent folder. However, you can specify different rights for individual subfolders and asset files.
 
-## Choose Image Preset access permissions for a group {#choosing-image-preset-access-permissions-for-a-group}
+## Choose Image Preset access permissions for a group
 
 Choose Image Preset access permissions for a group if you want to specify which Image Presets are available to group members when they export assets with Media Portal.
 

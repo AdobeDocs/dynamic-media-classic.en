@@ -1,12 +1,10 @@
 ---
 title: "Quick Start: Mixed Media Set"
 description: An introduction and Quick Start to Mixed Media Sets to help you get up and running quickly in Adobe Dynamic Media Classic.
-uuid: 0ef033d5-b053-4d7c-b1e1-1980f899fd88
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
-discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
@@ -53,7 +51,7 @@ See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.ht
 
 ## 5. Preview a Mixed Media Set
 
-Select the Mixed Media Set’s **[!UICONTROL Preview]** button. You can select the thumbnail and swatch icons to examine your Mixed Media Set in the Mixed Media Set Viewer. You can choose different Viewers from the Presets menus.
+Select the Mixed Media Set's **[!UICONTROL Preview]** button. You can select the thumbnail and swatch icons to examine your Mixed Media Set in the Mixed Media Set Viewer. You can choose different Viewers from the Presets menus.
 
 See [Preview an asset](previewing-asset.md#previewing-an-asset).
 
@@ -61,7 +59,7 @@ See [Preview an asset](previewing-asset.md#previewing-an-asset).
 
 Publishing a Mixed Media Set places it on Adobe Dynamic Media Classic servers and activates the URL string.
 
-Mixed Media Sets require that you publish to **Video Server** and also to **Image Server**. You use **Video Server** to publish the actual videos that you marked for publishing. And, you use **Image Server** to publish related assets, such as the video thumbnails, and set information for any Adaptive Video Set.
+Mixed Media Sets require that you publish to **Video Server** and also to **Image Server**. Use **Video Server** to publish the actual videos that you marked for publishing. And, you use **Image Server** to publish related assets, such as the video thumbnails, and set information for any Adaptive Video Set.
 
 See [Publish a Mixed Media Set](publishing-mixed-media-set.md#publishing-a-mixed-media-set).
 

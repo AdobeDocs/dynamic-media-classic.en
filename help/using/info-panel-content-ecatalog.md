@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Manage Info Panel content in eCatalogs{#managing-info-panel-content-in-ecatalogs}
 
-In addition to using Image Map text for your rollovers in eCatalogs, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.
+In addition to using Image Map text for your rollovers in eCatalogs, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using caching that is timed and scheduling content updates.
 
 You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
 
@@ -62,7 +62,7 @@ When formatting source content, keep in mind the following guidelines:
 1. Double-click the eCatalog so it opens in Detail View.
 1. Select the **[!UICONTROL InfoPanel Data feed]** panel.
 1. Enter the URL for the CSV file in the Externally Hosted CSV File Location box. You can paste the URL into this field or type it directly.
-1. (Optional) Specify a time to update the content using the Schedule Update menus and select **[!UICONTROL Add]**. You can select multiple times for updating. Each update time appears in the Update Times box. (To remove a time, select it and select **[!UICONTROL Delete]**.)
+1. (Optional) Specify a time to update the content using the Schedule Update menu and select **[!UICONTROL Add]**. You can select multiple times for updating. Each update time appears in the Update Times box. (To remove a time, select it and select **[!UICONTROL Delete]**.)
 1. (Optional) Select **[!UICONTROL Run Update Now]** to immediately update the content.
 
 ### Import a tab-delimited or CSV file {#import-a-tab-delimited-or-csv-file}

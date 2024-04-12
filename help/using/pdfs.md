@@ -1,12 +1,10 @@
 ---
 title: Work with PDFs
 description: Learn how to work with PDFs in Adobe Dynamic Media Classic.
-uuid: 26d70d28-9393-49b1-9051-d70456deca67
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
@@ -27,7 +25,7 @@ See also [Dynamic Media limitations](/help/using/limitations.md).
 
 ## PDF upload options {#pdf-upload-options}
 
-When you upload a PDF file, you can format it in various ways. You crop its pages, extract search words, enter a pixels-per-inch resolution, and choose a color space. PDF files often contain a trim margin, crop marks, registration marks, and other printer’s marks. You can crop these marks from the sides of pages as you upload a PDF file.
+When you upload a PDF file, you can format it in various ways. You crop its pages, extract search words, enter a pixels-per-inch resolution, and choose a color space. PDF files often contain a trim margin, crop marks, registration marks, and other printer's marks. You can crop these marks from the sides of pages as you upload a PDF file.
 
 Options for uploading PDF files are on the Upload page under PDF Options.
 
@@ -59,7 +57,7 @@ Select the Color Space menu and choose a color space for the PDF file. Most PDF 
 
 ### Color Profile options
 
-* **[!UICONTROL Convert To sRGB]** - Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages.
+* **[!UICONTROL Convert To sRGB]** - Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on a web page.
 
 * **[!UICONTROL Keep Original Color Space]** - Retains the original color space.
 
@@ -86,7 +84,7 @@ See also [ICC profiles](/help/using/icc-profiles.md#icc_profiles).
 
 ## Crop from the sides of PDF pages {#cropping-from-the-sides-of-pdf-pages}
 
-You can manually remove printer’s marks from the sides of the pages in a PDF file as you upload it.
+You can manually remove printer's marks from the sides of pages in a PDF file as you upload it.
 
 1. From the Crop menu, select **[!UICONTROL Manual]**.
 1. Enter pixel settings in the Top, Right, Bottom, and Left text boxes to crop from the top, bottom, and sides of pages.

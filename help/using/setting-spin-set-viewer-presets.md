@@ -1,12 +1,10 @@
 ---
 title: Set up Spin Set Viewer Presets
 description: Learn how to set up Spin Set Viewer Presets in Adobe Dynamic Media Classic.
-uuid: e095f989-f3df-46ea-be62-812922805dc0
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
-discoiquuid: 9dfaa37a-59ab-46ae-94c3-c0ab9f940023
 feature: Dynamic Media Classic,Viewers,Spin Sets,Viewer Presets
 role: User
 exl-id: cb9e996c-ab90-4656-8e93-5e7cbeeadb7f
@@ -25,7 +23,7 @@ Spin Set Viewer Presets determine the style, behavior, and look of your viewers.
     * To create a preset, select **[!UICONTROL Add]**, then in the Add Viewer Preset dialog box, choose a platform, and then select **[!UICONTROL Spin Set Viewer]**.
     * To edit an existing Spin Set Viewer preset, select the preset, and then select **[!UICONTROL Edit]**.
 
-1. On the Configure Viewer page, type a name in the Preset Name box for the Spin Set Viewer preset.
+1. On the `Configure Viewer` page, type a name in the Preset Name box for the Spin Set Viewer preset.
 1. Specify other options as desired. To see a description of an option, select the **[!UICONTROL Info Tip]** icon next to the option.
 
    The Preview page displays the viewer as you update and change settings.

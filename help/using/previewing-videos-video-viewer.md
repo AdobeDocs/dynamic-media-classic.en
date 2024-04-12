@@ -1,12 +1,10 @@
 ---
 title: Preview videos in a video viewer
 description: Learn how to preview videos in a Video viewer.
-uuid: 7ab4e805-6e5d-461b-bd99-5e09b9ced950
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
-discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
@@ -30,7 +28,7 @@ See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Detail View]**. On the same toolbar, select **[!UICONTROL Preview]**.
     * In the Asset window, select an asset. In the toolbar, go to **[!UICONTROL File]** > **[!UICONTROL Preview]**.
 
-1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset's URL when it is copied.
+1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that to apply to the asset's URL when it is copied.
 1. Select the **[!UICONTROL Preview]** link so you can review the asset in the selected viewer.
 1. Close the displayed viewer.
 1. Select **[!UICONTROL Close]** to return to the Assets screen.
@@ -41,7 +39,7 @@ See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer
 
 ## Work with video viewer presets {#working-with-video-viewer-presets}
 
-Users watch videos in the Video Viewer. How the Video Viewer behaves, what it looks like, and how its playback controls work depends on the Viewer Preset you choose for playing the video. You choose a Viewer Preset on the Preview screen. After you choose a preset, you can obtain the URL, or the embed code, for playing the video using the Viewer Preset you chose.
+Users watch videos in the Video Viewer. How the Video Viewer behaves, what it looks like, and how its playback controls work depends on the Viewer Preset you choose for playing the video. You choose a Viewer Preset on the Preview screen. After choosing a preset, you can obtain the URL, or the embed code, for playing the video using the Viewer Preset you chose.
 
 Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Viewer Presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its size, color, video and audio controls, progress bar, user-interface skin, and social features.
 
@@ -77,7 +75,7 @@ See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
 
    * **Edit** - Select a Video Viewer Preset, and then select **[!UICONTROL Edit]**.
 
-1. In the Configure Viewer page, in the Preset Name field, enter, or edit the preset name.
+1. In the `Configure Viewer` page, in the Preset Name field, enter, or edit the preset name.
 1. Set the remaining options that you want.
 
    To see a description of an option, select its Info Tip icon.

@@ -1,11 +1,9 @@
 ---
 title: Upload the PDF files
 description: Learn how to upload the PDF files associated with an eCatalog in Adobe Dynamic Media Classic.
-uuid: 9e178bb2-ac09-427a-b61a-aad4e87a5837
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
@@ -24,14 +22,14 @@ When you upload a PDF for page extraction, Adobe enforces the following limit:
 
 See also [Dynamic Media limitations](/help/using/limitations.md).
 
-## Prepare your PDF files {#preparing-your-pdf-files}
+## Prepare your PDF files
 
 Prepare your PDF files before uploading them to Adobe Dynamic Media Classic:
 
 * To make uploading the files easier, place all the files in the same folder on your computer or network.
 * Name the files in alphanumeric order by page. Ordering the pages will make it easier to place the pages in the proper order after the files are uploaded.
 * To see whether PDF pages contain crop marks, registration targets, or color bars, examine the pages. These marks determine where to cut the paper when documents are printed; they must be removed before your eCatalog is placed on the web. Adobe Dynamic Media Classic provides options for cropping marks when you upload PDF files.
-* If you want viewers to search your eCatalog by keyword, find out whether your PDF files are “flattened.” You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select text inside it. If you cannot select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
+* If you want viewers to search your eCatalog by keyword, find out whether your PDF files are "flattened." You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select text inside it. If you cannot select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
 * Because they are meant to be printed, PDF files usually contain CMYK images. By default, Adobe Dynamic Media Classic can intelligently detect these CMYK images and convert them using an internal CMYK color profile. However, if you want to use a custom color profile to convert CMYK images, you can do so.
 
   See [ICC (International Color Consortium) profiles](icc-profiles.md#icc_profiles).

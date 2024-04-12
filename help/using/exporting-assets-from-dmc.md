@@ -1,12 +1,10 @@
 ---
 title: Export assets from Adobe Dynamic Media Classic
 description: Learn how to export assets from Adobe Dynamic Media Classic.
-uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
@@ -19,7 +17,7 @@ You can save assets you edited in Adobe Dynamic Media Classic to a local network
 
 The compressed Zip file has a maximum file size of 1 GB for the export job. Also, you are allowed a maximum of 500 total assets per export job.
 
-Adobe Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
+Adobe Dynamic Media Classic keeps a record of exporting jobs in the Jobs screen.
 
 **To export assets from Adobe Dynamic Media Classic:**
 

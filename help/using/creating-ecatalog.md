@@ -1,12 +1,10 @@
 ---
 title: Create an eCatalog
 description: Learn how to create an eCatalog in Adobe Dynamic Media Classic.
-uuid: 2aff05c2-7052-426c-b61d-7f9091f7ace8
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
@@ -50,7 +48,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
    * **Move To button** - Select a page or page spread, select **[!UICONTROL Move To]**, and choose the page on the menu that you want your page to appear before.
 
-   * **Sequence #** - In List View, enter page numbers in the Sequence # fields.
+   * **Sequence #** - In List View, enter page numbers in the fields of Sequence #.
 
 1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**.
@@ -79,7 +77,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
-## Delete an eCatalog {#deleting-an-ecatalog}
+## Delete an eCatalog
 
 When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 

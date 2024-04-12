@@ -25,7 +25,7 @@ The new [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] builds on the fu
 | Dynamic Imaging | Using one primary file, auto-generate and publish unlimited versions, changing size, format, resolution, crop, or effect. |
 | Dynamic Video | Full-size video is auto-sized for all screens and adaptively streamed to assure a consistent and quality user experience. |
 | Personalization | Easily build and publish [!DNL Dynamic Media] interactive experiences, like product configurators, personalized banners, and emails. |
-| Interactive Experiences | Add interactive hotspots and link product detail into campaigns, video, lookbooks, and other media. |
+| Interactive Experiences | Add interactive hotspots and link product details into campaigns, video, lookbooks, and other media. |
 
 ## Key benefits and capabilities of [!DNL Dynamic Media]
 

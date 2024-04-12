@@ -5,7 +5,6 @@ contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
-discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
@@ -42,9 +41,9 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 
    ![Add an API](assets/analytics-oauth2.png)
 
-1. On the **[!UICONTROL Configure API]** page, select **[!UICONTROL USER AUTHENTICATION OAuth]**.
+1. On the **[!UICONTROL `Configure API`]** page, select **[!UICONTROL USER AUTHENTICATION OAuth]**.
 1. Near the lower-right corner of the page, select **[!UICONTROL Next]**.
-1. On the **[!UICONTROL Configure API]** page, select **[!UICONTROL OAUTH 2.0 Web]**.
+1. On the **[!UICONTROL `Configure API`]** page, select **[!UICONTROL OAUTH 2.0 Web]**.
 1. In the **[!UICONTROL Default redirect URI]** text field, enter the following path exactly as shown:
 
    `https://exploreadobe.com/dynamic-media-upgrade/`
@@ -63,7 +62,7 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 
 >[!NOTE]
 >
->After your initial configuration of Adobe Analytics in Dynamic Media Classic, the only times you must redo the configuration is in the following cases:
+>After your initial configuration of Adobe Analytics in Dynamic Media Classic, the only time you must redo the configuration is in the following cases:
 >
 >* A new report is added in Analytics and user wants to start sending data to that new report.
 >* The Tracking server is updated in Adobe Analytics.

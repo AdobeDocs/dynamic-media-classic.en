@@ -1,12 +1,10 @@
 ---
 title: "Quick Start: Adobe Target Standard/Premium integration"
 description: An introduction and Quick Start to Adobe Target Standard/Premium to help you get up and running quickly with Adobe Target Standard/Premium integration techniques in Adobe Dynamic Media Classic.
-uuid: d8f79fbf-8be1-44fa-8058-3508060fcd70
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
-discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 4745ace5-7825-468e-8a82-bfbbcf1b0440
@@ -19,7 +17,7 @@ level: Experienced
 
 Adobe Dynamic Media Classic lets you create offers and offer sets for Adobe Target Standard/Premium campaigns. For example, you can create an offer set with three variations of the same rich media asset. Then you can have Adobe Target Standard/Premium determine which asset provides better conversion lift. You can create offers and offer sets from a Basic Template or from individual images. After the offer set is pushed or saved to Adobe Target Standard/Premium, where the offers are associated with mboxes and experiences, Adobe Target Standard/Premium can run campaigns. These campaigns determine which variation of a website is likely to perform best for click-throughs and conversion.
 
-For greater customization of dynamic Adobe Dynamic Media Classic content, use Adobe Target Standard/Premium HTML offers. See the [Adobe Target Standard/Premium product documentation](https://experienceleague.adobe.com/docs/target.html) for more information.
+For greater customization of dynamic Adobe Dynamic Media Classic content, use Adobe Target Standard/Premium HTML offers. See the [Adobe Target Standard/Premium product documentation](https://experienceleague.adobe.com/en/docs/target) for more information.
 
 >[!NOTE]
 >

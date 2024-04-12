@@ -1,12 +1,10 @@
 ---
 title: Customize the Media Portal screen
 description: Learn how to customize the Media Portal screen in Adobe Dynamic Media Classic.
-uuid: bd1a65a6-723b-49d0-8eac-849da00e0e1a
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
-discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
@@ -21,7 +19,7 @@ To access the style settings, go to **[!UICONTROL Setup]** > **[!UICONTROL Media
 
 * **[!UICONTROL Logo]** - Select **[!UICONTROL Browse]**, and then choose a graphic in the Select Logo Image window.
 
-* **[!UICONTROL Application]** - Create a gradient color blend by making choices on the Background Gradient Colors menus.
+* **[!UICONTROL Application]** - Create a gradient color blend by making choices on the menus of the Background Gradient Colors.
 
 * **[!UICONTROL Tree]** - Choose a rollover color (the color that appears when you move the pointer over an item) and selection color (the color that appears when you select an item).
 
@@ -43,7 +41,7 @@ Use the following URL instead:
 
 `https://s7sps1.scene7.com/MediaPortal?company=PortalCo`
 
-Including the company name in the URL enables Media Portal to recognize which company a user wants to access and apply the company’s style settings accordingly.
+Including the company name in the URL enables Media Portal to recognize which company a user wants to access and apply the company's style settings accordingly.
 
 You can learn more about communicating URL changes to Media Portal users, and setting up a Welcome e-mail message so new users receive the correct Media Portal URL.
 
