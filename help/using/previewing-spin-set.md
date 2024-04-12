@@ -1,12 +1,10 @@
 ---
 title: Preview a Spin Set
 description: Learn how to preview a Spin Set in Adobe Dynamic Media Classic.
-uuid: 5b9d4c37-a4ec-40c5-8f14-da875d71226e
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
-discoiquuid: 4b32ffff-4387-4699-9ba9-c3b23a2c3607
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 6231a29e-d1b9-47d3-a23a-1940e91ebbc5

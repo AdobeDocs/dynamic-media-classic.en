@@ -1,12 +1,10 @@
 ---
 title: System requirements for Media Portal in Adobe Dynamic Media Classic
 description: Learn about the system requirements for the best experience using Media Portal in Adobe Dynamic Media Classic.
-uuid: e870b198-19ae-4647-8833-2764358de53d
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
-discoiquuid: 43df059d-7c4d-481a-978a-ca4c74e604b4
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin
 exl-id: aa268ff7-c474-409a-af3e-3fd8ae1e6241

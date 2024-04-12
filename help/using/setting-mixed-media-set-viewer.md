@@ -1,12 +1,10 @@
 ---
 title: Set up a Mixed Media Set Viewer Preset
 description: Learn how to set up a Mixed Media Set Viewer Preset in Adobe Dynamic Media Classic.
-uuid: d5bf1840-e453-445d-bebc-84889b29f3c8
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
-discoiquuid: 8029aad8-d696-4d7c-99e2-3b08edb68181
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
@@ -15,7 +13,7 @@ level: Intermediate
 ---
 # Set up a Mixed Media Set Viewer Preset{#setting-up-a-mixed-media-set-viewer-preset}
 
-Mixed Media Set Viewer Presets determine the style, behavior, and look of your main viewer. When configuring a preset, you specify which other viewers you want to appear inside the Mixed Media Viewer. For example, if you’ve included an Image Set in your Mixed Media Set, specify an Image Set Viewer Preset for the Mixed Media Set Viewer.
+Mixed Media Set Viewer Presets determine the style, behavior, and look of your main viewer. When configuring a preset, you specify which other viewers you want to appear inside the Mixed Media Viewer. For example, if you've included an Image Set in your Mixed Media Set, specify an Image Set Viewer Preset for the Mixed Media Set Viewer.
 
 You can choose to include all or some community features in the Mixed Media Set Viewer. The Embed feature adds a link to the viewer that lets users copy the code required to display the viewer in an external page (such as a blog, web site, or social networking site). The Link feature provides the URL to the viewer, so users can link back to this viewer. The Visit feature provides a link to the web site you specify.
 

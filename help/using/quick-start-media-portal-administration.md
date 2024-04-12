@@ -1,12 +1,10 @@
 ---
 title: "Quick Start: Media Portal"
 description: An introduction and Quick Start to Media Portal to help you get up and running quickly with Media Portal techniques and administration in Adobe Dynamic Media Classic.
-uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
-discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296

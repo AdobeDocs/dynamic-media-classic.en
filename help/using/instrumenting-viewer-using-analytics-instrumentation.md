@@ -1,12 +1,10 @@
 ---
 title: Instrument a viewer using the Adobe Analytics Instrumentation Kit
 description: Learn how to instrument a viewer using the Adobe Analytics Instrumentation Kit in Adobe Dynamic Media Classic.
-uuid: cf9a4002-966d-4641-9cd0-2ee8b5454f60
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
-discoiquuid: a2824244-1755-42de-a167-42af117cf038
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 9ea1546d-e6d1-4ba4-8fa1-26b4e69375ba
