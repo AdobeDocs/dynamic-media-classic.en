@@ -1,6 +1,6 @@
 # Adobe Dynamic Media Classic Documentation
 
-This is the repository for Adobe Dynamic Media Classic documentation.
+The Adobe Dynamic Media Classic documentation repository.
 
 Your contributions to the documentation are welcome. See the following resources:
 

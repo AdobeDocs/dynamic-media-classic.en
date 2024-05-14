@@ -26,7 +26,7 @@ When you create an Image Set, Adobe recommends the following best practices and 
 | Number of duplicate assets per set | No duplicates | 20&Dagger; |
 | Maximum number of images per set | 5-10 images per set  | 1000 |
 
-&Dagger; Best practice is to not have duplicate assets in a set. The limit is 20 duplicates for a single asset. If you add another duplicate for that asset&mdash;within that set&mdash;the request either gives an error or ignores the duplicate.
+&Dagger; Best practice is not to have duplicate assets in a set. The limit is 20 duplicates for a single asset. If you add another duplicate for that asset&mdash;within that set&mdash;the request either gives an error or ignores the duplicate.
 
 See also [Dynamic Media limitations](/help/using/limitations.md).
 
@@ -34,7 +34,7 @@ The following Image Sets Quick Start is designed to get you up and running quick
 
 ## 1. Upload your primary images for multiple views and swatches
 
-Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are least 2000 pixels in the largest size. Adobe Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
+Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are at least 2000 pixels in the largest size. Adobe Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
 
 On the Global Navigation bar, select **[!UICONTROL Upload]** to upload files from your computer to a folder on Adobe Dynamic Media Classic.
 
@@ -54,7 +54,7 @@ See also [Include zoom targets and Image Maps in Image Sets](/help/using/includi
 
 Administrators can create or modify Image Set Viewer Presets. Adobe Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: **[!UICONTROL Custom]** > **[!UICONTROL Images]** or **[!UICONTROL Image Sets]**/**[!UICONTROL Multiple Views]** presets to view your Image Sets.
 
-You add or edit Viewer Presets from the Application Setup screen.
+You can add or edit Viewer Presets from the Application Setup screen.
 
 See [Create and edit Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
@@ -80,6 +80,6 @@ See [Publish files](publishing-files.md#publishing-files).
 
 Adobe Dynamic Media Classic creates URL calls for Image Sets, and activates them after you publish. You can copy these URLs from the Preview screen.
 
-Select the Image Set, and then select **[!UICONTROL Preview]**. Now select an Image Set Viewer Preset, and then select **[!UICONTROL Copy URL]**.
+Select the Image Set, and then select **[!UICONTROL Preview]**. Now, select an Image Set Viewer Preset, and then click the **[!UICONTROL Copy URL]** button.
 
-See [Link an Image Set to a web page](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).
+See [Link the Image Set to a Web page](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).

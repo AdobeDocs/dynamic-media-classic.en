@@ -20,7 +20,7 @@ In the interest of fostering an open and welcoming environment, contributors and
 
 Examples of behavior that contributes to creating a positive environment include:
 
-* Using welcoming and inclusive language
+* Using a welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
@@ -32,7 +32,7 @@ Examples of unacceptable behavior by participants include:
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Other conduct that could reasonably be considered inappropriate in a professional setting
 
 ## Adobe's Responsibilities
 
@@ -47,7 +47,8 @@ Not aligned to this Code of Conduct. Or, to ban, temporarily or permanently, any
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address or posting by way of an official social media account. It also includes acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. 
+Examples of representing a project or community include using an official project e-mail address or posting by way of an official social media account. It also includes acting as an appointed representative at an online or offline event. Project maintainers may further define and clarify the representation of a project.
 
 ## Enforcement
 

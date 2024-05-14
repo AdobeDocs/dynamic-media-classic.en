@@ -13,13 +13,13 @@ level: Intermediate
 ---
 # Manage Info Panel content in Image Sets{#managing-info-panel-content-in-image-sets}
 
-In addition to using Image Map text for your rollovers in Image Sets, you can use an info panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using time caching and scheduling content updates.
+In addition to using Image Map text for your rollovers in Image Sets, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using time caching and scheduling content updates.
   
 You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
 
-* InfoPanel Setup panel lets you specify the template used to display the info panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the Image Set is automatically published.
-* InfoPanel Data feed panel lets you specify a CSV file containing the text you want to appear in the info panel rollover text, and schedule times for updating the information.
-* Import Metadata dialog box lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the InfoPanel Data feed panel with the CSV file option for your rollover text.
+* The Info Panel Setup panel lets you specify the template used to display the Info Panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the Image Set is automatically published.
+* The Info Panel Data feed panel lets you specify a CSV file containing the text you want to appear in the Info Panel rollover text, and schedule times for updating the information.
+* The import Metadata dialog box lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the InfoPanel Data feed panel with the CSV file option for your rollover text.
 
 ## Set up a response template for Image Sets {#set-up-a-response-template-for-image-sets}
 
@@ -34,13 +34,13 @@ You can select one of three preset response templates for displaying text in an 
     * To use the default response, select **[!UICONTROL Default]**. The XML for the template design appears, dimmed, in the User Template text box.
     * To create your own response template, select **[!UICONTROL Custom]**. In the User Template text box, type the template XML definition. You can use the default template that is already defined in the text box as a base for your own response.
 
-1. (Optional) In the Default Response box, type the text that you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an image map. For example, if the system receives a company name and an Image Set name, but no rollover identifier, this message appears for the user.
+1. (Optional) In the Default Response box, type the text that you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an Image Map. For example, if the system receives a company name and an Image Set name, but no rollover identifier, this message appears for the user.
 1. In the Response TTL text field, enter the number of hours that you want to wait before caching the data.
 
     * Set a lower number if the data is updated frequently throughout the day.
     * Set a higher number if the data is relatively stable and does not require updating frequently throughout the day. The default is ten hours.
 
-1. Select **[!UICONTROL Upload]** to upload info panel content, based on the rollover_key value, to s7info.
+1. Select **[!UICONTROL Upload]** to upload Info Panel content, based on the rollover_key value, to s7info.
 1. In the S7Info Upload dialog box, browse to the file that you want to use, and then select **[!UICONTROL Upload]**.
 
    Supported file formats are TAB-delimited files with UTF-16 encoding and CSV files with ASCII encoding. For CSV files, non-ASCII characters must be HTML encoded.
@@ -49,12 +49,12 @@ You can select one of three preset response templates for displaying text in an 
 
 ## Import source content for the Info Panel in Image Sets {#import-source-content-for-the-info-panel-in-image-sets}
 
-You can use a CSV (Comma-Separated Value) file with ASCII encoding (non-ASCII characters must be HTML encoded) or a tab-delimited file for the source text for an info panel for an Image Set. Tab-delimited files must use UTF-16 (Unicode) encoding. You import the different file types using different methods.
+You can use a CSV (Comma-Separated Value) file with ASCII encoding (non-ASCII characters must be HTML encoded) or a tab-delimited file for the source text for an Info Panel for an Image Set. Tab-delimited files must use UTF-16 (Unicode) encoding. You can import the different file types using different methods.
 
 When formatting source content, keep in mind the following guidelines:
 
 * The tab- and comma-delimited data can contain as many columns as are necessary for the rollover template.
-* The first item or column of data is the rollover identifier (associated with the rollover_key value from the image map URLs).
+* The first item or column of data is the rollover identifier (associated with the rollover_key value from the Image Map URLs).
 * Make sure that each tab- or comma-delimited item after the identifier is the item that you want substituted into the response template. So, the first column is substituted into $1$, the second column into $2$, and so on).
 
 ### Import CSV content into Image Sets from an externally hosted location {#import-csv-content-into-image-sets-from-an-externally-hosted-location}
@@ -66,4 +66,4 @@ When formatting source content, keep in mind the following guidelines:
 
    You can select multiple times for updating. Each update time appears in the Update Times text box. To remove a scheduled time, select it, and then select **[!UICONTROL Delete]**.
 
-1. (Optional) Select **[!UICONTROL Run Update]** to immediately update the content.
+1. (Optional) Select **[!UICONTROL Run Update]** so you can immediately update the content.

@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic Help
-description: Welcome to Adobe Dynamic Media Classic, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens.
+description: Adobe Dynamic Media Classic is the leading on-demand cross-media publishing system. You can upload, manage, enhance, and publish dynamic rich content to all devices and screens.
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
@@ -10,13 +10,13 @@ level: Intermediate
 ---
 # Adobe Dynamic Media Classic Help {#scene7-overview}
 
-Welcome to Adobe Dynamic Media Classic, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens. Adobe Dynamic Media Classic solutions include the following:
+Adobe Dynamic Media Classic is the leading on-demand cross-media publishing system. You can upload, manage, enhance, and publish dynamic rich content to all devices and screens. Adobe Dynamic Media Classic solutions include the following:
 
 * Dynamic Imaging: Real-time editing, formatting and sizing, interactive zoom and pan; color `swatching` and texture `swatching`; 360-degree spin; image templates; multimedia viewers.
 * eCatalogs: Author, hotspot linking, search-enabled, publish, and deliver dynamically served online catalogs into configurable viewers.
 * Media Portal: Self-serve environment providing portal users with administrator-controlled "views" into Adobe Dynamic Media Classic assets for easy access to upload, browse, search, preview, and export of assets.
 * eVideo: Upload final videos in any format, manage, edit, create hot spots and video templates, publish and stream into configurable video viewers
-* Visual Configurators: Real-time rendering technology to enable online visual configuration for personalization and customization effects such as real-time rendering of colors textures, surfaces, patterns, monograms, and engravings into product images or scenes.
+* Visual Configurators: Real-time rendering technology to enable online visual configuration for personalization and customization effects. Effects such as real-time rendering of colors, textures, surfaces, patterns, monograms, and engravings into product images or scenes.
 * Target email and print: Deliver visually targeted, personalized email campaigns tied to customer profile, product, and channel databases.
 
 See also the following training videos:
@@ -33,7 +33,7 @@ See also the following training videos:
 * [Quick Start: Image sizing](/help/using/quick-start-image-sizing.md)
 * [Quick Start: Integrating Adobe Dynamic Media Classic analytics](/help/using/quick-start-integrating-dmc-analytics.md)
 * [Quick Start: Media Portal](/help/using/quick-start-media-portal-administration.md)
-* [Quick Start: Mixed media Sets](/help/using/quick-start-mixed-media-sets.md)
+* [Quick Start: Mixed Media Sets](/help/using/quick-start-mixed-media-sets.md)
 * [Quick Start: Spin Sets](/help/using/quick-start-spin-sets.md)
 * [Quick Start: Swatch Sets](/help/using/quick-start-swatch-sets.md)
 * [Quick Start: Target Standard/Premium integration](/help/using/quick-start-target-integration.md)

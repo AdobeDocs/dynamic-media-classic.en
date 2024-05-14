@@ -33,5 +33,5 @@ You can automate set generation as an independent job that is not dependent of a
    By default, the job is given a name that indicates it is a generated job and when the job was generated.
 
 1. Select the preset that you want to apply.
-1. Select **[!UICONTROL Destination Folder]**,  and then specify the folder that you want to use.
+1. Select **[!UICONTROL Destination Folder]**, and then specify the folder that you want to use.
 1. Select **[!UICONTROL Submit]**.
