@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Configure Adobe Analytics reports{#configuring-adobe-analytics-reports}
 
-To tell Adobe Analytics what information that you want in Adobe Analytics reports, go to the Adobe Analytics Configuration screen. After you configure reports, this screen lists, for each viewer event you want information about, a corresponding Adobe Analytics variable and Adobe Dynamic Media Classic variable. These viewer events-Adobe Analytics variable-Adobe Dynamic Media Classic variable combinations determine what information is reported.
+To tell Adobe Analytics what information that you want in Adobe Analytics reports, go to the Adobe Analytics Configuration screen. Following your configuration reports, this screen lists, for each viewer event you want information about, a corresponding Adobe Analytics variable and Adobe Dynamic Media Classic variable. These viewer events-Adobe Analytics variable-Adobe Dynamic Media Classic variable combinations determine what information is reported.
 
 Besides associating viewer events with variables, the Adobe Analytics Configuration screen offers tools for activating, editing, and deleting viewer events.
 
@@ -31,8 +31,8 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
 
 **To assign Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables:**
 
-1. After you log in to Adobe Analytics from within Adobe Dynamic Media Classic and select a report suite, on the Adobe Analytics Configuration page, in the right table column, activate a viewer event by selecting **[!UICONTROL Enable]**.
-1. Under the Variables column, display the variable pair chooser by selecting the arrow button for the desired Viewer Event.
+1. After you log in to Adobe Analytics from within Dynamic Media Classic and select a report suite, on the Adobe Analytics Configuration page, in the right table column, activate a viewer event by selecting **[!UICONTROL Enable]**.
+1. Under the Variables column, display the variable pair chooser by selecting the arrow button for the desired viewer event.
 
    See [Viewer events](configuring-analytics-reports.md#viewer_events).
 
@@ -53,23 +53,23 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
 
 ### Viewer events {#viewer-events}
 
-Viewer events describe actions that users perform with Adobe Dynamic Media Classic viewers. When a user initiates a certain action, such as selecting a thumbnail or starting or stopping a video, the viewer "broadcasts" an event to the web page, along with data associated with that event.
+Viewer events describe actions that users perform with Dynamic Media Classic viewers. When a user initiates an action, such as selecting a thumbnail or starting or stopping a video, the viewer "broadcasts" an event to the web page. Data associated with that event is also pushed. 
 
 The following table describes viewer events that you can add to the Adobe Analytics Configuration screen.
 
 |Viewer event|HTML5 Viewer Platform support and viewers|Description|
 | --- | --- | --- |
 | LOAD | **X** (eCatalog, Flyout, SpinSet, Video, Zoom) | When a user starts a viewer |
-| PAGE | **X**  (eCatalog) | In eCatalogs, when a user turns a page; in targeted zoom viewers, when a user selects a different target or a color swatch. |
-|SWAP| **X**  (eCatalog, Flyout, SpinSet, Video, Zoom) | When a user selects a different thumbnail to view a different image. |
-| ITEM | **X**  (eCatalog) | In viewers that support Image Maps in which rollovers are defined, when a user hovers the pointer over an Image Map to read the rollover text. |
-| HREF | **X**  (eCatalog) | In viewers that support Image Maps, when a user selects a URL in an Image Map. |
+| PAGE | **X** (eCatalog) | In eCatalogs, when a user turns a page; in targeted zoom viewers, when a user selects a different target or a color swatch. |
+|SWAP| **X** (eCatalog, Flyout, SpinSet, Video, Zoom) | When a user selects a different thumbnail to view a different image. |
+| ITEM | **X** (eCatalog) | In viewers that support Image Maps in which rollovers are defined, when a user hovers the pointer over an Image Map to read the rollover text. |
+| HREF | **X** (eCatalog) | In viewers that support Image Maps, when a user selects a URL in an Image Map. |
 |TARGET | | In targeted zoom viewers, when a user selects a zoom target to zoom to part of an image. |
 | SEARCH | | In eCatalogs, when a user conducts a word search. |
-| PLAY | **X**  (Video) | In Video viewers, when a user selects Play to start playing a video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enable Adobe Analytics Video Reports](enabling-analytics-video-reports.md). |
+| PLAY | **X** (Video) | In Video viewers, when a user selects Play to start playing a video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enable Adobe Analytics Video Reports](enabling-analytics-video-reports.md). |
 | PAUSE | **X** (Video) | In Video viewers, when a user selects **[!UICONTROL Pause]** to freeze a video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enable Adobe Analytics Video Reports](enabling-analytics-video-reports.md). |
 | STOP | **X** (Video) | In Video viewers, when a user selects **[!UICONTROL Stop]** to stop playing a video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enable Adobe Analytics Video Reports](enabling-analytics-video-reports.md). |
-| MILESTONE | **X**  (Video) | In Video viewers, milestone events are generated when the user watches 0, 25, 50, 75, or 100 percent of the video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enable Adobe Analytics Video Reports](enabling-analytics-video-reports.md). |
+| MILESTONE | **X** (Video) | In Video viewers, milestone events are generated when the user watches 0, 25, 50, 75, or 100 percent of the video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enable Adobe Analytics Video Reports](enabling-analytics-video-reports.md). |
 | SWATCH | **X** (Flyout, Zoom) | This viewer event is mapped to the PAGE viewer event in Adobe Dynamic Media Classic. |
 | ZOOM | **X** (eCatalog, SpinSet, Zoom) | Not tracked by Adobe Analytics. |
 | PAN | **X** (eCatalog, SpinSet, Zoom) | Not tracked by Adobe Analytics. |
@@ -77,7 +77,7 @@ The following table describes viewer events that you can add to the Adobe Analyt
 
 ### Adobe Dynamic Media Classic variables {#scene-variables}
 
-For each viewer event on Adobe Analytics Configuration screen, choose an Adobe Analytics variable and an *Adobe Dynamic Media Classic variable*. Adobe Dynamic Media Classic variables represent data that you can obtain for a report. For example, the `searchTerm` variable lists keywords used in eCatalog searches.
+For each viewer event on the Adobe Analytics Configuration screen, choose an Adobe Analytics variable and an *Adobe Dynamic Media Classic variable*. Adobe Dynamic Media Classic variables represent data that you can obtain for a report. For example, the `searchTerm` variable lists keywords used in eCatalog searches.
 
 The following table describes Adobe Dynamic Media Classic variables:
 
@@ -101,6 +101,6 @@ On the Adobe Analytics Configuration screen, you can activate, edit, and delete 
 
 * **Activate** - Select **[!UICONTROL Enable]** to activate or **[!UICONTROL Disable]** to deactivate a selected viewer event.
 
-* **Edit** - Select a viewer event and select **[!UICONTROL View/Edit]** Variables gray button. In the Adobe Dynamic Media Classic Variable and Adobe Analytics Variable drop-down lists, choose a different variable from each respective list. For more information, see [Assigning Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables](#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables).
+* **Edit** - Select a viewer event and select the **[!UICONTROL View/Edit]** Variables gray button. In the Adobe Dynamic Media Classic variable and Adobe Analytics variable drop-down lists, choose a different variable from each respective list. For more information, see [Assigning Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables](#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables).
 
-* **Delete** - Select a viewer event, and select **[!UICONTROL View/Edit]** Variables gray button. Select **[!UICONTROL Delete]**.
+* **Delete** - Select a viewer event, and select the **[!UICONTROL View/Edit]** Variables gray button. Select **[!UICONTROL Delete]**.

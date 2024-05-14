@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Work in Detail View{#working-in-detail-view}
 
-You can work with and learn about an asset by opening it in Detail View. In Detail View, you see the asset size, attributes, derivatives, and metadata. You also see whether and when the asset was published and you can obtain the URL of published assets. Depending on the asset type, you can preview it at different sizes, zoom in on it, and perform sharpening, cropping, and other formatting operations.
+You can work with and learn about an asset by opening it in Detail View. In Detail View, you see the asset size, attributes, derivatives, and metadata. You can also see whether and when the asset was published and you can obtain the URL of published assets. Depending on the asset type, you can preview it at different sizes, zoom in on it, and perform sharpening, cropping, and other formatting operations.
 
 <!-- 
 
@@ -34,17 +34,17 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
 ## Open an asset in Detail View {#open-an-asset-in-detail-view}
 
-To closely examine, preview, or work on an asset, you can display it in Detail View.
+You can display an asset in Detail View so you can closely examine, preview, or work on it. 
 
 1. In the Browse Panel, do any one of the following:
 
-    * Select the asset. Near the upper-right corner of the Adobe Dynamic Media Classic, select the **[!UICONTROL Detail View]** icon .
+    * Select the asset. Near the upper-right corner of the Adobe Dynamic Media Classic, select the **[!UICONTROL Detail View]** icon.
     * Double-click the asset.
     * Select the asset, then go to **[!UICONTROL File]** > **[!UICONTROL Details]**.
 
 >[!NOTE]
 >
->You can page from asset to asset in the same folder in Detail View by selecting **[!UICONTROL Previous Asset]** or **[!UICONTROL Next Asset]**. These buttons are in the upper-right corner in Detail View.
+>You can page from asset to asset in the same folder in Detail View. Just click **[!UICONTROL Previous Asset]** or **[!UICONTROL Next Asset]**. These buttons are in the upper-right corner in Detail View.
 
 ## Get information in Detail View {#getting-information-in-detail-view}
 
@@ -56,17 +56,17 @@ You can obtain an asset URL in Detail View; however, the URL is not active until
 
 Detail View offers tools for working with the asset that you opened. Which tools are available depends on the type of asset you are working with, but Detail View always offers these functions:
 
-* **items for publish** - Select the **[!UICONTROL `Publish`]** icon to the left of the name, or go to **[!UICONTROL File]** > **[!UICONTROL Publish]** or **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
+* **items for publish**: Select the **[!UICONTROL `Publish`]** icon to the left of the name, or go to **[!UICONTROL File]** > **[!UICONTROL Publish]** or **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
-* **Rename the asset** - Select the name and enter a new name.
+* **Rename the asset**: Select the name and enter a new name.
 
-* **Edit and add metadata** - Select the Metadata panel and change as desired. See [View, add, and export metadata](/help/using/viewing-adding-exporting-metadata.md).
+* **Edit and add metadata**: Select the Metadata panel and change as desired. See [View, add, and export metadata](/help/using/viewing-adding-exporting-metadata.md).
 
-* **Edit and add keywords** - Select Keywords and add or remove them as desired. See [Add or edit keywords](/help/using/viewing-adding-exporting-metadata.md).
+* **Edit and add keywords**: Select Keywords and add or remove them as desired. See [Add or edit keywords](/help/using/viewing-adding-exporting-metadata.md).
 
-* **Delete the asset** - Go to **[!UICONTROL File]** > **[!UICONTROL Delete]**.
+* **Delete the asset**: Go to **[!UICONTROL File]** > **[!UICONTROL Delete]**.
 
-For discrete files—images, Image Sets, and fonts, for example—you can view the publishing and editing history, and check job details, in Detail View.
+For discrete files&mdash;images, Image Sets, and fonts, for example&mdash;you can view the publishing and editing history, and check job details, in Detail View.
   
 This table shows which other options are available with different types of assets in Detail View.
 
@@ -87,7 +87,7 @@ This table shows which other options are available with different types of asset
 | SVG files | No | No |
 | Templates | Edit | Yes |
 | Videos | No | Yes |
-| Vignettes and rendered vignettes | No | Image is shown<br>You can view the contents and structure of the renderable elements of the vignette in XML format |
+| Vignettes and rendered vignettes | No | The image is shown<br>You can view the contents and structure of the renderable elements of the vignette in XML format |
 | XML files| No | Contents are shown |
 | ZIP files | No | Contents are not shown |
 

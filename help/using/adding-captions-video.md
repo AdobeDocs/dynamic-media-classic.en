@@ -12,7 +12,7 @@ level: Intermediate
 ---
 # Add captions to video {#add-captions-to-video}
 
-You can extend the reach of your videos to global markets by adding captioning to single videos or to Adaptive Video Sets. By adding captioning you avoid the need to dub the audio, or the need to use native speakers to rerecord the audio for each different language. The video is played in the language that it was recorded. Foreign language subtitles appear so that people of different languages can still understand the audio portion.
+Extend the reach of your videos to global markets. You can do so by adding captioning to single videos or Adaptive Video Sets. By adding captioning you avoid the need to dub the audio, or the need to use native speakers to rerecord the audio for each different language. The video is played in the language that it was recorded. Foreign language subtitles appear so that people of different languages can still understand the audio portion.
 
 Captioning also allows for greater accessibility by using closed captioning for people who are deaf or hard of hearing.
 
@@ -32,15 +32,15 @@ See also [Add and edit Viewer Presets](application-setup.md#adding_and_editing_v
 
 Adobe Dynamic Media Classic can convert caption files to JSON (JavaScript Object Notation) format. This conversion means you can embed the JSON text into a web page as a hidden but complete transcript of the video. Search engines can then crawl and index the content to make the videos more easily discoverable and give customers more details about the video content.
 
-See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) in the *Adobe Image Serving API Help* for more information about using the JSON function in a URL.
+See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) in for more information about using the JSON function in a URL.
 
-**To add captions to video:**
+**To add captions to a video:**
 
 1. Using a third-party application outside Adobe Dynamic Media Classic, create your video caption file based on the viewer type that you are using.
 
    |Viewer type|Captioning file|
    |--- |--- |
-   |HTML5|If you are using an HTML5 video viewer, ensure that the caption file you create follows the WebVTT (Web Video Text Tracks) standard. The captioning filename extension is .vtt. You can learn more information about the WebVTT captioning standard.<br><br>[See WebVTT](https://w3c.github.io/webvtt/): The Web Video Text Tracks format. <br><br>There are many websites that offer both free and fee-based tools and services that you can use to author WebVTT caption files outside Adobe Dynamic Media Classic. <br><br>Follow the onscreen instructions from a site to author and save your WebVTT file. When you have finished, copy the caption file contents and paste it into a plain text editor and save it with a VTT filename extension. <br><br><b>Note:</b> For global support of video captions in languages other than English, the WebVTT standard requires that you create separate .vtt files and calls for each language you want to support. <br><br>Generally, you want to name the caption VTT file the same name as the video file, and append it with captions. By doing so, it can help you with automating the generation of the video URLs using your existing web content management system.|
+   |HTML5|If you are using an HTML5 video viewer, ensure that the caption file you create follows the WebVTT (Web Video Text Tracks) standard. The captioning filename extension is `.VTT`. You can learn more information about the WebVTT captioning standard.<br><br>[See WebVTT](https://w3c.github.io/webvtt/): The Web Video Text Tracks format. <br><br>There are many websites that offer both free and fee-based tools and services that you can use to author WebVTT caption files. <br><br>Follow the onscreen instructions from a site to author and save your WebVTT file. When you have finished, copy the caption file contents and paste it into a plain text editor and save it with a VTT filename extension. <br><br><b>Note:</b> For global support of video captions in languages other than English, the WebVTT standard requires that you create separate `.VTT` files and calls for each language you want to support. <br><br>Generally, you want to name the caption VTT file the same name as the video file, and append it with captions. By doing so, it can help you with automating the generation of the video URLs using your existing web content management system.|
 
 1. In Adobe Dynamic Media Classic, upload your WebVTT, DFXP, or SMPTE XML caption file.
 

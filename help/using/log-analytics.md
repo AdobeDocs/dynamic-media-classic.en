@@ -13,9 +13,9 @@ level: Experienced
 ---
 # Log on to Adobe Analytics{#log-in-to-adobe-analytics}
 
-Before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Adobe Dynamic Media Classic events, verify that you are a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Experience Cloud's Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
+Verify that you are a member of the Web Service Access group in Adobe Analytics. Do so before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Adobe Dynamic Media Classic events. Members in this group can access all reports in the specified Report Suites. Do so using the Experience Cloud's Web Services API, regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
-When you log in, you have the option of entering your Experience Cloud Org ID to use the latest video analytics implementation. If you choose not to enter your ID, video reporting still works. However, it can cause the data to not integrate correctly with other data for that client from outside Adobe Dynamic Media Classic.
+When you log in, you have the option of entering your Experience Cloud Org ID to use the latest video analytics implementation. If you choose not to enter your ID, video reporting still works. However, it can cause the data not to integrate correctly with other data for that client from outside Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -32,8 +32,8 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 
 1. Do either one of the following:
 
-   * At the top of the page, from the **[!UICONTROL Home]** tab, select **[!UICONTROL Create new project]**.
-   * At the top of the page, from the **[!UICONTROL Projects]** tab. Near the right corner of the page, select **[!UICONTROL Create new project]**.
+   * At the top of the page, from the **[!UICONTROL Home]** tab, select **[!UICONTROL Create a new project]**.
+   * At the top of the page, from the **[!UICONTROL Projects]** tab. Near the right corner of the page, select **[!UICONTROL Create a new project]**.
 
 1. On the project's page, select **[!UICONTROL Add API]**.
 1. On the **[!UICONTROL Add an API]** page, select **[!UICONTROL Adobe Analytics]**.
@@ -56,7 +56,7 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 1. In the navigation panel, on the left side of the Adobe Analytics page, under **[!UICONTROL Credentials]**, select **[!UICONTROL OAuth Web]**.
 1. Under **[!UICONTROL Credential details]**, do the following:
    * Under **[!UICONTROL Client ID]**, select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Analytics configuration in the Dynamic Media Classic desktop application that is to follow.
-   * Under **[!UICONTROL Client Secret]**, select **[!UICONTROL Retrieve client secret]** to reveal the associated value. Select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Adobe Analytics configuration in Dynamic Media Classic desktop application that is to follow.
+   * Under **[!UICONTROL Client Secret]**, select **[!UICONTROL Retrieve client secret]** to reveal the associated value. Select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Adobe Analytics configuration in the Dynamic Media Classic desktop application that is to follow.
 
 ## Configure Adobe Analytics in Adobe Dynamic Media Classic {#configure-analytics-in-dmc}
 
@@ -64,7 +64,7 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 >
 >After your initial configuration of Adobe Analytics in Dynamic Media Classic, the only time you must redo the configuration is in the following cases:
 >
->* A new report is added in Analytics and user wants to start sending data to that new report.
+>* A new report is added in Analytics and the user wants to start sending data to that new report.
 >* The Tracking server is updated in Adobe Analytics.
 >* A new tracking variable is introduced in a report and you want to link a specific Viewer variable in the Dynamic Media Classic user interface to that new Analytics variable.
 >

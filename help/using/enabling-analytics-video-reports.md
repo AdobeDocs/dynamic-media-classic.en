@@ -13,9 +13,9 @@ level: Experienced
 ---
 # Enable Adobe Analytics Video Reports{#enabling-adobe-analytics-video-reports}
 
-Using Adobe Analytics heartbeat-based video reporting, you no longer must enable the four video viewer events (Play, Pause, Stop, Milestone) when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and Mixed Media viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports.
+Using Adobe Analytics heartbeat-based video reporting, you no longer must enable the four video viewer events (Play, Pause, Stop, Milestone) when you configure Adobe Analytics in Adobe Dynamic Media Classic. Video Heartbeat works with out-of-the-box Adobe Dynamic Media Classic HTML5 Video and Mixed Media viewers. The video player generates tracking data for viewing within Adobe Analytics video reports.
 
-* For an introduction to streaming media and 'heartbeat measurement', see [About Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
+* For an introduction to streaming media and 'heartbeat measurement,' see [About Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
 
 * The integration of Adobe Analytics video reports with Adobe Dynamic Media Classic supports solution variables, but not custom variables.
 
@@ -29,4 +29,4 @@ Using Adobe Analytics heartbeat-based video reporting, you no longer must enable
 
 >[!NOTE]
 >
->If your licensed solution of Adobe Analytics does not include Video Heartbeat, you must continue using the steps described in this chapter to assign Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables.
+>If your licensed solution of Adobe Analytics does not include Video Heartbeat, continue using the steps described in this chapter to assign Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables.

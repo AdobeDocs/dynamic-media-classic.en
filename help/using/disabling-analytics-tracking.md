@@ -18,4 +18,4 @@ level: Experienced
 1. Turn off all events in the Adobe Analytics Configuration page in Adobe Dynamic Media Classic.
 1. Save and publish.
 
-These steps turn off the support through Adobe Dynamic Media Classic and through URLs obtained from the **[!UICONTROL CopyURL]** feature. If you implement custom tracking, disable the Adobe Analytics tracking as setup in the Configuration page to prevent conflicts with the custom implementation.
+These steps turn off the support for Adobe Dynamic Media Classic and for URLs obtained from the **[!UICONTROL CopyURL]** feature. If you implement custom tracking, disable the Adobe Analytics tracking as setup in the Configuration page to prevent conflicts with the custom implementation.
