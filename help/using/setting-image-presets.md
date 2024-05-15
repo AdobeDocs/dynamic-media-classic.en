@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Set up Image Presets{#setting-up-image-presets}
 
-Like a macro, an Image Preset is a predefined collection of sizing and formatting commands saved under a name. To understand how Image Presets work, suppose that your web site requires each product image to appear at two different sizes: 500 &times; 500 pixels and 150 &times; 150 pixels. You create two Image Presets, one called "Enlarge" to display images at 500x500 pixels and one called "Thumbnail" to display images at 150 &times; 150 pixels. To deliver images at the "Enlarge" and "Thumbnail" size, a Dynamic Media Image Server looks up the definition of the "Enlarge Image Preset" and "Thumbnail Image Preset". Then the server dynamically generates an image at the size and formatting specifications of each Image Preset.
+Like a macro, an Image Preset is a predefined collection of sizing and formatting commands saved under a name. To understand how Image Presets work, suppose that your web site requires each product image to appear at two different sizes: 500 &times; 500 pixels and 150 &times; 150 pixels. You create two Image Presets, one called "Enlarge" to display images at 500x500 pixels and one called "Thumbnail" to display images at 150 &times; 150 pixels. To deliver images at the "Enlarge" and "Thumbnail" size, a Dynamic Media Image Server looks up the definition of the "Enlarge Image Preset" and "Thumbnail Image Preset." Then the server dynamically generates an image at the size and formatting specifications of each Image Preset.
 
 Adobe Dynamic Media Classic comes with several "best practice" Image Presets that are already set up for you to use. Administrators can create Image Presets as well. To create an Image Preset, you can start from scratch or you can start from an existing one and save it under a new name.
 
@@ -59,13 +59,13 @@ You can create your own Image Presets if you are a company administrator. You ca
 
 The Adobe Dynamic Media Classic "best practice" options for creating Image Presets listed here are general recommendations; sharpening is highly subjective. These "best practice" settings were based on a 2000 &times; 2000 primary image; settings for larger or smaller primary files can be different. If you want to adjust the Unsharp Masking settings, Adobe Dynamic Media Classic recommends these ranges:
 
-* **[!UICONTROL Amount]** - Between .8 and 1.5.
+* **[!UICONTROL Amount]** - Between `.8` and `1.5`.
 
-* **[!UICONTROL Radius]** - Between .6 and 2.
+* **[!UICONTROL Radius]** - Between `.6` and `2`.
 
-* **[!UICONTROL Threshold]** - From 1 through 6.
+* **[!UICONTROL Threshold]** - From `1` through `6`.
 
-To delete an Image Preset, select it on the Image Presets screen,  and then elect **[!UICONTROL Delete]**.
+To delete an Image Preset, select it on the Image Presets screen, and then elect **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >

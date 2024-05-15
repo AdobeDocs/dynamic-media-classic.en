@@ -23,7 +23,8 @@ See also [Smart imaging](https://experienceleague.adobe.com/en/docs/experience-m
 >
 >Try out and discover the benefits of Dynamic Media image modifiers and Smart Imaging, using Dynamic Media [_Snapshot_](https://snapshot.scene7.com/).
 >
-> Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. Experiment with test images or Dynamic Media URLs, to visually observe the output of various Dynamic Media image modifiers, and Smart Imaging optimizations for the following:
+> Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. Experiment with test images or Dynamic Media URLs, so you can visually observe the output of various Dynamic Media image modifiers, and Smart Imaging optimizations for the following:
+>
 >* File size (with WebP and AVIF delivery)
 >* Network bandwidth
 >* DPR (Device Pixel Ratio) 
@@ -63,7 +64,7 @@ With Adobe Dynamic Media Classic, you can sharpen images on ingestion, on delive
 
 There are two image-sharpening methods that you can use:
 
-* Simple sharpening ( `&op_sharpen`) - Similar to the sharpen filter used in Photoshop, simple sharpening applies basic sharpening to the final view of the image following dynamic resizing. However, this method is not user-configurable. The best practice is to not use `&op_sharpen` unless required.
+* Simple sharpening ( `&op_sharpen`) - Similar to the sharpen filter used in Photoshop, simple sharpening applies basic sharpening to the final view of the image following dynamic resizing. However, this method is not user-configurable. The best practice is avoiding the use of `&op_sharpen` unless required.
 * Unsharp masking ( `&op_USM`) - Unsharp masking is an industry standard filter for sharpening. The best practice is to sharpen images with unsharp masking following the guidelines below. Unsharp masking lets you control the following three parameters:
 
   * `&op_sharpen=amount,radius,threshold`
@@ -75,7 +76,7 @@ There are two image-sharpening methods that you can use:
 
     * `threshold` (0-255, sensitivity of effect.)
 
-      This parameter determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and the filter sharpens them. Threshold helps to avoid over-sharpening areas with similar colors, such as skin tones. For example, a threshold value of 12 ignores slight variations in skin tone brightness to avoid adding "noise", while still adding edge contrast to high contrast areas, such as where eyelashes meet skin.
+      This parameter determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and the filter sharpens them. Threshold helps to avoid over-sharpening areas with similar colors, such as skin tones. For example, a threshold value of 12 ignores slight variations in skin tone brightness to avoid adding "noise," while still adding edge contrast to high contrast areas, such as where eyelashes meet skin.
 
       For more information about how you set these three parameters, including best practices to use with the filter, see [Sharpen images in Adobe Dynamic Media Classic and on Image Server](/help/using/assets/s7_sharpening_images.pdf).
 
@@ -92,10 +93,10 @@ Gradually increase the amount from 1.75 to 4. If sharpening is still not the way
 
 Leave the monochrome parameter setting at 0.
 
-## Best practices for JPEG compression (&qlt=) {#best-practices-for-jpeg-compression-qlt}
+## Best practices for JPEG compression (`&qlt=`) {#best-practices-for-jpeg-compression-qlt}
 
 * This parameter controls JPG encoding quality. A higher value means a higher-quality image but a large file size; alternatively, a lower value means a lower quality image but a smaller file size. The range for this parameter is 0-100.
-* To optimize for quality, do not set the parameter value to 100. The difference between a setting of 90 or 95 and 100 is almost imperceptible, yet 100 unnecessarily increases the size of the image file. Therefore, to optimize for quality but avoid image files becoming too large, set the `qlt=` value to 90 or 95.
+* To optimize for quality, do not set the parameter value to 100. The difference between a setting of 90 or 95 and 100 is almost imperceptible. Yet 100 unnecessarily increases the size of the image file. Therefore, to optimize for quality but avoid image files becoming too large, set the `qlt=` value to 90 or 95.
 * To optimize for a small image file size but keep image quality at an acceptable level, set the `qlt=` value to 80. Values below 70 to 75 results in significant image quality degradation. 
 * As a best practice, to stay in the middle, set the `qlt=` value to 85 to stay in the middle.
 * Using the chroma flag in `qlt=`
@@ -110,17 +111,17 @@ As a best practice for JPG compression use `&qlt=85,0`.
 The parameter `jpegSize` is useful if you want to guarantee that an image does not exceed a certain size for delivery to devices that have limited memory.
 
 * This parameter is set in kilobytes ( `jpegSize=<size_in_kilobytes>`). It defines the maximum allowed size for image delivery.
-* `&jpegSize=` interacts with the JPG compression parameter `&qlt=`. If the JPG response with the specified JPG compression parameter ( `&qlt=`) does not exceed the `jpegSize` value, the image is returned with `&qlt=` as defined. Otherwise, `&qlt=` is gradually decreased until the image fits in the maximum allowed size, or until the system determines it cannot fit and returns an error.
+* `&jpegSize=` interacts with the JPG compression parameter `&qlt=`. If the JPG response with the specified JPG compression parameter ( `&qlt=`) does not exceed the `jpegSize` value, the image is returned with `&qlt=` as defined. Otherwise, `&qlt=` is gradually decreased until the image fits in the maximum allowed size. Or, until the system determines it cannot fit and returns an error.
 
 As a best practice, set `&jpegSize=` and add the parameter `&qlt=` if you are delivering JPG images to devices with limited memory.
 
 ## Best practices summary {#best-practices-summary}
 
-As a best practice, to achieve a high image quality and small file size, start with the following combination of parameters:
+As a best practice, to achieve a high image quality and a small file size, start with the following combination of parameters:
 
 `fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0`
 
-This combination of settings products excellent results under most circumstances.
+This combination of settings produces excellent results under most circumstances.
 
 If the image requires further optimization, gradually fine-tune sharpening (unsharp masking) parameters by starting with a radius set to 0.2 or 0.3. Then, gradually increase the amount from 1.75 to a maximum of 4 (equivalent to 400% in Photoshop). Check to see that the desired result is achieved.
 

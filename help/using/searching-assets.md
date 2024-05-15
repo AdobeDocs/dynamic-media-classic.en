@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Search assets in Adobe Dynamic Media Classic{#searching-assets}
 
-To locate file assets in Adobe Dynamic Media Classic, you can view assets by type, sort assets in the Browse Panel, conduct a simple search, conduct an advanced search, and filter for assets.
+To locate file assets in Adobe Dynamic Media Classic, you can view assets by type, sort assets in the Browse Panel, conduct a simple search, conduct an Advanced Search, and filter for assets.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ To see only files of a certain type as you browse, in the Asset Library on the l
 
 >[!NOTE]
 >
->If you do not see the Asset Library panel on the left side, select the right triangle arrow on the left side, half way down the Adobe Dynamic Media Classic window, to open the Asset Library.)
+>If you do not see the Asset Library panel on the left side, click the right triangle arrow on the left side, half way down the Dynamic Media Classic window, to open the Asset Library.
 
 ## Sort files in the Browse Panel {#sorting-files-in-the-browse-panel}
 
-To sort the contents of a folder or search results that appear in the Browse Panel on the right side, on the Global Navigation bar, select **[!UICONTROL Sort]**, and then choose an option. The options are **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, and **[!UICONTROL Last Modified]**.
+You can sort the contents of a folder or search results that appear in the Browse Panel on the right side. On the Global Navigation bar, select **[!UICONTROL Sort]**, and then choose an option. The options are **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, and **[!UICONTROL Last Modified]**.
 
 You can also choose **[!UICONTROL Ascending]** or **[!UICONTROL Descending]** to sort assets in ascending or descending order by the criteria you choose.
 
@@ -37,7 +37,7 @@ In List View, you can sort by selecting a column name.
 
 ## Conduct a simple search {#conducting-a-simple-search}
 
-Use the Search field in Asset Library so you can conduct simple searches. You can search for items by name or search for items whose metadata contains a keyword.
+Use the Search field in the Asset Library so you can conduct simple searches. You can search for items by name or search for items whose metadata contains a keyword.
 
 1. In the Asset Library, in the **[!UICONTROL Folders]** panel, select the folder to search in a particular folder and its subfolders.
 1. To the left of the Search field in the Asset Library, select the **[!UICONTROL Magnifying Glass]** icon to open the drop-down list.
@@ -57,7 +57,7 @@ In the Asset Library, directly below the Search field, select **[!UICONTROL Adva
 
 Specify any of the following criteria in your advanced search:
 
-* **Filter by asset type** - Narrow your search to one asset type only by choosing an asset type on the menu.
+* **Filter by asset type** - Narrow your search to one asset type only. Choose an asset type on the menu.
 
 * **Files and folders** - Choose where you want to search: **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, or **[!UICONTROL Within Selected Folder & Subfolders]**.
 
@@ -67,7 +67,7 @@ Specify any of the following criteria in your advanced search:
 
 * **Search criteria** - Create one or more search fields for searching metadata. To create search fields:
 
-   1. In Advanced Search, under the **[!UICONTROL Search criteria]** heading, and to the left of the **[!UICONTROL Add a Field]** menu), select the down triangle arrow icon to open the drop-down list. Choose a Metadata view. You can choose **[!UICONTROL All properties with values]**, **[!UICONTROL Compact View]**, **[!UICONTROL IPTC]**, **[!UICONTROL Metadata Server Publish Fields]**, or **[!UICONTROL XMP]**.
+   1. In Advanced Search, under the **[!UICONTROL Search criteria]** heading, and to the left of the **[!UICONTROL Add a Field]** menu), select the down triangle arrow icon to open the drop-down list. Choose a Metadata View. You can choose **[!UICONTROL All properties with values]**, **[!UICONTROL Compact View]**, **[!UICONTROL IPTC]**, **[!UICONTROL Metadata Server Publish Fields]**, or **[!UICONTROL XMP]**.
    1. Select the **[!UICONTROL Add a Field]** drop-down menu and choose a field name.
    1. Choose a **[!UICONTROL Contains]** option: **[!UICONTROL Contains]**, **[!UICONTROL Does Not Contain]**, **[!UICONTROL Begins With]**, **[!UICONTROL Ends With]**, or **[!UICONTROL Equals]**.
    1. For numeric fields, choose a value or enter a custom date range. 
@@ -81,7 +81,7 @@ Select **[!UICONTROL Clear]** if you want to clear the search criteria and start
 
 ## Filter assets using metadata {#filter-assets-using-metadata}
 
-Filter assets in the Filters tab of the Asset Library. To filter assets, you use metadata values as the criteria. After choosing a metadata field to filter on, the Filters tab lists all metadata values that were entered in the field you chose. It also lists the number of assets that were assigned each value. For example, in a filter operation on the **[!UICONTROL Creator]** metadata field, the **[!UICONTROL Filters]** tab lists all names that were entered in the **[!UICONTROL Creator]** metadata field for different assets. It also lists for each name, the number of assets assigned the name. You then select a metadata value to see all assets that were assigned that value. In the example, you select the `Prairie Cat` metadata value to see all assets in which the name `Prairie Cat` was entered in the **[!UICONTROL Creator]** metadata field. You can filter using more than one metadata field as a filtering criterion.
+Filter assets in the Filters tab of the Asset Library. To filter assets, you use metadata values as the criteria. After choosing a metadata field to filter on, the Filters tab lists all metadata values that were entered in the field you chose. It also lists the number of assets that were assigned each value. For example, in a filter operation on the **[!UICONTROL Creator]** metadata field, the **[!UICONTROL Filters]** tab lists all names that were entered in the **[!UICONTROL Creator]** metadata field for different assets. It also lists for each name, the number of assets assigned to the name. You then select a metadata value to see all assets that were assigned that value. In the example, you select the `Prairie Cat` metadata value to see all assets in which the name `Prairie Cat` was entered in the **[!UICONTROL Creator]** metadata field. You can filter using more than one metadata field as a filtering criterion.
 
 You can save filter operations to run them many times.
 
@@ -103,7 +103,7 @@ Follow these steps so you can locate assets by filtering with their metadata val
 
    See [Save, repeat, and delete filter operations](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
-1. Select **[!UICONTROL Field]** on a panel, then follow these instructions so you can display the filtering menu and construct the filter operation:
+1. Click **[!UICONTROL Field]** on a panel, then follow these instructions so you can display the filtering menu and construct the filter operation:
 
    * **Choose a metadata field** - Select the name of the field on the filtering menu.
 
@@ -119,23 +119,23 @@ Follow these steps so you can locate assets by filtering with their metadata val
 
    When you choose a metadata field, its panel lists the following:
 
-    * All metadata values entered in the field.
+    * All metadata values are entered in the field.
     * For each metadata value, the number of assets given the value.
 
 1. Repeat Step 2 as many times as necessary to list all metadata fields for the filter operation on panels.
 1. In each panel, select a metadata value to filter on. You cannot select more than one metadata value in each panel.
 
-   Assets that match all the values that you selected appear in the Browse panel.
+   Assets that match all the values that you selected appear in the Browse Panel.
 
    >[!NOTE]
    >
-   >To temporarily remove a field from the filter operation, select **[!UICONTROL Deselect All]**. This option is at the top of each panel, above metadata values.
+   >Temporarily remove a field from the filter operation by clicking **[!UICONTROL Deselect All]**. This option is at the top of each panel, above metadata values.
 
 1. (Optional) To save the filter operation and be able to run it later, select **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]**, and then enter a name in the **[!UICONTROL Save]** dialog box.
 
 ### Save, repeat, and delete filter operations {#saving-repeating-and-deleting-filter-operations}
 
-Follow these instructions on the Filters tab so you can save, repeat, and delete filter operations:
+Follow these instructions in the Filters tab so you can save, repeat, and delete filter operations:
 
 * **Save a filter operation** - Go to **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]**, and then enter a name in the **[!UICONTROL Save]** dialog box.
 

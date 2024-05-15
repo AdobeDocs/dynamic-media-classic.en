@@ -15,7 +15,7 @@ level: Intermediate
 
 When uploading image files, including AI, EPS, and PSD files, you can take the following editing actions in the Upload Job Options dialog box:
 
-* Crop white space from the edge of images.
+* Crop white space from the edge of the images.
 * Crop manually from the sides of images.
 * Choose a color profile.
 * Create a mask from a clipping path. 
@@ -26,7 +26,7 @@ These options are on the Upload page under the **[!UICONTROL Imaging Edit Option
 
 ## Crop white space from images
 
-To automatically crop white-space pixels from an image, on the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. In the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Trim]**. Then choose these options:
+You can automatically crop white-space pixels from an image. On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. In the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Trim]**. Then choose these options:
 
 * **[!UICONTROL Trim Away Based On]** - From this drop-down list, choose whether to crop based on color or transparency:
 
@@ -42,7 +42,7 @@ To automatically crop white-space pixels from an image, on the Upload Job Option
 
 ## Crop manually from the sides of images
 
-To manually crop from the sides of an image, select the Crop menu and choose Manual. Then enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, if the image displays 150 ppi and you enter 75 in the Top, Right, Bottom, and Left text boxes, 0.5 in. is cropped from each side.
+To manually crop from the sides of an image, select the Crop menu and choose Manual. Then enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, suppose that the image displays 150 ppi. Then you enter 75 in the Top, Right, Bottom, and Left text boxes. At this point, each side is cropped 0.5 inch.
 
 ## Choose a color profile
 
@@ -70,7 +70,7 @@ Under Unsharp Masking, set the options you want. Setting options are described i
 
 | Unsharp Mask options |Description |
 | --- | --- |
-| Amount | Controls the amount of contrast that is applied to edge pixels.<br><br>Think of it as the intensity of the effect. The main difference between the amount values of Unsharp Mask in Adobe Dynamic Media Classic and the amount values in Adobe Photoshop is that Photoshop has an amount range of 1% to 500%. Whereas in Adobe Dynamic Media Classic, the value range is 0.0 to 5.0. A value of 5.0 in Adobe Dynamic Media Classic is the rough equivalent of 500% in Photoshop; a value of 0.9 is the equivalent of 90%, and so on. |
+| Amount | Amount controls the amount of contrast that is applied to edge pixels.<br><br>Think of it as the intensity of the effect. There is a difference between the amount values of Unsharp Mask in Dynamic Media Classic and in Adobe Photoshop. The main difference is that Photoshop has an amount range of 1% to 500%. Whereas in Adobe Dynamic Media Classic, the value range is 0.0 to 5.0. A value of 5.0 in Adobe Dynamic Media Classic is the rough equivalent of 500% in Photoshop; a value of 0.9 is the equivalent of 90%, and so on. |
 | Radius | Controls the radius of the effect. <br><br>The value range is 0-250. The effect is run on all pixels in an image and radiates out from all pixels in all directions. The radius is measured in pixels. For example, to get a similar sharpening effect for a 2000 &times; 2000 pixel image and 500 &times; 500 pixel image, you would set a radius of two pixels on the 2000 &times; 2000 pixel image. Then set a radius value of one pixel on the 500 &times; 500 pixel image. A larger value is used for an image that has more pixels. |
 | Threshold | Threshold is a range of contrast that is ignored when the Unsharp Mask filter is applied. This effect is important so that no "noise" is introduced to an image when this filter is used. The value range is 0-255, which is the number of brightness steps in a grayscale image. 0=black, 128=50% gray and 255=white.<br><br>For example, a threshold value of 12 ignores slight variations is skin tone brightness to avoid adding noise, but still add edge contrast to contrasty areas such as where eyelashes meet skin.<br><br>For example, if you have a photo of someone's face, the Unsharp Mask affects the contrasty parts of the image. For example, where eyelashes and skin meet to create an obvious area of contrast, and the smooth skin itself. Even the smoothest skin exhibits subtle changes in brightness values. If you do not use a threshold value, the filter accentuates these subtle changes in skin pixels. In turn, a noisy and undesirable effect is created while contrast on the eyelashes is increased, enhancing sharpness.<br><br>To avoid this issue, a threshold value is introduced that tells the filter to ignore pixels that do not change contrast dramatically, like smooth skin. <br><br>In the zipper graphic shown earlier, notice the texture next to the zippers. Image noise is exhibited because the threshold values are too low to suppress the noise. |
 | Monochrome | Select to unsharp-mask image brightness (intensity).<br><br>Deselect to unsharp-mask each color component separately. |
@@ -81,14 +81,14 @@ See also [Sharpen images in Adobe Dynamic Media and on Image Server](/help/using
 
 ## Knockout Background
 
-You can use Knockout Background to automatically remove the background of an image when you upload it. This technique is useful to draw attention to a particular object and make it stand out from a busy background.
+Use Knockout Background so you can automatically remove the background of an image when you upload it. This technique is useful to draw attention to a particular object and make it stand out from a busy background.
 
 | KnockOut Background options | Description |
 | --- | --- |
 | Knockout Background | Select to enable or "turn on" the Knockout Background feature and options. |
 | Corner | Required.<br>The corner of the image that is used to define the background color to knockout.<br>You can choose from <b>Upper Left, Bottom Left, Upper Right, or Bottom Right</b>.|
 |Fill Method|Required. <br>Controls pixel transparency from the Corner location that you set.<br>You can choose from the following fill methods:<br>&bull; <b>Flood Fill</b> - turns all pixels transparent that match the Corner that you have specified and are connected to it.<br>&bull; <b>Match Pixel</b> - turns all matching pixels transparent, regardless of their location on the image. |
-| Tolerance | Optional.<br>Controls the allowable amount of variation in pixel color matching based on the Corner location that you set.<br>Use a value of 0.0 to match pixel colors exactly or, use a value of 1.0 to allow for the greatest variation. |
+| Tolerance | Optional.<br>Controls the allowable amount of variation in pixel color matching based on the Corner location that you set.<br>Use a value of 0.0 to match pixel colors exactly. Or, use a value of 1.0 to allow for the greatest variation. |
 
 >[!MORELIKETHIS]
 >

@@ -15,7 +15,7 @@ level: Experienced
 
 You can use the Adobe Analytics Instrumentation Kit to integrate an HTML5 viewer with Adobe Analytics.
 
-If you use any of the predefined Adobe Dynamic Media Classic HTML5 viewer presets, they already contain all the implementation code to send data to Adobe Analytics; no further instrumentation is required by you.
+If you use any of the predefined Adobe Dynamic Media Classic HTML5 viewer presets, they already contain all the implementation code to send data to Adobe Analytics. You do not need to add any further instrumentation.
 
 ## Set up Adobe Analytics tracking from Adobe Dynamic Media Classic {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 
@@ -25,7 +25,7 @@ For all HTML5 viewers, add the following JavaScript to the HTML container, usual
 <!-- ***** Adobe Analytics Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<Adobe Dynamic Media Classic Company ID>&preset=companypreset-1"></script>
 ```
 
-Where `Adobe Dynamic Media Classic Company ID` is set to the Adobe Dynamic Media Classic company name. And `&preset` is optional unless the company preset name is not `companypreset`. In such cases, it could be `companypreset-1, companypreset-2`, and so on. The higher number is a newer instance of the preset. To determine the correct company preset value name, select **[!UICONTROL Copy URL]**, and then look at the `preset=`parameter to find the company preset name.
+Where `Adobe Dynamic Media Classic Company ID` is set to the Adobe Dynamic Media Classic company name. And `&preset` is optional. If the company preset name is not `companypreset`, then it is not optional. In such cases, it could be `companypreset-1, companypreset-2`, and so on. The higher number is a newer instance of the preset. To determine the correct company preset value name, select **[!UICONTROL Copy URL]**, and then look at the `preset=`parameter to find the company preset name.
 
 Continuing, now add a function that transmits the viewer event to the Adobe Analytics tracking code.
 
@@ -35,7 +35,7 @@ Add the `s7ComponentEvent()` function to the container HTML (or JSP, or ASPX or 
 function s7ComponentEvent(objectId, componentClass, instanceName, timeStamp, eventData) {     s7track(eventData); }
 ```
 
-The function name is case-sensitive. The only parameter passed to `s7componentEvent`that is required is the last one: `eventData`. Where `s7track()` is defined in s_code.jsp included above. And `s7track` handles all tracking per each event. (To further customize data transmitted to Adobe Analytics, this area is the place to do it.)
+The function name is case-sensitive. The only parameter passed to `s7componentEvent`that is required is the last one: `eventData`. Where `s7track()` is defined in s_code.jsp included above. And `s7track` handles all tracking per each event. (You can further customize data transmitted to Adobe Analytics is this area.)
 
 ## Enable HREF and ITEM events {#enabling-href-and-item-events}
 
