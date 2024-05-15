@@ -35,7 +35,7 @@ See [Create and edit Viewer Presets](application-setup.md#adding-and-editing-vie
 
 ## 4. Preview a Swatch Set
 
-Select the Swatch Set in the Browse Panel, and then select **[!UICONTROL Preview]**. Your Swatch Set appears in this page. Select the thumbnail and swatch icons so you can examine your Swatch Set in the selected Viewer. You can choose different Viewers from the Presets menu.
+Select the Swatch Set in the Browse Panel, and then select **[!UICONTROL Preview]**. Your Swatch Set appears on this page. Select the thumbnail and swatch icons so you can examine your Swatch Set in the selected Viewer. You can choose different Viewers from the Presets menu.
 
 See [Preview an asset](previewing-asset.md#previewing-an-asset).
 
@@ -51,4 +51,4 @@ See [Publish files](publishing-files.md#publishing-files).
 
 Adobe Dynamic Media Classic creates URL calls for Swatch Sets, and activates them after you publish. You can copy these URLs from the Preview page.
 
-Select the Swatch Set, and then select the Preview button. The Preview page opens. Select a Swatch Set Viewer Preset and select the Copy URL button. See [Link a Swatch Set to a web page](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).
+Select the Swatch Set, and then select the Preview button. The Preview page opens. Select a Swatch Set Viewer Preset and select the Copy URL button. See [Link Swatch Sets to Web pages](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).

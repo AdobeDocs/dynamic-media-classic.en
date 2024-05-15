@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # View Image Sets{#viewing-image-sets}
 
-You can view your Image Sets in the Preview window, using your available presets. You use a Zoom Viewer: Custom Viewer Preset for Image Sets.
+You can view your Image Sets in the Preview window, using your available presets. You can use a Zoom Viewer: Custom Viewer Preset for Image Sets.
 
 Adobe Dynamic Media Classic comes with default Viewer Presets. Administrators can create or modify the Viewer Presets.
 
@@ -28,7 +28,7 @@ You can create and customize Viewer Presets to suit your needs.
 
    * **Edit** - Display the name of a preset, select it, then select **[!UICONTROL Edit]**.
 
-1. On the `Configure Viewer` page, in the Preset Name text field, type a name for the Swatch Set Viewer preset.
+1. On the `Configure Viewer` page, in the Preset Name text field, type a name for the Swatch Set Viewer Preset.
 1. Choose options in the `Configure Viewer` page.
 
    To see a description of an option, select the **[!UICONTROL Info Tip]** icon to the right of the option.
@@ -39,11 +39,11 @@ You can create and customize Viewer Presets to suit your needs.
 
 ## Preview Image Set Assets in a Viewer {#previewing-image-set-assets-in-a-viewer}
 
-You can use Preview to see how an asset appears on particular viewer type such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in Preview.
+You can use Preview to see how an asset appears in a particular viewer type such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in Preview.
 
 1. In the Asset Library panel on the left side, in the **[!UICONTROL Show]** drop-down list, choose **[!UICONTROL Image Set]**.
 1. In the Asset Library panel on the left side, navigate the asset folders to select the Image Set that you want to preview.
-1. Do any one of the following
+1. Do any one of the following:
 
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL List View]** icon. In the Asset window, hover on an asset, then select **[!UICONTROL Preview]** (not the Preview drop-down list).
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL Grid View]** icon. In the Asset window, in an asset thumbnail window, select **[!UICONTROL Preview]** (not the Preview drop-down list).

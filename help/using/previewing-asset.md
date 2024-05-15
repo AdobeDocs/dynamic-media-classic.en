@@ -17,7 +17,7 @@ You can use Preview to see how a digital asset appears when viewed by a customer
 
 See [Configure default viewers](application-setup.md#configuring_default_viewers).
 
-If you are previewing a template asset with parameter layers, you can change parameters or change the image preset. Because your changes are made inline, you can view the results immediately from the same Preview window.
+If you are previewing a template asset with parameter layers, you can change parameters or change the Image Preset. Because your changes are made inline, you can view the results immediately from the same Preview window.
 
 See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
@@ -37,7 +37,7 @@ See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en
 
 ## Preview an asset based on viewer platform type {#previewing-an-asset-based-on-viewer-platform-type}
 
-You can use Viewer List to preview how an asset appears on particular viewer platform type such as HTML5. Depending on the asset type and the associated viewer that you have selected to preview, not all platforms are available in Viewer List.
+You can use Viewer List to preview how an asset appears on a particular viewer platform type such as HTML5. Depending on the asset type and the associated viewer that you have selected to preview, not all platforms are available in Viewer List.
 
 You can also use Viewer List to copy a viewer's URL or view and copy the viewer code for embedding in your web pages.
 
@@ -57,7 +57,7 @@ For a given viewer platform, the Viewer List window lets you visually see what d
 
    Close the displayed preview.
 
-1. (Optional) In the Viewer List window, in the URL Encoding for Copy URL Generation drop-down list at the bottom, select the URL encoding to apply to the asset's URL when it is copied.
+1. (Optional) In the Viewer List window, in the URL Encoding for Copy URL Generation drop-down list at the bottom, select the URL Encoding. This encoding is applied to the asset's URL when it is copied.
 1. (Optional) Do any of the following:
 
     * In the Viewer List window, under the Actions column of the table, select **[!UICONTROL Copy URL]** for a selected viewer and platform type.
@@ -76,7 +76,7 @@ For a given viewer platform, the Viewer List window lets you visually see what d
 
 You can preview an image asset based on its Image Preset to find out what your image looks like when it is delivered dynamically to your web site or application at different sizes.
 
-An Image Preset is a collection of pre-defined settings that change the size, image quality, format, resolution, and other aspects of an image's appearance when it is exported.
+An Image Preset is a collection of pre-defined settings. These settings change the size, image quality, format, resolution, and other aspects of an image's appearance when it is exported.
 
 See [Set up Image Presets](setting-image-presets.md#setting_up_image_presets).
 
@@ -92,7 +92,8 @@ See [Create and enable Image Presets](creating-enabling-image-presets.md#creatin
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Detail View]**. On the same toolbar, go to **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
 
 1. In the Image Preset List window, in the table, select the name of a preset type whose image asset you want to preview inline in the right pane.
-1. (Optional) In the Image Preset List window, in the **[!UICONTROL URL Encoding for Copy URL Generation]** drop-down list at the bottom, select the URL encoding to apply to the image asset's URL when it is copied.
+1. (Optional) In the Image Preset List window, in the **[!UICONTROL URL Encoding for Copy URL Generation]** drop-down list at the bottom.
+1. Select the URL Encoding to apply to the image asset's URL when it is copied.
 1. (Optional) In the Image Preset List window, in the upper-right area of the preview pane, select **[!UICONTROL Copy URL]** for the selected preset type.
 
    When you select **[!UICONTROL Copy URL]**, its associated URL is automatically copied to the clipboard.

@@ -13,11 +13,11 @@ level: Intermediate
 ---
 # Application Setup{#application-setup}
 
-You can use the Application Setup pages to enter general settings, create image presets, video encoding presets, viewer presets, or to define default viewers, and metadata. You can set up batch set presets to also automate the generation of 2D spin sets (for example), publishing settings, and video SEO settings.
+You can use the Application Setup pages to enter General Settings, create Image Presets, Video Encoding Presets, Viewer Presets, or to define Default Viewers, and metadata. You can set up Batch Set Presets so they automate the generation of 2D Spin Sets (for example), publishing settings, and video SEO settings.
 
 >[!NOTE]
 >
->Only Adobe Dynamic Media Classic administrators can change settings in Application Setup.
+>Only Adobe Dynamic Media Classic Administrators can change settings in Application Setup.
 
 ## General Settings {#general-settings}
 
@@ -29,19 +29,19 @@ On account creation, Adobe Dynamic Media Classic automatically provides the assi
 
 See also [Test the Secure Testing service](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
-* **[!UICONTROL Published Server Name]** - This server is the live CDN (Content Deliver Network) server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by an Adobe Dynamic Media Classic support technician.
+* **[!UICONTROL Published Server Name]** - This server is the live CDN (Content Deliver Network) server used in all system-generated URL calls specific to your account. Only change this server name if you are instructed to do so by an Adobe Dynamic Media Classic support technician.
 
-* **[!UICONTROL Origin Server Name]** - This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by an Adobe Dynamic Media Classic support technician.
+* **[!UICONTROL Origin Server Name]** - This server is used for quality assurance testing only. Only change this server name if you are instructed to do so by an Adobe Dynamic Media Classic support technician.
 
 <!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by an Adobe DynamicMedia Classic support technician. -->
 
-* **[!UICONTROL Test&amp;Target Server Name]** - Your Test&Target URL, up to and including .com. For instructions about obtaining this URL, see Integrating [!DNL Adobe Dynamic Media Classic] with [!DNL Adobe Target Standard/Premium].
+* **[!UICONTROL Test&amp;Target Server Name]** - The Test&Target URL, including `.com`. For instructions about obtaining this URL, see Integrating [!DNL Adobe Dynamic Media Classic] with [!DNL Adobe Target Standard/Premium].
 
 <!-- **Test Publish Context Server Name** -->
 
-* **[!UICONTROL iOS Streaming Server Name]** - The URL to your [!DNL Adobe Dynamic Media Classic] iOS streaming server. This server delivers streaming video to iOS-based devices using HTTP protocol.
+* **[!UICONTROL iOS Streaming Server Name]** - The URL to your [!DNL Adobe Dynamic Media Classic] iOS streaming server. This server delivers streaming video to iOS-based devices using the HTTP protocol.
 
-* **[!UICONTROL Progressive Video Server Name]** - The URL to your [!DNL Adobe Dynamic Media Classic] progressive video server. This server delivers progressive video using HTTP protocol.
+* **[!UICONTROL Progressive Video Server Name]** - The URL to your [!DNL Adobe Dynamic Media Classic] progressive video server. This server delivers progressive video using the HTTP protocol.
 
 * **[!UICONTROL Show URL for unpublished assets]** - Select this option if you wanted [!DNL Adobe Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
 
@@ -65,7 +65,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
    After you have selected your CDN Invalidation Template, and made an Invalidate CDN request, an indicator pops up in the user interface. It gives you an estimate of how long it takes to clear the cache.
 
-   Similarly, if multiple images are selected within Adobe Dynamic Media Classic when you go to **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**, each image is referenced in the saved Template URL. Therefore, you can define a CDN Invalidate Template referencing each URL that is referenced on your Web site (such as product detail and search results). Then, when you select one or images for invalidation from cache, the URLs automatically populate the interface.
+   When you click **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**, each image is referenced in the saved Template URL if multiple images are selected in Dynamic Media Classic. Therefore, you can define a CDN Invalidate Template referencing each URL that is referenced on your Web site (such as product detail and search results). Then, when you select one or images for invalidation from the cache, the URLs automatically populate the interface.
 
    See [Content caching](dmc-platform-overview.md#content_caching).
 
@@ -77,11 +77,11 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 * **[!UICONTROL Show Sample eVideo Content]** - Turn on or off the display of eVideo sample content.
 
-* **[!UICONTROL Show Generated Content]** - In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Adobe Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each image generated when the original PDF was uploaded appears along with the PDF in the folder to which the PDF was uploaded.
+* **[!UICONTROL Show Generated Content]** - In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Adobe Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each generated image when the original PDF gets uploaded, appears. It appears along with the PDF in the folder to which the PDF was uploaded.
 
 * **[!UICONTROL Show Encoded Videos]** - Deselected (off) by default.
 
-   To quickly search and browse for videos in Adobe Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video, leave this option deselected (default). Only the Primary Video thumbnail (the source video you uploaded and used to create the derivatives), and the "parent" Adaptive Video Set thumbnail (which contains the "child" derivatives of the encoded video set), are displayed.
+   You can quickly search and browse for videos in Adobe Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video. Leave this option deselected (default). Only the Primary Video thumbnail (the source video you uploaded and used to create the derivatives), and the "parent" Adaptive Video Set thumbnail (which contains the "child" derivatives of the encoded Video Set), are displayed.
 
    You can, however, still access individual encoded videos from the Primary Video or the Adaptive Video Set. To do so, double-click the video thumbnail image to open Detail View. Then select **[!UICONTROL Encoded Videos]** in the right panel so you can access all the "child" videos.
 
@@ -107,7 +107,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 ### Upload to Application
 
-See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/569_Default%20Job%20Options_converted%20renamed_Getting%20Started-AVS) training video.
+See also [Options for upload jobs](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/569_Default%20Job%20Options_converted%20renamed_Getting%20Started-AVS) training video.
 
 * **[!UICONTROL Overwrite Images]** - Adobe Dynamic Media Classic does not allow two files to have the same name. Each item's Adobe Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a "-1" (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). See [Use the Overwrite Images option](#using-the-overwrite-images-option).
 
@@ -119,7 +119,7 @@ See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/Vi
 
   * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** - This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
 
-* **[!UICONTROL Retain Publish]** - Specifies whether a replacement image uploaded to Adobe Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing, or the setting is specified on upload.
+* **[!UICONTROL Retain Publish]** - Specifies whether a replacement image uploaded to Adobe Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing. Or, the setting is specified on upload.
 
 * **[!UICONTROL Default Color Profiles]** - Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
 
@@ -129,11 +129,11 @@ See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/Vi
 
 * **[!UICONTROL Default Image Mapping HREF]** - Defines the default URL that is used for the HREF column in image mapping. This URL is the default URL that you see when you create Image Maps.
 
-* **[!UICONTROL Default Image Mapping Template]** - Defines the default JavaScript for the HREF template in image mapping. You can set custom code here to be run whenever you select an image map.
+* **[!UICONTROL Default Image Mapping Template]** - Defines the default JavaScript for the HREF template in image mapping. You can set a custom code here to be run whenever you select an image map.
 
 ### Other Settings (to Application)
 
-* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select "Send emails before trash items are automatically deleted" if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/using/trash-folder.md).
+* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select "Send emails before trash items are automatically deleted" to have notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/using/trash-folder.md).
 
 ## Use the Overwrite Images option {#using-the-overwrite-images-option}
 
@@ -141,15 +141,15 @@ Adobe Dynamic Media Classic does not allow two files to have the same name. Each
 
 If you previously uploaded images and then changed the original files (or replaced them), the chosen Overwrite option specifies how Adobe Dynamic Media Classic replaces the images. No information about the image changes, but the new image replaces the old one. If the folder also contains images that are not already in Adobe Dynamic Media Classic, these images are added.
 
-Use this option if images that you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe&reg; PDFs. To fine-tune how Adobe Dynamic Media Classic *rips* the image, adjust the ICC color profile options in the Upload dialog box and reupload using the overwrite feature.
+Use this option if uploaded images have changed in some way (the image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe&reg; PDFs. You can fine-tune how Adobe Dynamic Media Classic *rips* the image. You can also adjust the ICC color profile options in the Upload dialog box and reupload using the overwrite feature.
 
-The Adobe Dynamic Media Classic IDs that are used to access images from the production servers are derived from the image filenames. The use of uppercase and lowercase characters in the filename is important, both in the replacement of existing files and for the Adobe Dynamic Media Classic IDs used to access the image. Be sure the use of uppercase and lowercase characters in filenames is correct before uploading into Adobe Dynamic Media Classic to avoid Adobe Dynamic Media Classic IDs that differ only in case for the same image.
+The Adobe Dynamic Media Classic IDs that are used to access images from the production servers are derived from the image filenames. The use of uppercase and lowercase characters in the filename is important, both in the replacement of existing files and for the Adobe Dynamic Media Classic IDs used to access the image. Use of filenames with uppercase and lowercase characters is correct before uploading into Adobe Dynamic Media Classic to avoid Adobe Dynamic Media Classic IDs that differ only in case for the same image.
 
 If you deselect this option, all images with the same filenames as existing images are treated as duplicates and are not added.
 
 ## Image Presets {#image-presets}
 
-The Image Presets screen is for creating and editing Image Presets. Image Presets enable Adobe Dynamic Media Classic to deliver images dynamically at different sizes from the same primary image. Each Image Preset represents a predefined collection of sizing and formatting commands for displaying images. When you create an Image Preset, you select a size for image delivery. You also select formatting commands so that the appearance of the image is optimized when the image is delivered for viewing.
+The Image Presets screen is for creating and editing Image Presets. Image Presets enable Adobe Dynamic Media Classic to deliver images dynamically at different sizes from the same primary image. Each Image Preset represents a predefined collection of sizing and formatting commands for displaying images. When you create an Image Preset, you select a size for image delivery. You can also select formatting commands so that the appearance of the image is optimized when the image is delivered for viewing.
 
 Administrators can create presets for exporting assets. Users can choose a preset when they export images, which also reformat images to the specifications that the administrator specifies.
 
@@ -227,7 +227,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 * **[!UICONTROL Radius]** - Determines the number of pixels surrounding the edge pixels that affect the sharpening. For high-resolution images, enter from 1 through 2. A low value sharpens only the edge pixels; a high value sharpens a wider band of pixels. The correct value depends on the size of the image.
 
-* **[!UICONTROL Threshold]** - Determines the range of contrast to ignore when the unsharp mask filter is applied. In other words, this option determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and are sharpened. To avoid introducing noise, experiment with values between .02 and 0.2. The default value of 6 sharpens all pixels in the image.
+* **[!UICONTROL Threshold]** - Determines the range of contrast to ignore when the unsharp mask filter is applied. That is, it can help resolve how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and sharpened. To avoid introducing noise, experiment with values between `.02` and `0.2`. The default value of 6 sharpens all pixels in the image.
 
 * **[!UICONTROL Color Space]** - Determines whether the image uses the space in which the image was created, usually RGB (Original) or a luminance space (Intensity).
 
@@ -237,7 +237,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
    See also [ICC profiles](icc-profiles.md#icc_profiles).
 
-* **[!UICONTROL Rendering Intent]** - Select an option if you want to override the default rendering intent of the color profile. Use this option when one of the default ICC profiles is the target color space of a color conversion. Or, an output device (printer or monitor) is characterized by this profile, and the specified rendering intent is valid for this profile.
+* **[!UICONTROL Rendering Intent]** - Select an option if you want to override the default rendering intent of the color profile. Use this option when one of the default ICC profiles is the target color space of a color conversion. Or, this profile characterizes the output device (printer or monitor), and the specified rendering intent is valid for this profile.
 
 * **[!UICONTROL Embed Profile]** - Select this option so that, if you open this image in Adobe&reg; Photoshop&reg;, it uses this profile.
 
@@ -256,11 +256,11 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
     * Select **[!UICONTROL Delete]** to remove the preset from the list.
     * Deselect the **[!UICONTROL Active]** check box next to a preset name if you want to remove it from the entire Adobe Dynamic Media Classic user interface for MediaPortal users.
 
-## Activate or deactivate adaptive video presets {#activating-or-deactivating-adaptive-video-presets}
+## Activate or deactivate Adaptive Video Presets {#activating-or-deactivating-adaptive-video-presets}
 
-Adobe Dynamic Media Classic offers Adaptive Video encoding presets. It is a primary list of presets that combines both 16:9 Adaptive Video presets and 4:3 Adaptive Video presets into one group. These predefined presets reflect the most common encoding settings and are optimized for playback on target mobile devices, tablets, and desktops.
+Adobe Dynamic Media Classic offers Adaptive Video Encoding Presets. It is a primary list of presets that combines both 16:9 Adaptive Video Presets and 4:3 Adaptive Video Presets into one group. These predefined presets reflect the most common encoding settings and are optimized for playback on target mobile devices, tablets, and desktops.
 
-Only "Adaptive Video" encoding presets are activated (enabled or "turned on") by default. You can deactivate it, if desired. Inactive Adaptive Video presets do not appear as a selectable option in the eVideo section of the Upload Job Options dialog box.
+Only "Adaptive Video" encoding presets are activated (enabled or "turned on") by default. You can deactivate it, if desired. Inactive Adaptive Video Presets do not appear as a selectable option in the eVideo section of the Upload Job Options dialog box.
 
 See [Upload and encode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
@@ -274,13 +274,13 @@ See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
 
 ## Video presets for encoding video files {#video-presets-for-encoding-video-files}
 
-To select an encoding preset, in the lower-right corner of the Upload page, select **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, expand eVideo Options and select the video encoding presets you want.
+To select an encoding preset, in the lower-right corner of the Upload page, select **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, expand eVideo Options and select the Video Encoding Presets you want.
 
 >[!NOTE]
 >
->Except for "Adaptive Video", which is enabled by default, you cannot see all other adaptive video or single video encoding presets in the Upload Job Options dialog box. Adobe Dynamic Media Classic Administrators determine which video encoding presets are visible in the Upload Job Options dialog box.
+>Except for "Adaptive Video," which is enabled by default, you cannot see all other Adaptive Video or single Video Encoding Presets in the Upload Job Options dialog box. Adobe Dynamic Media Classic Administrators determine which Video Encoding Presets are visible in the Upload Job Options dialog box.
 
-* Select from the following adaptive video encoding or single-encoding presets:
+* Select from the following Adaptive Video encoding or single-encoding presets:
 
   * **[!UICONTROL 16:9 Adaptive Video]** - Create 16:9 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;), optimized with the resolution and bit rate that best matches the viewer's connection speed.
 
@@ -306,7 +306,7 @@ To select an encoding preset, in the lower-right corner of the Upload page, sele
     * Select an encoding preset based on the resolution size and bandwidth with which you plan to play the video.
     * You can select Adaptive Video Encoding and one or more encoding presets per video. For example, you can encode a file for both desktop and mobile in one upload job.
 
-After you select **[!UICONTROL Start Upload]**, the original primary video file is uploaded and encoded files are generated from the primary file.
+After you select **[!UICONTROL Start Upload]**, the original Primary Video file is uploaded and encoded files are generated from the primary file.
 
 ### About encoding preset options {#about-encoding-preset-options}
 
@@ -320,7 +320,7 @@ Parameters of the encoding preset options are the following:
 
 * **[!UICONTROL Pixel Width/Height]** - The width dimension of the screen image, in pixels; the height dimension of the screen image (in pixels).
 
-* **[!UICONTROL Frame per second (fps)]** - The number of frames, or still images, for each second of video. In the United States and Japan, most video is shot at 29.97 fps; in Europe and Asia (excluding Japan), most video is shot at 25 fps. Film is shot at 24 fps.
+* **[!UICONTROL Frame per second (fps)]** - The number of frames, or still images, for each second of video. In the United States and Japan, most video is shot at 29.97 fps; in Europe and Asia (excluding Japan), most video is shot at 25 fps. The film is shot at 24 fps.
 
 * **[!UICONTROL Audio bit rate]** - The amount of data that is encoded to make up a single second of audio playback, in kilobits per second.
 
@@ -328,25 +328,25 @@ The following tables show you recommended best practices for selecting video pre
 
 ### Adaptive Video (default) {#adaptive-video-default}
 
-An encoding preset that works with any aspect ratio to let you create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded using this preset (the default and a best practice) are set to a fixed height while the width automatically scales to preserve the video's aspect ratio.
+An encoding preset that works with any aspect ratio to let you create videos for delivery to mobile, tablet, and desktop. Uploaded source videos encoded with this preset (the default and a best practice) are set to a fixed height while the width automatically scales to preserve the video's aspect ratio.
 
 **Adaptive Video (default)**
 
-||Encoding Preset Name/Tooltip Text|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (kbps)|Recommendations|
+||Encoding Preset Name/Tooltip Text|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|FPS|Audio bit rate (kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |
 |1|Auto &times; 360, 800 Kbps|_Mobile_Auto&times;360p_800K|800|Auto&times;360|Same as source|64|For mobile (iPhone, iPad, Android&trade;)|
 |2|Auto &times; 480, 1400 Kbps|_Tablet_Auto&times;480p_1400K|1400|Auto&times;480|Same as source|96|For tablets (iPad, Android&trade;)|
 |3|Auto &times; 720, 2600 Kbps|_Desktop_Auto&times;720p_2600K|2600|Auto&times;720|Same as source|128|For desktop|
 
-### Adaptive Video Encoding (16:9 or 4:3) video presets {#adaptive-video-encoding-or-video-presets}
+### Adaptive Video Encoding (16:9 or 4:3) Presets {#adaptive-video-encoding-or-video-presets}
 
-These adaptive video encoding presets combine a series of individual encode presets that are automatically selected for you based on the aspect ratio of the video that you uploaded. For example, if you upload a 4:3 video, it is automatically encoded using all five 4:3 presets found within the primary preset list in the **Adaptive Video Encoding (16:9 or 4:3)** option.
+These Adaptive Video Encoding Presets combine a series of individual encode presets that are automatically selected for you based on the aspect ratio of the video that you uploaded. For example, if you upload a 4:3 video, it is automatically encoded using all five 4:3 presets found within the primary preset list in the **Adaptive Video Encoding (16:9 or 4:3)** option.
 
 For information about encoding options parameters, see [About encoding preset options](application-setup.md#about_encoding_preset_options).
 
 **Adaptive Video Encoding (16:9 or 4:3) presets**
 
-||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (kbps)|Recommendations|
+||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|FPS|Audio bit rate (kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |1|`16:9, 512x288, Mobile (iPhone, iPad, Android&trade;), (400 Kbps)`|500|_Mobile_512x288_400K|400|512x288|Same as source|64|Low resolution, 3G|
 |2|`4:3, 384x288px, Mobile (iPhone, iPad, Android&trade;), (400 Kbps)`|500|_Mobile_384x288_400K|400|384x288|Same as source|64|Low resolution, 3G|
@@ -367,7 +367,7 @@ For information about encoding options parameters, see [About the encoding prese
 
 **H264 Main 3.2 - Audio AAC, MP4 file extension**
 
-||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (Kbps)|Recommendations|
+||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|FPS|Audio bit rate (Kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |1|16:9, 480x270 (400 Kbps)|500|_480x270_400K|400|480x270|Same as source|64|Low widescreen resolution|
 |2|16:9, 640x360 (800 Kbps)|900|_640x360_800K|800|640x360|Same as source|80|Medium widescreen resolution|
@@ -380,7 +380,7 @@ For information about encoding options parameters, see [About the encoding prese
 
 **OGG Theora Vorbis - OGV file extension**
 
-||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (Kbps)|Recommendations|
+||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|FPS|Audio bit rate (Kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |1|16:9, 480x270 (400 Kbps), OGG|500|_OGG_480x270_400K|400|480x270|Same as source|64|Low widescreen resolution|
 |2|16:9, 640x360 (800 Kbps), OGG|900|_OGG_640x360_800K|800|640x360|Same as source|80|Medium widescreen resolution|
@@ -399,7 +399,7 @@ For information about encoding options parameters, see [About the encoding prese
 
 **H264 Baseline 2.1 - Audio AAC, MP4 file extension**
 
-||Encoding Preset Name/Tooltip Text|Target Connection Speed (Kbps)|Encoded file suffix|Video bit rate (Kbps)|Pixel Width/Height|Fps|Audio bit rate (Kbps)|Recommendations|
+||Encoding Preset Name/Tooltip Text|Target Connection Speed (Kbps)|Encoded file suffix|Video bit rate (Kbps)|Pixel Width/Height|FPS|Audio bit rate (Kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |1|16:9, 512x288, Mobile (400 Kbps)|500|_Mobile_512x288_400K|400|512x288|Same as source|64|Low resolution, 3G|
 |2|16:9, 512x288, Mobile (600 Kbps)|700|_Mobile_512x288_600K|600|512x288|Same as source|64|Medium resolution, 3G|
@@ -450,15 +450,23 @@ For more information on how to embed responsive viewers onto your web pages, see
 
 Administrators can create and customize the following types of Viewer Presets:
 
-* **[!UICONTROL eCatalog Viewer]** - Simulates the experience of reading a printed catalog. You can move from page to page, zoom in and out of items on a page, use image maps to see more information about items on the page, or search the catalog. You can also include an Info Panel to display detailed information and an image-mapped item if the map area has a valid rollover_key attribute. To include an Info Panel, specify an Information Server URL in the Info Panel Settings panel of the eCatalog Viewer Preset window.
+* **[!UICONTROL eCatalog Viewer]** - Simulates the experience of reading a printed catalog. You can move from page to page, zoom in and out of items on a page, use Image Maps to see more information about items on the page, or search the catalog. You can also include an Info panel to display detailed information and an image-mapped item if the map area has a valid rollover_key attribute. To include an Info panel, specify an Information Server URL in the Info panel Settings panel of the eCatalog Viewer Preset window.
 
 * **[!UICONTROL Swatch Set Viewer]** - Displays an image in a different color, material, texture, finish, or fabric. Users select a thumbnail to see the variations in the image.
 
-* **[!UICONTROL Mixed Media Set Viewer]** - Displays different types of media in one viewer. You can include Swatch Sets, Spin Sets, images, and videos. You can set up tabs to contain different types of content, such as a tab for image sets and a tab for videos. Videos played back from a Mixed Media Set use a standard video viewer with a timeline and video controls, such as Stop, Pause, Rewind, and Play. When you set up a Mixed Media Set Viewer preset, you specify which viewers you want to use for the different types of assets in your Mixed Media Set. You can also use the Grid Viewer or Carousel Viewer to view a Mixed Media Set.
+* **[!UICONTROL Mixed Media Set Viewer]** - Displays different types of media in one viewer. You can include Swatch Sets, Spin Sets, images, and videos. You can set up tabs to contain different types of content, such as a tab for Image Sets and a tab for videos. Videos played back from a Mixed Media Set use a standard Video Viewer with a timeline and video controls, such as Stop, Pause, Rewind, and Play. When you set up a Mixed Media Set Viewer Preset, you specify which viewers you want to use for the different types of assets in your Mixed Media Set. You can also use the Grid Viewer or Carousel Viewer to view a Mixed Media Set.
 
 * **[!UICONTROL Spin Set Viewer]** - Provides multiple views of an image so users can turn the object to examine the different sides and angles.
 
-* **Video Viewer** - Displays videos using the resolution dimensions of the source file or a custom size. Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Video Viewer presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its size, foreground and background color, video and audio controls, progress bar, user-interface skin, social features, and Help.
+* **Video Viewer** - Displays videos using the resolution dimensions of the source file or a custom size. Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Video Viewer Presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its:
+
+  * size
+  * foreground and background color
+  * video and audio controls
+  * progress bar
+  * user-interface skin
+  * social features
+  * and Help
 
 * **[!UICONTROL Zoom Viewers]** - Offers a choice of three types of zoom viewer:
 
@@ -554,17 +562,17 @@ The Viewer Presets screen offers tools for doing these tasks:
 
 * **Add a preset** - Select **[!UICONTROL Add]** and make choices in the Add Viewer Preset dialog box.
 
-      See [Add and edit Viewer presets](application-setup.md#adding_and_editing_viewer_presets).
+      See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
 * **Edit a preset** - Select a preset, and then select **[!UICONTROL Edit]**.
 
-      See [Add and edit Viewer presets](application-setup.md#adding_and_editing_viewer_presets).
+      See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
 * **Delete a preset** - Select a preset, and then select **[!UICONTROL Delete]**.
 
-* **Export a preset** - Select an HTML5 viewer preset, and then select **[!UICONTROL Export]** to download the viewer skin so that you can use it as the basis for creating and adding another viewer preset.
+* **Export a preset** - Select an HTML5 Viewer Preset. Then click **[!UICONTROL Export]** to download the viewer skin so that you can use it as the basis for creating and adding another Viewer Preset.
 
-      See [Export an HTML5 Viewer preset](application-setup.md#exporting_an_html5_viewer_preset).
+      See [Export an HTML5 Viewer Preset](application-setup.md#exporting_an_html5_viewer_preset).
 
 * **Filter the Viewer Preset list** - Use these tools to filter the list:
 
@@ -575,21 +583,21 @@ The Viewer Presets screen offers tools for doing these tasks:
 
 * **Activate and deactivate presets** - Select a preset, and then select its Active option so you can activate or deactivate it.
 
-      See [Activate or deactivate Viewer presets](application-setup.md#activating_or_deactivating_viewer_presets).
+      See [Activate or deactivate Viewer Presets](application-setup.md#activating_or_deactivating_viewer_presets).
 
 >[!NOTE]
 >
 >Select **[!UICONTROL Preview]** on the right side of the Viewer Presets page so you can see what an asset looks like in the Viewer Preset you selected. To see a different asset, select **[!UICONTROL Browse]** in the Viewer Presets page and select a different asset in the Select Asset Preview dialog box.
 
-### Add and edit Viewer presets {#adding-and-editing-viewer-presets}
+### Add and edit Viewer Presets {#adding-and-editing-viewer-presets}
 
-Besides adding viewer presets by using **[!UICONTROL Add]** in the user interface, you can also use **[!UICONTROL Export]** to add a viewer preset. You simply export an existing HTML5 viewer preset, and then use that as the basis for the new preset.
+Besides adding Viewer Presets by using **[!UICONTROL Add]** in the user interface, you can also use **[!UICONTROL Export]** to add a Viewer Preset. You simply export an existing HTML5 Viewer Preset, and then use that as the basis for the new preset.
 
-See [Export an HTML5 Viewer preset](application-setup.md#exporting_an_html5_viewer_preset).
+See [HTML5 Viewer Preset Export](application-setup.md#exporting_an_html5_viewer_preset).
 
-See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) training video.
+See also [Viewer Presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) training video.
 
-**To add and edit Viewer presets:**
+**To add and edit Viewer Presets:**
 
 1. Near the upper-right corner of Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
@@ -601,7 +609,7 @@ See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.ht
 
          Select **[!UICONTROL Save As]** when you have finished creating the Viewer Preset.
 
-   * **Add by starting from an existing Viewer preset** - In the table, select a Video Viewer Preset, and then select **[!UICONTROL Edit]** on the toolbar.
+   * **Add by starting from an existing Viewer Preset** - In the table, select a Video Viewer Preset, and then select **[!UICONTROL Edit]** on the toolbar.
 
          After you reconfigure the Video Viewer, select **[!UICONTROL Save As]** to save the preset using a different name in the Preset Name text field.
 
@@ -612,20 +620,20 @@ See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.ht
 
    >[!NOTE]
    >
-   >Select **[!UICONTROL Same As Source]** to automatically size the Video Viewer to the resolution size of the encoded video itself. If you select this option, you cannot enter the Stage Width and Stage Height. Instead, these options come from the video itself. If you select **[!UICONTROL Same As Source]**, set the Margin Size option to reflect the skin dimensions outside the video playback area. This margin size is the pixel height and width of the video controls. You can use the following image to help you determine the margin sizes that you want to use.*
+   >Select **[!UICONTROL Same As Source]** so you can automatically size the Video Viewer to the resolution size of the encoded video itself. If you select this option, you cannot enter the Stage Width and Stage Height. Instead, these options come from the video itself. If you select **[!UICONTROL Same As Source]**, set the Margin Size option to reflect the skin dimensions outside the video playback area. This margin size is the pixel height and width of the video controls. You can use the following image to help you determine the margin sizes that you want to use.*
 
    ![Margin configuration of Video viewer](assets/vs_video_viewer_configure_margin.png)
 
 1. Do one of the following:
 
-    * Select **[!UICONTROL Save As]** if you added a Viewer preset by starting from an existing preset. 
-    * Select **[!UICONTROL Save]** if you added or edited a Viewer preset.
+    * Select **[!UICONTROL Save As]** if you added a Viewer Preset by starting from an existing preset. 
+    * Select **[!UICONTROL Save]** if you added or edited a Viewer Preset.
 
 ### Export an HTML5 Viewer Preset {#exporting-an-html-viewer-preset}
 
 You can export an existing HTML5 Viewer Preset to use as the basis for creating an HTML5 Viewer Preset. This export option is useful because you do not have to create the viewer from scratch. Instead, you export a preset that looks and behaves close to what you want, then you can use that as a starting point to make design adjustments.
 
-All default, out-of-box Viewer preset CSS files in Adobe Dynamic Media Classic use relative image-serving paths that point to assets on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file on 
+All default, out-of-box Viewer Preset CSS files in Adobe Dynamic Media Classic use relative image-serving paths that point to assets on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer Preset CSS file on 
 
 `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`
 
@@ -645,7 +653,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. On the Viewer Presets toolbar, in the second drop-down list from the left, select **[!UICONTROL HTML5]**.
 1. In the third drop-down list from the left, select **[!UICONTROL All Viewers]**.
-1. Select the viewer preset that you want to use as the basis for a new HTML5 Viewer Preset.
+1. Select the Viewer Preset that you want to use as the basis for a new HTML5 Viewer Preset.
 1. In the toolbar, select **[!UICONTROL Export]**.
 1. In the Export Selected Assets dialog box, select **[!UICONTROL Submit Export]**.
 
@@ -660,13 +668,13 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 
    See [Publish files](publishing-files.md#publishing_files).
 
-1. Add the new viewer preset as usual. Select the viewer CSS file that you uploaded.
+1. Add the new Viewer Preset as usual. Select the Viewer CSS file that you uploaded.
 
    See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
 ### Activate or deactivate Viewer Presets {#activating-or-deactivating-viewer-presets}
 
-To create a URL for showing assets, users open the Presets drop-down list in the Preview dialog box, select a Viewer Preset, and then select **[!UICONTROL Copy URL]** (see [Copy the URL of a Viewer Preset](application-setup.md#copying_the_url_of_a_viewer_preset)). This Presets list offers Viewer Presets that administrators add and manage on the Viewer Presets screen. For example, all active eCatalog Viewer presets appear on the Presets drop-down list in the Preview dialog box when a user previews an eCatalog.
+To create a URL for showing assets, users open the Presets drop-down list in the Preview dialog box, select a Viewer Preset, and then select **[!UICONTROL Copy URL]** (see [Copy the URL of a Viewer Preset](application-setup.md#copying_the_url_of_a_viewer_preset)). This Presets list offers Viewer Presets that administrators add and manage on the Viewer Presets screen. For example, all active eCatalog Viewer Presets appear on the Presets drop-down list in the Preview dialog box when a user previews an eCatalog.
 
 Unless you deactivate Viewer Presets on the Viewer Presets screen, the Presets drop-down list in the Preview dialog box can get crowded.
 
@@ -683,7 +691,7 @@ The URL is copied to the Clipboard. You can use it as necessary in the HTML code
 
 **To copy the URL of a Viewer Preset:**
 
-1. Select the asset in the Browse Panel.
+1. Select the asset in the Browse panel.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
    * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, select **[!UICONTROL Copy URL]** to the right of the viewer you want.
@@ -707,7 +715,7 @@ Editing of the code is not permitted in the Embed Code dialog box.
 
 **To copy the embed code of a Viewer Preset:**
 
-1. Select the asset in the Asset Browse Panel.
+1. Select the asset in the Asset Browse panel.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
    * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs panel on the right, select **[!UICONTROL Embed Code]**.
@@ -777,7 +785,7 @@ Adobe Dynamic Media Classic comes with pre-defined Metadata Views, and administr
 
 ## Metadata Presets {#metadata-presets}
 
-Metadata Presets give administrators a way to control and regulate metadata that is assigned to assets. In Detail View, a user can enter metadata about an asset in fields provided for that purpose. For example, a user can enter an owner name, copyright description, and address. To make sure that users enter this information accurately and completely, you can create Metadata Presets. Choosing a Metadata Preset in Detail View populates metadata fields with pre-defined values. For example, an owner name, copyright description, and address are entered automatically.
+Metadata Presets give administrators a way to control and regulate the metadata that is assigned to assets. In Detail View, a user can enter metadata about an asset in fields provided for that purpose. For example, a user can enter an owner name, copyright description, and address. To make sure that users enter this information accurately and completely, you can create Metadata Presets. Choosing a Metadata Preset in Detail View populates metadata fields with pre-defined values. For example, an owner name, copyright description, and address are entered automatically.
 
 Create a Metadata Preset for each set of metadata values you want users to be able to enter automatically in Detail View to describe an asset.
 
@@ -786,7 +794,7 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Presets]**.
 1. In the Metadata Presets screen, do one of the following:
 
-   * To create a preset, select **[!UICONTROL Add]**. In the Metadata Template Name text field, type a name for the preset. Select **[!UICONTROL Metadata Views]**,  and then select a view from the drop-down list (see [Metadata Views](application-setup.md#metadata_views)).
+   * To create a preset, select **[!UICONTROL Add]**. In the Metadata Template Name text field, type a name for the preset. Select **[!UICONTROL Metadata Views]**, and then select a view from the drop-down list (see [Metadata Views](application-setup.md#metadata_views)).
    * To edit an existing preset, select the preset from the Metadata Presets list and then select **[!UICONTROL Edit]**.
 
 1. Expand headings that you want to include in the preset and enter values in the different fields you want to include in the preset.
@@ -806,7 +814,7 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 
 A Media Portal Administrator or a Company Administrator can create custom, user-defined metadata fields. Custom fields can help you organize assets in Adobe Dynamic Media Classic. You can mark the fields as Active, as necessary. When activated, the names of these custom metadata fields appear in the Metadata panel in Detail View. Users can enter information in user-defined metadata fields to describe assets. Users can also make a user-defined metadata field a criterion in searches.
 
-One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an "activation" field, based on the type *Date*. Then, using the **[!UICONTROL Metadata]** panel in Detail View or **[!UICONTROL File]** > **[!UICONTROL Edit Info]**, you can specify when the asset is activated. Adobe Dynamic Media Classic checks the published status of an asset, and the publishment history. If it is not within the activation time, the publish status shows as "Not Published".
+One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an "activation" field, based on the type *Date*. Then, using the **[!UICONTROL Metadata]** panel in Detail View or **[!UICONTROL File]** > **[!UICONTROL Edit Info]**, you can specify when the asset is activated. Adobe Dynamic Media Classic checks the published status of an asset, and the publishment history. If it is not within the activation time, the publish status shows as "Not Published."
 
 >[!NOTE]
 >
@@ -844,9 +852,9 @@ One effective use of user-defined metadata fields is to delay the activation tim
 
    * **[!UICONTROL Untyped]** - For backwards-compatibility. Do not select this option.
 
-   * **[!UICONTROL Default Value]** - Optionally, enter the value users are most likely to enter in the field. The value you enter becomes the default value for the field you create.
+   * **[!UICONTROL Default Value]** - Optional. Enter the value users are most likely to enter in the field. The value you enter becomes the default value for the field you create.
 
-   * **[!UICONTROL Applies To]** - Optionally, select an asset type if you want the metadata field to apply only to a specific type of asset.
+   * **[!UICONTROL Applies To]** - Optional. Select an asset type if you want the metadata field to apply only to a specific type of asset.
 
       >[!NOTE]
       >
@@ -881,26 +889,26 @@ Adobe Dynamic Media Classic searches through your files and optimizes only those
 
 ## Batch Set Presets {#batch-set-presets}
 
-Use the batch set presets to automatically create image sets or spin sets while a job is running to upload assets to Adobe Dynamic Media Classic.
+Use the Batch Set Presets so you can automatically create Image Sets or Spin Sets while a job is running to upload assets to Adobe Dynamic Media Classic.
 
-Company administrators first define naming conventions for the assets that they want to group in a set. You can then create a batch set preset to reference these images. Each preset is a uniquely named, self-contained set of instructions that defines how to construct the set using images that match the defined naming conventions in the preset recipe.
+Company administrators first define naming conventions for the assets that they want to group in a set. You can then create a Batch Set Preset to reference these images. Each preset is a uniquely named, self-contained set of instructions that defines how to construct the set using images that match the defined naming conventions in the preset recipe.
 
-All active batch set presets for a company are listed on the Upload Job Option dialog box, so you can specify which preset you want applied during each upload session. Company administrators see all active and inactive batch set presets. When you upload files, Adobe Dynamic Media Classic automatically creates a set with all files that match the defined naming convention in the active presets.
+All active Batch Set Presets for a company are listed on the Upload Job Option dialog box, so you can specify which preset you want applied during each upload session. Company administrators see all active and inactive Batch Set Presets. When you upload files, Adobe Dynamic Media Classic automatically creates a set with all files that match the defined naming convention in the active presets.
 
 ### Default Naming {#default-naming}
 
-The company administrator creates a default naming convention that is used in any batch set preset recipe. The default naming convention selected in the batch set preset definition may be all that is needed by your company to batch-generate sets for all websites. A batch set preset is created to use the default naming convention you define. You are able to create as many Batch Set presets with alternate, custom naming conventions needed for a particular set of content in cases where there is an exception to the company-defined default naming.
+The Company Administrator creates a default naming convention that is used in any Batch Set Preset recipe. The default naming convention selected in the Batch Set Preset definition may be all that your company needs to batch-generate sets for all websites. A Batch Set Preset is created to use the default naming convention you define. You are able to create as many Batch Set Presets with alternate, custom naming conventions needed for a particular set of content in cases where there is an exception to the company-defined default naming.
 
-Setting up a default naming convention is not required to use batch set preset functionality. However, Adobe best practice recommends that you use a default naming convention to define as many elements of your naming convention that you want grouped in a set. Doing so helps to streamline batch set creation.
+Setting up a default naming convention is not required to use Batch Set Preset functionality. However, Adobe best practice recommends that you use a default naming convention to define as many elements of your naming convention that you want grouped in a set. Doing so helps to streamline Batch Set creation.
 
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Default Naming]**.
 1. Select **[!UICONTROL View Form]** or **[!UICONTROL View Code]** to specify how you want to view and enter information about each element.
 
-   You can select the **[!UICONTROL View Code]** check box to view the regular expression value building alongside your form selections. You are able to enter or alter these values to help define the elements of the naming convention, if the form view limits you for any reason. If your values are unable to be parsed in the form view, the form fields become inactive.
+   You can select the **[!UICONTROL View Code]** check box to view the regular expression value building alongside your form selections. You are able to enter or alter these values to help define the elements of the naming convention, if the Form View limits you for any reason. If your values are unable to be parsed in the Form View, the form fields become inactive.
 
    >[!NOTE]
    >
-   >De-activated form fields do not indicate invalid regular expression. There is no validation that your regular expressions are correct. You will see results of the regular expression you are building for each element after the Result line. The complete regular expression is visible at the bottom of the page.
+   >De-activated form fields do not indicate invalid regular expression. There is no validation that your regular expressions are correct. You will see the results of the regular expression you are building for each element after the Result line. The complete regular expression is visible at the bottom of the page.
 
 1. Expand each element as necessary and enter the naming conventions you want to use.
 1. As necessary, select **[!UICONTROL Add]** to add another naming convention for an element. Or, select **[!UICONTROL Remove]** to delete a naming convention for an element.
@@ -908,21 +916,21 @@ Setting up a default naming convention is not required to use batch set preset f
 
 Alternately, you can use View Code with no form fields available. In this view, you create your naming convention definitions entirely using regular expressions.
 
-Two elements are available for definition, Match and Base Name. These fields are all the elements that you defined for a naming convention and identify the part of the convention used to name the set in which they are contained. A company's individual naming convention could use one or more lines of definition for each of these elements. You can use as many lines for your unique definition and group them into distinct elements, such as for Main Image, Color element, Alternate View element, and Swatch element.
+Two elements are available for definition, Match and Base Name. These fields are all the elements that you defined for a naming convention. They can help identify the part of the convention that is used to name the set in which they are contained. A company's individual naming convention could use one or more lines of definition for each of these elements. You can use as many lines for your unique definition and group them into distinct elements, such as for main image, Color element, Alternate View element, and Swatch element.
 
-### Create a batch set preset {#creating-a-batch-set-preset}
+### Create a Batch Set Preset {#creating-a-batch-set-preset}
 
-Adobe Dynamic Media Classic uses batch set presets to organize assets that share some common information or content into sets of images for display in viewers. The batch set preset recipes automatically run alongside the asset import jobs you schedule in Adobe Dynamic Media Classic.
+Adobe Dynamic Media Classic uses Batch Set Presets to organize assets that share some common information or content into sets of images for display in viewers. The Batch Set Preset recipes automatically run alongside the asset import jobs you schedule in Adobe Dynamic Media Classic.
 
-Use Batch Set Preset to create, edit, and manage your batch set presets. You can create as many presets as necessary to cover all asset ingest jobs you require. There are two forms of batch set preset definitions: one for a default naming convention that you have set up, and one for custom-naming conventions that you create on the fly.
+Use Batch Set Preset to create, edit, and manage your Batch Set Presets. You can create as many presets as necessary to cover all asset ingest jobs you require. There are two forms of Batch Set Preset definitions: one for a default naming convention that you have set up, and one for custom-naming conventions that you create on the fly.
 
-You can use either the form field method to define a batch set preset or the code method, which lets you use regular expressions. As in **[!UICONTROL Default Naming]**, you can select **[!UICONTROL Code View]** at the same time you are defining in the Form View and use of regular expressions to build your definitions. Alternately, you can uncheck either view to use one or the other exclusively.
+You can use either the form field method to define a Batch Set Preset or the code method, which lets you use regular expressions. As in **[!UICONTROL Default Naming]**, you can select **[!UICONTROL Code View]** at the same time you are defining in the Form View and use of regular expressions to build your definitions. Alternately, you can uncheck either view to use one or the other exclusively.
 
-See also [Create a batch set preset for the auto generation of a 2D Spin Set](application-setup.md#creating_a_batch_set_preset_for_the_auto_generation_of_a_2d_spin_set).
+See also [Create a Batch Set Preset for the auto generation of a 2D Spin Set](application-setup.md#creating_a_batch_set_preset_for_the_auto_generation_of_a_2d_spin_set).
 
-See also [2D spin set](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) training video.
+See also [2D Spin Set](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) training video.
 
-**To create a batch set preset:**
+**To create a Batch Set Preset:**
 
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Batch Set Preset]**. **[!UICONTROL View Form]**, as set in the upper-right corner of the Details page, is the default view.
 1. In the Preset List panel, select **[!UICONTROL Add]** to activate the definition fields in the Details panel on the right-hand side of the page.
@@ -937,21 +945,21 @@ See also [2D spin set](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?
     * To define a naming convention as you set up the preset, expand **[!UICONTROL Asset Naming Conventions]**, and then in the File Naming drop-down list, select **[!UICONTROL Custom]**.
 
 1. For Sequence order, define the order for the images after the set is grouped in Adobe Dynamic Media Classic. By default, your assets are ordered alphanumerically. However, you can use a comma-separated list of regular expressions to define the order. 
-1. For Set Naming and Creation Convention, specify the suffix or prefix to the base name you defined in the Asset Naming Convention. Also define where the image set is created within the Adobe Dynamic Media Classic folder structure.
+1. For Set Naming and Creation Convention, specify the suffix or prefix to the Base Name you defined in the Asset Naming Convention. Also define where the image set is created within the Adobe Dynamic Media Classic folder structure.
 
-   If you define large numbers of image sets, keep these sets separate from the folders that contain the assets themselves. Many customers create an Image Sets folder and redirect the application to place batch set generated sets here.
+   If you define large numbers of Image Sets, keep these sets separate from the folders that contain the assets themselves. Many customers create an Image Sets folder and redirect the application to place Batch Set generated sets here.
 
-1. Select **[!UICONTROL Save]** in the Details Panel.
+1. Select **[!UICONTROL Save]** in the Details panel.
 
-### Create a batch set preset for the auto generation of a 2D Spin Set {#creating-a-batch-set-preset-for-the-auto-generation-of-a-d-spin-set}
+### Create a Batch Set Preset for the auto generation of a 2D Spin Set {#creating-a-batch-set-preset-for-the-auto-generation-of-a-d-spin-set}
 
 You can use the Batch Set Type **Multi-Axis Spin Set** to create a "recipe" that automates the generation of 2D Spin Sets. The grouping of images uses Row and Column regular expressions so that the image assets are properly aligned in the corresponding location in the multi-dimensional array.
 
-See also [Create a batch set preset](application-setup.md#creating_a_batch_set_preset).
+See also [Create a Batch Set Preset](application-setup.md#creating_a_batch_set_preset).
 
-There is no minimum or maximum number of rows or columns that you must have in a multiaxis spin set.
+There is no minimum or maximum number of rows or columns that you must have in a multiaxis Spin Set.
 
-As an example, suppose you want to create a multiaxis spin set named *spin-2dspin*. You have a set of spin set images that contain three rows, with 12 images per row. The images are named as follows:
+As an example, suppose you want to create a multiaxis Spin Set named *spin-2dspin*. You have a set of Spin Set images that contain three rows, with 12 images per row. The images are named as follows:
 
 ```as3
 spin-01-01
@@ -967,11 +975,11 @@ With this information, your Batch Set Type recipe could be created as follows:
 
 ![Batch set recipe image](assets/se_batch_set_recipe.png)
 
-Grouping for the shared asset name part of the spin set is added to the Match field (as highlighted). The variable part of the asset name containing the row and column is added to the Row and Column fields, respectively.
+Grouping for the shared asset name part of the Spin Set is added to the Match field (as highlighted). The variable part of the asset name containing the row and column is added to the Row and Column fields, respectively.
 
 When the Spin Set is uploaded and published, you would activate the name of the 2D Spin Set recipe that is listed under **[!UICONTROL Batch Set Presets]** in the Upload Job Options dialog box.
 
-**To create a batch set preset for the auto generation of a 2D Spin Set:**
+**To create a Batch Set Preset for the auto generation of a 2D Spin Set:**
 
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Batch Set Preset]**. **[!UICONTROL View Form]**, as set in the upper-right corner of the Details page, is the default view.
 1. In the Preset List panel, select **[!UICONTROL Add]** to activate the definition fields in the Details panel on the right side of the page.
@@ -1009,14 +1017,14 @@ When the Spin Set is uploaded and published, you would activate the name of the 
 
    >[!NOTE]
    >
-   >If the combination of regular expressions in rows and columns cannot determine the position of the asset within the multi-dimensional spin set array, that asset is not added to the set, and an error is logged.
+   >If the combination of regular expressions in rows and columns cannot determine the position of the asset within the multi-dimensional Spin Set array, that asset is not added to the set. An error is logged.
 
-1. For Set Naming and Creation Convention, specify the suffix or prefix to the base name you defined in the Asset Naming Convention. Also define where the image set is created within the Adobe Dynamic Media Classic folder structure.
+1. For Set Naming and Creation Convention, specify the suffix or prefix to the Base Name you defined in the Asset Naming Convention. Also define where the image set is created within the Adobe Dynamic Media Classic folder structure.
 
-   If you define large numbers of image sets, keep these sets separate from the folders that contain the assets themselves. Many customers create an Image Sets folder and redirect the application to place batch set generated sets here.
+   If you define large numbers of Image Sets, keep these sets separate from the folders that contain the assets themselves. Many customers create an Image Sets folder and redirect the application to place Batch Set generated sets here.
 
-1. Select **[!UICONTROL Save]** in the Details Panel.
-1. Upload and publish your Spin Set as usual making sure you activate the name of your 2D Spin Set in the Job Load Options dialog box, under Batch Set Presets.
+1. Select **[!UICONTROL Save]** in the Details panel.
+1. Upload and publish your Spin Set as usual, making sure you activate the name of your 2D Spin Set in the Job Load Options dialog box, under Batch Set Presets.
 
 >[!MORELIKETHIS]
 >

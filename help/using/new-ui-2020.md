@@ -12,7 +12,7 @@ level: Intermediate
 ---
 # Adobe Dynamic Media Classic Desktop app - Now available {#new-ui-2020}
 
-See [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the new app, and then sign in to it.
+See the [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the new app, and then sign in to it.
 
 ## _Last revision June 30, 2020_
 
@@ -27,13 +27,13 @@ Adobe Flash Player was a web browser plug-in that allowed web browsers to use co
 +++**_How do I access the new desktop app?_**
 The new desktop app is available as a `.dmg` installer for macOS or as an `.exe` installer for Windows&reg;.
 
-See [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-desktop-app.md) to review system requirements, download, and install the new app, and then sign in to it.
+See the [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-desktop-app.md) to review system requirements, download, and install the new app, and then sign in to it.
 +++
 
 <!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
 
 +++**_How does the new desktop app work?_**
-After downloading, installing, and launching the desktop app, you are presented with a refreshed sign-in. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the familiar web browser version that you are used to. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
+After downloading, installing, and launching the desktop app, you are presented with a refreshed sign-in. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the familiar Web browser version that you are used to. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
 
 >[!IMPORTANT]
 >
@@ -78,10 +78,10 @@ No to both questions. No SKU or license change is required to use the new Adobe 
 +++
 
 +++**_How are upgrades to Adobe Dynamic Media Classic desktop app enabled?_**
-Following the release of Adobe Dynamic Media Classic desktop app on June 30, 2020, if Adobe releases a new version, customers are required to download the new version and install as usual (replace the existing app in **[!UICONTROL Applications]**). You are notified of the new release through your Adobe Account Team and an in-app upgrade notification mechanism that notifies users of an upgrade.
+Following the release of the Adobe Dynamic Media Classic desktop app on June 30, 2020, if Adobe releases a new version, customers are required to download and install the new version (replace the existing app in **[!UICONTROL Applications]**). You are notified of the new release through your Adobe Account Team and an in-app upgrade notification mechanism that notifies users of an upgrade.
 +++
 
-+++**_How do I get help for any issues that I have with Adobe Dynamic Media Classic desktop app?_**
++++**_How do I get help for any issues that I have with the Adobe Dynamic Media Classic desktop app?_**
 Contact Adobe Support with any issues that you have while using the app.
 +++
 
@@ -101,7 +101,7 @@ To learn more about the benefits of upgrading to the next generation of rich med
 
 >[!MORELIKETHIS]
 >
->* [Sign in to and out of Adobe Dynamic Media Classic desktop application](/help/using/signing-out.md)
+>* [Sign in to and out of the Adobe Dynamic Media Classic desktop application](/help/using/signing-out.md)
 >* [Download and install the Adobe Dynamic Media Classic desktop application](/help/using/dynamic-media-classic-desktop-app.md)
 
 <!-- SAVE - OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->

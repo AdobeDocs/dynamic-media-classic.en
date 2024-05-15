@@ -12,7 +12,7 @@ level: Experienced
 ---
 # Developer resources {#developer-resources}
 
-Reference guides to Viewers, Image Serving and Image Rendering, and Image Production System describe the http protocols for these server modules. Web site developers who want to further customize and use Adobe Dynamic Media Classic rich media for a web site or custom application can use these guides. It is assumed that the user is familiar with the Dynamic Media Classic desktop app, general http protocol standards and conventions, and basic imaging terminology. 
+Reference guides to Viewers, Image Serving and Image Rendering, and Image Production System describe the http protocols for these server modules. Web site developers who want to customize further and use Adobe Dynamic Media Classic rich media for a web site or custom application can use these guides. It is assumed that the user is familiar with the Dynamic Media Classic desktop app, general http protocol standards and conventions, and basic imaging terminology. 
 
 See also [Dynamic Media Developer Resources](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 

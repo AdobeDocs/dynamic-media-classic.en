@@ -33,7 +33,7 @@ Options for uploading PDF files are on the Upload page under PDF Options.
 
 **[!UICONTROL Rasterize]** - (Default) Rips the pages in the PDF file and converts vector graphics to bitmap images. To create an eCatalog, choose this option.
 
-**[!UICONTROL Extract Search Words]** - Extracts words from the PDF file so that the file can be searched by keyword in an eCatalog Viewer.
+**[!UICONTROL Extract Search Words]** - Extracts words from the PDF file so that keywords in the file can be searched in an eCatalog Viewer.
 
 **[!UICONTROL Extract Links]** - Extracts links from the PDF files and coverts them to Image Maps that are used in an eCatalog Viewer.
 
@@ -67,7 +67,9 @@ See also [ICC profiles](/help/using/icc-profiles.md#icc_profiles).
 
 ## Crop white space from a PDF file {#cropping-white-space-from-a-pdf-file}
 
-1. To automatically crop white-space pixels from a PDF file as you upload it, select the Crop menu and choose Trim. 
+You can automatically crop white-space pixels from a PDF file as you upload it.
+
+1. Select the Crop menu and choose Trim. 
 1. Specify the following options:
 
    * **[!UICONTROL Trim Away Based On]** - Choose whether to crop based on color or transparency:
@@ -89,4 +91,4 @@ You can manually remove printer's marks from the sides of pages in a PDF file as
 1. From the Crop menu, select **[!UICONTROL Manual]**.
 1. Enter pixel settings in the Top, Right, Bottom, and Left text boxes to crop from the top, bottom, and sides of pages.
 
-How much of the page is cropped depends on the Resolution PX/Inch setting you enter for the PDF file. For example, suppose you enter 150 (the default) as the Resolution PX/Inch setting. Then you crop 75 pixels from the sides of pages. In such case, 0.5 in. is cropped. At 150 pixels per inch, 75 pixels equals a half inch.
+How much of the page is cropped depends on the Resolution PX/Inch setting you enter for the PDF file. For example, suppose you enter 150 (the default) as the Resolution PX/Inch setting. Then you crop 75 pixels from the sides of the pages. In such a case, 0.5 in. is cropped. At 150 pixels per inch, 75 pixels equals a half inch.
