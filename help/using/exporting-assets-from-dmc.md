@@ -40,7 +40,7 @@ Adobe Dynamic Media Classic keeps a record of exporting jobs in the Jobs screen.
 
    * **[!UICONTROL Job Name]** - You can assign a job name to the export.
 
-   * **[!UICONTROL Send Email To]** - Optionally, enter an e-mail address if you intend to send the assets by e-mail. The e-mail message lists the URL where the recipient can go to download the assets.
+   * **[!UICONTROL Send Email To]** - Optional. Enter an e-mail address if you intend to send the assets by e-mail. The e-mail message lists the URL where the recipient can go to download the assets.
 
 1. Select **[!UICONTROL Export]**.
 
@@ -71,5 +71,5 @@ You can use conversion to export the following asset types:
 
 The following behavior results when a large selection of various asset types are fed into the exporter:
 
-* All asset types which cannot be exported are removed from the list before job submittal 
-* If a conversion is requested, all types which can be converted are, and all others are exported as original
+* All asset types that cannot be exported are removed from the list before job submittal 
+* If a conversion is requested, all types that can be converted are, and all others are exported as original

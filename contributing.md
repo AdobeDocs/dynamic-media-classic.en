@@ -33,9 +33,9 @@ Issues let you easily describe your idea for improvement to the docs and a docum
 
 ### Create a pull request {#create-a-pull-request}
 
-If you see a problem and know exactly how to fix it, consider creating a pull request. Pull requests allow you to make your own edits to the documentation, which are then reviewed for inclusion by a documentation team member. To make your suggested changes and create the pull request, select **[!UICONTROL Edit this page]** at the top right of the navigation panel on any page.
+If you see a problem and know exactly how to fix it, consider creating a pull request. Pull requests let you make your own edits to the documentation and a documentation team member reviews it for inclusion. To make your suggested changes and create the pull request, select **[!UICONTROL Edit this page]** at the top right of the navigation panel on any page.
 
-All pull requests must be accompanied by a signed [contributor license agreement or CLA](https://opensource.adobe.com/cla.html). This workflow gives Adobe permission to redistribute your contributions as part of the project. You only submit an Adobe CLA one time, so if you submitted one previously, you are set.
+A signed [contributor license agreement or CLA](https://opensource.adobe.com/cla.html) must accompany all pull requests. This workflow gives Adobe permission to redistribute your contributions as part of the project. You can only submit an Adobe CLA one time, so if you submitted one previously, you are set.
 
 ### Quick video introduction
 

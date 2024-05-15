@@ -13,7 +13,7 @@ level: Beginner
 ---
 # Adobe Dynamic Media Classic program overview{#adobe-scene-platform-overview}
 
-Adobe Dynamic Media Classic is an integrated, rich media management, publishing, and serving environment. Rich media can be delivered to all marketing and selling channels, including the web, print material, e-mail campaigns, web portals, desktops, and devices.
+Adobe Dynamic Media Classic is an integrated, rich media management, publishing, and serving environment. Rich media can be delivered to all marketing and selling channels. These channels include the web, print material, e-mail campaigns, Web portals, desktops, and devices.
 
 See also [Platform overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/572_Platform%20Overview_converted%20renamed_Getting%20Started-AVS) training video.
 
@@ -35,7 +35,7 @@ The key Adobe Dynamic Media Classic workflow steps are:
 
 Adobe Dynamic Media Classic is fundamentally different from other systems because you can use Adobe Dynamic Media Classic to deliver media dynamically from single primary assets and URL calls.
 
-The URL strings that you generated with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same primary image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you visually configure the effects. In doing so, you create the URL calls that correctly tell the server how to present your primary asset to applications.
+The URL strings that you generated with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same primary image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you can visually configure the effects. In doing so, you create the URL calls that correctly tell the server how to present your primary asset to applications.
 
 ![Adobe Dynamic Media Classic can deliver the same primary image to different mediums in different sizes and formats.](/help/using/assets/gs_dynamic_publishing.png)
 *Adobe Dynamic Media Classic ensures that consistent, quality experiences are delivered to any screen, regardless of size or bandwidth.*

@@ -1,6 +1,6 @@
 ---
 title: Create an Image Set
-description: Learn how to create an image set in Adobe Dynamic Media Classic.
+description: Learn how to create an Image Set in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -19,7 +19,7 @@ To create a multiple-view Image Set, you need images that show an item from diff
 
 When you create a set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
-|**[!UICONTROL Publish after save]** option selected before saving?|State of set after saving|State of set members after saving|
+|**[!UICONTROL `Publish after save`]** option selected before saving?|State of set after saving|State of set members after saving|
 | --- | --- | --- |
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
@@ -33,7 +33,7 @@ When you create an Image Set, Adobe recommends the following best practices and 
 | Number of duplicate assets per set | No duplicates | 20&Dagger; |
 | Maximum number of images per set | 5-10 images per set  | 1000 |
 
-&Dagger; Best practice is to not have duplicate assets in a set. The limit is 20 duplicates for a single asset. If you add another duplicate for that asset&mdash;within that set&mdash;the request either gives an error or ignores the duplicate.
+&Dagger; Best practice is not to have duplicate assets in a set. The limit is 20 duplicates for a single asset. If, within the set, you add another duplicate for that asset, the request either gives an error or ignores the duplicate.
 
 See also [Dynamic Media limitations](/help/using/limitations.md).
 
@@ -54,7 +54,7 @@ See also [Dynamic Media limitations](/help/using/limitations.md).
 
 Whether you edit a published or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
-|Set already published?|**[!UICONTROL Publish after save]** option selected before saving your edit?|State of set after saving|State of set members after saving|
+|Set already published?|**[!UICONTROL `Publish after save`]** option selected before saving your edit?|State of set after saving|State of set members after saving|
 | --- | --- | --- | --- |
 | Yes | Yes | Published|Published |
 | Yes | No | Published|Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |

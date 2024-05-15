@@ -15,7 +15,7 @@ level: Intermediate
 
 Projects provide an optional, secondary way for you to organize assets independently of the folders in which they are stored. An asset can be placed in only one folder, but it can be copied into more than one Project folder for organizational purposes.
 
-After you create a Project folder, you can place assets in it. However, assets in a Project are actually pointers to the Asset Library folder in which the assets are stored. You can place an asset in more than one Project. For example, an image of a blouse can be placed in both the "Blouses" and "Fall Collection" Project folders.
+After you create a Project folder, you can place assets in it. Assets in a Project are actually pointers to the Asset Library folder in which the assets are stored. You can place an asset in more than one Project. For example, an image of a blouse can be placed in both the "Blouses" and "Fall Collection" Project folders.
 
 You can create a Project when you upload files or create Projects in the Asset Library Panel.
 
@@ -33,7 +33,7 @@ You can create a Project folder starting in the Assets Library or when you uploa
 
 * **In the Asset Library** - Scroll to the bottom of the Asset Library, to the Projects section, and then select **[!UICONTROL Add Project]**. Enter a name for the project.
 
-* **When uploading files** - In the Upload screen, go to **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Enter a name for the project.
+* **When uploading files** - On the Upload screen, go to **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Enter a name for the project.
 
 >[!NOTE]
 >
@@ -55,4 +55,4 @@ You can add images to a Project folder starting in the Browse Panel or when you 
 
 * **From the Browse Panel**, select the assets and drag them to a Project folder. You can also go to **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Select a Project folder name in the Select Project dialog box, and then select **[!UICONTROL Submit]**.
 
-* **When uploading files** - In the Upload page, select **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, select **[!UICONTROL Projects]**, and then select a project name.
+* **When uploading files** - On the Upload page, select **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, select **[!UICONTROL Projects]**, and then select a project name.

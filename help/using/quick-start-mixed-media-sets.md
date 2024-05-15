@@ -21,15 +21,15 @@ This Mixed Media Sets Quick Start is designed to get you up and running quickly 
 
 ## 1. Upload the images, swatch files, and videos
 
-Start by uploading the images, swatch files, and videos for your Mixed Media Sets. Because users can zoom on images in the Mixed Media Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are least 2000 pixels in the largest size.
+Start by uploading the images, swatch files, and videos for your Mixed Media Sets. Because users can zoom on images in the Mixed Media Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are at least 2000 pixels in the largest size.
 
 On the Global Navigation bar, select **[!UICONTROL Upload]** to upload files from your computer to a folder on Adobe Dynamic Media Classic.
 
 See [Upload your files](uploading-files.md#uploading-your-files).
 
-## 2. Create media sets for use within the Mixed Media Set
+## 2. Create Media Sets for use within the Mixed Media Set
 
-You can add images, Image Sets, Swatch Sets, Spin Sets, and videos to your Mixed Media set. Prepare the media sets before you add them to the Mixed Media Set.
+You can add images, Image Sets, Swatch Sets, Spin Sets, and videos to your Mixed Media Set. Prepare the Media Sets before you add them to the Mixed Media Set.
 
 See [Create an Image Set](creating-image-set.md#creating-an-image-set), [Create a Swatch Set](creating-swatch-set.md#creating-a-swatch-set), and [Create a Spin Set](creating-spin-set.md#creating-a-spin-set).
 
@@ -39,11 +39,11 @@ On the Global Navigation bar, go to **[!UICONTROL Build]** > **[!UICONTROL Mixed
 
 See [Create a Mixed Media Set](creating-mixed-media-set.md#creating-a-mixed-media-set).
 
-## 4. Set up Mixed Media viewer presets
+## 4. Set up Mixed Media Viewer Presets
 
-Adobe Dynamic Media Classic comes with default viewer presets for Mixed Media Sets. Administrators can create or modify Mixed Media Set viewer presets.
+Adobe Dynamic Media Classic comes with default viewer presets for Mixed Media Sets. Administrators can create or modify Mixed Media Set Viewer Presets.
 
-When setting up a Mixed Media Set viewer preset, add the viewer presets for all the other assets in your set. For example, if your Mixed Media Set includes videos, add a video viewer preset to the Mixed Media Set viewer preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
+When setting up a Mixed Media Set Viewer Preset, add the viewer presets for all the other assets in your set. For example, if your Mixed Media Set includes videos, add a video viewer preset to the Mixed Media Set Viewer Preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
 
 See [Set up a Mixed Media Set Viewer Preset](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) and [Create and edit Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
@@ -67,4 +67,4 @@ See [Publish a Mixed Media Set](publishing-mixed-media-set.md#publishing-a-mixed
 
 Adobe Dynamic Media Classic activates URL calls for Mixed Media Sets after you publish them. You can copy these URLs from the Preview page.
 
-Select the Mixed Media Set, and then select **[!UICONTROL Preview]**. In the Preview page, select a Mixed Media Set Viewer Preset, and then select **[!UICONTROL Copy URL]**. See [Link a Mixed Media Set to a web page](linking-mixed-media-set-web.md#linking-a-mixed-media-set-to-a-web-page).
+Select the Mixed Media Set, and then select **[!UICONTROL Preview]**. In the Preview page, select a Mixed Media Set Viewer Preset, and then select the **[!UICONTROL Copy URL]**. See [Link Mixed Media Sets to Web pages](linking-mixed-media-set-web.md#linking-a-mixed-media-set-to-a-web-page).
