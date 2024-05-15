@@ -25,7 +25,7 @@ Options for uploading PSD files are located under Photoshop Options in the Uploa
 
 These options are available when uploading PSD files:
 
-* **Crop Options** - Located under **[!UICONTROL Crop Options]**. Select **[!UICONTROL Trim]** to automatically crop white space from the edges of a PSD file; select **[!UICONTROL Manual]** to crop sides of the PSD file:
+* **Crop Options** - Located under **[!UICONTROL Crop Options]**. Select **[!UICONTROL Trim]** so you can automatically crop white space from the edges of a PSD file. Select **[!UICONTROL Manual]** to crop the sides of the PSD file:
 
     * **[!UICONTROL Trim]** - Select the **[!UICONTROL Trim Away Based On]** menu, and choose **[!UICONTROL Color]** or **[!UICONTROL Transparency]**.
 
@@ -33,7 +33,7 @@ These options are available when uploading PSD files:
 
     Drag the slider to specify a tolerance from 0 through 1. To trim based on color, specify 0 to crop pixels only if they exactly match the color you selected in the corner of the PSD. Numbers closer to 1 allow for more color difference. To trim based on transparency, specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
 
-    * **[!UICONTROL Manual]** - Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, if the image displays 150 ppi and you enter 75 in the Top, Right, Bottom, and Left text boxes, 0.5 in. is cropped from each side of the image.
+    * **[!UICONTROL Manual]** - Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, suppose that the image displays 150 ppi. Then you enter 75 in the Top, Right, Bottom, and Left text boxes. Each side of the image is cropped, 0.5 in.
 
 * **Color Profile Options** - Located under **[!UICONTROL Color Profile Options]**.
 
@@ -61,7 +61,7 @@ These options are available when uploading PSD files:
 
         * **[!UICONTROL Photoshop and layer name]** - Names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names. For example, a layer named `Price Tag` in a PSD file that is named `SpringAd` is named `Spring Ad_Price Tag`. A layer with the default name Layer 2 is called `Spring Ad_2`.
 
-    * **[!UICONTROL Anchor]** - Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images to best fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
+    * **[!UICONTROL Anchor]** - Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images that can best fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
 
 ## View and edit layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
 
@@ -80,9 +80,9 @@ If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded yo
 1. Select **[!UICONTROL Layers]**. All the layers appear as separate images in the Layers panel.
 1. Double-click a layer and do any of the following:
 
-    * To create an image map on the layer, select **[!UICONTROL Image Map]** icon. (See [Create Image Maps](creating-image-maps.md#creating_image_maps).)
-    * To create zoom targets on the layer, select **[!UICONTROL Zoom Targets]** icon. (See [Create zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
-    * To crop the layer, select **[!UICONTROL Crop]** icon. (See [Crop an image](cropping-image.md#cropping_an_image).)
+    * To create an image map on the layer, select the **[!UICONTROL Image Map]** icon. (See [Create Image Maps](creating-image-maps.md#creating_image_maps).)
+    * To create zoom targets on the layer, select the **[!UICONTROL Zoom Targets]** icon. (See [Create zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
+    * To crop the layer, select the **[!UICONTROL Crop]** icon. (See [Crop an image](cropping-image.md#cropping_an_image).)
     * To sharpen the layer, select **[!UICONTROL Sharpen]**. (See [Sharpen an image](sharpening-image.md#sharpening_an_image).)
     * To adjust the layer, select **[!UICONTROL Adjust]**. (See [Adjust an image](adjusting-image.md#adjusting_an_image).)
 
