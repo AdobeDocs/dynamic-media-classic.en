@@ -95,15 +95,15 @@ You can filter and sort the user list to locate users. All users in all accounts
 
 You can use the following user list-filtering techniques:
 
-* **Filter by group** - Select the **[!UICONTROL By Group]** menu and choose an option to narrow the list to users in a group.
+* **Filter by group**: Select the **[!UICONTROL By Group]** menu and choose an option to narrow the list to users in a group.
 
-* **Filter by user role** - Select the **[!UICONTROL By User Role]** menu and choose an option to narrow the list to users or administrators of different types.
+* **Filter by user role**: Select the **[!UICONTROL By User Role]** menu and choose an option to narrow the list to users or administrators of different types.
 
-* **Filter by field name** - Select **[!UICONTROL Enable Filter By Field]**. Then select the **[!UICONTROL By Field Name]** menu, choose a column for filtering the list, and select the Filter Character menu and choose a letter. The list is filtered on one of the columns by the letter that you chose. To see the full list, deselect the **[!UICONTROL Enable Filter By Field]** option.
+* **Filter by field name**: Select **[!UICONTROL Enable Filter By Field]**. Then select the **[!UICONTROL By Field Name]** menu, choose a column for filtering the list, and select the Filter Character menu and choose a letter. The list is filtered on one of the columns by the letter that you chose. To see the full list, deselect the **[!UICONTROL Enable Filter By Field]** option.
 
-* **Filter out invalid users** - Deselect **[!UICONTROL Include Invalid]**. The search results display only users who are in the system. Invalid users have been deleted from the system and the accounts that you administer.
+* **Filter out invalid users**: Deselect **[!UICONTROL Include Invalid]**. The search results display only users who are in the system. Invalid users have been deleted from the system and the accounts that you administer.
 
-* **Sort by column heading** - Select a heading to sort all users by their status, alphabetically by first name, last name, or email, by user role, or by valid/invalid status.
+* **Sort by column heading**: Select a heading to sort all users by their status, alphabetically by first name, last name, or email, by user role, or by valid/invalid status.
 
 If you have many users, you can limit the size of the list by selecting the Max List Size menu and choosing a number.
 
@@ -156,17 +156,17 @@ The following table describes reports that you can generate from the Bandwidth &
 
 The Image Content report provides information about requests for the following image types:
 
-* **Image Request** - Requests for images.
+* **Image Request**: Requests for images.
 
-* **Thumbnail Request** - Requests for swatch or alternate images in viewers.
+* **Thumbnail Request**: Requests for swatch or alternate images in viewers.
 
-* **Mask Request** - Requests to images returning gray-scale masks.
+* **Mask Request**: Requests to images returning gray-scale masks.
 
-* **Viewer Tile Request** - Image requests loaded by a viewer.
+* **Viewer Tile Request**: Image requests loaded by a viewer.
 
-* **Vnt Object Request** - Image rendering requests that return an image with specified objects in the requested vignettes.
+* **Vnt Object Request**: Image rendering requests that return an image with specified objects in the requested vignettes.
 
-* **Vnt Info Request** - Image rendering requests that return information concerning the requested vignettes.
+* **Vnt Info Request**: Image rendering requests that return information concerning the requested vignettes.
 
 >[!NOTE]
 >
@@ -186,27 +186,27 @@ To generate a bandwidth, storage, image content, domain, video streaming, or vid
 
 After you generate a report on the Bandwidth & Storage page, you can choose options for viewing information. You can choose how information is presented, view information in a chart or data grid, and specify a time period for capturing information. In Data view, you can also sort information and rearrange columns.
 
-* **View data in a chart or data grid** - Select **[!UICONTROL Chart View]** to see data in a chart; select **[!UICONTROL Data View]** to view data in a data grid.
+* **View data in a chart or data grid**: Select **[!UICONTROL Chart View]** to see data in a chart; select **[!UICONTROL Data View]** to view data in a data grid.
 
-* **Choose a report presentation type** - On the Report Type menu, select **[!UICONTROL Summary]**, **[!UICONTROL Daily]**, or **[!UICONTROL Monthly]** to organize data in summary form, by day, or by month. Not all reports provide this option.
+* **Choose a report presentation type**: On the Report Type menu, select **[!UICONTROL Summary]**, **[!UICONTROL Daily]**, or **[!UICONTROL Monthly]** to organize data in summary form, by day, or by month. Not all reports provide this option.
 
-* **Specify a time period** - Choose options to define a time period for your report, and then select **[!UICONTROL Update]** after you define a time period:
+* **Specify a time period**: Choose options to define a time period for your report, and then select **[!UICONTROL Update]** after you define a time period:
 
-* **Pre-defined time period** - On the Pre-defined Report menu, choose an option. For example, choose Last Month to capture data from the previous month.
+* **Pre-defined time period**: On the Pre-defined Report menu, choose an option. For example, choose Last Month to capture data from the previous month.
 
-* **Custom time period** - On the Pre-defined Report menu, select **[!UICONTROL Custom]**. Then choose a date on the **[!UICONTROL Start Month]** (or **[!UICONTROL Start Date]**) menu and a date on the # of Months (or # or Days) menu. For Domain and Video Content Reports, you can choose a specific start and end date for capturing report information.
+* **Custom time period**: On the Pre-defined Report menu, select **[!UICONTROL Custom]**. Then choose a date on the **[!UICONTROL Start Month]** (or **[!UICONTROL Start Date]**) menu and a date on the # of Months (or # or Days) menu. For Domain and Video Content Reports, you can choose a specific start and end date for capturing report information.
 
-* **Sort data (Data view only)** - To sort information on a column, select the column's heading. Select again to sort in descending order.
+* **Sort data (Data view only)**: To sort information on a column, select the column's heading. Select again to sort in descending order.
 
-* **Rearrange columns (Data view only)** - To move a column to a different location on the data grid, drag its heading.
+* **Rearrange columns (Data view only)**: To move a column to a different location on the data grid, drag its heading.
 
 ### Export and print reports {#exporting-and-printing-reports}
 
 After you generate a report, you can export its data for use in spreadsheets and other applications. You can also print reports.
 
-* **Export report data** - In Data view, sort, and arrange the data as necessary. Then open the **[!UICONTROL Export]** menu and choose a format: **[!UICONTROL Tab Delimited]**, **[!UICONTROL Comma Separated]**, or **[!UICONTROL HTML Formatted]**. The data is copied to the Clipboard in the format that you chose. You can now paste the data into a spreadsheet or application.
+* **Export report data**: In Data view, sort, and arrange the data as necessary. Then open the **[!UICONTROL Export]** menu and choose a format: **[!UICONTROL Tab Delimited]**, **[!UICONTROL Comma Separated]**, or **[!UICONTROL HTML Formatted]**. The data is copied to the Clipboard in the format that you chose. You can now paste the data into a spreadsheet or application.
 
-* **Print a report** - Select **[!UICONTROL Print]**, choose the options you want in the Print dialog box, and then select **[!UICONTROL OK]**.
+* **Print a report**: Select **[!UICONTROL Print]**, choose the options you want in the Print dialog box, and then select **[!UICONTROL OK]**.
 
 ## Image Errors {#image-errors}
 
@@ -218,22 +218,22 @@ Adobe Dynamic Media Classic Administrators can generate Image Error reports. An 
 
     * To sort errors by the heading information, select a heading. By default, errors are sorted by number of occurrences, highest to lowest.
     * Move the cursor over the Response field for an error to see the specific error message.
-    * To see the link to the image or the referrer web page, move the cursor over the URL field or the Referrer field.
+    * To see the link to the image or the referrer Web page, move the cursor over the URL field or the Referrer field.
     * To copy the link to the actual image, select **[!UICONTROL URL Copy URL]**. You can paste this link in a browser window to go to the image and investigate the error.
-    * To copy the link to the referrer web page, select **[!UICONTROL Referrer Copy URL]**.
+    * To copy the link to the referrer Web page, select **[!UICONTROL Referrer Copy URL]**.
 
 Errors displayed are for the company that you are currently logged in to. Each error includes the following information:
 
-* **Image ID** - ID for the offending image.
+* **Image ID**: ID for the offending image.
 
-* **Time** - The time range of the first time the error was reported to the last time that the error was reported, within the last 24 hours.
+* **Time**: The time range of the first time the error was reported to the last time that the error was reported, within the last 24 hours.
 
-* **Count** - The number of errors reported on the image.
+* **Count**: The number of errors reported on the image.
 
-* **Response** - The specific error message. Errors are either 4xx or 5xx.
+* **Response**: The specific error message. Errors are either 4xx or 5xx.
 
-* **URLs** - Lists the URL to the image on Adobe Dynamic Media Classic.
+* **URLs**: Lists the URL to the image on Adobe Dynamic Media Classic.
 
-* **Referrer** - Specifies the URL for the web site where the initial request came from. The referrer can be any web site that has a link to the image.
+* **Referrer**: Specifies the URL for the Web site where the initial request came from. The referrer can be any Web site that has a link to the image.
 
 The URL and Referrer columns have Copy URL associated with them to simplify testing.

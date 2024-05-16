@@ -39,7 +39,7 @@ See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en
 
 You can use Viewer List to preview how an asset appears on a particular viewer platform type such as HTML5. Depending on the asset type and the associated viewer that you have selected to preview, not all platforms are available in Viewer List.
 
-You can also use Viewer List to copy a viewer's URL or view and copy the viewer code for embedding in your web pages.
+You can also use Viewer List to copy a viewer's URL or view and copy the viewer code for embedding in your Web pages.
 
 For a given viewer platform, the Viewer List window lets you visually see what devices, such as tablets and Smartphones, that a viewer is available for use.
 
@@ -66,7 +66,7 @@ For a given viewer platform, the Viewer List window lets you visually see what d
 
     * In the Viewer List window, under the Actions column of the table, select **[!UICONTROL Embed Code]**.
 
-      When you select **[!UICONTROL Embed Code]**, the Embed Code window is opened where you can review the viewer code. Editing of the code is not permitted in the window. You can also copy the code to the clipboard so you can paste it in your web pages.
+      When you select **[!UICONTROL Embed Code]**, the Embed Code window is opened where you can review the viewer code. Editing of the code is not permitted in the window. You can also copy the code to the clipboard so you can paste it in your Web pages.
 
       Close the displayed preview.
 
@@ -74,7 +74,7 @@ For a given viewer platform, the Viewer List window lets you visually see what d
 
 ## Preview an image asset based on its Image Preset {#previewing-an-image-asset-based-on-its-image-preset}
 
-You can preview an image asset based on its Image Preset to find out what your image looks like when it is delivered dynamically to your web site or application at different sizes.
+You can preview an image asset based on its Image Preset to find out what your image looks like when it is delivered dynamically to your Web site or application at different sizes.
 
 An Image Preset is a collection of pre-defined settings. These settings change the size, image quality, format, resolution, and other aspects of an image's appearance when it is exported.
 

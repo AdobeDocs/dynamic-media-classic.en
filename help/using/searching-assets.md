@@ -57,15 +57,15 @@ In the Asset Library, directly below the Search field, select **[!UICONTROL Adva
 
 Specify any of the following criteria in your advanced search:
 
-* **Filter by asset type** - Narrow your search to one asset type only. Choose an asset type on the menu.
+* **Filter by asset type**: Narrow your search to one asset type only. Choose an asset type on the menu.
 
-* **Files and folders** - Choose where you want to search: **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, or **[!UICONTROL Within Selected Folder & Subfolders]**.
+* **Files and folders**: Choose where you want to search: **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, or **[!UICONTROL Within Selected Folder & Subfolders]**.
 
-* **All publish states** - Search for files that are marked ready for publishment, are not marked ready for publish, or all files.
+* **All publish states**: Search for files that are marked ready for publishment, are not marked ready for publish, or all files.
 
-* **Conditions** - If you specify metadata criteria for searching, select whether the search must match all conditions (an ALL search) or any condition (an OR search).
+* **Conditions**: If you specify metadata criteria for searching, select whether the search must match all conditions (an ALL search) or any condition (an OR search).
 
-* **Search criteria** - Create one or more search fields for searching metadata. To create search fields:
+* **Search criteria**: Create one or more search fields for searching metadata. To create search fields:
 
    1. In Advanced Search, under the **[!UICONTROL Search criteria]** heading, and to the left of the **[!UICONTROL Add a Field]** menu), select the down triangle arrow icon to open the drop-down list. Choose a Metadata View. You can choose **[!UICONTROL All properties with values]**, **[!UICONTROL Compact View]**, **[!UICONTROL IPTC]**, **[!UICONTROL Metadata Server Publish Fields]**, or **[!UICONTROL XMP]**.
    1. Select the **[!UICONTROL Add a Field]** drop-down menu and choose a field name.
@@ -105,7 +105,7 @@ Follow these steps so you can locate assets by filtering with their metadata val
 
 1. Click **[!UICONTROL Field]** on a panel, then follow these instructions so you can display the filtering menu and construct the filter operation:
 
-   * **Choose a metadata field** - Select the name of the field on the filtering menu.
+   * **Choose a metadata field**: Select the name of the field on the filtering menu.
 
       >[!NOTE]
       >
@@ -113,9 +113,9 @@ Follow these steps so you can locate assets by filtering with their metadata val
 
       See [Metadata Views](application-setup.md#metadata_views).
 
-   * **Add a metadata field** - Select **[!UICONTROL Add a Panel]**. After the panel appears on the Filters pane, select its **[!UICONTROL Field]** button and choose the name of a metadata field on the filtering menu.
+   * **Add a metadata field**: Select **[!UICONTROL Add a Panel]**. After the panel appears on the Filters pane, select its **[!UICONTROL Field]** button and choose the name of a metadata field on the filtering menu.
 
-   * **Remove a metadata field** - Select **[!UICONTROL Remove This Panel]** on the filtering menu.
+   * **Remove a metadata field**: Select **[!UICONTROL Remove This Panel]** on the filtering menu.
 
    When you choose a metadata field, its panel lists the following:
 
@@ -137,11 +137,11 @@ Follow these steps so you can locate assets by filtering with their metadata val
 
 Follow these instructions in the Filters tab so you can save, repeat, and delete filter operations:
 
-* **Save a filter operation** - Go to **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]**, and then enter a name in the **[!UICONTROL Save]** dialog box.
+* **Save a filter operation**: Go to **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]**, and then enter a name in the **[!UICONTROL Save]** dialog box.
 
-* **Repeat a filter operation** - Choose **[!UICONTROL Select Preset]** and choose the name of a filter operation on the menu. The menu lists filter operations that you saved.
+* **Repeat a filter operation**: Choose **[!UICONTROL Select Preset]** and choose the name of a filter operation on the menu. The menu lists filter operations that you saved.
 
-* **Delete a filter operation from the Select Preset menu** - Run the filter operation. Then, go to **[!UICONTROL Select Preset]** > **[!UICONTROL Delete Preset]** on the menu.
+* **Delete a filter operation from the Select Preset menu**: Run the filter operation. Then, go to **[!UICONTROL Select Preset]** > **[!UICONTROL Delete Preset]** on the menu.
 
 ## Use the metadata server {#using-the-metadata-server}
 
@@ -151,13 +151,13 @@ To configure the metadata server, go to **[!UICONTROL Setup]** > **[!UICONTROL A
 
 The Metadata Server Publish page lets you set the following options:
 
-* **[!UICONTROL Instant Publish]** - Automatically pushes any metadata changes when they are made, including new assets, keyword changes, and so on.
+* **[!UICONTROL Instant Publish]**: Automatically pushes any metadata changes when they are made, including new assets, keyword changes, and so on.
 
-* **[!UICONTROL XMP Packet]** - Publishes the XMP Packet. This packet is not used for searching, but provides the most up-to-date XMP.
+* **[!UICONTROL XMP Packet]**: Publishes the XMP Packet. This packet is not used for searching, but provides the most up-to-date XMP.
 
-* **[!UICONTROL Keywords]** - Publishes your keywords to the metadata server for use in searches.
+* **[!UICONTROL Keywords]**: Publishes your keywords to the metadata server for use in searches.
 
-* **[!UICONTROL Metadata Server Publish Fields]** - Select the fields to include in the metadata. This option lets you determine how much information about your assets is available to the public. These fields are also displayed in Metadata Views, but can only be changed in the metadata server.
+* **[!UICONTROL Metadata Server Publish Fields]**: Select the fields to include in the metadata. This option lets you determine how much information about your assets is available to the public. These fields are also displayed in Metadata Views, but can only be changed in the metadata server.
 
 Select **[!UICONTROL Publish Now]** to start the job. A confirmation appears, telling you the job has started.
 

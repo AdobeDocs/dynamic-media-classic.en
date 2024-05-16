@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Publish a Spin Set{#publishing-a-spin-set}
 
-Publishing a Spin Set places the images in the set on Dynamic Media Image Servers, where they are available to your web site or application. What is more, during the publishing process, Adobe Dynamic Media Classic activates the Spin Set URL strings you need for your web site or application.
+Publishing a Spin Set places the images in the set on Dynamic Media Image Servers, where they are available to your Web site or application. What is more, during the publishing process, Adobe Dynamic Media Classic activates the Spin Set URL strings you need for your Web site or application.
 
 ## Mark a Spin Set for publish {#marking-a-spin-set-for-publish}
 

@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Publish primary images{#publishing-master-images}
 
-Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your web site and application. What's more, during the publishing process, Adobe Dynamic Media Classic activates the URL strings you need for your web site and application.
+Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your Web site and application. What's more, during the publishing process, Adobe Dynamic Media Classic activates the URL strings you need for your Web site and application.
 
 ## Mark primary images for publish {#marking-master-images-for-publish}
 

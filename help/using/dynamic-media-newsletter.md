@@ -17,7 +17,7 @@ level: Intermediate
 
 The Dynamic Media newsletter by Experience League was designed to help you get up to speed with Dynamic Media and Adobe Dynamic Media Classic so that you could start realizing value right away.
  
-In this one-stop shop archived newsletter, you can find valuable knowledge-building resources such as how-to videos and solution overviews. There are also introductions to key features and capabilities like image presets, viewer presets, and video profiles.
+In this one-stop shop archived newsletter, you can find valuable knowledge-building resources such as how-to videos and solution overviews. There are also introductions to key features and capabilities like Image Presets, Viewer Presets, and video profiles.
 
 <!-- microsite demo page https://experienceleague.adobe.com/tools/dynamic-media-demo/index.html -->
 

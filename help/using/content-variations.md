@@ -19,7 +19,7 @@ Create a template set to manage variations of a template. You can control which 
 
 Universal URLs are used to display the template variation that appears on the page, based on the order they are listed in the set. The template at the top of the template set list is always published.
 
-You can use any image preset URL from the list. Image preset URLs are like universal URLs. There can be more than one image preset URL.
+You can use any Image Preset URL from the list. Image Preset URLs are like universal URLs. There can be more than one Image Preset URL.
 
 1. Go to **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**.
 1. In the builder, select a template, then select **[!UICONTROL Add/Preview]**.

@@ -31,9 +31,9 @@ You can create a Project when you upload files or create Projects in the Asset L
 
 You can create a Project folder starting in the Assets Library or when you upload files to Adobe Dynamic Media Classic:
 
-* **In the Asset Library** - Scroll to the bottom of the Asset Library, to the Projects section, and then select **[!UICONTROL Add Project]**. Enter a name for the project.
+* **In the Asset Library**: Scroll to the bottom of the Asset Library, to the Projects section, and then select **[!UICONTROL Add Project]**. Enter a name for the project.
 
-* **When uploading files** - On the Upload screen, go to **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Enter a name for the project.
+* **When uploading files**: On the Upload screen, go to **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Enter a name for the project.
 
 >[!NOTE]
 >
@@ -43,11 +43,11 @@ You can create a Project folder starting in the Assets Library or when you uploa
 
 To display, delete, and rename a Project folder, do any of the following:
 
-* **Browsing contents** - Select the name of the folder in the Asset Library. Its assets appear in the Browse Panel.
+* **Browsing contents**: Select the name of the folder in the Asset Library. Its assets appear in the Browse Panel.
 
-* **Deleting Project folders** - Select the Project folder and then select **[!UICONTROL Remove Project]**. Deleting assets from a Project folder does not delete them from Adobe Dynamic Media Classic; the assets remain in the original folders in which they are stored.
+* **Deleting Project folders**: Select the Project folder and then select **[!UICONTROL Remove Project]**. Deleting assets from a Project folder does not delete them from Adobe Dynamic Media Classic; the assets remain in the original folders in which they are stored.
 
-* **Renaming Project folders** - Double-click the name of the folder in the Asset Panel, and then enter a new name.
+* **Renaming Project folders**: Double-click the name of the folder in the Asset Panel, and then enter a new name.
 
 ## Add assets to a Project folder {#adding-assets-to-a-project-folder}
 
@@ -55,4 +55,4 @@ You can add images to a Project folder starting in the Browse Panel or when you 
 
 * **From the Browse Panel**, select the assets and drag them to a Project folder. You can also go to **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Select a Project folder name in the Select Project dialog box, and then select **[!UICONTROL Submit]**.
 
-* **When uploading files** - On the Upload page, select **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, select **[!UICONTROL Projects]**, and then select a project name.
+* **When uploading files**: On the Upload page, select **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, select **[!UICONTROL Projects]**, and then select a project name.

@@ -17,7 +17,7 @@ A Spin Set simulates the real-world act of turning an object to examine it. Spin
 
 ![Images for a spin set.](/help/using/assets/spin_set.png)
 
-Spin Sets also accept Image Maps. An Image Map is a region on an image within the Spin Set that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. To point out an image map in a Spin Set, an outline appears around the Image Map itself when the user moves their mouse pointer over it.
+Spin Sets also accept Image Maps. An Image Map is a region on an image within the Spin Set that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a Web page is launched so that the user can learn more about a product. To point out an image map in a Spin Set, an outline appears around the Image Map itself when the user moves their mouse pointer over it.
 
 See [Create Image Maps](creating-image-maps.md).
 
@@ -69,16 +69,16 @@ See [Preview a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
 ## 6. Publish a Spin Set
 
-Publishing a Spin Set places it on Adobe Dynamic Media Classic servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image servers to your web site or application.
+Publishing a Spin Set places it on Adobe Dynamic Media Classic servers so it can be dynamically delivered to your Web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image servers to your Web site or application.
 
 To publish a Spin Set, mark it for publish by selecting the **[!UICONTROL Mark for Publish]** icon beside its name in the Browse Panel. On the Global Navigation bar, select **[!UICONTROL Publish]** to initiate a publishing. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish a Spin Set](publishing-spin-set.md#publishing-a-spin-set).
 
-## 7. Link a Spin Set to a web page
+## 7. Link a Spin Set to a Web page
 
 Adobe Dynamic Media Classic creates URL callout strings for Spin Sets, and activates them after you publish them. You can copy these URLs from the Preview page.
 
 Select the Spin Set, and then select **[!UICONTROL Preview]**. Select a Spin Set Viewer Preset. Then select **[!UICONTROL Copy URL]**.
 
-See [Link a Spin Set to a web page](linking-spin-set-web-page.md#linking-a-spin-set-to-a-web-page).
+See [Link a Spin Set to a Web page](linking-spin-set-web-page.md#linking-a-spin-set-to-a-web-page).

@@ -25,11 +25,11 @@ For more information about embedded metadata, see [Extensible Metadata Platform]
 
 To view an asset's metadata, open the asset in Detail View, and tap the Metadata panel. To select a set of metadata fields, choose an option on the Metadata View menu. Adobe Dynamic Media Classic offers these Metadata Views:
 
-* **Compact View** - A basic list of values.
+* **Compact View**: A basic list of values.
 
-* **IPTC** - Values as defined by the International Press Telecommunications Council.
+* **IPTC**: Values as defined by the International Press Telecommunications Council.
 
-* **XMP** - Values as defined by the extensible metadata program.
+* **XMP**: Values as defined by the extensible metadata program.
 
 Administrators can create Metadata Views. These views also appear on the Metadata Views menu.
 
@@ -179,13 +179,13 @@ The system automatically generates a custom schema for User-defined fields with 
 
 The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside Adobe Dynamic Media Classic. A prefix, a namespace, and a list of properties defines a schema.
 
-* **[!UICONTROL Name]** - UI-Name for the schema. Used to identify the properties in Metadata Views and Advanced Search. Similar to XMP Sections like Basic, IPTC, PDF.
+* **[!UICONTROL Name]**: UI-Name for the schema. Used to identify the properties in Metadata Views and Advanced Search. Similar to XMP Sections like Basic, IPTC, PDF.
 
-* **[!UICONTROL Prefix]** - Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Adobe Dynamic Media Classic UI, but is used when metadata for an asset is stored in the XMP block and the database. The prefix uniquely identifies metadata fields in metadata search queries on the Metadata Server or import.
+* **[!UICONTROL Prefix]**: Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Adobe Dynamic Media Classic UI, but is used when metadata for an asset is stored in the XMP block and the database. The prefix uniquely identifies metadata fields in metadata search queries on the Metadata Server or import.
 
-* **[!UICONTROL Namespace]** - Technical unique identifier for the schema, typically a URL in the form `https://your.company.com/name/version/`. See the list of standard schemas for examples. The namespace is not visible in the Adobe Dynamic Media Classic UI, but is used to store metadata in the XMP block.
+* **[!UICONTROL Namespace]**: Technical unique identifier for the schema, typically a URL in the form `https://your.company.com/name/version/`. See the list of standard schemas for examples. The namespace is not visible in the Adobe Dynamic Media Classic UI, but is used to store metadata in the XMP block.
 
-* **[!UICONTROL Description]** - Free-form description of the schema.
+* **[!UICONTROL Description]**: Free-form description of the schema.
 
 >[!NOTE]
 >

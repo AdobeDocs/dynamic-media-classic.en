@@ -1,6 +1,6 @@
 ---
 title: Create and enable Image Presets
-description: Learn how to create and enable image presets in Adobe Dynamic Media Classic.
+description: Learn how to create and enable Image Presets in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic

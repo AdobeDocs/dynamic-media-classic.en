@@ -19,7 +19,7 @@ You can make your long-form videos easier to watch and navigate by adding chapte
 >
 >The video player that is used must support the use of chapter markers.
 
-See [Add or edit a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) if you want to configure the chapter navigation cue points and chapter title pop-up text for the `Universal_HTML5_Video` viewer (HTML5).
+See [Add or edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) if you want to configure the chapter navigation cue points and chapter title pop-up text for the `Universal_HTML5_Video` viewer (HTML5).
 
 See also [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
@@ -59,7 +59,7 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
 
 1. Save the VTT file in UTF8 encoding so you can avoid problems with character rendition in the chapter title text.
 
-   Generally, you want to name the chapter VTT file the same name as the video file, and append it with `chapters`. By doing so, it can help you with automating the generation of the video URLs using your existing web content management system.
+   Generally, you want to name the chapter VTT file the same name as the video file, and append it with `chapters`. By doing so, it can help you with automating the generation of the video URLs using your existing Web content management system.
 
 1. In Adobe Dynamic Media Classic, upload your WebVTT chapter file.
 

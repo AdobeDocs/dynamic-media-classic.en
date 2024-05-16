@@ -15,7 +15,7 @@ level: Beginner
 
  Mixed Media Sets give users an integrated viewing experience. Mixed Media Sets can include images, Image Sets, Swatch Sets, Spin Sets, and videos. Users can select different tabs within the Mixed Media Viewer to see the items in the different viewers. If no tabs are specified, all assets are displayed together in the swatch row.
 
-Mixed Media Set Viewer Presets include community options for end users to embed code, copy URLs, and link to the main web site. Users can use these options to share information about products on their personal web sites or social networking sites.
+Mixed Media Set Viewer Presets include community options for end users to embed code, copy URLs, and link to the main Web site. Users can use these options to share information about products on their personal Web sites or social networking sites.
 
 This Mixed Media Sets Quick Start is designed to get you up and running quickly with Mixed Media Set techniques in Adobe Dynamic Media Classic.
 
@@ -43,7 +43,7 @@ See [Create a Mixed Media Set](creating-mixed-media-set.md#creating-a-mixed-medi
 
 Adobe Dynamic Media Classic comes with default viewer presets for Mixed Media Sets. Administrators can create or modify Mixed Media Set Viewer Presets.
 
-When setting up a Mixed Media Set Viewer Preset, add the viewer presets for all the other assets in your set. For example, if your Mixed Media Set includes videos, add a video viewer preset to the Mixed Media Set Viewer Preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
+When setting up a Mixed Media Set Viewer Preset, add the viewer presets for all the other assets in your set. For example, if your Mixed Media Set includes videos, add a Video Viewer Preset to the Mixed Media Set Viewer Preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
 
 See [Set up a Mixed Media Set Viewer Preset](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) and [Create and edit Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
@@ -63,7 +63,7 @@ Mixed Media Sets require that you publish to **Video Server** and also to **Imag
 
 See [Publish a Mixed Media Set](publishing-mixed-media-set.md#publishing-a-mixed-media-set).
 
-## 7. Link a Mixed Media Set to a web page
+## 7. Link a Mixed Media Set to a Web page
 
 Adobe Dynamic Media Classic activates URL calls for Mixed Media Sets after you publish them. You can copy these URLs from the Preview page.
 

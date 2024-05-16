@@ -64,8 +64,8 @@ With Adobe Dynamic Media Classic, you can sharpen images on ingestion, on delive
 
 There are two image-sharpening methods that you can use:
 
-* Simple sharpening ( `&op_sharpen`) - Similar to the sharpen filter used in Photoshop, simple sharpening applies basic sharpening to the final view of the image following dynamic resizing. However, this method is not user-configurable. The best practice is avoiding the use of `&op_sharpen` unless required.
-* Unsharp masking ( `&op_USM`) - Unsharp masking is an industry standard filter for sharpening. The best practice is to sharpen images with unsharp masking following the guidelines below. Unsharp masking lets you control the following three parameters:
+* Simple sharpening ( `&op_sharpen`): Similar to the sharpen filter used in Photoshop, simple sharpening applies basic sharpening to the final view of the image following dynamic resizing. However, this method is not user-configurable. The best practice is avoiding the use of `&op_sharpen` unless required.
+* Unsharp masking ( `&op_USM`): Unsharp masking is an industry standard filter for sharpening. The best practice is to sharpen images with unsharp masking following the guidelines below. Unsharp masking lets you control the following three parameters:
 
   * `&op_sharpen=amount,radius,threshold`
 
@@ -130,5 +130,5 @@ If sharpening results are still not satisfactory, increase the radius in decimal
 As you experiment, the following general suggestions are helpful to optimize your workflow:
 
 * Try out and test different parameters in real time, either directly on a URL or using the Adobe Dynamic Media Classic's image adjustment functionality. The latter provides real-time previews for adjustment operations.
-* As a best practice, remember that you can group Dynamic Media Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path calls these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs.
+* As a best practice, remember that you can group Dynamic Media Image Serving commands into an Image Preset. An Image Preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path calls these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs.
 * Adobe Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying image sharpening on ingestion. For advanced use cases where further tuning and optimizing of rendered results is an option, Adobe Professional Services can help you with customized insight and best practices.

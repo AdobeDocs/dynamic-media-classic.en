@@ -22,5 +22,5 @@ Use the following checklist to help you understand and prepare for an upgrade fr
 | **Phase 5: Administrative Setup**  | Setup users and permissions | Create users and grant appropriate permissions. |
 |   | Setup video encoding profiles | Create video encoding profiles. |
 |   | Setup viewer presets | Create viewer presets. |
-|   | Set image presets | Setup image presets. |
+|   | Set Image Presets | Setup Image Presets. |
 | **Phase 6: Validation** | Validation | Verify use cases, assets, links, and APIs. |

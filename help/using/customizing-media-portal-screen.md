@@ -17,21 +17,21 @@ The Media Portal style settings allow you to brand the Media Portal screen with 
 
 To access the style settings, go to **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]**. Be sure you select **[!UICONTROL Save]** to save your settings after you make them. You can select **[!UICONTROL Restore]** to bring back the default settings. As you make your choices, the Preview panel shows you how they appear.
 
-* **[!UICONTROL Logo]** - Select **[!UICONTROL Browse]**, and then choose a graphic in the Select Logo Image window.
+* **[!UICONTROL Logo]**: Select **[!UICONTROL Browse]**, and then choose a graphic in the Select Logo Image window.
 
-* **[!UICONTROL Application]** - Create a gradient color blend by making choices on the menus of the Background Gradient Colors.
+* **[!UICONTROL Application]**: Create a gradient color blend by making choices on the menus of the Background Gradient Colors.
 
-* **[!UICONTROL Tree]** - Choose a rollover color (the color that appears when you move the pointer over an item) and selection color (the color that appears when you select an item).
+* **[!UICONTROL Tree]**: Choose a rollover color (the color that appears when you move the pointer over an item) and selection color (the color that appears when you select an item).
 
-* **[!UICONTROL Accordion]** - Choose background colors, a border style, and rollover and selected colors for the accordion that appears on the right side of the screen in Details view.
+* **[!UICONTROL Accordion]**: Choose background colors, a border style, and rollover and selected colors for the accordion that appears on the right side of the screen in Details view.
 
-* **[!UICONTROL Accordion Header]** - Choose whether to make text in the accordion header boldface.
+* **[!UICONTROL Accordion Header]**: Choose whether to make text in the accordion header boldface.
 
-* **[!UICONTROL Datagrid]** - Choose colors for the header row in data grids.
+* **[!UICONTROL Datagrid]**: Choose colors for the header row in data grids.
 
-* **[!UICONTROL Alert]** - Choose a background color for alert message boxes.
+* **[!UICONTROL Alert]**: Choose a background color for alert message boxes.
 
-* **[!UICONTROL Progress Bar]** - Choose a color for the bar that indicates the progress of uploads and downloads.
+* **[!UICONTROL Progress Bar]**: Choose a color for the bar that indicates the progress of uploads and downloads.
 
 For Media Portal users to see the style settings that you chose, they must append `?company=(company name)` to the URL with which they access Media Portal. For example, to see style settings, Media Portal users who access the PortalCo company at the following:
 

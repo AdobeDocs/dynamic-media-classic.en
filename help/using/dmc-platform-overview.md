@@ -21,13 +21,13 @@ See also [Platform overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer
 
 The key Adobe Dynamic Media Classic workflow steps are:
 
-* **Upload and manage your assets** - Upload your media assets to Adobe Dynamic Media Classic. You can organize, browse, and search for assets on the system. You can also apply metadata to assets.
+* **Upload and manage your assets**: Upload your media assets to Adobe Dynamic Media Classic. You can organize, browse, and search for assets on the system. You can also apply metadata to assets.
 
-* **Create rich media** - Create different configurations of your assets such as eCatalogs, Image Sets, Spin Sets, Swatch Sets, Mixed Media Sets, basic Templates, and FXG Templates.
+* **Create rich media**: Create different configurations of your assets such as eCatalogs, Image Sets, Spin Sets, Swatch Sets, Mixed Media Sets, basic Templates, and FXG Templates.
 
-* **Publish and administer** - Publish assets to the Adobe Dynamic Media Classic SaaS network. Monitor the status of assets when they are published. Administer user rights and maintain security.
+* **Publish and administer**: Publish assets to the Adobe Dynamic Media Classic SaaS network. Monitor the status of assets when they are published. Administer user rights and maintain security.
 
-* **Serve** - Deliver media from Adobe Dynamic Media Classic SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Adobe Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
+* **Serve**: Deliver media from Adobe Dynamic Media Classic SaaS network to Web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Adobe Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
 
 ![The Adobe Dynamic Media Classic workflow process](/help/using/assets/gs_workflow.png)
 

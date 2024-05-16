@@ -20,12 +20,12 @@ With Secure Testing, you can preview the staging version of the website with unp
 If desired, create a staging environment rather than making assets publicly available for the following reasons:
 
 * Preview websites before public launch (staging website).
-* Serve assets that require restricted access, such as eCatalogs that show prices in a B2B web application.
+* Serve assets that require restricted access, such as eCatalogs that show prices in a B2B Web application.
 * Use assets behind a firewall as part of product information management system, customer service application, training site, and so on.
 
 >[!NOTE]
 >
->Secure Testing does not affect access to Adobe Dynamic Media Classic. Adobe Dynamic Media Classic security remains consistent and requires the usual credentials for access to Adobe Dynamic Media Classic and related web services.
+>Secure Testing does not affect access to Adobe Dynamic Media Classic. Adobe Dynamic Media Classic security remains consistent and requires the usual credentials for access to Adobe Dynamic Media Classic and related Web services.
 
 ## How Secure Testing works {#how-secure-testing-works}
 
@@ -82,7 +82,7 @@ Test the Secure Testing service so you ensure that it works as expected.
 
 <!-- >[!NOTE]
 >
->*If you do not mention any IPs under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Test Image Service]*** - If you add an IP only, that IP is able to call the assets and no other IP are allowed to make the calls. As long there is no IP mentioned under that section, all IPs are allowed to make the calls for the assets, and they show up. -->
+>*If you do not mention any IPs under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Test Image Service]***: If you add an IP only, that IP is able to call the assets and no other IP are allowed to make the calls. As long there is no IP mentioned under that section, all IPs are allowed to make the calls for the assets, and they show up. -->
 
 ### Prepare your account
 
@@ -127,8 +127,8 @@ Contact Adobe Care if the server name is missing or the URLs to the server do no
 
 You need two variations of a website that links the published and unpublished assets:
 
-* Public version - Link assets using your traditional Adobe Dynamic Media Classic URL syntax.
-* Staging version - Link assets using the same syntax but with the Secure Testing site name.
+* Public version: Link assets using your traditional Adobe Dynamic Media Classic URL syntax.
+* Staging version: Link assets using the same syntax but with the Secure Testing site name.
 
 ### Run the tests
 

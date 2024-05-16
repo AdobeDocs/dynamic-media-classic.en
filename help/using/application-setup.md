@@ -25,33 +25,33 @@ To open the Application General Settings page, on the Global Navigation bar, go 
 
 ### Servers
 
-On account creation, Adobe Dynamic Media Classic automatically provides the assigned servers for your company. These servers are used to construct URL strings for your web site and applications. These URL calls are specific to your account.
+On account creation, Adobe Dynamic Media Classic automatically provides the assigned servers for your company. These servers are used to construct URL strings for your Web site and applications. These URL calls are specific to your account.
 
 See also [Test the Secure Testing service](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
-* **[!UICONTROL Published Server Name]** - This server is the live CDN (Content Deliver Network) server used in all system-generated URL calls specific to your account. Only change this server name if you are instructed to do so by an Adobe Dynamic Media Classic support technician.
+* **[!UICONTROL Published Server Name]**: This server is the live CDN (Content Deliver Network) server used in all system-generated URL calls specific to your account. Only change this server name if you are instructed to do so by an Adobe Dynamic Media Classic support technician.
 
-* **[!UICONTROL Origin Server Name]** - This server is used for quality assurance testing only. Only change this server name if you are instructed to do so by an Adobe Dynamic Media Classic support technician.
+* **[!UICONTROL Origin Server Name]**: This server is used for quality assurance testing only. Only change this server name if you are instructed to do so by an Adobe Dynamic Media Classic support technician.
 
 <!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by an Adobe DynamicMedia Classic support technician. -->
 
-* **[!UICONTROL Test&amp;Target Server Name]** - The Test&Target URL, including `.com`. For instructions about obtaining this URL, see Integrating [!DNL Adobe Dynamic Media Classic] with [!DNL Adobe Target Standard/Premium].
+* **[!UICONTROL Test&amp;Target Server Name]**: The Test&Target URL, including `.com`. For instructions about obtaining this URL, see Integrating [!DNL Adobe Dynamic Media Classic] with [!DNL Adobe Target Standard/Premium].
 
 <!-- **Test Publish Context Server Name** -->
 
-* **[!UICONTROL iOS Streaming Server Name]** - The URL to your [!DNL Adobe Dynamic Media Classic] iOS streaming server. This server delivers streaming video to iOS-based devices using the HTTP protocol.
+* **[!UICONTROL iOS Streaming Server Name]**: The URL to your [!DNL Adobe Dynamic Media Classic] iOS streaming server. This server delivers streaming video to iOS-based devices using the HTTP protocol.
 
-* **[!UICONTROL Progressive Video Server Name]** - The URL to your [!DNL Adobe Dynamic Media Classic] progressive video server. This server delivers progressive video using the HTTP protocol.
+* **[!UICONTROL Progressive Video Server Name]**: The URL to your [!DNL Adobe Dynamic Media Classic] progressive video server. This server delivers progressive video using the HTTP protocol.
 
-* **[!UICONTROL Show URL for unpublished assets]** - Select this option if you wanted [!DNL Adobe Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
+* **[!UICONTROL Show URL for unpublished assets]**: Select this option if you wanted [!DNL Adobe Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
 
 <!-- **Allow AIR install** Select this option to allow users to download Adobe Dynamic Media Classic desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen. -->
 
-<!-- AIR users must manually uninstall their existing app and reinstall from the web version of Adobe Dynamic Media Classic (in Personal Settings). After this one-time reinstallation, you are prompted to upgrade whenever the server has a newer version of Adobe Dynamic Media Classic AIR. Adobe Dynamic Media Classic is integrated with the Application Update Framework which streamlines the upgrade process. -->
+<!-- AIR users must manually uninstall their existing app and reinstall from the Web version of Adobe Dynamic Media Classic (in Personal Settings). After this one-time reinstallation, you are prompted to upgrade whenever the server has a newer version of Adobe Dynamic Media Classic AIR. Adobe Dynamic Media Classic is integrated with the Application Update Framework which streamlines the upgrade process. -->
 
-* **[!UICONTROL CDN Invalidation Template]** - Specifies the template that is used for invalidating the CDN (Content Delivery Network) cache.
+* **[!UICONTROL CDN Invalidation Template]**: Specifies the template that is used for invalidating the CDN (Content Delivery Network) cache.
 
-   For example, suppose you enter an image URL (including image presets or modifiers) referencing `<ID>`, instead of a specific image ID as in the following example:
+   For example, suppose you enter an image URL (including Image Presets or modifiers) referencing `<ID>`, instead of a specific image ID as in the following example:
 
    `https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
 
@@ -73,13 +73,13 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 ### Browse
 
-* **[!UICONTROL Show Projects]** - Determines whether Projects are available as a means of organizing your Adobe Dynamic Media Classic assets. See [Organize your work with Projects](/help/using/organizing-projects.md).
+* **[!UICONTROL Show Projects]**: Determines whether Projects are available as a means of organizing your Adobe Dynamic Media Classic assets. See [Organize your work with Projects](/help/using/organizing-projects.md).
 
-* **[!UICONTROL Show Sample eVideo Content]** - Turn on or off the display of eVideo sample content.
+* **[!UICONTROL Show Sample eVideo Content]**: Turn on or off the display of eVideo sample content.
 
-* **[!UICONTROL Show Generated Content]** - In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Adobe Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each generated image when the original PDF gets uploaded, appears. It appears along with the PDF in the folder to which the PDF was uploaded.
+* **[!UICONTROL Show Generated Content]**: In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Adobe Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each generated image when the original PDF gets uploaded, appears. It appears along with the PDF in the folder to which the PDF was uploaded.
 
-* **[!UICONTROL Show Encoded Videos]** - Deselected (off) by default.
+* **[!UICONTROL Show Encoded Videos]**: Deselected (off) by default.
 
    You can quickly search and browse for videos in Adobe Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video. Leave this option deselected (default). Only the Primary Video thumbnail (the source video you uploaded and used to create the derivatives), and the "parent" Adaptive Video Set thumbnail (which contains the "child" derivatives of the encoded Video Set), are displayed.
 
@@ -97,43 +97,43 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
    >
    >If you did not use Adobe Dynamic Media Classic to upload and encode your video assets, Adobe Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.
 
-* **[!UICONTROL Show Refresh Subfolders Button]** - Turn on or off the display of the subfolders Refresh button.
+* **[!UICONTROL Show Refresh Subfolders Button]**: Turn on or off the display of the subfolders Refresh button.
 
 ### Adobe Dynamic Media Classic FTP Account
 
-* **[!UICONTROL Server]** - Lists your FTP account server.
+* **[!UICONTROL Server]**: Lists your FTP account server.
 
-* **[!UICONTROL User Name]** - Lists your FTP account user name.
+* **[!UICONTROL User Name]**: Lists your FTP account user name.
 
 ### Upload to Application
 
 See also [Options for upload jobs](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/569_Default%20Job%20Options_converted%20renamed_Getting%20Started-AVS) training video.
 
-* **[!UICONTROL Overwrite Images]** - Adobe Dynamic Media Classic does not allow two files to have the same name. Each item's Adobe Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a "-1" (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). See [Use the Overwrite Images option](#using-the-overwrite-images-option).
+* **[!UICONTROL Overwrite Images]**: Adobe Dynamic Media Classic does not allow two files to have the same name. Each item's Adobe Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a "-1" (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). See [Use the Overwrite Images option](#using-the-overwrite-images-option).
 
-  * **[!UICONTROL Overwrite in current folder, same base image name/extension]** - This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
+  * **[!UICONTROL Overwrite in current folder, same base image name/extension]**: This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
 
-  * **[!UICONTROL Overwrite in current folder, same base asset name regardless of extension]** - Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
+  * **[!UICONTROL Overwrite in current folder, same base asset name regardless of extension]**: Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
 
-  * **[!UICONTROL Overwrite in any folder, same base asset name/extension]** - Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
+  * **[!UICONTROL Overwrite in any folder, same base asset name/extension]**: Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
 
-  * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** - This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
+  * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]**: This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
 
-* **[!UICONTROL Retain Publish]** - Specifies whether a replacement image uploaded to Adobe Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing. Or, the setting is specified on upload.
+* **[!UICONTROL Retain Publish]**: Specifies whether a replacement image uploaded to Adobe Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing. Or, the setting is specified on upload.
 
-* **[!UICONTROL Default Color Profiles]** - Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
+* **[!UICONTROL Default Color Profiles]**: Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
 
-* **[!UICONTROL Default Upload Options]** - Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see [Upload options](/help/using/uploading-files.md#upload_options).
+* **[!UICONTROL Default Upload Options]**: Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see [Upload options](/help/using/uploading-files.md#upload_options).
 
 ### Image Map Editor (to Application)
 
-* **[!UICONTROL Default Image Mapping HREF]** - Defines the default URL that is used for the HREF column in image mapping. This URL is the default URL that you see when you create Image Maps.
+* **[!UICONTROL Default Image Mapping HREF]**: Defines the default URL that is used for the HREF column in image mapping. This URL is the default URL that you see when you create Image Maps.
 
-* **[!UICONTROL Default Image Mapping Template]** - Defines the default JavaScript for the HREF template in image mapping. You can set a custom code here to be run whenever you select an image map.
+* **[!UICONTROL Default Image Mapping Template]**: Defines the default JavaScript for the HREF template in image mapping. You can set a custom code here to be run whenever you select an image map.
 
 ### Other Settings (to Application)
 
-* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select "Send emails before trash items are automatically deleted" to have notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/using/trash-folder.md).
+* **[!UICONTROL Trash Can Clean Up Warnings]**: Assets in the Trash are automatically removed within seven days. Select "Send emails before trash items are automatically deleted" to have notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/using/trash-folder.md).
 
 ## Use the Overwrite Images option {#using-the-overwrite-images-option}
 
@@ -162,8 +162,8 @@ See [Smart imaging](https://experienceleague.adobe.com/en/docs/experience-manage
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 1. Create a preset or start from an existing one:
 
-    * **Create an Image Preset** - Select **[!UICONTROL Add]**.
-    * **Create an Image Preset from an existing preset** - Select the Image Preset that is most like the one you want to create, then select **[!UICONTROL Edit]**.
+    * **Create an Image Preset**: Select **[!UICONTROL Add]**.
+    * **Create an Image Preset from an existing preset**: Select the Image Preset that is most like the one you want to create, then select **[!UICONTROL Edit]**.
 
 1. On the Add (or Edit) Preset page, enter a name for the preset.
 1. Set the Preset options that you want.
@@ -179,75 +179,75 @@ You can edit an Image Preset by selecting its name on the Image Presets screen a
 
 The Add Preset and Edit Preset screens offers these options for creating and editing Image Presets:
 
-* **[!UICONTROL Preset Name]** - Enter a descriptive name without any blank spaces. To help users identify this Image Preset, include the image-size specification in the name.
+* **[!UICONTROL Preset Name]**: Enter a descriptive name without any blank spaces. To help users identify this Image Preset, include the image-size specification in the name.
 
-* **[!UICONTROL Width and Height]** - Enter in pixels the size at which the image is delivered.
+* **[!UICONTROL Width and Height]**: Enter in pixels the size at which the image is delivered.
 
-* **[!UICONTROL Format]** - Select a format from the menu. Choosing the GIF, JPEG, PDF, or TIFF format brings up more options:
+* **[!UICONTROL Format]**: Select a format from the menu. Choosing the GIF, JPEG, PDF, or TIFF format brings up more options:
 
   * GIF Color Quantization Options
 
-    * **[!UICONTROL Type]** - Select Adaptive (the default), Web, or Mac. If you select **[!UICONTROL GIF With Alpha]**, the Mac option is not available.
+    * **[!UICONTROL Type]**: Select Adaptive (the default), Web, or Mac. If you select **[!UICONTROL GIF With Alpha]**, the Mac option is not available.
 
-    * **[!UICONTROL Dither]** - Select Diffuse or Off.
+    * **[!UICONTROL Dither]**: Select Diffuse or Off.
 
-    * **[!UICONTROL Number Of Colors]** - Drag the slider to enter 2-255.
+    * **[!UICONTROL Number Of Colors]**: Drag the slider to enter 2-255.
 
-    * **[!UICONTROL Color List]** - Enter a comma-separated list. For example, for white, gray, and black, enter `000000,888888,ffffff`.
+    * **[!UICONTROL Color List]**: Enter a comma-separated list. For example, for white, gray, and black, enter `000000,888888,ffffff`.
 
   * JPEG Options
 
-    * **[!UICONTROL Quality]** - Controls the JPEG compression level. This setting affects both file size and image quality. The JPEG quality scale is 1-100.
+    * **[!UICONTROL Quality]**: Controls the JPEG compression level. This setting affects both file size and image quality. The JPEG quality scale is 1-100.
 
-    * **[!UICONTROL Enable JPG Chrominance Downsampling]** - Because the eye is less sensitive to high-frequency color information than high-frequency luminance, JPEG images divide image information into luminance and color components. When a JPEG image is compressed, the luminance component is left at full resolution, while the color components are downsampled by averaging together groups of pixels. Downsampling reduces the data volume by one-half or one-third with almost no impact on perceived quality. Downsampling is not applicable to grayscale images. This technique reduces the amount of compression useful for images with high contrast (for example, images with overlaid text).
+    * **[!UICONTROL Enable JPG Chrominance Downsampling]**: Because the eye is less sensitive to high-frequency color information than high-frequency luminance, JPEG images divide image information into luminance and color components. When a JPEG image is compressed, the luminance component is left at full resolution, while the color components are downsampled by averaging together groups of pixels. Downsampling reduces the data volume by one-half or one-third with almost no impact on perceived quality. Downsampling is not applicable to grayscale images. This technique reduces the amount of compression useful for images with high contrast (for example, images with overlaid text).
 
   * PDF and TIFF options
 
-    * **[!UICONTROL Compression]** - Select a compression algorithm.
+    * **[!UICONTROL Compression]**: Select a compression algorithm.
 
-* **[!UICONTROL Colorspace]** - Select a color space.
+* **[!UICONTROL Colorspace]**: Select a color space.
 
-* **[!UICONTROL Sharpening]** - Select the Enable Simple Sharpening option to apply a basic sharpening filter to the image after all scaling takes place. Sharpening can help compensate for blurriness that can result when you display an image at a different size.
+* **[!UICONTROL Sharpening]**: Select the Enable Simple Sharpening option to apply a basic sharpening filter to the image after all scaling takes place. Sharpening can help compensate for blurriness that can result when you display an image at a different size.
 
    For more information about sharpening, resample modes, and unsharp masking, see [Sharpen an image](sharpening-image.md#sharpening_an_image). See also [Sharpening](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) training video.
 
-* **[!UICONTROL Resample Mode]** - Select a Resampling mode option. These options sharpen the image when it is downsampled:
+* **[!UICONTROL Resample Mode]**: Select a Resampling mode option. These options sharpen the image when it is downsampled:
 
-* **[!UICONTROL B-Linear]** - The fastest resampling method; some aliasing artifacts are noticeable.
+* **[!UICONTROL B-Linear]**: The fastest resampling method; some aliasing artifacts are noticeable.
 
-* **[!UICONTROL Bi-Cubic]** - Increases CPU usage on the Image Server, but yields sharper images with less noticeable aliasing artifacts.
+* **[!UICONTROL Bi-Cubic]**: Increases CPU usage on the Image Server, but yields sharper images with less noticeable aliasing artifacts.
 
-* **[!UICONTROL `Sharp 2`]** - Can produce slightly sharper results than the Bi-Cubic option, but at even higher CPU cost on the Image Server.
+* **[!UICONTROL `Sharp 2`]**: Can produce slightly sharper results than the Bi-Cubic option, but at even higher CPU cost on the Image Server.
 
-* **[!UICONTROL Tri-Linear]** - Uses both higher and lower resolutions, if available; recommended only when aliasing is an issue. This method reduces JPEG size due to reduced high-frequency data.
+* **[!UICONTROL Tri-Linear]**: Uses both higher and lower resolutions, if available; recommended only when aliasing is an issue. This method reduces JPEG size due to reduced high-frequency data.
 
-* **[!UICONTROL Unsharp Masking]** - Choose these options to fine-tune sharpening:
+* **[!UICONTROL Unsharp Masking]**: Choose these options to fine-tune sharpening:
 
-* **[!UICONTROL Amount]** - Controls the amount of contrast applied to edge pixels. The default is 1.0. For high-resolution images, you can increase it to as high as 5.0. Think of Amount as a measure of filter intensity.
+* **[!UICONTROL Amount]**: Controls the amount of contrast applied to edge pixels. The default is 1.0. For high-resolution images, you can increase it to as high as 5.0. Think of Amount as a measure of filter intensity.
 
-* **[!UICONTROL Radius]** - Determines the number of pixels surrounding the edge pixels that affect the sharpening. For high-resolution images, enter from 1 through 2. A low value sharpens only the edge pixels; a high value sharpens a wider band of pixels. The correct value depends on the size of the image.
+* **[!UICONTROL Radius]**: Determines the number of pixels surrounding the edge pixels that affect the sharpening. For high-resolution images, enter from 1 through 2. A low value sharpens only the edge pixels; a high value sharpens a wider band of pixels. The correct value depends on the size of the image.
 
-* **[!UICONTROL Threshold]** - Determines the range of contrast to ignore when the unsharp mask filter is applied. That is, it can help resolve how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and sharpened. To avoid introducing noise, experiment with values between `.02` and `0.2`. The default value of 6 sharpens all pixels in the image.
+* **[!UICONTROL Threshold]**: Determines the range of contrast to ignore when the unsharp mask filter is applied. That is, it can help resolve how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and sharpened. To avoid introducing noise, experiment with values between `.02` and `0.2`. The default value of 6 sharpens all pixels in the image.
 
-* **[!UICONTROL Color Space]** - Determines whether the image uses the space in which the image was created, usually RGB (Original) or a luminance space (Intensity).
+* **[!UICONTROL Color Space]**: Determines whether the image uses the space in which the image was created, usually RGB (Original) or a luminance space (Intensity).
 
 * **[!UICONTROL Color]** Choose these options:
 
-* **[!UICONTROL Output Color Profile]** - Select **[!UICONTROL Use Default]** or one of the ICC color profiles available on the Adobe Dynamic Media Classic.
+* **[!UICONTROL Output Color Profile]**: Select **[!UICONTROL Use Default]** or one of the ICC color profiles available on the Adobe Dynamic Media Classic.
 
    See also [ICC profiles](icc-profiles.md#icc_profiles).
 
-* **[!UICONTROL Rendering Intent]** - Select an option if you want to override the default rendering intent of the color profile. Use this option when one of the default ICC profiles is the target color space of a color conversion. Or, this profile characterizes the output device (printer or monitor), and the specified rendering intent is valid for this profile.
+* **[!UICONTROL Rendering Intent]**: Select an option if you want to override the default rendering intent of the color profile. Use this option when one of the default ICC profiles is the target color space of a color conversion. Or, this profile characterizes the output device (printer or monitor), and the specified rendering intent is valid for this profile.
 
-* **[!UICONTROL Embed Profile]** - Select this option so that, if you open this image in Adobe&reg; Photoshop&reg;, it uses this profile.
+* **[!UICONTROL Embed Profile]**: Select this option so that, if you open this image in Adobe&reg; Photoshop&reg;, it uses this profile.
 
-* **[!UICONTROL Print Resolution]** - Select a resolution for printing this image; 72 pixels is the default.
+* **[!UICONTROL Print Resolution]**: Select a resolution for printing this image; 72 pixels is the default.
 
-* **[!UICONTROL URL Modifiers]** - If you prefer to specify the URL modifiers that define your Image Preset, rather than the settings, enter the modifiers here.
+* **[!UICONTROL URL Modifiers]**: If you prefer to specify the URL modifiers that define your Image Preset, rather than the settings, enter the modifiers here.
 
-* **[!UICONTROL Sample Image URL]** - Lists the "raw" URL string that the Dynamic Media Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings that you select in the Add Preset or Edit Preset screen.
+* **[!UICONTROL Sample Image URL]**: Lists the "raw" URL string that the Dynamic Media Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings that you select in the Add Preset or Edit Preset screen.
 
-### Edit, remove, or deactivate an image preset {#editing-removing-or-deactivating-an-image-preset}
+### Edit, remove, or deactivate an Image Preset {#editing-removing-or-deactivating-an-image-preset}
 
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 1. In the Image Presets screen, select a preset in the table, and then do one of the following:
@@ -282,17 +282,17 @@ To select an encoding preset, in the lower-right corner of the Upload page, sele
 
 * Select from the following Adaptive Video encoding or single-encoding presets:
 
-  * **[!UICONTROL 16:9 Adaptive Video]** - Create 16:9 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;), optimized with the resolution and bit rate that best matches the viewer's connection speed.
+  * **[!UICONTROL 16:9 Adaptive Video]**: Create 16:9 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;), optimized with the resolution and bit rate that best matches the viewer's connection speed.
 
-  * **[!UICONTROL 4:3 Adaptive Video]** - Create 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;), optimized with the resolution and bit rate that best matches the viewer's connection speed.
+  * **[!UICONTROL 4:3 Adaptive Video]**: Create 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;), optimized with the resolution and bit rate that best matches the viewer's connection speed.
 
-  * **[!UICONTROL Adaptive Video]** - A single-encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio.
+  * **[!UICONTROL Adaptive Video]**: A single-encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio.
 
       This flexibility of having an "Auto-scale" is also available by default when you create your own custom video encoding preset.
 
       See [Add or edit a video encoding preset](uploading-encoding-videos.md#adding_or_editing_a_video_encoding_preset).
 
-  * **[!UICONTROL Adaptive Video Encoding (16:9 or 4:3)]** - Create both 16:9 and 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;). All optimized with the resolution and bit rate that best matches the viewer's connection speed.
+  * **[!UICONTROL Adaptive Video Encoding (16:9 or 4:3)]**: Create both 16:9 and 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;). All optimized with the resolution and bit rate that best matches the viewer's connection speed.
 
       See [Adaptive Video Encoding (16:9 or 4:3) video presets](application-setup.md#adaptive_video_encoding_16_9_or_4_3_video_presets).
 
@@ -312,17 +312,17 @@ After you select **[!UICONTROL Start Upload]**, the original Primary Video file 
 
 Parameters of the encoding preset options are the following:
 
-* **[!UICONTROL Target connection speed]** - The Internet connection speed of the targeted end user.
+* **[!UICONTROL Target connection speed]**: The Internet connection speed of the targeted end user.
 
-* **[!UICONTROL Encoded file suffix]** - The suffix that is attached to the encoded video file for identification purposes.
+* **[!UICONTROL Encoded file suffix]**: The suffix that is attached to the encoded video file for identification purposes.
 
-* **[!UICONTROL Video bit rate (data rate)]** - The amount of data that is encoded to make up a single second of video playback (in kilobits per second).
+* **[!UICONTROL Video bit rate (data rate)]**: The amount of data that is encoded to make up a single second of video playback (in kilobits per second).
 
-* **[!UICONTROL Pixel Width/Height]** - The width dimension of the screen image, in pixels; the height dimension of the screen image (in pixels).
+* **[!UICONTROL Pixel Width/Height]**: The width dimension of the screen image, in pixels; the height dimension of the screen image (in pixels).
 
-* **[!UICONTROL Frame per second (fps)]** - The number of frames, or still images, for each second of video. In the United States and Japan, most video is shot at 29.97 fps; in Europe and Asia (excluding Japan), most video is shot at 25 fps. The film is shot at 24 fps.
+* **[!UICONTROL Frame per second (fps)]**: The number of frames, or still images, for each second of video. In the United States and Japan, most video is shot at 29.97 fps; in Europe and Asia (excluding Japan), most video is shot at 25 fps. The film is shot at 24 fps.
 
-* **[!UICONTROL Audio bit rate]** - The amount of data that is encoded to make up a single second of audio playback, in kilobits per second.
+* **[!UICONTROL Audio bit rate]**: The amount of data that is encoded to make up a single second of audio playback, in kilobits per second.
 
 The following tables show you recommended best practices for selecting video presets and the naming conventions that are used to designate encoded files.
 
@@ -365,7 +365,7 @@ Video encoding presets for MP4 and OGV on desktop computers.
 
 For information about encoding options parameters, see [About the encoding preset options](application-setup.md#about_encoding_preset_options).
 
-**H264 Main 3.2 - Audio AAC, MP4 file extension**
+**H264 Main 3.2: Audio AAC, MP4 file extension**
 
 ||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|FPS|Audio bit rate (Kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
@@ -378,7 +378,7 @@ For information about encoding options parameters, see [About the encoding prese
 |7|4:3, 640x480 (1200 Kbps)|1.5 Mbps|_640x480_1200K|1200|640x480|Same as source|96|Medium-high resolution|
 |8|4:3, 1280x960 (2000 Kbps)|3.0 Mbps|_1280x960_2000K|2000|1280x960|Same as source|128|High-definition|
 
-**OGG Theora Vorbis - OGV file extension**
+**OGG Theora Vorbis: OGV file extension**
 
 ||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|FPS|Audio bit rate (Kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
@@ -397,7 +397,7 @@ Same as source fps. Video encoding presets for iPhone, iPad, and Android&trade; 
 
 For information about encoding options parameters, see [About the encoding preset options](application-setup.md#about_encoding_preset_options).
 
-**H264 Baseline 2.1 - Audio AAC, MP4 file extension**
+**H264 Baseline 2.1: Audio AAC, MP4 file extension**
 
 ||Encoding Preset Name/Tooltip Text|Target Connection Speed (Kbps)|Encoded file suffix|Video bit rate (Kbps)|Pixel Width/Height|FPS|Audio bit rate (Kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
@@ -416,7 +416,7 @@ For information about encoding options parameters, see [About the encoding prese
 
 >[!NOTE]
 >
->**Flash Viewers End-of-Life Notice** - Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform.
+>**Flash Viewers End-of-Life Notice**: Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform.
 
 A *Viewer Preset* is a collection of settings that determine how users view rich-media assets on their computer screens and mobile devices. As an administrator, you can create Viewer Presets. Settings are available for an array of viewer configuration options. For example, you can change the viewer display size, zoom behavior, color schemes, borders, and fonts.
 
@@ -436,29 +436,29 @@ See [Adobe Dynamic Media Classic Viewer Preset compatibility matrix](application
 
 See [Best practice: Using the HTML5 Video viewer](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer).
 
-Depending on the viewer, you can add community features. Community features include an Embed button, E-mail button, Link button, and Visit Site button. These buttons let people that use the viewers share the viewer with others or open the Adobe Dynamic Media Classic web site.
+Depending on the viewer, you can add community features. Community features include an Embed button, E-mail button, Link button, and Visit Site button. These buttons let people that use the viewers share the viewer with others or open the Adobe Dynamic Media Classic Web site.
 
 See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
-### Viewer support for responsive-designed web pages {#viewer-support-for-responsive-designed-web-pages}
+### Viewer support for responsive-designed Web pages {#viewer-support-for-responsive-designed-web-pages}
 
-Different web pages have different needs. Sometimes you want a web page that provides a link that opens the HTML5 Viewer in a separate browser window. In other cases, it is necessary to embed the HTML5 Viewer directly on the hosting page. In the latter case, the web page likely has a static layout. Or, it is "responsive" and displays differently on different devices or for different browser window sizes. To accommodate these needs, the HTML5 Viewers that come with Adobe Dynamic Media Classic support both static web pages and responsive-designed web pages.
+Different Web pages have different needs. Sometimes you want a Web page that provides a link that opens the HTML5 Viewer in a separate browser window. In other cases, it is necessary to embed the HTML5 Viewer directly on the hosting page. In the latter case, the Web page likely has a static layout. Or, it is "responsive" and displays differently on different devices or for different browser window sizes. To accommodate these needs, the HTML5 Viewers that come with Adobe Dynamic Media Classic support both static Web pages and responsive-designed Web pages.
 
-For more information on how to embed responsive viewers onto your web pages, see [About Responsive Image library](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library#image-serving-api), [Use Responsive Image Library](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#image-serving-api), and [Command reference - Command attributes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#responsive-static-image-library).
+For more information on how to embed responsive viewers onto your Web pages, see [About Responsive Image library](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library#image-serving-api), [Use Responsive Image Library](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#image-serving-api), and [Command reference: Command attributes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#responsive-static-image-library).
 
 ### Viewer Preset types {#viewer-preset-types}
 
 Administrators can create and customize the following types of Viewer Presets:
 
-* **[!UICONTROL eCatalog Viewer]** - Simulates the experience of reading a printed catalog. You can move from page to page, zoom in and out of items on a page, use Image Maps to see more information about items on the page, or search the catalog. You can also include an Info panel to display detailed information and an image-mapped item if the map area has a valid rollover_key attribute. To include an Info panel, specify an Information Server URL in the Info panel Settings panel of the eCatalog Viewer Preset window.
+* **[!UICONTROL eCatalog Viewer]**: Simulates the experience of reading a printed catalog. You can move from page to page, zoom in and out of items on a page, use Image Maps to see more information about items on the page, or search the catalog. You can also include an Info panel to display detailed information and an image-mapped item if the map area has a valid rollover_key attribute. To include an Info panel, specify an Information Server URL in the Info panel Settings panel of the eCatalog Viewer Preset window.
 
-* **[!UICONTROL Swatch Set Viewer]** - Displays an image in a different color, material, texture, finish, or fabric. Users select a thumbnail to see the variations in the image.
+* **[!UICONTROL Swatch Set Viewer]**: Displays an image in a different color, material, texture, finish, or fabric. Users select a thumbnail to see the variations in the image.
 
-* **[!UICONTROL Mixed Media Set Viewer]** - Displays different types of media in one viewer. You can include Swatch Sets, Spin Sets, images, and videos. You can set up tabs to contain different types of content, such as a tab for Image Sets and a tab for videos. Videos played back from a Mixed Media Set use a standard Video Viewer with a timeline and video controls, such as Stop, Pause, Rewind, and Play. When you set up a Mixed Media Set Viewer Preset, you specify which viewers you want to use for the different types of assets in your Mixed Media Set. You can also use the Grid Viewer or Carousel Viewer to view a Mixed Media Set.
+* **[!UICONTROL Mixed Media Set Viewer]**: Displays different types of media in one viewer. You can include Swatch Sets, Spin Sets, images, and videos. You can set up tabs to contain different types of content, such as a tab for Image Sets and a tab for videos. Videos played back from a Mixed Media Set use a standard Video Viewer with a timeline and video controls, such as Stop, Pause, Rewind, and Play. When you set up a Mixed Media Set Viewer Preset, you specify which viewers you want to use for the different types of assets in your Mixed Media Set. You can also use the Grid Viewer or Carousel Viewer to view a Mixed Media Set.
 
-* **[!UICONTROL Spin Set Viewer]** - Provides multiple views of an image so users can turn the object to examine the different sides and angles.
+* **[!UICONTROL Spin Set Viewer]**: Provides multiple views of an image so users can turn the object to examine the different sides and angles.
 
-* **Video Viewer** - Displays videos using the resolution dimensions of the source file or a custom size. Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Video Viewer Presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its:
+* **Video Viewer**: Displays videos using the resolution dimensions of the source file or a custom size. Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Video Viewer Presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its:
 
   * size
   * foreground and background color
@@ -468,11 +468,11 @@ Administrators can create and customize the following types of Viewer Presets:
   * social features
   * and Help
 
-* **[!UICONTROL Zoom Viewers]** - Offers a choice of three types of zoom viewer:
+* **[!UICONTROL Zoom Viewers]**: Offers a choice of three types of zoom viewer:
 
-* **[!UICONTROL Zoom Viewer]** - Lets users zoom into the area by selecting it. They can select controls to zoom in, zoom out, and reset the image to its default size.
+* **[!UICONTROL Zoom Viewer]**: Lets users zoom into the area by selecting it. They can select controls to zoom in, zoom out, and reset the image to its default size.
 
-* **[!UICONTROL Zoom Viewer: Fly-out]** - Displays a second image of the zoomed area next to the original image. There are no controls to use, users simply move the selection over the area they want to view.
+* **[!UICONTROL Zoom Viewer: Fly-out]**: Displays a second image of the zoomed area next to the original image. There are no controls to use, users simply move the selection over the area they want to view.
 
 When determining the complete bandwidth usage for this viewer, consider that both the main image and the flyout image are served in the viewer. The main image size (Stage Width and Height) and the Zoom Factor determine the flyout image size. To keep the flyout file size from becoming too large, balance these two values: if you have a large main image size, lower the Zoom Factor value. (The Flyout Width and Flyout Height determine the size of the flyout window, but not the size of the flyout image that is served into the viewer.)
 
@@ -486,7 +486,7 @@ The following table identifies the currently available Adobe Dynamic Media Class
 
 See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
-For information about supported web browser and operating system versions for Viewers, you can review the Viewers Release Notes.
+For information about supported Web browser and operating system versions for Viewers, you can review the Viewers Release Notes.
 
 See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 
@@ -560,28 +560,28 @@ Create and manage Viewer Presets on the Viewer Presets screen. To open this scre
 
 The Viewer Presets screen offers tools for doing these tasks:
 
-* **Add a preset** - Select **[!UICONTROL Add]** and make choices in the Add Viewer Preset dialog box.
+* **Add a preset**: Select **[!UICONTROL Add]** and make choices in the Add Viewer Preset dialog box.
 
       See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-* **Edit a preset** - Select a preset, and then select **[!UICONTROL Edit]**.
+* **Edit a preset**: Select a preset, and then select **[!UICONTROL Edit]**.
 
       See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-* **Delete a preset** - Select a preset, and then select **[!UICONTROL Delete]**.
+* **Delete a preset**: Select a preset, and then select **[!UICONTROL Delete]**.
 
-* **Export a preset** - Select an HTML5 Viewer Preset. Then click **[!UICONTROL Export]** to download the viewer skin so that you can use it as the basis for creating and adding another Viewer Preset.
+* **Export a preset**: Select an HTML5 Viewer Preset. Then click **[!UICONTROL Export]** to download the viewer skin so that you can use it as the basis for creating and adding another Viewer Preset.
 
       See [Export an HTML5 Viewer Preset](application-setup.md#exporting_an_html5_viewer_preset).
 
-* **Filter the Viewer Preset list** - Use these tools to filter the list:
+* **Filter the Viewer Preset list**: Use these tools to filter the list:
 
       * Open the **Active/Inactive** drop-down list and select an option to show active presets, inactive presets, or all presets.
       * Open the **Viewer** drop-down list and select an option to see only viewers of a certain kind. Select **[!UICONTROL All Viewers]** to see all viewers.
 
-* **Sort presets** - Select a column heading (**[!UICONTROL Active]**, **[!UICONTROL Type]**, **[!UICONTROL Preset]**, or **[!UICONTROL Platform]**) to sort the list on a column. Select a column heading a second time to sort the list in descending (or ascending) order.
+* **Sort presets**: Select a column heading (**[!UICONTROL Active]**, **[!UICONTROL Type]**, **[!UICONTROL Preset]**, or **[!UICONTROL Platform]**) to sort the list on a column. Select a column heading a second time to sort the list in descending (or ascending) order.
 
-* **Activate and deactivate presets** - Select a preset, and then select its Active option so you can activate or deactivate it.
+* **Activate and deactivate presets**: Select a preset, and then select its Active option so you can activate or deactivate it.
 
       See [Activate or deactivate Viewer Presets](application-setup.md#activating_or_deactivating_viewer_presets).
 
@@ -605,15 +605,15 @@ See also [Viewer Presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.ht
 
 1. In the Viewer Presets page, add or edit the Viewer Preset on the Viewer Presets screen.
 
-   * **Add** - On the toolbar, select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, select a platform, and select a rich-media asset type.
+   * **Add**: On the toolbar, select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, select a platform, and select a rich-media asset type.
 
          Select **[!UICONTROL Save As]** when you have finished creating the Viewer Preset.
 
-   * **Add by starting from an existing Viewer Preset** - In the table, select a Video Viewer Preset, and then select **[!UICONTROL Edit]** on the toolbar.
+   * **Add by starting from an existing Viewer Preset**: In the table, select a Video Viewer Preset, and then select **[!UICONTROL Edit]** on the toolbar.
 
          After you reconfigure the Video Viewer, select **[!UICONTROL Save As]** to save the preset using a different name in the Preset Name text field.
 
-   * **Edit** - Select an existing Viewer Preset, and then select **[!UICONTROL Edit]**.
+   * **Edit**: Select an existing Viewer Preset, and then select **[!UICONTROL Edit]**.
 
 1. In the Configuring Viewer page, in the Preset Name field, enter, or edit the preset name.
 1. Set the remaining options that you want.
@@ -687,7 +687,7 @@ Unless you deactivate Viewer Presets on the Viewer Presets screen, the Presets d
 
 After you publish an asset, you can copy a URL for displaying the asset with the settings from a Viewer Preset.
 
-The URL is copied to the Clipboard. You can use it as necessary in the HTML code of your web page, mobile device, or application.
+The URL is copied to the Clipboard. You can use it as necessary in the HTML code of your Web page, mobile device, or application.
 
 **To copy the URL of a Viewer Preset:**
 
@@ -709,7 +709,7 @@ The URL is copied to the Clipboard. You can use it as necessary in the HTML code
 
 ### Copy the embed code of a Viewer Preset {#copying-the-embed-code-of-a-viewer-preset}
 
-Using the Embed Code feature lets you review the viewer code for the selected Viewer Preset. You can also copy the code to the clipboard so you can paste it in your web pages for deployment of the viewer.
+Using the Embed Code feature lets you review the viewer code for the selected Viewer Preset. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer.
 
 Editing of the code is not permitted in the Embed Code dialog box.
 
@@ -830,31 +830,31 @@ One effective use of user-defined metadata fields is to delay the activation tim
 1. Select **[!UICONTROL Add]**
 1. In the Custom Field dialog box, set the options you want.
 
-   * **[!UICONTROL Name]** - Enter a name for the metadata field.
+   * **[!UICONTROL Name]**: Enter a name for the metadata field.
 
-   * **[!UICONTROL Type]** - Select an option that defines the type of information that users can enter in the metadata field:
+   * **[!UICONTROL Type]**: Select an option that defines the type of information that users can enter in the metadata field:
 
-   * **[!UICONTROL String]** - A text string.
+   * **[!UICONTROL String]**: A text string.
 
-   * **[!UICONTROL Int]** - An integer.
+   * **[!UICONTROL Int]**: An integer.
 
-   * **[!UICONTROL Float]** - A floating-point number.
+   * **[!UICONTROL Float]**: A floating-point number.
 
-   * **[!UICONTROL Yes/No]** - A yes/no Boolean value.
+   * **[!UICONTROL Yes/No]**: A yes/no Boolean value.
 
-   * **[!UICONTROL Date]** - A date. The MM/DD/YYYY format is accepted.
+   * **[!UICONTROL Date]**: A date. The MM/DD/YYYY format is accepted.
 
-   * **[!UICONTROL Filename]** - The name of a file.
+   * **[!UICONTROL Filename]**: The name of a file.
 
-   * **[!UICONTROL Color]** - The name of a color.
+   * **[!UICONTROL Color]**: The name of a color.
 
-   * **[!UICONTROL Dimension]** - The width and the height of the asset.
+   * **[!UICONTROL Dimension]**: The width and the height of the asset.
 
-   * **[!UICONTROL Untyped]** - For backwards-compatibility. Do not select this option.
+   * **[!UICONTROL Untyped]**: For backwards-compatibility. Do not select this option.
 
-   * **[!UICONTROL Default Value]** - Optional. Enter the value users are most likely to enter in the field. The value you enter becomes the default value for the field you create.
+   * **[!UICONTROL Default Value]**: Optional. Enter the value users are most likely to enter in the field. The value you enter becomes the default value for the field you create.
 
-   * **[!UICONTROL Applies To]** - Optional. Select an asset type if you want the metadata field to apply only to a specific type of asset.
+   * **[!UICONTROL Applies To]**: Optional. Select an asset type if you want the metadata field to apply only to a specific type of asset.
 
       >[!NOTE]
       >
@@ -870,11 +870,11 @@ Only a Media Portal Administrator or a Company Administrator can manage user-def
 
 To open this screen, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined Fields]**.
 
-* **Edit a field** - Select the field, and then select **[!UICONTROL Edit]**.
+* **Edit a field**: Select the field, and then select **[!UICONTROL Edit]**.
 
-* **Delete a field** - Select the field, and then select **[!UICONTROL Delete]**.
+* **Delete a field**: Select the field, and then select **[!UICONTROL Delete]**.
 
-* **Activate field** - Select or deselect the **[!UICONTROL Active]** option next to the name of a field. If you are in a company administration role, this option is not shown. Because this option is related to MediaPortal, you must select (turn on) Show MediaPortal Features in Personal Setup to see the activated fields.
+* **Activate field**: Select or deselect the **[!UICONTROL Active]** option next to the name of a field. If you are in a company administration role, this option is not shown. Because this option is related to MediaPortal, you must select (turn on) Show MediaPortal Features in Personal Setup to see the activated fields.
 
 ## Optimize Files {#optimize-files}
 

@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Create eCatalog Image Maps{#creating-ecatalog-image-maps}
 
-An Image Map is a region on an eCatalog page that you can roll over with your mouse or select to trigger actions of various kinds. When you move the pointer over an Image Map, for example, you see a rollover-text description of an item. When you select an Image Map, another action is initiated. For example, you can open a web page so that viewers can learn more about an item or purchase it or you can launch a video to see an item in use.
+An Image Map is a region on an eCatalog page that you can roll over with your mouse or select to trigger actions of various kinds. When you move the pointer over an Image Map, for example, you see a rollover-text description of an item. When you select an Image Map, another action is initiated. For example, you can open a Web page so that viewers can learn more about an item or purchase it or you can launch a video to see an item in use.
 
 ## Draw eCatalog Image Maps {#drawing-ecatalog-image-maps}
 
@@ -24,14 +24,14 @@ For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. 
 1. On the left of the Map Pages screen, select the page you want.
 1. In the Image Map area, draw a rectangular or polygonal (many-sided) Image Map:
 
-    * **Rectangular map** - Select the Rectangle Image Map tool and drag on the page to create the rectangle.
+    * **Rectangular map**: Select the Rectangle Image Map tool and drag on the page to create the rectangle.
 
-    * **Polygonal map** - Select the Polygon Image Map tool, then select as many times as necessary around the perimeter of the image. As you select, Adobe Dynamic Media Classic draws the borders of the Image Map.
+    * **Polygonal map**: Select the Polygon Image Map tool, then select as many times as necessary around the perimeter of the image. As you select, Adobe Dynamic Media Classic draws the borders of the Image Map.
 
         After you draw an Image Map, Adobe Dynamic Media Classic assigns it a name in the Image Map list. To form the name, Adobe Dynamic Media Classic appends a sequential number to the name of the eCatalog page in which you are working.
 
 1. (Optional) From the Image Map list, in the [!UICONTROL Name] column, you can enter a new name for the Image Map. Do not include blank spaces in the name you enter.
-1. You can have viewers open a new web page when they select the Image Map. In the Image Map list panel, enter the URL of the web page in the URL column.
+1. You can have viewers open a new Web page when they select the Image Map. In the Image Map list panel, enter the URL of the Web page in the URL column.
 
    To make entering URLs (Href templates) easier, select **[!UICONTROL Edit]** and enter a template.
 
@@ -69,23 +69,23 @@ You can also optionally display tooltip text when customers move their pointers 
 
 Starting on the Map Pages tab of the eCatalog screen, use these techniques to edit eCatalog Image Maps:
 
-* **Adjust the position** - Select the Pan tool and move the pointer near but not over the border of the map. When the pointer shows a four-headed arrow, drag the entire Image Map to a new location.
+* **Adjust the position**: Select the Pan tool and move the pointer near but not over the border of the map. When the pointer shows a four-headed arrow, drag the entire Image Map to a new location.
 
     See [Adjust the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
-* **Change the shape and size** - To resize a rectangular Image Map, select the Pan tool. Then move the pointer over a borderline or a corner, and when you see the double-headed arrow icon, drag. To resize a polygonal Image Map, drag a square selection handle. To create a selection handle, select the border of the Image Map and drag.
+* **Change the shape and size**: To resize a rectangular Image Map, select the Pan tool. Then move the pointer over a borderline or a corner, and when you see the double-headed arrow icon, drag. To resize a polygonal Image Map, drag a square selection handle. To create a selection handle, select the border of the Image Map and drag.
 
     See [Adjust the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
-* **Deleting Image Maps** - Select the Pan tool, select the Image Map to select it, and then select **[!UICONTROL Delete]**.
+* **Deleting Image Maps**: Select the Pan tool, select the Image Map to select it, and then select **[!UICONTROL Delete]**.
 
     To remove all Image Maps from an eCatalog, select the **[!UICONTROL Order Pages]** tab, and then select **[!UICONTROL Clear Maps]**.
 
-* **Handling overlapping Image Maps** - Drag to change the order of Image Maps on the Image Map list.
+* **Handling overlapping Image Maps**: Drag to change the order of Image Maps on the Image Map list.
 
     See [Handle overlapping Image Maps](creating-image-maps.md#handling_overlapping_image_maps).
 
-* **Copying Image Maps to other pages** - Select **[!UICONTROL Copy Maps To]** (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and select **[!UICONTROL Select]**.
+* **Copying Image Maps to other pages**: Select **[!UICONTROL Copy Maps To]** (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and select **[!UICONTROL Select]**.
 
     See [Copy Image Maps to other images](creating-image-maps.md#copying_image_maps).
 

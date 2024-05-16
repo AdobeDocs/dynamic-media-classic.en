@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Work with PSD files{#working-with-psd-files}
 
-<!--   USED TO BE AN OPTION UNDER COLOR PROFILE OPTIONS * **Convert To sRGB (default)** - Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages. -->
+<!--   USED TO BE AN OPTION UNDER COLOR PROFILE OPTIONS * **Convert To sRGB (default)**: Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on Web pages. -->
 
 PSD (Photoshop Document files) are most often used in Adobe Dynamic Media Classic to create templates. When you upload a PSD file, you can create an Adobe Dynamic Media Classic template automatically from the file (select the Create Template option on the Upload screen).
 
@@ -25,43 +25,43 @@ Options for uploading PSD files are located under Photoshop Options in the Uploa
 
 These options are available when uploading PSD files:
 
-* **Crop Options** - Located under **[!UICONTROL Crop Options]**. Select **[!UICONTROL Trim]** so you can automatically crop white space from the edges of a PSD file. Select **[!UICONTROL Manual]** to crop the sides of the PSD file:
+* **Crop Options**: Located under **[!UICONTROL Crop Options]**. Select **[!UICONTROL Trim]** so you can automatically crop white space from the edges of a PSD file. Select **[!UICONTROL Manual]** to crop the sides of the PSD file:
 
-    * **[!UICONTROL Trim]** - Select the **[!UICONTROL Trim Away Based On]** menu, and choose **[!UICONTROL Color]** or **[!UICONTROL Transparency]**.
+    * **[!UICONTROL Trim]**: Select the **[!UICONTROL Trim Away Based On]** menu, and choose **[!UICONTROL Color]** or **[!UICONTROL Transparency]**.
 
     If you choose the **[!UICONTROL Color]** option, select the Corner menu and choose the corner of the PSD with the color that best represents the white-space color you want to crop.
 
     Drag the slider to specify a tolerance from 0 through 1. To trim based on color, specify 0 to crop pixels only if they exactly match the color you selected in the corner of the PSD. Numbers closer to 1 allow for more color difference. To trim based on transparency, specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
 
-    * **[!UICONTROL Manual]** - Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, suppose that the image displays 150 ppi. Then you enter 75 in the Top, Right, Bottom, and Left text boxes. Each side of the image is cropped, 0.5 in.
+    * **[!UICONTROL Manual]**: Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, suppose that the image displays 150 ppi. Then you enter 75 in the Top, Right, Bottom, and Left text boxes. Each side of the image is cropped, 0.5 in.
 
-* **Color Profile Options** - Located under **[!UICONTROL Color Profile Options]**.
+* **Color Profile Options**: Located under **[!UICONTROL Color Profile Options]**.
 
     * **[!UICONTROL Default Color Preservation]**
 
-    * **[!UICONTROL Keep Original Color Space]** - Retains the original color space of the image.
+    * **[!UICONTROL Keep Original Color Space]**: Retains the original color space of the image.
 
-    * **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic. See [ICC profiles](/help/using/icc-profiles.md).
+    * **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic. See [ICC profiles](/help/using/icc-profiles.md).
 
 * **Photoshop Options**
 
-    * **[!UICONTROL Maintain Layers]** - Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail View and selecting the layer panel. See Viewing and editing layers in a PSD file.
+    * **[!UICONTROL Maintain Layers]**: Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail View and selecting the layer panel. See Viewing and editing layers in a PSD file.
 
-    * **[!UICONTROL Create Template]** - Creates a template from the layers in the PSD file.
+    * **[!UICONTROL Create Template]**: Creates a template from the layers in the PSD file.
 
-    * **[!UICONTROL Extract Text]** - Extracts the text so that users can search for text in a Viewer.
+    * **[!UICONTROL Extract Text]**: Extracts the text so that users can search for text in a Viewer.
 
-    * **[!UICONTROL Extend Layers To Background Size]** - Extends the size of ripped image layers to the size of the background layer.
+    * **[!UICONTROL Extend Layers To Background Size]**: Extends the size of ripped image layers to the size of the background layer.
 
-    * **[!UICONTROL Layer Naming]** - Layers in the PSD file are uploaded as separate images. To name these images in Adobe Dynamic Media Classic, choose from the following options:
+    * **[!UICONTROL Layer Naming]**: Layers in the PSD file are uploaded as separate images. To name these images in Adobe Dynamic Media Classic, choose from the following options:
 
-        * **[!UICONTROL Layer Name]** - Names the images after their layer names in the PSD file. For example, a layer named Price Tag in the original PSD file becomes an image named Price Tag. However, if the layer names in the PSD file are default Photoshop layer names (Background, Layer 1, Layer 2, and so on), the images are named after their layer numbers in the PSD file. <!-- not their default layer names -->
+        * **[!UICONTROL Layer Name]**: Names the images after their layer names in the PSD file. For example, a layer named Price Tag in the original PSD file becomes an image named Price Tag. However, if the layer names in the PSD file are default Photoshop layer names (Background, Layer 1, Layer 2, and so on), the images are named after their layer numbers in the PSD file. <!-- not their default layer names -->
 
-        * **[!UICONTROL Photoshop and layer number]** - Names the images after their layer numbers in the PSD file, ignoring original layer names. Images are named with the Photoshop filename and an appended layer number. For example, the second layer of a file called `Spring Ad.psd` is named `Spring Ad_2` even if it had a non-default name in Photoshop.
+        * **[!UICONTROL Photoshop and layer number]**: Names the images after their layer numbers in the PSD file, ignoring original layer names. Images are named with the Photoshop filename and an appended layer number. For example, the second layer of a file called `Spring Ad.psd` is named `Spring Ad_2` even if it had a non-default name in Photoshop.
 
-        * **[!UICONTROL Photoshop and layer name]** - Names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names. For example, a layer named `Price Tag` in a PSD file that is named `SpringAd` is named `Spring Ad_Price Tag`. A layer with the default name Layer 2 is called `Spring Ad_2`.
+        * **[!UICONTROL Photoshop and layer name]**: Names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names. For example, a layer named `Price Tag` in a PSD file that is named `SpringAd` is named `Spring Ad_Price Tag`. A layer with the default name Layer 2 is called `Spring Ad_2`.
 
-    * **[!UICONTROL Anchor]** - Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images that can best fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
+    * **[!UICONTROL Anchor]**: Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images that can best fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
 
 ## View and edit layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
 

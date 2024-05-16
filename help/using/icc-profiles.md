@@ -31,10 +31,10 @@ See [Upload your files](uploading-files.md#uploading_your_files).
 
 To examine an ICC profile, select it in the Browse Panel and display it in Detail View. Detail View provides this information about ICC profiles:
 
-* **[!UICONTROL Profile Class]** - The ICC (International Color Consortium) defines each class to cover a type of application. For example, Input profiles apply to devices such as digital cameras and scanners, and Output profiles apply to printers.
+* **[!UICONTROL Profile Class]**: The ICC (International Color Consortium) defines each class to cover a type of application. For example, Input profiles apply to devices such as digital cameras and scanners, and Output profiles apply to printers.
 
-* **[!UICONTROL Color Space Type]** - This number is the "input" color space of the profile, as defined by the ICC. The color space type defines the number of components of the color space and the interpretation of those components. For example, RGB is a color space with three components: red, green, and blue. The color space type does not define the particular color characteristics of the space (for example, the chromaticities of the primaries).
+* **[!UICONTROL Color Space Type]**: This number is the "input" color space of the profile, as defined by the ICC. The color space type defines the number of components of the color space and the interpretation of those components. For example, RGB is a color space with three components: red, green, and blue. The color space type does not define the particular color characteristics of the space (for example, the chromaticities of the primaries).
 
-* **[!UICONTROL PCS Type]** - This PCS type is the "output" color space of the profile—its profile connection space. For example, a color profile can convert RGB to the PCS, which then converts it to CMYK.
+* **[!UICONTROL PCS Type]**: This PCS type is the "output" color space of the profile—its profile connection space. For example, a color profile can convert RGB to the PCS, which then converts it to CMYK.
 
 For an input, display, or output profile useful for tagging colors or images, the PCS type is either XYZ or Lab. Interpret this profile as the corresponding specific color space defined in the ICC specification.

@@ -40,27 +40,27 @@ For detailed information about the different upload methods, see [Uploading your
 
 Select the files that you want to upload, and then select these *best practice* PDF Options:
 
-* **Crop Options** - On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. If the PDF pages contain crop marks, registration marks, or other marks, in the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Manual]**. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are often set to a half inch margin. Assume that you choose **[!UICONTROL 150]** (recommended) as the pixel-per-inch resolution, and enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
+* **Crop Options**: On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. If the PDF pages contain crop marks, registration marks, or other marks, in the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Manual]**. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are often set to a half inch margin. Assume that you choose **[!UICONTROL 150]** (recommended) as the pixel-per-inch resolution, and enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
 
-* **Processing** - On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the **[!UICONTROL Processing]** drop-down list, choose **[!UICONTROL Rasterize]**. The PDF file must be rasterized so that all pages and images can be displayed in the eCatalog.
+* **Processing**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the **[!UICONTROL Processing]** drop-down list, choose **[!UICONTROL Rasterize]**. The PDF file must be rasterized so that all pages and images can be displayed in the eCatalog.
 
-* **Extract Search Words (optional)** - On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the Extract drop-down list, choose **[!UICONTROL Search words]** if you want your viewers to be able to search by keyword in your eCatalog.
+* **Extract Search Words (optional)**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the Extract drop-down list, choose **[!UICONTROL Search words]** if you want your viewers to be able to search by keyword in your eCatalog.
 
-* **Auto-Generate eCatalog from multiple page PDF (optional)** - On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. Select **[!UICONTROL Auto-Generate eCatalog from multiple page PDF]** to automatically create an eCatalog when you upload. You can go straight to the eCatalog screen and begin working on your eCatalog without having to first select PDF files and select the Build command. The eCatalog is named after your PDF file.
+* **Auto-Generate eCatalog from multiple page PDF (optional)**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. Select **[!UICONTROL Auto-Generate eCatalog from multiple page PDF]** to automatically create an eCatalog when you upload. You can go straight to the eCatalog screen and begin working on your eCatalog without having to first select PDF files and select the Build command. The eCatalog is named after your PDF file.
 
-* **Resolution** - On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the **[!UICONTROL Resolution]** text field, enter a value. Adobe Dynamic Media Classic recommends 150 pixels per inch.
+* **Resolution**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the **[!UICONTROL Resolution]** text field, enter a value. Adobe Dynamic Media Classic recommends 150 pixels per inch.
 
-* **Colorspace** - On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the Colorspace drop-down list, choose **[!UICONTROL Detect automatically]**. Usually, PDFs created for print output are in CMYK; PDFs for online viewing are RGB. If a PDF uses both color spaces, you can select a specific color space by choosing Force As RGB or Force As CMYK. PDFs use both color spaces, for example, when page graphics use a CMYK color space but pictures use RGB. If you uploaded an ICC profile, its name appears on the Colorspace menu and you can choose it there.
+* **Colorspace**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the Colorspace drop-down list, choose **[!UICONTROL Detect automatically]**. Usually, PDFs created for print output are in CMYK; PDFs for online viewing are RGB. If a PDF uses both color spaces, you can select a specific color space by choosing Force As RGB or Force As CMYK. PDFs use both color spaces, for example, when page graphics use a CMYK color space but pictures use RGB. If you uploaded an ICC profile, its name appears on the Colorspace menu and you can choose it there.
 
     See [ICC (International Color Consortium) profiles](/help/using/icc-profiles.md).
 
-* **Color Profile Options** - On the Upload Job Options dialog box, select **[!UICONTROL Color Profile Options]**, and then choose a Color Profile option:
+* **Color Profile Options**: On the Upload Job Options dialog box, select **[!UICONTROL Color Profile Options]**, and then choose a Color Profile option:
 
-  * **Keep Original Color Space** - Retains the original color space.
+  * **Keep Original Color Space**: Retains the original color space.
 
-  * **Custom From > To** - Opens submenus so you can choose a **[!UICONTROL Convert From]** and **[!UICONTROL Convert To]** color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
+  * **Custom From > To**: Opens submenus so you can choose a **[!UICONTROL Convert From]** and **[!UICONTROL Convert To]** color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
 
-<!-- * **Convert To SRGB** - Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space for displaying images on web pages. -->
+<!-- * **Convert To SRGB**: Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space for displaying images on Web pages. -->
 
 See [ICC (International Color Consortium) profiles](icc-profiles.md#icc_profiles).
 

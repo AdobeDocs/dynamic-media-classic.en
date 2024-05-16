@@ -1,6 +1,6 @@
 ---
-title: Link an Image Set to a web page
-description: Learn how to link an Image Set to a web page in Adobe Dynamic Media Classic.
+title: Link an Image Set to a Web page
+description: Learn how to link an Image Set to a Web page in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -11,9 +11,9 @@ exl-id: df4e5218-2a66-413c-b247-b2a16d884041
 topic: Content Management
 level: Intermediate
 ---
-# Link an Image Set to a web page{#linking-an-image-set-to-a-web-page}
+# Link an Image Set to a Web page{#linking-an-image-set-to-a-web-page}
 
-After you publish an Image Set, you can copy its associated URL or its embed code for use in your web site or application. Then you can deploy the URL or paste the embed code as necessary so users can view the Image Set on your web site or application.
+After you publish an Image Set, you can copy its associated URL or its embed code for use in your Web site or application. Then you can deploy the URL or paste the embed code as necessary so users can view the Image Set on your Web site or application.
 
 >[!NOTE]
 >
@@ -38,15 +38,15 @@ After you publish an Image Set, you can copy its associated URL or its embed cod
 
       In the Viewer List page, under the Actions column of the table, select **[!UICONTROL Copy URL]**.
 
-## Adding Image Set URLs to your web page {#adding-image-set-urls-to-your-web-page}
+## Adding Image Set URLs to your Web page {#adding-image-set-urls-to-your-web-page}
 
-The most common way to deploy Image Sets is to place a link (by way of a navigation icon) on your web page. When selected, the link launches a dynamic page (JSP) that displays the Image Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
+The most common way to deploy Image Sets is to place a link (by way of a navigation icon) on your Web page. When selected, the link launches a dynamic page (JSP) that displays the Image Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
 
 For more details and code samples, see [Embed HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copy the embed code of an Image Set viewer {#copying-the-embed-code-of-an-image-set-viewer}
 
-Using the Embed Code feature lets you review the viewer code for the selected Image Set. You can also copy the code to the clipboard so you can paste it in your web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+Using the Embed Code feature lets you review the viewer code for the selected Image Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
 **To copy the embed code of an Image Set viewer:**
 

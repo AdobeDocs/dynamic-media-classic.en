@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Quick Start: eCatalogs{#quick-start-ecatalogs}
 
-An eCatalog is a digital, web version of print material—a catalog, brochure, flyer, product manual, or advertising circular, for example. An eCatalog is displayed in an eCatalog Viewer on a web site. This viewer simulates the experience of reading printed material. 
+An eCatalog is a digital, Web version of print material—a catalog, brochure, flyer, product manual, or advertising circular, for example. An eCatalog is displayed in an eCatalog Viewer on a Web site. This viewer simulates the experience of reading printed material. 
 
 See also the following training videos:
 
@@ -28,9 +28,9 @@ Depending on the settings that you choose for your eCatalog, the viewer can let 
 * Navigate the catalog using the table of contents or the page grid view; page forward or backward by selecting the middle edge of a page.
 * Zoom in, zoom out, and pan to examine items on a page.
 * Move the pointer over a page region (called an Image Map) so you can see a pop-up window with information about an item.
-* Select a page region so it opens a new web page with more information about an item.
+* Select a page region so it opens a new Web page with more information about an item.
 * Write a sticky note and attach it to an eCatalog page.
-* Tap image map icons if you want to launch related web pages or in-context info panels.
+* Tap image map icons if you want to launch related Web pages or in-context info panels.
 * Use gesture interactions, including pinching to zoom and swiping to turn pages.
 * Search by keyword for items.
 
@@ -38,11 +38,11 @@ Depending on the settings that you choose for your eCatalog, the viewer can let 
 
 To create an eCatalog, you typically use high-resolution PDF files created in Adobe Acrobat or another print program, but you can also create an eCatalog from image files.
 
-As part of creating your eCatalog, you can arrange pages or page spreads in the order you choose. You can also declare whether you want single pages, double-page spreads, or multi-page spreads. You can create Image Maps for page regions so that viewers can, for example, select an area on the page and open a new page on your web site. You can manage the rollover text that appears using InfoPanel settings within the eCatalog screen. You can also configure the eCatalog Viewer by choosing from more than 100 different configuration options. You can tailor the features and the appearance of your Viewer for your particular audience.
+As part of creating your eCatalog, you can arrange pages or page spreads in the order you choose. You can also declare whether you want single pages, double-page spreads, or multi-page spreads. You can create Image Maps for page regions so that viewers can, for example, select an area on the page and open a new page on your Web site. You can manage the rollover text that appears using InfoPanel settings within the eCatalog screen. You can also configure the eCatalog Viewer by choosing from more than 100 different configuration options. You can tailor the features and the appearance of your Viewer for your particular audience.
 
 >[!NOTE]
 >
->If you are a Dynamic Media - Scene7 mode user and want to use eCatalogs, edit the `pdfbrochure` value in CRXDE Lite. To do so, in Adobe Experience Manager, go to **[!UICONTROL Tools]** > **[!UICONTROL General]** > **[!UICONTROL CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
+>If you are a Dynamic Media: Scene7 mode user and want to use eCatalogs, edit the `pdfbrochure` value in CRXDE Lite. To do so, in Adobe Experience Manager, go to **[!UICONTROL Tools]** > **[!UICONTROL General]** > **[!UICONTROL CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
 >
 >In the lower right pane, in the **[!UICONTROL Properties]** tab, select the `jobParam` row. Set the value for `pdfbrochure` from `false` to `true`. As in `pdfbrochure=true`
 >
@@ -76,7 +76,7 @@ See [Create an eCatalog](creating-ecatalog.md).
 
 ## 3. Create Image Maps
 
-Image Maps add another aspect to eCatalog pages. An Image Map is a region on a page that delivers more information about an item. When viewers roll the pointer over an Image Map, they see a description of the item. Clicking an Image Map activates an external reference that opens a new web page where you can learn more about an item.
+Image Maps add another aspect to eCatalog pages. An Image Map is a region on a page that delivers more information about an item. When viewers roll the pointer over an Image Map, they see a description of the item. Clicking an Image Map activates an external reference that opens a new Web page where you can learn more about an item.
 
 To create an Image Map, open the eCatalog screen. Then go to the **[!UICONTROL Map Pages]** tab of the eCatalog screen, and frame the map with the Rectangle Image Map tool or Polygon Image Map tool. You can adjust the position and size of Image Maps by dragging map borders with the Pan tool.
 
@@ -110,16 +110,16 @@ See [Preview eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-vie
 
 ## 6. Publish eCatalog and associated PDFs
 
-Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your web site or application.
+Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your Web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your Web site or application.
 
 After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
-## 7. Link an eCatalog to a web page
+## 7. Link an eCatalog to a Web page
 
-Adobe Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail View) by selecting URLs in the panel. After you copy the URL string, it is available to your web sites and applications.
+Adobe Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail View) by selecting URLs in the panel. After you copy the URL string, it is available to your Web sites and applications.
 
-Work with your IT team to place the link to the eCatalog in the appropriate place in your web page. When users select the link, the eCatalog Viewer appears and users can browse your eCatalog.
+Work with your IT team to place the link to the eCatalog in the appropriate place in your Web page. When users select the link, the eCatalog Viewer appears and users can browse your eCatalog.
 
-See [Link an eCatalog to a web page](linking-ecatalog-web-page.md#linking-an-ecatalog-to-a-web-page).
+See [Link an eCatalog to a Web page](linking-ecatalog-web-page.md#linking-an-ecatalog-to-a-web-page).

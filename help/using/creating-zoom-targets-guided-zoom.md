@@ -26,7 +26,7 @@ The maximum zoom percentage of Zoom Targets is 100 percent. The minimum zoom per
 | Large | Smaller | Smaller minimum |
 | Small | Larger | Larger minimum |
 
-You can change the size of the Zoom Viewer to match the size being used on your web page. You can permanently change this setting by changing the viewer size on the Setup screen (if you are an administrator). See [Set up Zoom Viewer Presets](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
+You can change the size of the Zoom Viewer to match the size being used on your Web page. You can permanently change this setting by changing the viewer size on the Setup screen (if you are an administrator). See [Set up Zoom Viewer Presets](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
 
 ## Create and edit Zoom Targets {#creating-and-editing-zoom-targets}
 
@@ -47,9 +47,9 @@ To create a zoom target, open the Zoom Target Editor page and do the following:
 
 1. Pick **[!UICONTROL Select Target]** (arrow), and then select the zoom target you created, and adjust the size and position of the target.
 
-    * **Resize** - Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
+    * **Resize**: Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
 
-    * **Position** -  Move the pointer over the zoom target and drag it to a different location.
+    * **Position**:  Move the pointer over the zoom target and drag it to a different location.
 
 1. Enter a name for the zoom target in the Name box.
 
@@ -57,7 +57,7 @@ To create a zoom target, open the Zoom Target Editor page and do the following:
    >
    >What you enter in the Name box is more than a name. When users move the pointer over the zoom target, they see what you enter in the Name box. Enter a brief description of the zoom target in the Name box so users know what they can zoom on.
 
-1. Optionally, enter user data in the User Data field. This field is for web site designers to add information to the zoom target.
+1. Optionally, enter user data in the User Data field. This field is for Web site designers to add information to the zoom target.
 1. Select **[!UICONTROL Save]**.
 
    The coordinates and zoom level of the zoom target are saved. A thumbnail of your zoom target with the name you entered appears on the right side of the screen.
@@ -70,13 +70,13 @@ To create a zoom target, open the Zoom Target Editor page and do the following:
 
 To edit Zoom Targets, use the following techniques on the Zoom Target Editor page:
 
-* **Reposition** - With the Select Target button (the arrow), select the target. Then drag the target to a different location.
+* **Reposition**: With the Select Target button (the arrow), select the target. Then drag the target to a different location.
 
-* **Resize** - With the Select Target button (the arrow), select the target. To enlarge or shrink the target, move the pointer over a corner of the zoom target and drag.
+* **Resize**: With the Select Target button (the arrow), select the target. To enlarge or shrink the target, move the pointer over a corner of the zoom target and drag.
 
-* **Delete** - Select the target's thumbnail image on the right side of the screen. Then select **[!UICONTROL Delete Target]**.
+* **Delete**: Select the target's thumbnail image on the right side of the screen. Then select **[!UICONTROL Delete Target]**.
 
-* **Renaming** - Select the target's thumbnail image on the right side of the screen. Then enter a name in the **[!UICONTROL Name]** text field and select **[!UICONTROL Save]**.
+* **Renaming**: Select the target's thumbnail image on the right side of the screen. Then enter a name in the **[!UICONTROL Name]** text field and select **[!UICONTROL Save]**.
 
 ### Copy Zoom Targets {#copying-zoom-targets}
 

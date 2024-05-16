@@ -15,7 +15,7 @@ level: Intermediate
 
 Mixed Media Set Viewer Presets determine the style, behavior, and look of your main viewer. When configuring a preset, you specify which other viewers you want to appear inside the Mixed Media Viewer. For example, if you've included an Image Set in your Mixed Media Set, specify an Image Set Viewer Preset for the Mixed Media Set Viewer.
 
-You can choose to include all or some community features in the Mixed Media Set Viewer. The Embed feature adds a link to the viewer that lets users copy the code required to display the viewer in an external page (such as a blog, web site, or social networking site). The Link feature provides the URL to the viewer, so users can link back to this viewer. The Visit feature provides a link to the web site you specify.
+You can choose to include all or some community features in the Mixed Media Set Viewer. The Embed feature adds a link to the viewer that lets users copy the code required to display the viewer in an external page (such as a blog, Web site, or social networking site). The Link feature provides the URL to the viewer, so users can link back to this viewer. The Visit feature provides a link to the Web site you specify.
 
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. On the Viewer Presets page, do one of the following:
@@ -38,7 +38,7 @@ You can choose to include all or some community features in the Mixed Media Set 
 
    The new Viewer preset appears in the list.
 
-1. Repeat steps 6 - 9 for all the Viewer presets you want to add.
+1. Repeat steps 6: 9 for all the Viewer presets you want to add.
 1. To edit the preset list, do any of the following:
 
     * To delete a preset from the list, select it, and then select **[!UICONTROL Delete]**.
@@ -46,13 +46,13 @@ You can choose to include all or some community features in the Mixed Media Set 
 
 1. To add community features (Embed, Link, Visit) to the viewer, specify options for any of the following:
 
-   * **Email** - Select **[!UICONTROL On]** to enable an Email button in the viewer. When users select the Email button while viewing the set, an email containing the link to the set opens.
+   * **Email**: Select **[!UICONTROL On]** to enable an Email button in the viewer. When users select the Email button while viewing the set, an email containing the link to the set opens.
 
-   * **Embed** - Select **[!UICONTROL Live]**. In the Embed Button Label box, type the name you want displayed in the viewer for the Embed button. If desired, select **[!UICONTROL Browse]** to locate and select a custom skin for the button.
+   * **Embed**: Select **[!UICONTROL Live]**. In the Embed Button Label box, type the name you want displayed in the viewer for the Embed button. If desired, select **[!UICONTROL Browse]** to locate and select a custom skin for the button.
 
-   * **Link** - Select **[!UICONTROL Live]**. In the Link Button Label box, type the name you want displayed in the viewer for the Link button. If desired, select **[!UICONTROL Browse]** to locate and select a custom skin for the button.
+   * **Link**: Select **[!UICONTROL Live]**. In the Link Button Label box, type the name you want displayed in the viewer for the Link button. If desired, select **[!UICONTROL Browse]** to locate and select a custom skin for the button.
 
-   * **Visit** - Select **[!UICONTROL Live]**. In the Visit Button Label box, type the name you want displayed in the viewer for the Visit button. In the Visit URL box, type the URL to the web site that you want to open when the link is selected.
+   * **Visit**: Select **[!UICONTROL Live]**. In the Visit Button Label box, type the name you want displayed in the viewer for the Visit button. In the Visit URL box, type the URL to the Web site that you want to open when the link is selected.
 
 1. Specify other options as desired. To see a description of an option, select the Info Tip icon next to the option.
 

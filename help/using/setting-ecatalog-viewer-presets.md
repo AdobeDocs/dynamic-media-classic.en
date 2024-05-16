@@ -23,9 +23,9 @@ Follow these steps so you can create a eCatalog Viewer Preset (you must be an ad
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. In the Viewer Presets screen, create an eCatalog Viewer Preset by starting anew or by starting from an existing eCatalog Viewer Preset:
 
-   * **Create an eCatalog Viewer Preset** - Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, choose a platform, choose eCatalog Viewer, then select **[!UICONTROL Add]**.
+   * **Create an eCatalog Viewer Preset**: Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, choose a platform, choose eCatalog Viewer, then select **[!UICONTROL Add]**.
 
-   * **Edit an eCatalog Viewer Preset** - Select an eCatalog Viewer Preset, then select **[!UICONTROL Edit]**. Select **[!UICONTROL Save As]** after you finish creating the preset.
+   * **Edit an eCatalog Viewer Preset**: Select an eCatalog Viewer Preset, then select **[!UICONTROL Edit]**. Select **[!UICONTROL Save As]** after you finish creating the preset.
 
 1. On the `Configure Viewer` page, enter a name for your eCatalog Viewer Preset.
 1. On the `Configure Viewer` page, set the options you want.
@@ -49,7 +49,7 @@ Follow these steps so you can create a eCatalog Viewer Preset (you must be an ad
 >To use this Response Template instead of the template defined in the eCatalog itself, add `fmt=1` to the end of the Information Server URL. For example: `https://.../$3$/$4$/$1$/?FMT=1`.
 
 1. Select **[!UICONTROL Save]**.
-1. Select **[!UICONTROL Default]** so that the eCatalog Viewer Preset you created is the one that is used to display eCatalogs on your web page.
+1. Select **[!UICONTROL Default]** so that the eCatalog Viewer Preset you created is the one that is used to display eCatalogs on your Web page.
 
 To delete an eCatalog Viewer Preset, select it on the Viewer Presets screen and select **[!UICONTROL Delete]**.
 

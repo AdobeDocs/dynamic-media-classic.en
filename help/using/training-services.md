@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Adobe Training Services{#adobe-training-services}
 
-Dynamic Media Classic offers training in the form of video training, instructor-led workshops and web sessions, and demos.
+Dynamic Media Classic offers training in the form of video training, instructor-led workshops and Web sessions, and demos.
 
 ## Adobe Training Services
 
