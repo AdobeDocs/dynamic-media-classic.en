@@ -38,7 +38,7 @@ You can create a template from an existing template. Open the template, select *
 
 1. To create your initial template, use one of the following methods:
 
-   * **Select the PSD or images first**: In the Browse Panel, select the PSD file or images you want for your template, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**.
+   * **Select the PSD or images first**: In the Browse panel, select the PSD file or images you want for your template, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**.
 
    * **Start from the Template screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Select either Designer or Developer.
 

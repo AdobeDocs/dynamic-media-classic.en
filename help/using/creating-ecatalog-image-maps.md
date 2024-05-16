@@ -49,7 +49,7 @@ To delete an Image Map, select its name in the Image Map list and select **[!UIC
 
 ## Embed rich media in an eCatalog {#embedding-rich-media-in-an-ecatalog}
 
-You can use eCatalog's Rich Media option to add videos in MP4 format or spin sets to Image Maps that you have added to an eCatalog. When a user selects the Image Map area in the eCatalog, the associated spin set or video is displayed. This functionality is especially helpful if you want customers to see an item in use or see an item from different angles and perspectives.
+You can use eCatalog's Rich Media option to add videos in MP4 format or Spin Sets to Image Maps that you have added to an eCatalog. When a user selects the Image Map area in the eCatalog, the associated Spin Set or video is displayed. This functionality is especially helpful if you want customers to see an item in use or see an item from different angles and perspectives.
 
 You can also optionally display tooltip text when customers move their pointers over your Image Map so they know what they are selecting.
 
@@ -60,7 +60,7 @@ You can also optionally display tooltip text when customers move their pointers 
    See [Draw eCatalog Image Maps](creating-ecatalog-image-maps.md#drawing_ecatalog_image_maps).
 
 1. In the Show drop-down list, select **[!UICONTROL Rich Media]**.
-1. In the Add Assets panel on the left, navigate to a folder that contains the spin set or video (MP4 format) asset that you want to embed.
+1. In the Add Assets panel on the left, navigate to a folder that contains the Spin Set or video (MP4 format) asset that you want to embed.
 1. Drag the asset onto the Image Map. 
 1. (Optional) In the Image Map list panel, under the **[!UICONTROL Tool Tip]** column header, enter the text that you want viewers to see onscreen when they move their pointer over the Image Map.
 1. Select **[!UICONTROL Save]**.

@@ -25,7 +25,7 @@ You can crop an image to remove white space around it, or crop an area of the im
 
 You can crop off the transparent or solid-color pixels from the edge of an image.
 
-1. To crop an image, select its rollover **[!UICONTROL Edit]** button and then select **[!UICONTROL Crop]**, or display it in the Browse Panel in Detail View and select the **[!UICONTROL Crop]** button.
+1. To crop an image, select its rollover **[!UICONTROL Edit]** button and then select **[!UICONTROL Crop]**, or display it in the Browse panel in Detail View and select the **[!UICONTROL Crop]** button.
 1. On the Crop Editor page, do one of the following:
 
     * To trim color pixels, go to **[!UICONTROL Trim]** > **[!UICONTROL Color]**. In the **[!UICONTROL Auto Crop By Color]** dialog box, select the **[!UICONTROL Corner]** menu and choose a corner with the background color that you want to crop away. Then enter a **[!UICONTROL Tolerance]** setting from 0 through 1. The 0 setting crops pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference. Select **[!UICONTROL Crop]**.
@@ -39,7 +39,7 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 
 ## Select an area to crop {#select-an-area-to-crop}
 
-1. To crop an image, select its rollover **[!UICONTROL Edit]** button, and choose **[!UICONTROL Crop]**, or display it in the Browse Panel in Detail View and select **[!UICONTROL Crop]**.
+1. To crop an image, select its rollover **[!UICONTROL Edit]** button, and choose **[!UICONTROL Crop]**, or display it in the Browse panel in Detail View and select **[!UICONTROL Crop]**.
 
 1. In the Crop Editor window, place the part of the image you do not want to crop in the crop box. Whatever appears inside the box is what will remain after you select **[!UICONTROL Save]** and crop the image.
 1. To adjust the crop area, do one of the following:

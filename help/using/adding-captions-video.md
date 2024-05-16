@@ -26,9 +26,9 @@ To configure the Caption Effect and to edit the Caption Menu itself, including t
 * `Universal_HTML5_MixedMedia_dark` viewer
 * `Universal_HTML5_MixedMedia_light` viewer
 
-See [Add or edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
+See [Add or Edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
-See also [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
+See also [Add and Edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
 Adobe Dynamic Media Classic can convert caption files to JSON (JavaScript Object Notation) format. This conversion means you can embed the JSON text into a Web page as a hidden but complete transcript of the video. Search engines can then crawl and index the content to make the videos more easily discoverable and give customers more details about the video content.
 

@@ -21,7 +21,7 @@ Publishing your template places it on Dynamic Media Image Servers, where it is a
 
 ## Mark templates for publish {#marking-templates-for-publish}
 
-Templates and all their support files must be marked for publish for them to be placed on Dynamic Media Image Servers. You can mark these items for publishment in the Browse Panel by selecting the **[!UICONTROL Mark for Publish]** icon.
+Templates and all their support files must be marked for publish for them to be placed on Dynamic Media Image Servers. You can mark these items for publishment in the Browse panel by selecting the **[!UICONTROL Mark for Publish]** icon.
 
 ## Publish your template {#publishing-your-template}
 

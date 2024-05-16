@@ -19,7 +19,7 @@ See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for
 
 **To adjust an image:**
 
-1. Select the image's rollover Edit button and choose Adjust, or in the Browse Panel, double-click the image so it opens in Detail View.
+1. Select the image's rollover Edit button and choose Adjust, or in the Browse panel, double-click the image so it opens in Detail View.
 1. Select a size and Image Preset (in the bottom of the window).
 1. Use the commands on the right side of the `Adjust Editor` window so you can adjust the image:
 

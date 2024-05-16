@@ -110,7 +110,7 @@ See [Work with video encoding presets](uploading-encoding-videos.md#working_with
 
 ## 2. Preview videos in a video viewer
 
-To see how a video plays for end users on a desktop, your website, or on a mobile device, select the video in the Browse Panel. Then select **[!UICONTROL Preview]**.
+To see how a video plays for end users on a desktop, your website, or on a mobile device, select the video in the Browse panel. Then select **[!UICONTROL Preview]**.
 
 See [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
@@ -130,7 +130,7 @@ To integrate video into your website, you can do either one of the following:
 
 * Display the video in its own pop-up or modal window, in which case use the **[!UICONTROL Copy URL]** feature.
 
-  To obtain the URL for a video, in the Grid View or List View, select it in the Browse Panel. Select **[!UICONTROL Preview]**, and then select **[!UICONTROL Copy URL]** to the right of `Universal_HTML5_Viewer`.
+  To obtain the URL for a video, in the Grid View or List View, select it in the Browse panel. Select **[!UICONTROL Preview]**, and then select **[!UICONTROL Copy URL]** to the right of `Universal_HTML5_Viewer`.
 
   When you select **[!UICONTROL Copy URL]**, the URL is copied to the Clipboard. Place this code in the HTML of your website, mobile site, or application.
 
@@ -140,7 +140,7 @@ To integrate video into your website, you can do either one of the following:
 
 * Display the video embedded on the Web page, in which case use the **[!UICONTROL Embed Code]** feature.
 
-  To obtain the Embed Code for a video, in the Grid View or List View, select the video in the Browse Panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
+  To obtain the Embed Code for a video, in the Grid View or List View, select the video in the Browse panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
 
   Select **[!UICONTROL Close]** and paste the Embed Code in one or more of your Web pages.
 

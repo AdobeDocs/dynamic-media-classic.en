@@ -65,13 +65,13 @@ These options are available when uploading PSD files:
 
 ## View and edit layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
 
-If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded your PSD, Adobe Dynamic Media Classic ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse Panel in Detail View.
+If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded your PSD, Adobe Dynamic Media Classic ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse panel in Detail View.
 
 >[!NOTE]
 >
 >Adobe Dynamic Media Classic supports up to five levels in a nested layer group.
 
-1. Double-click the full PSD file in the Browse Panel. The file opens in Detail View.
+1. Double-click the full PSD file in the Browse panel. The file opens in Detail View.
 
     >[!NOTE]
     >

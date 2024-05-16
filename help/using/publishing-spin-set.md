@@ -17,7 +17,7 @@ Publishing a Spin Set places the images in the set on Dynamic Media Image Server
 
 ## Mark a Spin Set for publish {#marking-a-spin-set-for-publish}
 
-Mark your Spin Set for publishment for it to be copied to Adobe Dynamic Media Classic Image Servers. You can mark your Spin Set for publishment in the Browse Panel by selecting the **[!UICONTROL Mark for Publish]** icon to the left of its name. All images in the set are marked for publish when you mark the Spin Set itself for publish.
+Mark your Spin Set for publishment for it to be copied to Adobe Dynamic Media Classic Image Servers. You can mark your Spin Set for publishment in the Browse panel by selecting the **[!UICONTROL Mark for Publish]** icon to the left of its name. All images in the set are marked for publish when you mark the Spin Set itself for publish.
 
 ## Publish the Spin Set {#publishing-the-spin-set}
 

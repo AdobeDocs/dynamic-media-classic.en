@@ -60,7 +60,7 @@ See [Create and edit Viewer Presets](application-setup.md#adding-and-editing-vie
 
 ## 4. Preview an Image Set
 
-Select the Image Set in the Browse Panel, and then select **[!UICONTROL Preview]**. In the Preview page, select the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
+Select the Image Set in the Browse panel, and then select **[!UICONTROL Preview]**. In the Preview page, select the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
 
 See [Preview an asset](previewing-asset.md#previewing-an-asset).
 
@@ -72,7 +72,7 @@ Publishing an Image Set places it on Adobe Dynamic Media Classic servers and act
 >
 >This step is not necessary if you selected **[!UICONTROL Publish after a save]** (default) at the time you created and saved the Image Set.
 
-Select **[!UICONTROL Mark for Publish]** icon to the left of its name in the Browse Panel. Then select **[!UICONTROL Publish]**. On the Publishing page, select **[!UICONTROL Submit Publish]**.
+Select **[!UICONTROL Mark for Publish]** icon to the left of its name in the Browse panel. Then select **[!UICONTROL Publish]**. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish files](publishing-files.md#publishing-files).
 

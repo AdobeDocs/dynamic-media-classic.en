@@ -27,7 +27,7 @@ Adobe Dynamic Media Classic offers many tools for creating rich media. You creat
 * **Image Sets**: Deliver an interactive shopping experience in which users can view products in multiple views. You can combine zoom, multiple views, and color swatches for an integrated viewing experience.
     See [Quick Start: Image Sets](/help/using/quick-start-image-sets.md).
 
-* **Mixed Media Sets**: Provide a blend of image sets, spin sets, swatch sets, zoom targets, video, and audio in one presentation. You can set up Mixed Media sets with tabs to separate video from images. You can also specify where and how to display swatches and zoom targets and give users a full multimedia view of your products or services.
+* **Mixed Media Sets**: Provide a blend of image sets, Spin Sets, swatch sets, zoom targets, video, and audio in one presentation. You can set up Mixed Media sets with tabs to separate video from images. You can also specify where and how to display swatches and zoom targets and give users a full multimedia view of your products or services.
     See [Quick Start: Mixed Media Sets](/help/using/quick-start-mixed-media-sets.md).
 
 * **Spin Sets**: Sequence images to spin them horizontally. Spin Sets let website visitors turn products and view them from different sides. You can create one-dimensional and two-dimensional Spin Sets.

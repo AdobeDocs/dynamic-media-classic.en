@@ -15,7 +15,7 @@ level: Experienced
 
 Your Web sites and applications access Dynamic Media Image Server content by way of URL strings. After you publish a template, Adobe Dynamic Media Classic activates a URL string that references the template on Dynamic Media Image Servers. You can paste this URL in a Web browser for testing.
 
-To place URL strings in your Web pages and applications, copy them from Adobe Dynamic Media Classic. To obtain a Template URL string generated with an Image Preset, go to the Preview screen or the Browse Panel (in Detail View). Then select an Image Preset and select the copy URL button.
+To place URL strings in your Web pages and applications, copy them from Adobe Dynamic Media Classic. To obtain a Template URL string generated with an Image Preset, go to the Preview screen or the Browse panel (in Detail View). Then select an Image Preset and select the copy URL button.
 
 >[!NOTE]
 >

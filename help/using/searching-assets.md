@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Search assets in Adobe Dynamic Media Classic{#searching-assets}
 
-To locate file assets in Adobe Dynamic Media Classic, you can view assets by type, sort assets in the Browse Panel, conduct a simple search, conduct an Advanced Search, and filter for assets.
+To locate file assets in Adobe Dynamic Media Classic, you can view assets by type, sort assets in the Browse panel, conduct a simple search, conduct an Advanced Search, and filter for assets.
 
 >[!NOTE]
 >
@@ -27,9 +27,9 @@ To see only files of a certain type as you browse, in the Asset Library on the l
 >
 >If you do not see the Asset Library panel on the left side, click the right triangle arrow on the left side, half way down the Dynamic Media Classic window, to open the Asset Library.
 
-## Sort files in the Browse Panel {#sorting-files-in-the-browse-panel}
+## Sort files in the Browse panel {#sorting-files-in-the-browse-panel}
 
-You can sort the contents of a folder or search results that appear in the Browse Panel on the right side. On the Global Navigation bar, select **[!UICONTROL Sort]**, and then choose an option. The options are **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, and **[!UICONTROL Last Modified]**.
+You can sort the contents of a folder or search results that appear in the Browse panel on the right side. On the Global Navigation bar, select **[!UICONTROL Sort]**, and then choose an option. The options are **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, and **[!UICONTROL Last Modified]**.
 
 You can also choose **[!UICONTROL Ascending]** or **[!UICONTROL Descending]** to sort assets in ascending or descending order by the criteria you choose.
 
@@ -45,7 +45,7 @@ Use the Search field in the Asset Library so you can conduct simple searches. Yo
 1. In the Search field, enter a search term.
 1. To the right of the Search field, select **[!UICONTROL Go]** or press **[!UICONTROL Enter]**.
 
-   The results of your search appear in the Browse Panel on the right.
+   The results of your search appear in the Browse panel on the right.
 
 <!-- Does not appear to be working anymore >[!NOTE]
 >
@@ -75,7 +75,7 @@ Specify any of the following criteria in your advanced search:
 
 Select the **[!UICONTROL Remove a search field]** icon (circle with "X" inside) so the search field is deleted.
 
-In the lower right corner of the Advanced Search panel, select **[!UICONTROL Search]** to begin your search. The results of the search appear in the Browse Panel on the right. You can change any search condition and select **[!UICONTROL Search]** to run the search again.
+In the lower right corner of the Advanced Search panel, select **[!UICONTROL Search]** to begin your search. The results of the search appear in the Browse panel on the right. You can change any search condition and select **[!UICONTROL Search]** to run the search again.
 
 Select **[!UICONTROL Clear]** if you want to clear the search criteria and start a new search. Select **[!UICONTROL Close]** when you finish searching to close the Search panel.
 
@@ -125,7 +125,7 @@ Follow these steps so you can locate assets by filtering with their metadata val
 1. Repeat Step 2 as many times as necessary to list all metadata fields for the filter operation on panels.
 1. In each panel, select a metadata value to filter on. You cannot select more than one metadata value in each panel.
 
-   Assets that match all the values that you selected appear in the Browse Panel.
+   Assets that match all the values that you selected appear in the Browse panel.
 
    >[!NOTE]
    >

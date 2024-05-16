@@ -17,7 +17,7 @@ Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can
 
 >[!NOTE]
 >
->Make sure your eCatalog and PDF reside in the same folder and they are marked for publishment in the Browse Panel or Asset Details page before you publish them.
+>Make sure your eCatalog and PDF reside in the same folder and they are marked for publishment in the Browse panel or Asset Details page before you publish them.
 
 **To publish eCatalogs and associated PDFs:**
 

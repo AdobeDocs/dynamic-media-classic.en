@@ -33,7 +33,7 @@ On the Global Navigation bar, select **[!UICONTROL Upload]** to upload images fr
 
 Zoom targets present a way for you to highlight specific parts of an image. For example, you can direct attention to the parts of an image that make it unique or distinctive. In the Zoom Viewer window, zoom targets appear in the form of thumbnail images to the side of the image. Selecting one of these zoom target thumbnails automatically zooms to a part of the image that you specify.
 
-To create a zoom target, select **[!UICONTROL Edit]** and choose Zoom Targets, or open an image in the Browse Panel in Detail View and select **[!UICONTROL Zoom Targets]**. Then use the Zoom tools on the Zoom Target Editor page so you can isolate part of the image as a target. See [Create zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).
+To create a zoom target, select **[!UICONTROL Edit]** and choose Zoom Targets, or open an image in the Browse panel in Detail View and select **[!UICONTROL Zoom Targets]**. Then use the Zoom tools on the Zoom Target Editor page so you can isolate part of the image as a target. See [Create zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).
 
 ## 3. Set up Zoom Viewer Presets
 
@@ -47,7 +47,7 @@ Adobe Dynamic Media Classic offers **[!UICONTROL Zoom Viewer Preset]** options t
 
 You can preview images in a Zoom Viewer to see what the zooming experience is when images are zoomed.
 
-To explore different Zoom Viewer Presets and how they present the zooming experience, select an image in the Browse Panel and select **[!UICONTROL Preview]**. Go to **[!UICONTROL Presets]** > **[!UICONTROL Zoom]**, and then select a preset with the Zoom menu.
+To explore different Zoom Viewer Presets and how they present the zooming experience, select an image in the Browse panel and select **[!UICONTROL Preview]**. Go to **[!UICONTROL Presets]** > **[!UICONTROL Zoom]**, and then select a preset with the Zoom menu.
 
 Zoom buttons appear. You can see what the zoom images look like on your Web site. Select the Zoom buttons (and zoom targets) so you can test the settings of the Zoom Viewer Preset you chose. See [Preview images with different Zoom Viewers](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
 

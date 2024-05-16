@@ -37,7 +37,7 @@ Last Modified Date:
 
 1. Do one of the following:
 
-    * In the Browse Panel, select **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
+    * In the Browse panel, select **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
     * In the Upload screen, select **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
 
 1. On the Global Navigation bar, select **[!UICONTROL Publish]**.

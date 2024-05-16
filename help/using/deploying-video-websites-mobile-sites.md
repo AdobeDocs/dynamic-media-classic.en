@@ -25,7 +25,7 @@ Publishing a video enables Adobe Dynamic Media Classic Servers to deliver video 
 
 There are two different methods that you can use to publish video:
 
-* **Publish videos automatically and instantly on upload**: As part of the video upload process, Adobe Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability to instantly publish means that there is no need to publish videos separately after the fact.
+* **Publish videos automatically and instantly on upload**: As part of the video upload process, Adobe Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability of instant publishing means that there is no need to publish videos separately after the fact.
 
 * **Publish video manually after upload**: If you do not want to publish videos immediately, you can manually publish videos at any time.
 
@@ -36,7 +36,7 @@ After you publish videos, Adobe Dynamic Media Classic activates the URL strings 
 1. Do one of the following:
 
     * To publish videos automatically and instantly on upload, in the Upload page, select **[!UICONTROL Publish after uploading]**. You have finished; there are no further steps to complete.
-    * To publish videos manually after upload, in the Browse Panel, select the videos, and then on the Global Navigation bar, select **Publish**.
+    * To publish videos manually after upload, in the Browse panel, select the videos, and then on the Global Navigation bar, select **Publish**.
 
 ## Link a video URL to a mobile site or a website {#linking-a-video-url-to-a-mobile-site-or-a-website}
 
@@ -101,7 +101,7 @@ See also [Link a video URL to a mobile site or a website](deploying-video-websit
 
 ### Implement Embed Code for using HTML5 video with MP4 video assets {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 
-If you do not use the Adobe Dynamic Media Classic HTML5 video player, but instead want to use the native HTML5 `<video>` tag with MP4 video assets, you can use the following Embed Code sample:
+You may not want to use the Adobe Dynamic Media Classic HTML5 video player. Instead, if you want to use the native HTML5 `<video>` tag with MP4 video assets, you can use the following Embed Code sample:
 
 ```as3
 <video poster="S7 video thumbnail URL" controls> 
@@ -111,7 +111,7 @@ If you do not use the Adobe Dynamic Media Classic HTML5 video player, but instea
 </video>
 ```
 
-* Replace `"S7 video thumbnail URL"` with the video's thumbnail URL which is the video's thumbnail image that a user sees before they play the video.
+* Replace `"S7 video thumbnail URL"` with the video's thumbnail URL that is the video's thumbnail image that a user sees before they play the video.
 
   See [Obtain video thumbnail URLs](deploying-video-websites-mobile-sites.md#obtaining_video_thumbnail_urls).
 
@@ -125,7 +125,7 @@ If you do not use the Adobe Dynamic Media Classic HTML5 video player, but instea
 
 ## Deploy video using a third-party video player {#deploying-video-using-a-third-party-video-player}
 
-If you use a third-party video player or a custom-built video player instead of a Dynamic Media Classic video viewer, you obtain the direct video URL that works for HLS multi-bitrate video streaming or progressive download.
+If you use third-party video players or a custom-built video player instead of a Dynamic Media Classic video viewer, you obtain the direct video URL that works for HLS multi-bitrate video streaming or progressive download.
 
 **To deploy video using a third-party video player:**
 
@@ -179,7 +179,7 @@ The *poster frame* is the initial frame that appears in Video viewers before the
 
 You can apply image modifiers to the poster frame. For example, you can crop the poster frame or make it transparent. To modify the poster frame, open the video viewer configuration screen and enter modifiers in the Poster Image Modifiers section.
 
-See [Add or edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
+See [Add or Edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
 See [Image Serving Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home#image-serving-api).
 

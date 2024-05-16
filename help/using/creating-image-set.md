@@ -41,7 +41,7 @@ See also [Dynamic Media limitations](/help/using/limitations.md).
 
 1. Do one of the following:
 
-   * **Select the images first**: In the Browse Panel, select the images you want for your Image Set, go to **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**.
+   * **Select the images first**: In the Browse panel, select the images you want for your Image Set, go to **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**.
 
    * **Start from the Image Set screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**. The Image Set screen opens. Select a folder in the Asset Library and drag the images you want for your Image Set onto the Image Set screen.
 

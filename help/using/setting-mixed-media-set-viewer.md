@@ -24,7 +24,7 @@ You can choose to include all or some community features in the Mixed Media Set 
     * To edit a Mixed Media Set Viewer Preset, select it, then select **[!UICONTROL Edit]**.
 
 1. On the Configuration Viewer page, type a name in the Preset Name box for the Mixed Media Set Viewer Preset.
-1. Specify **[!UICONTROL Tabs]** or **[!UICONTROL No Tabs]**. Tabs separate items by type, such as videos, swatches, and spin sets. When you specify no tabs, all items appear in a row under the Preview window.
+1. Specify **[!UICONTROL Tabs]** or **[!UICONTROL No Tabs]**. Tabs separate items by type, such as videos, swatches, and Spin Sets. When you specify no tabs, all items appear in a row under the Preview window.
 1. In the **[!UICONTROL Name]** box, type a name for the viewer you want to add.
 
    For example, if you are adding a Swatch Set to your Mixed Media Set, type `Swatch Set A`.

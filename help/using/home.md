@@ -25,7 +25,7 @@ See [Frequently Asked Questions](new-ui-2020.md). New updates as of May 7, 2020.
   * Image Serving/Image Rendering API
   * Image Production System API
   * and Adobe Dynamic Media Classic Release Notes
-* [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html): Includes viewer examples for video, shoppable media, mixed media, spin sets, inline zoom, image and swatch sets, and flyouts.
+* [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html): Includes viewer examples for video, shoppable media, mixed media, Spin Sets, inline zoom, image and swatch sets, and flyouts.
 
 ## Adobe Dynamic Media Classic User Resources
 
@@ -38,7 +38,7 @@ See [Frequently Asked Questions](new-ui-2020.md). New updates as of May 7, 2020.
 * [Webinar: Maximizing your Asset ROI](https://adobecustomersuccess.adobeconnect.com/p5ar3hfrrec/?launcher=false&fcsContent=true&pbMode=normal&proto=true): Learn industry best practices to deliver rich media across your sites and mobile apps. In this webinar, Adobe gives examples and demonstrations showing you how to deliver video efficiently across devices. Learn how you can deliver dynamic creative in your marketing campaigns. Or, increase conversion by making any image, style guide, or lookbook shoppable.
 * [Webinar: Accelerate Your Content Delivery Lifecycle](https://adobecustomersuccess.adobeconnect.com/p88ducm9pqv/): An introduction and demonstration of Adobe Experience Manager Assets: On Demand, the next generation platform for rich media management and delivery. Learn how to collaborate and share assets between creative and marketing teams to streamline asset review processes. Learn best practices so you can manage asset metadata efficiently. Doing so makes assets easy to find, use, reuse and share. Learn also how to deliver interactive cross-channel rich media experiences.
 * [Webinar: Design for Mobile Optimization](https://adobecustomersuccess.adobeconnect.com/p6oqd3wydif/?launcher=false&fcsContent=true&pbMode=normal&proto=true): Using Adobe Dynamic Media Classic you can efficiently deliver targeted rich media to all devices. Learn how to design and deliver imaging and video viewing experiences that are effective across mobile apps and responsive sites.
-* [Webinar: Using Adobe Dynamic Media Classic to maximize holiday conversion](https://adobecustomersuccess.adobeconnect.com/p32n1yr85c9/?proto=true): Learn how to set up automated workflows to get content from watched folders and automatically create spin sets and videos. You also learn how you can quickly manage changes and update images.
+* [Webinar: Using Adobe Dynamic Media Classic to maximize holiday conversion](https://adobecustomersuccess.adobeconnect.com/p32n1yr85c9/?proto=true): Learn how to set up automated workflows to get content from watched folders and automatically create Spin Sets and videos. You also learn how you can quickly manage changes and update images.
 
 ## Adobe Dynamic Media Classic Training
 

@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # View assets in the Browse panel{#viewing-assets-in-the-browse-panel}
 
-You can change your view of assets in the Browse Panel by selecting a View button:
+You can change your view of assets in the Browse panel by selecting a View button:
 
 * **Grid View**: Near the upper-right corner of the Adobe Dynamic Media Classic screen, select the **[!UICONTROL Grid View]** icon to see assets in thumbnail form in a grid. In Grid View, you can drag the Thumbnail slider to change the size of the thumbnail images.
 

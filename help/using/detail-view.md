@@ -36,7 +36,7 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
 You can display an asset in Detail View so you can closely examine, preview, or work on it. 
 
-1. In the Browse Panel, do any one of the following:
+1. In the Browse panel, do any one of the following:
 
     * Select the asset. Near the upper-right corner of the Adobe Dynamic Media Classic, select the **[!UICONTROL Detail View]** icon.
     * Double-click the asset.
@@ -83,7 +83,7 @@ This table shows which other options are available with different types of asset
 | InDesign files | No (unless converted to FXG) | No |
 | PDF files | No | No |
 | PSD files | Yes for individual layers | Yes for individual layers |
-| Spin sets | Edit | Yes |
+| Spin Sets | Edit | Yes |
 | SVG files | No | No |
 | Templates | Edit | Yes |
 | Videos | No | Yes |
