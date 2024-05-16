@@ -80,7 +80,7 @@ If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded yo
 1. Select **[!UICONTROL Layers]**. All the layers appear as separate images in the Layers panel.
 1. Double-click a layer and do any of the following:
 
-    * To create an image map on the layer, select the **[!UICONTROL Image Map]** icon. (See [Create Image Maps](creating-image-maps.md#creating_image_maps).)
+    * To create an Image Map on the layer, select the **[!UICONTROL Image Map]** icon. (See [Create Image Maps](creating-image-maps.md#creating_image_maps).)
     * To create zoom targets on the layer, select the **[!UICONTROL Zoom Targets]** icon. (See [Create zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
     * To crop the layer, select the **[!UICONTROL Crop]** icon. (See [Crop an image](cropping-image.md#cropping_an_image).)
     * To sharpen the layer, select **[!UICONTROL Sharpen]**. (See [Sharpen an image](sharpening-image.md#sharpening_an_image).)

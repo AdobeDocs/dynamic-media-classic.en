@@ -21,7 +21,7 @@ Images that are reduced in size when they are delivered dynamically from a serve
 
 ## Create an Image Preset {#creating-an-image-preset}
 
-You can create your own Image Presets if you are a company administrator. You can create Image Presets or start with a default Image Preset that Adobe Dynamic Media Classic provides, edit it, and save it with a new name.
+You can create your own Image Presets if you are a Company Administrator. You can create Image Presets or start with a default Image Preset that Adobe Dynamic Media Classic provides, edit it, and save it with a new name.
 
 **To create an Image Preset:**
 

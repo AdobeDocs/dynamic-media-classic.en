@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # View Swatch Sets{#viewing-swatch-sets}
 
-You can view your Swatch Sets in the Preview window, using your available presets. You use a Zoom Viewer: Custom Viewer Preset for Swatch Sets.
+You can view your Swatch Sets in the Preview window, using your available presets. You can use a Zoom Viewer: Custom Viewer Preset for Swatch Sets.
 
 Adobe Dynamic Media Classic comes with default Viewer Presets. Administrators can create or modify the Viewer Presets.
 
@@ -38,7 +38,7 @@ You can create and customize Viewer Presets to suit your needs.
 
 ## Preview Swatch Sets in a Viewer {#previewing-swatch-sets-in-a-viewer}
 
-You can use Preview to see how an asset appears on particular viewer type such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all viewer type platforms are available in Preview.
+You can use Preview to see how an asset appears in a particular viewer type such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all viewer type platforms are available in Preview.
 
 1. In the Asset Library panel on the left side, in the **[!UICONTROL Show]** drop-down list, select a Swatch Set-based asset type such as **[!UICONTROL Swatch Set]**.
 1. In the Asset Library panel on the left side, navigate the Asset folders that contain Swatch Set that you want to preview with a viewer.

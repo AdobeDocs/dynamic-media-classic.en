@@ -33,6 +33,6 @@ When reporting issues to Technical Support, include this information:
 * Adobe Dynamic Media Classic company name.
 * Your name, phone number, and e-mail address.
 * Adobe Dynamic Media Classic application, platform, and version.
-* Issue description and the steps necessary to reproduce the problem.
+* Description of the issue and the steps necessary to reproduce the problem.
 * Error message, if any.
 * Browser type and version, if applicable.

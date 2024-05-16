@@ -20,19 +20,19 @@ You can choose to include all or some community features in the Mixed Media Set 
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. On the Viewer Presets page, do one of the following:
 
-    * To create a preset, select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, choose a platform, choose **[!UICONTROL Mixed Media Set Viewer]**, then select **[!UICONTROL Add]**.
-    * To edit a Mixed Media Set Viewer preset, select it, then select **[!UICONTROL Edit]**.
+    * To create a preset, select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, choose a platform. Then click **[!UICONTROL Mixed Media Set Viewer]** > **[!UICONTROL Add]**.
+    * To edit a Mixed Media Set Viewer Preset, select it, then select **[!UICONTROL Edit]**.
 
-1. On the Configuration Viewer page, type a name in the Preset Name box for the Mixed Media Set Viewer preset.
+1. On the Configuration Viewer page, type a name in the Preset Name box for the Mixed Media Set Viewer Preset.
 1. Specify **[!UICONTROL Tabs]** or **[!UICONTROL No Tabs]**. Tabs separate items by type, such as videos, swatches, and spin sets. When you specify no tabs, all items appear in a row under the Preview window.
 1. In the **[!UICONTROL Name]** box, type a name for the viewer you want to add.
 
    For example, if you are adding a Swatch Set to your Mixed Media Set, type `Swatch Set A`.
 
-1. From the Viewer menu, choose the type of asset you want to view, such as Swatch Sets. 
-1. From the Preset menu, choose a preset for the chosen asset type.
+1. From the Viewer menu, select the type of asset you want to view, such as Swatch Sets. 
+1. From the Preset menu, select a preset for the chosen asset type.
 
-   For example, if you are adding a Swatch Set, choose **[!UICONTROL SwatchSet1-Colors]**.
+   For example, if you are adding a Swatch Set, select **[!UICONTROL SwatchSet1-Colors]**.
 
 1. Select **[!UICONTROL Add]**.
 
@@ -42,7 +42,7 @@ You can choose to include all or some community features in the Mixed Media Set 
 1. To edit the preset list, do any of the following:
 
     * To delete a preset from the list, select it, and then select **[!UICONTROL Delete]**.
-    * To reorder presets in the list, select a preset, and the select the blue **[!UICONTROL Up]** or **[!UICONTROL Down]** arrow.
+    * To reorder presets in the list, select a preset, and then select the blue **[!UICONTROL Up]** or **[!UICONTROL Down]** arrow.
 
 1. To add community features (Embed, Link, Visit) to the viewer, specify options for any of the following:
 

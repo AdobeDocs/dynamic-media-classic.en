@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Set up Zoom Viewer Presets{#setting-up-zoom-viewer-presets}
 
-Zoom Viewer Presets determine the style, behavior, and look of your Zoom viewers. Adobe Dynamic Media Classic offers many options for customizing and skinning Viewers. Adobe Dynamic Media Classic comes with default basic (fast), fly-out, and custom Zoom Viewer Presets. If you are an administrator, you can create company Zoom Viewer Presets or edit a default preset and save it with a new name.
+Zoom Viewer Presets determine the style, behavior, and look of your Zoom vVewers. Adobe Dynamic Media Classic offers many options for customizing and skinning Viewers. Adobe Dynamic Media Classic comes with default basic (fast), fly-out, and custom Zoom Viewer Presets. If you are an administrator, you can create company Zoom Viewer Presets or edit a default preset and save it with a new name.
 
 All Zoom Viewers have buttons for zooming in, zooming out, panning, and resetting the image to its original state after zooming. What these buttons look like and how the window itself appears depends on your choice of Zoom Viewer Presets. You can configure a Zoom Viewer Preset with different colors, borders, fonts, and image settings. When configuring a Guided Zoom Viewer, you can also choose where to place the zoom targets. Zoom targets are the thumbnails that users click to zoom to areas you specify.
 
@@ -21,11 +21,11 @@ All Zoom Viewers have buttons for zooming in, zooming out, panning, and resettin
 
 Adobe Dynamic Media Classic offers these Zoom Viewer Presets:
 
-* **Zoom Viewer: Basic**: Provides a basic zoom on original image.
+* **Zoom Viewer: Basic**: Provides a basic zoom on the original image.
 
 * **Zoom Viewer: Fly-out**: Displays a second image of the zoomed area next to the original image. There are no controls to use, users simply move the selection over the area they want to view.
 
-When determining the complete bandwidth usage for this viewer, consider that both the main image and the flyout image are served in the viewer. The flyout image size is determined by the main image size (Stage Width and Height) and the Zoom Factor. To keep the flyout file size from becoming too large, balance these two values: if you have a large main image size, lower the Zoom Factor value. (The Flyout Width and Flyout Height determine the size of the flyout window, but not the size of the flyout image that is served into the viewer.)
+When determining the complete bandwidth usage for this viewer, consider that both the main image and the flyout image are served in the viewer. The flyout image size is determined using the main image size (Stage Width and Height) and the Zoom Factor. To keep the flyout file size from becoming too large, balance these two values: if you have a large main image size, lower the Zoom Factor value. (The Flyout Width and Flyout Height determine the size of the flyout window, but not the size of the flyout image that is served into the viewer.)
 
 For example, if your main image size is 350 by 350 pixels, with a Zoom Factor of 3, the resulting flyout image is 1050 by 1050 pixels. If your main image size is 300 by 300 pixels, with a Zoom Factor of 4, the flyout image is 1200 by 1200 pixels. Depending on the JPEG quality setting (recommended settings are between 80-90), you can decrease the file size significantly. Recommended zoom factors are 2.5 to 4, depending on the size of your main image.
 

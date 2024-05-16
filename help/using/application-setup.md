@@ -43,7 +43,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 * **[!UICONTROL Progressive Video Server Name]**: The URL to your [!DNL Adobe Dynamic Media Classic] progressive video server. This server delivers progressive video using the HTTP protocol.
 
-* **[!UICONTROL Show URL for unpublished assets]**: Select this option if you wanted [!DNL Adobe Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
+* **[!UICONTROL Show URL for unpublished assets]**: Select this option if you want [!DNL Adobe Dynamic Media Classic] to display a URL when you preview any asset, published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
 
 <!-- **Allow AIR install** Select this option to allow users to download Adobe Dynamic Media Classic desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen. -->
 
@@ -77,7 +77,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 * **[!UICONTROL Show Sample eVideo Content]**: Turn on or off the display of eVideo sample content.
 
-* **[!UICONTROL Show Generated Content]**: In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Adobe Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each generated image when the original PDF gets uploaded, appears. It appears along with the PDF in the folder to which the PDF was uploaded.
+* **[!UICONTROL Show Generated Content]**: In folders, it shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Adobe Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each generated image when the original PDF gets uploaded, appears. It appears along with the PDF in the folder to which the PDF was uploaded.
 
 * **[!UICONTROL Show Encoded Videos]**: Deselected (off) by default.
 
@@ -111,11 +111,11 @@ See also [Options for upload jobs](https://s7d5.scene7.com/s7viewers/html5/Video
 
 * **[!UICONTROL Overwrite Images]**: Adobe Dynamic Media Classic does not allow two files to have the same name. Each item's Adobe Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a "-1" (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). See [Use the Overwrite Images option](#using-the-overwrite-images-option).
 
-  * **[!UICONTROL Overwrite in current folder, same base image name/extension]**: This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
+  * **[!UICONTROL Overwrite in current folder, same base image name or extension]**: This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
 
   * **[!UICONTROL Overwrite in current folder, same base asset name regardless of extension]**: Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
 
-  * **[!UICONTROL Overwrite in any folder, same base asset name/extension]**: Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
+  * **[!UICONTROL Overwrite in any folder, same base asset name or extension]**: Requires that the replacement image has the same filename extension as the original image. For example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
 
   * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]**: This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
 
@@ -129,7 +129,7 @@ See also [Options for upload jobs](https://s7d5.scene7.com/s7viewers/html5/Video
 
 * **[!UICONTROL Default Image Mapping HREF]**: Defines the default URL that is used for the HREF column in image mapping. This URL is the default URL that you see when you create Image Maps.
 
-* **[!UICONTROL Default Image Mapping Template]**: Defines the default JavaScript for the HREF template in image mapping. You can set a custom code here to be run whenever you select an image map.
+* **[!UICONTROL Default Image Mapping Template]**: Defines the default JavaScript for the HREF template in image mapping. You can set a custom code here to be run whenever you select an Image Map.
 
 ### Other Settings (to Application)
 

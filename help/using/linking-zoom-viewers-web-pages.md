@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Link Zoom viewers to your Web pages{#linking-zoom-viewers-to-your-web-pages}
 
-Your Web sites and applications access Dynamic Media Image Server content, including primary images and associated zoom targets, and Zoom Viewer Presets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your Web pages and applications, you copy them from Adobe Dynamic Media Classic.
+Your Web sites and applications access Dynamic Media Image Server content by way of URL strings or embedded code. That access includes primary images and associated zoom targets. It also includes Zoom Viewer Presets. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your Web pages and applications, you copy them from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Your Web sites and applications access Dynamic Media Image Server content, inclu
 
 Typically, visitors zoom images on a website by first selecting a Zoom icon (often the icon shows the image of a magnifying glass). Selecting this icon launches a dynamic Web page (ASP or JSP) that displays the image in a pop-up window. The pop-up window is where visitors actually zoom the image.
 
-For more details and code samples, see [Embed HTML5 Basic Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+For more details and code samples, see the [Embed HTML5 Basic Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copy the embed copy of a Zoom viewer {#copying-the-embed-copy-of-a-zoom-viewer}
 
@@ -49,7 +49,7 @@ Using the Embed Code feature lets you review the viewer code for the selected Zo
 
 **To copy the embed code of a Zoom viewer:**
 
-1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Zoom viewer whose embed code you want to copy.
+1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Zoom viewer whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, select **[!UICONTROL Embed Code]** to the right of the viewer you want.

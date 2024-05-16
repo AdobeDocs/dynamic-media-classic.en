@@ -12,7 +12,7 @@ level: Intermediate
 ---
 # Upload files{#uploading-files}
 
-Before you upload assets files to Adobe Dynamic Media Classic, make sure that the asset files are named correctly, and that your folder structure is set up and organized the way you want. You can upload files from an Adobe Dynamic Media Classic-provided FTP site or directly from your computer or network. Adobe Dynamic Media Classic offers options for optimizing files as you upload them. If you installed Adobe Dynamic Media Classic desktop application, you can upload files and folders by dragging them directly from your desktop. See [Application General Settings](application-setup.md#general_settings).
+Before you upload assets files to Adobe Dynamic Media Classic, make sure that the asset files are named correctly. And, make sure that your folder structure is set up and organized the way you want. You can upload files from an Adobe Dynamic Media Classic-provided FTP site or directly from your computer or network. Adobe Dynamic Media Classic offers options for optimizing files as you upload them. If you installed Adobe Dynamic Media Classic Desktop application, you can upload files and folders by dragging them directly from your desktop. See [Application General Settings](application-setup.md#general_settings).
 
 ## Prepare your assets and folders for uploading {#preparing-your-assets-and-folders-for-uploading}
 
@@ -66,7 +66,7 @@ To achieve optimal results with the Adobe Dynamic Media Classic program, be sure
 | --- | --- |
 | Audio | Input audio asset formats include AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. You can transcode audio to the following formats: MP3, AAC, and HE-AAC. |
 | Images (for Image Sizing, Zoom, Image Sets, Spin Sets) | Images have to be at least 2000 pixels at the longest size; typical image sizes range from 1500 to 2500 pixels in the longest size. Lossless image formats, including TIFF and PNG files, are recommended. If you use a JPEG image, use the highest-quality settings. Animate GIF files are handled like other static content. |
-| eCatalogs | Use high-resolution PDF files created in Adobe Acrobat or an Adobe Creative Suite application saved as "press-ready." PDFs include all needed fonts, images, masks, and referenced graphical elements, either as single-pages, double-page spreads, or in a multi-page format. Order your pages by naming the files in alphanumeric order. Place all PDFs for your eCatalog in a single folder for ease of uploading. You can select cropping options on upload to remove the trim area from PDFs, including crop marks, registration targets, or color bars. Most press-ready PDF files are in the CMYK color space, so it is important to obtain the CMYK ICC color profile used with your PDF files. |
+| eCatalogs | Use high-resolution PDF files created in Adobe Acrobat or an Adobe Creative Suite application saved as "press-ready." PDFs include all the needed fonts, images, masks. And, include all needed referenced graphical elements, either as single-pages, double-page spreads, or in a multi-page format. Order your pages by naming the files in alphanumeric order. Place all PDFs for your eCatalog in a single folder for ease of uploading. You can select cropping options on upload to remove the trim area from PDFs, including crop marks, registration targets, or color bars. Most press-ready PDF files are in the CMYK color space, so it is important to obtain the CMYK ICC color profile used with your PDF files. |
 | Templates | Layered image or layout design that can include text, images, and layers. Image layers, text strings, and attributes, such as color and size, can be parameterized so that variable data can be customized. Image requirements for use in templates are the same as other images. Prepare your graphics in Photoshop or another image-editing program. Save each graphic as a flattened transparent file in TIFF or PNG format. Ensure that the image resolution is appropriate for expected use. Images for print are 300 ppi.|
 | Videos | Adobe Dynamic Media Classic supports video files saved in the OGV and MP4 format. You can transcode files to MP4 format at upload. See [Supported asset file formats](#supported-static-file-formats). |
 | Fonts | Uploaded TrueType, `Type1` (Windows&reg; Only), OpenType&reg; fonts, and PhotoFonts. |
@@ -110,7 +110,7 @@ Because filename extensions are stripped from filenames during the upload proces
 
 Make sure that all users in your company understand these rules for naming files:
 
-* Asset IDs with the same exact name are not allowed in the system. 
+* Asset IDs with the same name are not allowed in the system. 
 * Asset ID names are case-sensitive. 
 * As a best practice, make sure that asset IDs do not contain blank spaces (for example, black jacket.tif and blue jacket.jpg). Adobe Dynamic Media Classic ASCII-encodes blank spaces in asset names when it uses asset names to construct URL strings. These ASCII codes are hard to read, which can make reading URLs more difficult.
 * Language-specific characters are permitted in filenames. However, the following characters are not permitted in filenames:
@@ -135,7 +135,7 @@ Organize and structure folders and subfolders for your content in Adobe Dynamic 
 
 The folder-naming approach and structure you choose for storing your content on the Adobe Dynamic Media Classic depends on the needs of your organization. Here are some sample folder structures:
 
-**SKU-based**: Folders are named according to SKUs or item numbers. For example, separate folders are created for all 0-, 20-, 30- number series.
+**SKU-based**: Folders are named according to SKUs or item numbers. For example, separate folders are created for all 0-, 20-, and 30-number series.
 
 **Brand-based**: For manufacturers with multiple brand lines and retailers who market other brands from other companies, separate files into product folders named for different brands.
 
@@ -155,12 +155,12 @@ During (or immediately after) a large upload job, some new items could display t
 
 The Adobe Dynamic Media Classic Desktop application lets you upload files and folders by dragging.
 
-1. In the Adobe Dynamic Media Classic Desktop application, on the Global Navigation bar, select **[!UICONTROL Upload]**.
+1. In the Adobe Dynamic Media Classic Desktop application, on the Global Navigation Bar, select **[!UICONTROL Upload]**.
 1. On the Upload page, select the **[!UICONTROL From Desktop]** tab.
 1. On the left side of the Upload page, in the **[!UICONTROL Select Files for Upload]** area, select **[!UICONTROL Browse]** to select the files or folders you want to upload, then select **[!UICONTROL Open]**.
 1. On the right side of the Upload page, in the chosen **Folder Destination** area, navigate to a destination folder where you want the uploaded files or folders added.
 1. (Optional) Near the bottom of the Upload page, in the Job Name text field, enter the new name of the uploading job. Or, you can simply use the default, system-generated name that Adobe Dynamic Media Classic provides. Upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs. See [Checking job files](checking-job-files.md#checking_job_files).
-1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Publish After Uploading]** if you want to automatically publish the assets that you upload.
+1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Publish After Uploading]** so you can automatically publish the assets that you upload.
 When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This same option is also available in the Job Options dialog box.
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** if you want the files you upload to replace existing files with the same names. This same option is also available in the Job Options dialog box.
 The name of this option could be different, depending on the settings in **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
@@ -170,22 +170,22 @@ The name of this option could be different, depending on the settings in **[!UIC
 
 1. In the Upload Job Options dialog box, select **[!UICONTROL Save]**.
 1. In the lower-right corner of the Upload page, select **[!UICONTROL Submit Upload]**.
-   To see the progress of the upload, select **[!UICONTROL Jobs]** on the Global Navigation Bar. You can continue working in Adobe Dynamic Media Classic and return to the Jobs page at any time to review an in-progress job. To cancel an upload job in progress, select **[!UICONTROL Cancel]** next to the Duration time.
+   To see the progress of the upload, select **[!UICONTROL Jobs]** on the Global Navigation Bar. You can continue working in Adobe Dynamic Media Classic. Return to the Jobs page at any time to review an in-progress job. To cancel an upload job in progress, select **[!UICONTROL Cancel]** next to the Duration time.
 
 ### Upload files using the VIA FTP tab {#upload-files-using-via-ftp}
 
 1. Log on to the Adobe Dynamic Media Classic FTP site that is specific to your particular region. Use the FTP user name and password that you received from your administrator.
-1. In Adobe Dynamic Media Classic, on the Global Navigation bar, select **[!UICONTROL Upload]**.
+1. In Adobe Dynamic Media Classic, on the Global Navigation Bar, select **[!UICONTROL Upload]**.
 1. On the Upload page, select the **[!UICONTROL VIA FTP]** tab.
 1. On the left side of the Upload page, in the **[!UICONTROL Choose FTP Folder For Upload]** area, choose an FTP folder from which to upload files. 
 1. On the right side of the Upload page, in the chosen **[!UICONTROL Adobe Dynamic Media Folder Destination]** area, choose a destination folder in Adobe Dynamic Media Classic.
 1. (Optional) Near the bottom of the Upload page, in the Job Name text field, enter the new name of the uploading job. Or, you can simply use the default, system-generated name that Adobe Dynamic Media Classic provides. Upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
 See [Checking job files](checking-job-files.md#checking_job_files).
-1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Publish After Upload]** if you want to automatically publish the assets that you upload.
+1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Publish After Upload]** so you can automatically publish the assets that you upload.
 When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This same option is also available in the Job Options dialog box.
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** if you want the files you upload to replace existing files with the same names. This same option is also available in the Job Options dialog box.
 The name of this option could be different, depending on the settings in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
-1. Optional; available only if you selected the **[!UICONTROL VIA FTP]** tab. Near the bottom of the Upload page, select **[!UICONTROL Uncompress Zip or Tar Files on Upload]** if you want to automatically extract all files from your uploaded ZIP or TAR file. This same option is also available in the Job Options dialog box. 
+1. Optional; available only if you selected the **[!UICONTROL VIA FTP]** tab. Near the bottom of the Upload page, select **[!UICONTROL Uncompress Zip or Tar Files on Upload]** so you can automatically extract all files from your uploaded ZIP or TAR file. This same option is also available in the Job Options dialog box. 
 1. Near the lower-right corner of the Upload page, select **[!UICONTROL Job Options]**, then specify the options you want.
 
    See [Upload options](uploading-files.md#upload_options).
@@ -193,7 +193,7 @@ The name of this option could be different, depending on the settings in **[!UIC
 1. In the Upload Job Options dialog box, select **[!UICONTROL Save]**. 
 1. In the lower-right corner of the Upload page, select **[!UICONTROL Submit Upload]**.
 
-   To see the progress of the upload, on the Global Navigation Bar, select **[!UICONTROL Jobs]**. The Jobs page shows you the progress of the upload. You can continue working in Adobe Dynamic Media Classic and return to the Jobs page at any time to review an in-progress job.
+   To see the progress of the upload, on the Global Navigation Bar, select **[!UICONTROL Jobs]**. The Jobs page shows you the progress of the upload. You can continue working in Adobe Dynamic Media Classic. Return to the Jobs page at any time to review an in-progress job.
 
 To cancel an upload job in progress, select **[!UICONTROL Cancel]** next to the Duration time.
 
@@ -203,7 +203,7 @@ When uploading files, you can choose from the following options in the Upload Jo
 
 * **JOB**: Select **[!UICONTROL JOB]** to choose options that affect the entire upload job.
 
-    You can also choose *default* options for uploading jobs by using the **[!UICONTROL Default Upload Options]** dialog box in General Settings. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Default Upload Options]**, then set the default options you want.
+    You can also choose the *default* options for uploading jobs by using the **[!UICONTROL Default Upload Options]** dialog box in General Settings. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Default Upload Options]**, then set the default options you want.
 
   * **[!UICONTROL When]**: This option is available only if you selected the **[!UICONTROL VIA FTP]** tab.
     * **[!UICONTROL One-Time]**: Specify an upload job that runs once. Options include the following:
@@ -213,14 +213,14 @@ When uploading files, you can choose from the following options in the Upload Jo
       * **[!UICONTROL Daily]**: Set the time that you want the job to run every day. If you want the job to run only Monday to Friday, select **[!UICONTROL Weekdays Only]**.
       * **[!UICONTROL Weekly]**: Choose a specific day of the week and time that you want the job to run.
       * **[!UICONTROL Monthly]**: Choose a specific day of the month or day of the week, including the start time, that you want the job to run.
-      * **[!UICONTROL Custom]**: Customize an upload  or publish job time interval to your own specifications. See [Create a custom upload or publish job time interval](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
+      * **[!UICONTROL Custom]**: Customize an upload or publish job time interval to your own specifications. See [Create a custom upload or publish job time interval](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
 
-  * **[!UICONTROL Publish After Uploading]**: Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab. Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
+  * **[!UICONTROL Publish After Uploading]**: Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab. Select this option so you can automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
 
   * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]**: Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab. Select this option if you want the files you upload to replace existing files with the same names. This option is also available on the Upload page. The name of this option could be different, depending on the settings in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
 
   * **[!UICONTROL Uncompress Zip or Tar Files on Upload]**: Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab.
-Select this option if you want to automatically extract all files from your uploaded ZIP or TAR file. This same option is also available in the Job Options dialog box. 
+Select this option so you can automatically extract all files from your uploaded ZIP or TAR file. This same option is also available in the Job Options dialog box. 
 
   * **[!UICONTROL Include subfolders]**: Available only if you selected the **[!UICONTROL VIA FTP]** tab.
 Select this option if you want to upload subfolders of the folder you intend to upload. The names of the folder and its subfolders you upload are entered automatically in Adobe Dynamic Media Classic.
@@ -228,12 +228,12 @@ Select this option if you want to upload subfolders of the folder you intend to 
   * **[!UICONTROL Process metadata files]**: Available only if you selected either the **[!UICONTROL VIA FTP]** tab. Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
 See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
 
-* **Crop options**: To automatically crop white-space pixels from an image, open the **[!UICONTROL Crop]** menu, select **[!UICONTROL Manual]**, and enter pixel measurements in the Top, Right, Bottom, and Left text fields to crop from the sides. You can also select **[!UICONTROL Trim]** on the Crop menu and choose these options:
+* **Crop options**: Automatically crop white-space pixels from an image. Open the **[!UICONTROL Crop]** menu, select **[!UICONTROL Manual]**, and enter pixel measurements in the Top, Right, Bottom, and Left text fields to crop from the sides. You can also select **[!UICONTROL Trim]** on the Crop menu and choose these options:
 
   * **[!UICONTROL Trim Away Based On]**: Choose whether to crop based on color or transparency:
     * **[!UICONTROL Color]**: Choose the Color option. Then select the Corner menu and choose the corner of the image with the color that best represents the white-space color you want to crop.
       Trimming based on color: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
-    * **[!UICONTROL Transparency]**:  Choose the **[!UICONTROL Transparency]** option.
+    * **[!UICONTROL Transparency]**: Choose the **[!UICONTROL Transparency]** option.
       Trimming based on transparency: Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
     * **[!UICONTROL Tolerance]**: Drag the slider to specify a tolerance from 0 through 1.
 
@@ -265,7 +265,7 @@ See [Work with video encoding presets](uploading-encoding-videos.md#working_with
 See [Conduct an advanced search](searching-assets.md#conducting_an_advanced_search). 
 See also [Upload keywords](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) training video.
 
-* **Batch Set Presets**: If you want to create an Image Set, Spin Set, or Swatch Set from the uploaded files, select the **[!UICONTROL Active]** column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
+* **Batch Set Presets**: To create an Image Set, Spin Set, or Swatch Set from the uploaded files, select the **[!UICONTROL Active]** column for the preset you want to use. You can select more than one preset. You can create the presets in the Application Setup/Batch Set Presets page.
 See [Batch Set Presets](application-setup.md#batch_set_presets).
 
 * **Advanced**: See [Follow an upload with another job](uploading-files.md#follow-an-upload-with-another-job).

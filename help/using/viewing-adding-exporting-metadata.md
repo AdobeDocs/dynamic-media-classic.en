@@ -155,11 +155,11 @@ Adobe Dynamic Media Classic offers a command for creating a template for recordi
 
 ## Working with Metadata Schemas {#working-with-metadata-schemas}
 
-A company administrator can view a list of all available schemas. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]**.
+A Company Administrator can view a list of all available schemas. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]**.
 
 Initially, the list of global standard schemas like XMP is hidden. They can be shown using the checkbox at the bottom of the list.
 
-The company administrator can create a custom schema, or edit an existing custom schema.
+The Company Administrator can create a custom schema, or edit an existing custom schema.
 
 You can use the Metadata Schema Editor to perform the following actions:
 

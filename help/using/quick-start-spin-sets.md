@@ -15,9 +15,9 @@ level: Beginner
 
 A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360-degree viewing experience. Adobe Dynamic Media Classic offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse clicks. In this way, users can examine an item more closely from a particular viewpoint. 
 
-![Images for a spin set.](/help/using/assets/spin_set.png)
+![Images for a Spin Set.](/help/using/assets/spin_set.png)
 
-Spin Sets also accept Image Maps. An Image Map is a region on an image within the Spin Set that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a Web page is launched so that the user can learn more about a product. To point out an image map in a Spin Set, an outline appears around the Image Map itself when the user moves their mouse pointer over it.
+Spin Sets also accept Image Maps. An Image Map is a region on an image within the Spin Set that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a Web page is launched so that the user can learn more about a product. To point out an Image Map in a Spin Set, an outline appears around the Image Map itself when the user moves their mouse pointer over it.
 
 See [Create Image Maps](creating-image-maps.md).
 
@@ -43,13 +43,13 @@ See [Guidelines for shooting Spin Set images](creating-spin-set.md#guidelines-fo
 
 ## 2. Create a Spin Set
 
-To create a Spin Set, on the Global Navigation bar, go to **[!UICONTROL Build]** > **[!UICONTROL Spin Sets]**. In the Spin Set Size dialog box, choose how many rows and cells you want, and select **[!UICONTROL OK]**. Then drag images into the grid on the Spin Set page.
+To create a Spin Set, on the Global Navigation bar, go to **[!UICONTROL Build]** > **[!UICONTROL Spin Sets]**. In the Spin Set Size dialog box, choose how many rows and cells you want, and select **[!UICONTROL OK]**. Then drag the images into the grid on the Spin Set page.
 
 See [Create a Spin Set](creating-spin-set.md#creating-a-spin-set).
 
 ## 3. Edit a Spin Set
 
-To edit a Spin Set, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. Select a spin set, and then select **[!UICONTROL Edit]**. Add, remove, and change the position of images. You can change the position of rows in two-dimensional spin sets.
+To edit a Spin Set, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. Select a Spin Set, and then select **[!UICONTROL Edit]**. Add, remove, and change the position of images. You can change the position of rows in two-dimensional Spin Sets.
 
 See [Edit a Spin Set](creating-spin-set.md#editing-a-spin-set).
 
@@ -79,6 +79,6 @@ See [Publish a Spin Set](publishing-spin-set.md#publishing-a-spin-set).
 
 Adobe Dynamic Media Classic creates URL callout strings for Spin Sets, and activates them after you publish them. You can copy these URLs from the Preview page.
 
-Select the Spin Set, and then select **[!UICONTROL Preview]**. Select a Spin Set Viewer Preset. Then select **[!UICONTROL Copy URL]**.
+Select the Spin Set, and then select **[!UICONTROL Preview]**. Select a Spin Set Viewer Preset. Then select the **[!UICONTROL Copy URL]**.
 
-See [Link a Spin Set to a Web page](linking-spin-set-web-page.md#linking-a-spin-set-to-a-web-page).
+See [Linking a Spin Set to a Web page](linking-spin-set-web-page.md#linking-a-spin-set-to-a-web-page).
