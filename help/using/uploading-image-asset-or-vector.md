@@ -24,7 +24,7 @@ Before you can upload an image asset, you first request a shared-secret key. You
 
 ## Request a shared-secret key {#requesting-a-shared-secret-key}
 
-Request a *shared-secret key* by [using the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In your support case, request a shared-secret key.
+Request a *shared-secret key* by [using the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In the technical support case, request a shared-secret key.
 
 In the email message, provide the company name that you want to use to upload image assets. After you receive the key from Adobe Dynamic Media Classic, save it locally for future use.
 
@@ -75,7 +75,7 @@ You can use the following fields in the query URL string to retrieve an upload t
 | --- | --- | --- |
 | op| Required | get_uploadtoken |
 | shared_secret | Required | The shared-secret key for the company that is doing the upload. |
-| expires | Optional | Number of seconds that the upload token is valid. Default is 300 seconds, if not specified. |
+| expires | Optional | Number of seconds that the upload token is valid. The default is 300 seconds, if not specified. |
 
 **Sample raster image URL:**
 
@@ -128,7 +128,7 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * A file size limit.
 * A list of filename extensions.
 * Whether to preserve the color profile and file name associated with the asset.
-* Whether to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. 
+* Whether to use a Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. 
 See Knockout Background in [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
@@ -175,7 +175,7 @@ Send the asset to upload as a multipart/form post while sending the rest of the 
 | URL Parameter | Required or Optional | Value |
 | --- | --- | --- |
 | `op` | Required | upload |
-| `upload_token` | Required | Upload token for the shared-secret key associated with the company. |
+| `upload_token` | Required | Upload a token for the shared-secret key associated with the company. |
 | `company_name` | Required | Name of the company performing the upload. |
 | `file_limit` | Optional | File size limit, in bytes, for the asset. |
 | `file_exts` | Optional | List of allowable extensions for the image asset file. |

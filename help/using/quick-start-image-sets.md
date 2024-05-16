@@ -15,7 +15,7 @@ level: Beginner
 
 Adobe Dynamic Media Classic Image Sets give users an integrated viewing experience. In the dynamic Image Set Viewer, users can see different views of an item by selecting a thumbnail image. Image Sets lets you present alternative high-resolution views of an item.
 
-The Image Set Viewer offers zooming tools for examining images closely. If you want, you can make guided zoom targets and Image Maps part of your Image Set. Image Sets make for a more concerted, intimate viewing experience.
+The Image Set Viewer offers zooming tools for examining images closely. If you want, you can make guided Zoom Targets and Image Maps part of your Image Set. Image Sets make for a more concerted, intimate viewing experience.
 
 See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/556_Image%20&%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) training video.
 
@@ -48,7 +48,7 @@ To create an Image Set, on the Global Navigation bar, select **[!UICONTROL Build
 
 See [Create an Image Set](creating-image-set.md#creating-an-image-set).
 
-See also [Include zoom targets and Image Maps in Image Sets](/help/using/including-zoom-targets-image-maps-image-sets.md)
+See also [Include Zoom Targets and Image Maps in Image Sets](/help/using/including-zoom-targets-image-maps-image-sets.md)
 
 ## 3. Prepare Image Set Viewer Presets, as needed
 

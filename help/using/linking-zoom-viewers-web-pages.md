@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Link Zoom viewers to your Web pages{#linking-zoom-viewers-to-your-web-pages}
 
-Your Web sites and applications access Dynamic Media Image Server content by way of URL strings or embedded code. That access includes primary images and associated zoom targets. It also includes Zoom Viewer Presets. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your Web pages and applications, you copy them from Adobe Dynamic Media Classic.
+Your Web sites and applications access Dynamic Media Image Server content by way of URL strings or embedded code. That access includes primary images and associated Zoom Targets. It also includes Zoom Viewer Presets. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your Web pages and applications, you copy them from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >

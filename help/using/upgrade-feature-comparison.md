@@ -24,7 +24,7 @@ A feature comparison table between [!DNL Dynamic Media] in [!DNL Adobe Experienc
 | Instant Publish  | &#10003;  | &#10003;  |
 | Interactive Viewers  | &#10003;  | &#10003;  |
 | Manifest Files  | &#10003;  | &#10003;  |
-| Media Portal  | &#10003;<br>*Known as "Brand Portal"*  | &#10003;  |
+| Media Portal  | &#10003;<br>*Known as the "Brand Portal"*  | &#10003;  |
 | Rule Sets  | &#10003;  | &#10003;  |
 | Secure Preview  | &#10003;  | &#10003;  |
 | Sets (Image, Spin, Mixed Media) | &#10003;<br>*No multiaxis spins* | &#10003; |

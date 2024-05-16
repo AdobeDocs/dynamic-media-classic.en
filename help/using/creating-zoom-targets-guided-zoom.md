@@ -49,7 +49,7 @@ To create a zoom target, open the Zoom Target Editor page and do the following:
 
     * **Resize**: Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
 
-    * **Position**:  Move the pointer over the zoom target and drag it to a different location.
+    * **Position**: Move the pointer over the zoom target and drag it to a different location.
 
 1. Enter a name for the zoom target in the Name box.
 

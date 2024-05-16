@@ -21,13 +21,13 @@ Adobe Dynamic Media Classic offers many tools for creating rich media. You creat
 * **eVideo**: Delivery high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Adobe Dynamic Media Classic encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets.
     See [Quick Start: Video in Adobe Dynamic Media Classic](/help/using/quick-start-video.md).
 
-* **Image Maps**: Dynamically serve images at any size and format throughout your Web site. Instead of manually creating many images at different sizes, you only use one primary image. As Adobe Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening.
+* **Image Maps**: Dynamically serve images at any size and format throughout your Web site. Instead of manually creating many images at different sizes, you only need to use one primary image. As Adobe Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening.
     See [Quick Start: Image Sizing](/help/using/quick-start-image-sizing.md).
 
 * **Image Sets**: Deliver an interactive shopping experience in which users can view products in multiple views. You can combine zoom, multiple views, and color swatches for an integrated viewing experience.
     See [Quick Start: Image Sets](/help/using/quick-start-image-sets.md).
 
-* **Mixed Media Sets**: Provide a blend of image sets, Spin Sets, swatch sets, zoom targets, video, and audio in one presentation. You can set up Mixed Media sets with tabs to separate video from images. You can also specify where and how to display swatches and zoom targets and give users a full multimedia view of your products or services.
+* **Mixed Media Sets**: Provide a blend of image sets, Spin Sets, swatch sets, Zoom Targets, video, and audio in one presentation. You can set up Mixed Media sets with tabs to separate video from images. You can also specify where and how to display swatches and Zoom Targets and give users a full multimedia view of your products or services.
     See [Quick Start: Mixed Media Sets](/help/using/quick-start-mixed-media-sets.md).
 
 * **Spin Sets**: Sequence images to spin them horizontally. Spin Sets let website visitors turn products and view them from different sides. You can create one-dimensional and two-dimensional Spin Sets.

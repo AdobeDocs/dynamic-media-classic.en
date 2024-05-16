@@ -77,7 +77,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 * **[!UICONTROL Show File Size]**: Displays the file size of an asset when you are browsing.
 * **[!UICONTROL Include UDFs in Search]**: To improve system performance for most metadata searches that you run, deselected (default).
 
-  If most of your metadata searches benefit from including user-defined fields, you can select this option to turn it on. As an alternative, use Advanced Search to give you a more directed and faster search experience than including user-defined fields.
+  If most of your metadata searches benefit from including user-defined fields, you can select this option to turn it on. As an alternative, use Advanced Search to give you a more directed and faster search experience than by including user-defined fields.
 
   See [Conducting an advanced search](searching-assets.md#conducting_an_advanced_search).
 
@@ -101,7 +101,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 * **[!UICONTROL Current Password]**: Enter the password your present password.
 * **[!UICONTROL New Password]**: Enter a new, valid password. Your password must meet the following requirements:
-  * Be between 8-25 characters long.
+  * It must be between 8-25 characters long.
   * Contain at least one lowercase letter.
   * Contain at least one uppercase letter.
   * Contain at least one number.

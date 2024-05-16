@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Test the integration by viewing an Adobe Analytics report{#testing-the-integration-by-viewing-an-adobe-analytics-report}
 
-After you have created the necessary variables in Adobe Analytics, linked them to Adobe Dynamic Media Classic events, and completed the necessary implementation steps, you can test the setup. You can test and verify that the data is being captured inside Adobe Analytics itself. If the setup works here, then no further steps are needed. Assuming you followed the steps above and linked your Adobe Dynamic Media Classic event data to one or more custom traffic variables, then follow this workflow to test your data inside Adobe Analytics.
+After you have created the necessary variables in Adobe Analytics, linked them to Adobe Dynamic Media Classic events, and completed the necessary implementation steps, you can test the setup. You can test and verify that the data is being captured inside Adobe Analytics itself. If the setup works here, then no further steps are needed. Assuming you followed the steps above and linked your Adobe Dynamic Media Classic event data to one or more Custom Traffic variables, then follow this workflow to test your data inside Adobe Analytics.
 
 **To test the integration by viewing an Adobe Analytics report:**
 
@@ -25,7 +25,7 @@ After you have created the necessary variables in Adobe Analytics, linked them t
 
    For example, to access the **[!UICONTROL LoadAsset]** prop in the sample account, the proper menu choice is **[!UICONTROL Custom Traffic]** > **[!UICONTROL Custom Traffic 1-10]** > **[!UICONTROL LoadAsset]**. If you have more than ten custom props, you see other menu choices as well.
 
-1. View the chart produced by Adobe Analytics. This chart is typically just the data for a single metric. If you also want to know with which asset this data is associated, obtain the asset data of this event. For example, it is often useful to know which video is watched to only 50%, or which image in a set is popular.
+1. View the chart produced by Adobe Analytics. This chart is typically just the data for a single metric. If you also want to know with which asset this data is associated, obtain the asset data of this event. For example, it is often useful to know which video is watched only 50%, or which image in a set is popular.
 
 >[!NOTE]
 >

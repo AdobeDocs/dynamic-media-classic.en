@@ -37,7 +37,7 @@ You can move assets to different folders in the Browse panel.
 
 You can delete selected assets in the Browse panel and delete entire folders. Deleted assets and folders are moved to the Trash folder, where they remain for seven days before being permanently deleted.
 
-When you deleted an asset, all assets derived from it are deleted as well. For example, deleting an image for which you created zoom targets deletes the zoom targets along with the image.
+When you deleted an asset, all assets derived from it are deleted as well. For example, deleting an image for which you created Zoom Targets deletes the Zoom Targets along with the image.
 
 Zoom targets, image attributes, and history entries are permanently deleted when you delete the assets from which they derive. They are not moved along with the asset to the Trash folder; they cannot be restored from the Trash.
 
@@ -65,7 +65,7 @@ Create the list of Adobe Dynamic Media Classic IDs and save it as a text (.txt) 
 After you create the list, follow these steps to use it to delete assets:
 
 1. Go to **[!UICONTROL File]** > **[!UICONTROL Delete Asset List]**.
-1. In the **[!UICONTROL Deleted Asset list]** dialog box, browse, or type the path to the text file with the list of assets you want to delete.
+1. In the **[!UICONTROL Deleted Asset list]** dialog box, type the path to the text file with the list of assets you want to delete.
 1. Select **[!UICONTROL Delete]**.
 
 When you delete assets with a text file, if any Adobe Dynamic Media Classic ID is not on the list, the message "Unable to validate these entries in your list:" is displayed. The list of entries is also displayed. However, Adobe Dynamic Media Classic does not generate an error on the Job page.
