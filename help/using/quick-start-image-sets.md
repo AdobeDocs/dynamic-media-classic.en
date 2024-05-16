@@ -70,7 +70,7 @@ Publishing an Image Set places it on Adobe Dynamic Media Classic servers and act
 
 >[!NOTE]
 >
->This step is not necessary if you selected **[!UICONTROL Publish after save]** (default) at the time you created and saved the Image Set.
+>This step is not necessary if you selected **[!UICONTROL Publish after a save]** (default) at the time you created and saved the Image Set.
 
 Select **[!UICONTROL Mark for Publish]** icon to the left of its name in the Browse Panel. Then select **[!UICONTROL Publish]**. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 

@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Preview a Spin Set{#previewing-a-spin-set}
 
-You can use Viewer List to preview how an asset appears on particular viewer type platform such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in Viewer List.
+You can use Viewer List to preview how an asset appears on a particular viewer type platform such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in Viewer List.
 
 See [Configure default viewers](application-setup.md#configuring_default_viewers).
 

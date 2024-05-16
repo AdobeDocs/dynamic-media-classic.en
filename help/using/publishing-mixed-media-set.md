@@ -43,7 +43,7 @@ Last Modified Date:
 1. On the Global Navigation bar, select **[!UICONTROL Publish]**.
 1. Set the scheduling options that you want.
 1. (Optional) In the **[!UICONTROL Job Name]** field, type a name for the publishing job.
-1. In **[!UICONTROL Advanced]** options, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Video Server]**.
+1. In the **[!UICONTROL Advanced]** options, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Video Server]**.
 
    See [Advanced publish options](publishing-files.md#advanced_publish_options) for more options you can set.
 

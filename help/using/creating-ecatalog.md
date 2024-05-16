@@ -19,9 +19,9 @@ Creating an eCatalog entails ordering the pages, choosing the page layout, and l
 
 You can include image files and PDF files in your eCatalog.
 
-When you create an eCatalog, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+When you create an eCatalog, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-| "Publish after save" option selected before saving? | State of set after saving|State of set members after saving |
+| "Publish after a save" option selected before saving? | State of set after saving|State of set members after saving |
 | --- | --- | --- |
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
@@ -50,7 +50,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
    * **Sequence #**: In List View, enter page numbers in the fields of Sequence #.
 
-1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**.
 1. In the Save dialog box, select a folder for storing your eCatalog. In the File Name field, enter the spin set name.
 1. Select **[!UICONTROL Save]**.
@@ -59,9 +59,9 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Edit an eCatalog {#editing-an-ecatalog}
 
-Whether you edit a published set or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+Whether you edit a published set or an unpublished set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-|Set already published?|"Publish after save" option selected before saving your edit?|State of set after saving|State of set members after saving|
+|Set already published?|"Publish after a save" option selected before saving your edit?|State of set after saving|State of set members after saving|
 | --- | --- | --- | --- |
 | Yes | Yes | Published | Published |
 | Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state.|
@@ -74,7 +74,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. Select the eCatalog's rollover **[!UICONTROL Edit]** button.
 1. Make your changes as necessary.
-1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete an eCatalog

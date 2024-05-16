@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Link an Image Set to a Web page{#linking-an-image-set-to-a-web-page}
 
-After you publish an Image Set, you can copy its associated URL or its embed code for use in your Web site or application. Then you can deploy the URL or paste the embed code as necessary so users can view the Image Set on your Web site or application.
+After you publish an Image Set, you can copy its associated URL or its Embed Code for use in your Web site or application. Then you can deploy the URL or paste the Embed Code as necessary so users can view the Image Set on your Web site or application.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ After you publish an Image Set, you can copy its associated URL or its embed cod
 ## Copy an Image Set URL {#copying-an-image-set-url}
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Image Set]**.
-1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Image Set whose embed code you want to copy.
+1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Image Set whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, select **[!UICONTROL Copy URL]** to the right of the viewer you want.
@@ -42,16 +42,16 @@ After you publish an Image Set, you can copy its associated URL or its embed cod
 
 The most common way to deploy Image Sets is to place a link (by way of a navigation icon) on your Web page. When selected, the link launches a dynamic page (JSP) that displays the Image Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
 
-For more details and code samples, see [Embed HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+For more details and code samples, see the [Embed HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
-## Copy the embed code of an Image Set viewer {#copying-the-embed-code-of-an-image-set-viewer}
+## Copy the Embed Code of an Image Set viewer {#copying-the-embed-code-of-an-image-set-viewer}
 
 Using the Embed Code feature lets you review the viewer code for the selected Image Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the embed code of an Image Set viewer:**
+**To copy the Embed Code of an Image Set viewer:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Image Set]**.
-1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Image Set whose embed code you want to copy.
+1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Image Set whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs panel on the right, select **[!UICONTROL Embed Code]**.

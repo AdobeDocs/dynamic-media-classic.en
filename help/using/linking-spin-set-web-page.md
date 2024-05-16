@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Link a Spin Set to a Web page{#linking-a-spin-set-to-a-web-page}
 
-Web sites and applications access Dynamic Media Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embed code for your Spin Set in your Web pages and applications, you copy it from Adobe Dynamic Media Classic.
+Web sites and applications access Dynamic Media Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or Embed Code for your Spin Set in your Web pages and applications, you copy it from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Web sites and applications access Dynamic Media Image Server content, including 
 ## Copy a Spin Set URL {#copying-a-spin-set-url}
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Spin Set]**.
-1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Spin Set whose embed code you want to copy.
+1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Spin Set whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, select **[!UICONTROL Copy URL]** to the right of the viewer you want.
@@ -48,14 +48,14 @@ https://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_
 
 In this URL syntax example (the link is not live), notice a SKU number ( `sku=backpack_spin`). The string after `sku=` is the Spin Set name ( `backpack spin`).
 
-## Copy the embed code of a Spin Set viewer {#copying-the-embed-code-of-a-spin-set-viewer}
+## Copy the Embed Code of a Spin Set viewer {#copying-the-embed-code-of-a-spin-set-viewer}
 
 Using the Embed Code feature lets you review the viewer code for the selected Spin Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the embed code of a Spin Set viewer:**
+**To copy the Embed Code of a Spin Set viewer:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Spin Set]**.
-1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Spin Set whose embed code you want to copy.
+1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Spin Set whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, select **[!UICONTROL Embed Code]** to the right of the viewer you want.

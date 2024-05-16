@@ -19,7 +19,7 @@ You can crop an image to remove white space around it, or crop an area of the im
 
 >[!NOTE]
 >
->After you crop, you can select **[!UICONTROL Save As]** and save a cropped version of the image under a different name. In the Save As window, select **[!UICONTROL Save As New Primary]** to save a second copy of the image. Select **[!UICONTROL Save As Addition View Of Primary]** so you can save the original and its cropped version under a different name. Select **[!UICONTROL Replace Original]** to delete the original file from which you cropped your image. Then enter a name for the image, and select **[!UICONTROL Submit]**.
+>After cropping, you can select **[!UICONTROL Save As]** and save a cropped version of the image under a different name. In the Save As window, select **[!UICONTROL Save As New Primary]** to save a second copy of the image. Select **[!UICONTROL Save As Addition View Of Primary]** so you can save the original and its cropped version under a different name. Select **[!UICONTROL Replace Original]** to delete the original file from which you cropped your image. Then enter a name for the image, and select **[!UICONTROL Submit]**.
 
 ## Crop to remove white space around an image {#crop-to-remove-white-space-around-an-image}
 
@@ -44,7 +44,7 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 1. In the Crop Editor window, place the part of the image you do not want to crop in the crop box. Whatever appears inside the box is what will remain after you select **[!UICONTROL Save]** and crop the image.
 1. To adjust the crop area, do one of the following:
 
-    * Drag a side or corner of the box. Hold down the Shift key as you drag to change size but maintain the aspect ratio (the shape) of the crop box.
+    * Drag a side or corner of the box. Hold down the Shift key as you drag to change the size but maintain the aspect ratio (the shape) of the crop box.
     * Enter pixel measurements in the Size boxes.
     * Drag to move the crop box. Move the pointer inside the boundary of the box. When you see the four-headed arrow, drag the box to a new location on the image.
 

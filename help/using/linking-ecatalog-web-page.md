@@ -22,7 +22,7 @@ Your Web sites and applications access Dynamic Media Image Server content, inclu
 ## Copy an eCatalog URL {#copying-an-ecatalog-url}
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Catalog]**.
-1. in the Asset Library panel on the left side, navigate to the asset folder that contains the eCatalog whose embed code you want to copy.
+1. in the Asset Library panel on the left side, navigate to the asset folder that contains the eCatalog whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, select **[!UICONTROL Copy URL]** to the right of the viewer you want.
@@ -44,14 +44,14 @@ The most common way to deploy an eCatalog is to place a link in the form of an e
 
 For more details and code samples, see [Embed HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
-## Copy the embed code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
+## Copy the Embed Code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
 
 Using the Embed Code feature lets you review the viewer code for the selected eCatalog. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the embed code of an eCatalog viewer:**
+**To copy the Embed Code of an eCatalog viewer:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Catalog]**.
-1. in the Asset Library panel on the left side, navigate to the asset folder that contains the eCatalog whose embed code you want to copy.
+1. in the Asset Library panel on the left side, navigate to the asset folder that contains the eCatalog whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Select **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs panel on the right, select **[!UICONTROL Embed Code]**.

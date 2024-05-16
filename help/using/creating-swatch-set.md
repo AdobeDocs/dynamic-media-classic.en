@@ -1,6 +1,6 @@
 ---
 title: Create a Swatch Set
-description: Learn how to create a swatch set in Adobe Dynamic Media Classic.
+description: Learn how to create a Swatch Set in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -19,9 +19,9 @@ For example, suppose you want to present images of caps with different color bil
 
 ## Create a Swatch Set {#create}
 
-When you create a set, the **Publish after save** option affects the set and set members in the following ways:
+When you create a set, the **Publish after a save** option affects the set and set members in the following ways:
 
-| **[!UICONTROL Publish after save]** option selected before saving? | State of set after saving | State of set members after saving |
+| **[!UICONTROL Publish after a save]** option selected before saving? | State of set after saving | State of set members after saving |
 | --- | --- | --- |
 | Yes | Published | published |
 | No | Unpublished | Set members retain their published or unpublished state. |
@@ -41,15 +41,15 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
    Make sure that the color, pattern, or finish swatch you drag into each placeholder represents the color, pattern, or finish of the adjacent image.
 
 1. To change the order of images in your Swatch Set, drag the images to new locations.
-1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a folder for storing your color swatch Swatch Set, enter a name for the set, and select **[!UICONTROL Submit]**.
 1. To see your Swatch Set in the Swatch Set Viewer, select **[!UICONTROL Preview]** on the Swatch Set screen. You can select swatch thumbnails in the Swatch Set Viewer to see how they behave.
 
 ## Edit a Swatch Set {#editing-a-swatch-set}
 
-Whether you edit a published or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+Whether you edit a published or an unpublished set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-| Set already published? | **[!UICONTROL Publish after]** save option selected before saving your edit?|State of set after saving | State of set members after saving |
+| Set already published? | **[!UICONTROL Publish after a save]** save option selected before saving your edit?|State of set after saving | State of set members after saving |
 |--- | --- | --- | --- |
 | Yes | Yes | Published | Published. |
 |Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |
@@ -67,7 +67,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
     * To remove an image, select it, and then select **[!UICONTROL Delete]** on the toolbar.
     * To reorder images, drag an image to a new position.
 
-1. When you are finished editing the set, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished editing the set, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete a Swatch Set

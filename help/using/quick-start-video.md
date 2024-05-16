@@ -70,7 +70,7 @@ See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
   * Mixed Media viewers that combine both video and image content.
 
 * Configure video players to meet your branding needs.
-* Integrate video to your website, mobile site, or mobile application with a simple URL or embed code.
+* Integrate video to your website, mobile site, or mobile application with a simple URL or Embed Code.
 
 See the following training videos:
 * [MP4 video overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/563_MP4%20Video%20Overview_converted%20renamed_eVideos-AVS)
@@ -140,13 +140,13 @@ To integrate video into your website, you can do either one of the following:
 
 * Display the video embedded on the Web page, in which case use the **[!UICONTROL Embed Code]** feature.
 
-  To obtain the embed code for a video, in the Grid View or List View, select the video in the Browse Panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
+  To obtain the Embed Code for a video, in the Grid View or List View, select the video in the Browse Panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
 
-  Select **[!UICONTROL Close]** and paste the embed code in one or more of your Web pages.
+  Select **[!UICONTROL Close]** and paste the Embed Code in one or more of your Web pages.
 
   >[!NOTE]
   >
-  >The embed code is only activated after you publish the video or Adaptive Video Set.
+  >The Embed Code is only activated after you publish the video or Adaptive Video Set.
 
 See [Deploy video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 

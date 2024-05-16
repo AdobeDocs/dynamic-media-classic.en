@@ -13,11 +13,11 @@ level: Intermediate
 ---
 # Deploy video to your websites and mobile sites{#deploying-video-to-your-websites-and-mobile-sites}
 
-Websites, mobile sites, and desktop applications access Adobe Dynamic Media Classic server content, including video, by using URL strings or embedded code. Adobe Dynamic Media Classic activates these URL strings during the publishing process. To place the URL string or embed code for your video in your Web pages, mobile pages, and desktop applications, copy it from Adobe Dynamic Media Classic.
+Websites, mobile sites, and desktop applications access Adobe Dynamic Media Classic server content, including video, by using URL strings or embedded code. Adobe Dynamic Media Classic activates these URL strings during the publishing process. To place the URL string or Embed Code for your video in your Web pages, mobile pages, and desktop applications, copy it from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
->The URL or embed code is not active until you publish the asset.
+>The URL or Embed Code is not active until you publish the asset.
 
 ## Publish video {#publishing-video}
 
@@ -69,14 +69,14 @@ See also [Embed the video viewer on a Web page](deploying-video-websites-mobile-
 
 ## Embed the video viewer on a Web page {#embedding-the-video-viewer-on-a-web-page}
 
-Use the Embed Code feature when you want to play the video embedded on the Web page. You copy the embed code to the clipboard so you can paste it in your Web pages. Editing of the code is not permitted in the Embed Code dialog box.
+Use the Embed Code feature when you want to play the video embedded on the Web page. You copy the Embed Code to the clipboard so you can paste it in your Web pages. Editing of the code is not permitted in the Embed Code dialog box.
 
 See also [Link a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
 **To embed the video viewer on a Web page:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Video]**, or **[!UICONTROL Adaptive Video Set]**.
-1. in the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set whose embed code you want to copy.
+1. in the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Select **[!UICONTROL Grid View]** or **[!UICONTROL List View]**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, under HTTP Streaming, select **[!UICONTROL Embed Code]** to the right of the viewer you want. As a best practice, select **[!UICONTROL Embed Code]** that is associated with the `Universal_HTML5_Video` viewer.
@@ -97,11 +97,11 @@ See also [Link a video URL to a mobile site or a website](deploying-video-websit
    Editing the code is not permitted in the Embed Code dialog box.
 
 1. select **[!UICONTROL Close]**.
-1. Paste the embed code in your Web pages.
+1. Paste the Embed Code in your Web pages.
 
-### Implement embed code for using HTML5 video with MP4 video assets {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
+### Implement Embed Code for using HTML5 video with MP4 video assets {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 
-If you do not use the Adobe Dynamic Media Classic HTML5 video player, but instead want to use the native HTML5 `<video>` tag with MP4 video assets, you can use the following embed code sample:
+If you do not use the Adobe Dynamic Media Classic HTML5 video player, but instead want to use the native HTML5 `<video>` tag with MP4 video assets, you can use the following Embed Code sample:
 
 ```as3
 <video poster="S7 video thumbnail URL" controls> 

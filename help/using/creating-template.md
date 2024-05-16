@@ -23,9 +23,9 @@ See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.h
 
 ## Create the initial template {#creating-the-initial-template}
 
-When you create a template set, the **[!UICONTROL Publish after saving]** option affects the set and set members in the following ways:
+When you create a template set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-| **[!UICONTROL Publish after saving]** option selected before saving? | State of set after saving | State of set members after saving |
+| **[!UICONTROL Publish after a save]** option selected before saving? | State of set after saving | State of set members after saving |
 | --- | --- | --- |
 | Yes | Published | Published |
 | No | Unpublished |Set members retain their published or unpublished state. |
@@ -44,7 +44,7 @@ You can create a template from an existing template. Open the template, select *
 
 1. In the Enter Canvas Size dialog box, enter the width and the height measurements for your template.
 1. Select a folder in the Asset Library and drag the PSD file or images you want for your template onto the Template screen.
-1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after saving]** is selected (default).
+1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**.
 1. Select a folder for storing your template, enter a name for the template, and select **[!UICONTROL Submit]**.
 
@@ -52,9 +52,9 @@ You can create a template from an existing template. Open the template, select *
 
 ## Edit a template set {#editing-a-template-set}
 
-Whether you edit a published set or an unpublished template set, the **[!UICONTROL Publish after saving]** option affects the set and set members in the following ways:
+Whether you edit a published set or an unpublished template set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-| Set already published? | **[!UICONTROL Publish after saving]** option selected before saving your edit? | State of set after saving | State of set members after saving |
+| Set already published? | **[!UICONTROL Publish after a save]** option selected before saving your edit? | State of set after saving | State of set members after saving |
 | --- | --- | --- | --- |
 | Yes | Yes | Published | Published |
 | Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |
@@ -67,7 +67,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. In the Grid View, browse to a Template Set, and then below the image, select **[!UICONTROL Edit]**.
 1. Change the template as necessary.
-1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after saving]** is selected (default).
+1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete a Template

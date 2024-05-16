@@ -79,6 +79,6 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
 
       In the Embed Code dialog box, select **[!UICONTROL Copy to Clipboard]**.
 
-      For the HTML5 `Universal_HTML5_Video` viewer, append the copied embed code with the following:
+      For the HTML5 `Universal_HTML5_Video` viewer, append the copied Embed Code with the following:
 
       `videoViewer.setParam("navigation","*<full Copy URL path to the chapter navigation file .vtt>*"`
