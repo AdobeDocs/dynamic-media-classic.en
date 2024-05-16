@@ -29,7 +29,7 @@ Prepare your PDF files before uploading them to Adobe Dynamic Media Classic:
 * To make uploading the files easier, place all the files in the same folder on your computer or network.
 * Name the files in alphanumeric order by page. Ordering the pages will make it easier to place the pages in the proper order after the files are uploaded.
 * To see whether PDF pages contain crop marks, registration targets, or color bars, examine the pages. These marks determine where to cut the paper when documents are printed; they must be removed before your eCatalog is placed on the web. Adobe Dynamic Media Classic provides options for cropping marks when you upload PDF files.
-* If you want viewers to search your eCatalog by keyword, find out whether your PDF files are "flattened." You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select text inside it. If you cannot select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
+* If you want viewers to search your eCatalog by keyword, find out whether your PDF files are "flattened." You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select the text inside it. If you cannot select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
 * Because they are meant to be printed, PDF files usually contain CMYK images. By default, Adobe Dynamic Media Classic can intelligently detect these CMYK images and convert them using an internal CMYK color profile. However, if you want to use a custom color profile to convert CMYK images, you can do so.
 
   See [ICC (International Color Consortium) profiles](icc-profiles.md#icc_profiles).
@@ -40,13 +40,13 @@ For detailed information about the different upload methods, see [Uploading your
 
 Select the files that you want to upload, and then select these *best practice* PDF Options:
 
-* **Crop Options**: On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. If the PDF pages contain crop marks, registration marks, or other marks, in the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Manual]**. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are often set to a half inch margin. Assume that you choose **[!UICONTROL 150]** (recommended) as the pixel-per-inch resolution, and enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
+* **Crop Options**: On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. If the PDF pages contain crop marks, registration marks, or other marks, in the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Manual]**. Enter the number of pixels to crop from the top, right, bottom, and left sides of the pages. Crop marks are often set to a half inch margin. Assume that you choose **[!UICONTROL 150]** (recommended) as the pixel-per-inch resolution. Then you enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such a case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
 
 * **Processing**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the **[!UICONTROL Processing]** drop-down list, choose **[!UICONTROL Rasterize]**. The PDF file must be rasterized so that all pages and images can be displayed in the eCatalog.
 
 * **Extract Search Words (optional)**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the Extract drop-down list, choose **[!UICONTROL Search words]** if you want your viewers to be able to search by keyword in your eCatalog.
 
-* **Auto-Generate eCatalog from multiple page PDF (optional)**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. Select **[!UICONTROL Auto-Generate eCatalog from multiple page PDF]** to automatically create an eCatalog when you upload. You can go straight to the eCatalog screen and begin working on your eCatalog without having to first select PDF files and select the Build command. The eCatalog is named after your PDF file.
+* **Auto-Generate eCatalog from multiple page PDF (optional)**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. Click **[!UICONTROL Auto-Generate eCatalog from multiple page PDF]** so you can automatically create an eCatalog when you upload. You can go straight to the eCatalog screen and begin working on your eCatalog without having to first select PDF files and select the Build command. The eCatalog is named after your PDF file.
 
 * **Resolution**: On the Upload Job Options dialog box, select **[!UICONTROL PDF Options]**. In the **[!UICONTROL Resolution]** text field, enter a value. Adobe Dynamic Media Classic recommends 150 pixels per inch.
 

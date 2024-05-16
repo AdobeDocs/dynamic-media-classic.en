@@ -31,13 +31,13 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 >[!TIP]
 >
->You can hide or display the Asset Library by selecting **[!UICONTROL Expand]** or **[!UICONTROL Collapse]** control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse Panel.
+>You can hide or display the Asset Library by selecting the **[!UICONTROL Expand]** or **[!UICONTROL Collapse]** control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse Panel.
 
 ## Create folders
 
 1. In the Asset Library, select the folder you want to create a folder in.
 1. Select the **[!UICONTROL `Add Folder`]** button. This icon is at the top of the folder list.
-1. Enter a descriptive name for your new folder or subfolder by typing it into the field next to the folder icon.
+1. Enter a descriptive name for your new folder or subfolder. Type it into the field next to the folder icon.
 
    >[!NOTE]
    >

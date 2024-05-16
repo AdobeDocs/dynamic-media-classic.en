@@ -69,7 +69,7 @@ See [Preview a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
 ## 6. Publish a Spin Set
 
-Publishing a Spin Set places it on Adobe Dynamic Media Classic servers so it can be dynamically delivered to your Web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image servers to your Web site or application.
+Publishing a Spin Set places it on Adobe Dynamic Media Classic servers so it can be dynamically delivered to your Web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image Servers to your Web site or application.
 
 To publish a Spin Set, mark it for publish by selecting the **[!UICONTROL Mark for Publish]** icon beside its name in the Browse Panel. On the Global Navigation bar, select **[!UICONTROL Publish]** to initiate a publishing. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 

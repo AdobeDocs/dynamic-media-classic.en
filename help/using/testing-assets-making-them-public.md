@@ -21,7 +21,7 @@ If desired, create a staging environment rather than making assets publicly avai
 
 * Preview websites before public launch (staging website).
 * Serve assets that require restricted access, such as eCatalogs that show prices in a B2B Web application.
-* Use assets behind a firewall as part of product information management system, customer service application, training site, and so on.
+* Use assets behind a firewall as part of a product information management system, customer service application, training site, and so on.
 
 >[!NOTE]
 >
@@ -37,11 +37,11 @@ With the Secure Testing, Adobe Dynamic Media Classic establishes a dedicated Ima
 
 Because the location of the original request must be confirmed, the traffic of the Secure Testing service is not routed through a content distribution network like public Dynamic Media Image Server traffic. Requests to the Secure Testing service have a slightly higher latency compared to the public Dynamic Media Image Servers.
 
-Unpublished assets are immediately available from the Secure Testing services, without the need to publish. In this way, you can run a preview before assets are published to their public facing image server.
+Unpublished assets are immediately available from the Secure Testing services, without the need to publish. In this way, you can run a preview before assets are published to their public facing Image Server.
 
 >[!NOTE]
 >
->Secure Testing services use the Catalog Server that is configured with an internal publish context. Therefore, if your company is configured to publish to Secure Testing, any uploaded assets in Adobe Dynamic Media Classic immediately become available on Secure Testing services. This functionality is true regardless of whether the assets are marked for publish on upload.
+>Secure Testing services use the Catalog Server that is configured with an internal publish context. Therefore, if your company is configured to publish to Secure Testing, any uploaded assets in Adobe Dynamic Media Classic are immediately available on Secure Testing services. This functionality is true regardless of whether the assets are marked for publish on upload.
 
 Secure Testing services currently support the following asset types and functionalities:
 
@@ -57,7 +57,7 @@ Last Modified Date:
 
 * Images.
 * Vignettes (Render Server requests).
-* Render Server requests (supported, but must be requested explicitly by customer).
+* Render Server requests (supported, but customer must explicitly request it).
 * Sets, including image sets, eCatalog, render sets, and media sets.
 * Standard Adobe Dynamic Media Classic rich media viewers.
 * Adobe Dynamic Media Classic OnDemand JSP pages.
@@ -78,7 +78,7 @@ The following asset types and functionalities are currently not supported:
 
 ## Test the Secure Testing service {#testing-the-secure-testing-service}
 
-Test the Secure Testing service so you ensure that it works as expected.
+Test the Secure Testing service so you can ensure that it works as expected.
 
 <!-- >[!NOTE]
 >

@@ -17,7 +17,7 @@ Template Basics are dynamically created and addressable layered image files like
 
 A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, and create templates in Adobe Dynamic Media Classic. You can create text layers in templates using fonts that you uploaded into Adobe Dynamic Media Classic. After you add text to a template, you can format it by changing its justification, its font, font size, and color.
 
-Using the Parameters page, you can convert any aspect of a template to an addressable parameter. In doing so, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the image server.
+Using the Parameters page, you can convert any aspect of a template to an addressable parameter. In doing so, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the Image Server.
 
 See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) training video.
 

@@ -637,7 +637,7 @@ All default, out-of-box Viewer Preset CSS files in Adobe Dynamic Media Classic u
 
 `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`
 
-However, if you host Viewer CSS files on your own site, you must resolve these relative image paths by using an explicit path to the Image Server in your own environment. For example, if you updated the relative path above to an explicit path, it could look like the following, where `https://s7d1.scene7.com` is the direct path to your image server: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
+However, if you host Viewer CSS files on your own site, you must resolve these relative image paths by using an explicit path to the Image Server in your own environment. For example, if you updated the relative path above to an explicit path, it could look like the following, where `https://s7d1.scene7.com` is the direct path to your Image Server: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **To export an HTML5 Viewer Preset:**
 

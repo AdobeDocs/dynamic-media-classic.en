@@ -316,7 +316,7 @@ Activated Video Presets show up in the Upload Job Options dialog box. The dialog
 
 1. In the lower right corner of the page, select **[!UICONTROL Close]**.
 
-### Add or edit a video encoding preset {#adding-or-editing-a-video-encoding-preset}
+### Add or edit a Video Encoding Preset {#adding-or-editing-a-video-encoding-preset}
 
 You can create your own custom, single-encoding Video Presets and add them to the Video Presets table. You can also change any pre-defined single-encoding Video Presets that came with Adobe Dynamic Media Classic, provided you save the edited preset with a new name.
 
@@ -326,7 +326,7 @@ Adobe Dynamic Media Classic has set maximum limits on the target data rate, reso
 * For mobile playback, the limits are: (Width/16) &#42; (Height/16) &lt; 660; target data rate &lt; 4000.
 * For tablet playback, the limits are: (Width/16) &#42; (Height/16) &lt; 3600.
 
-**To add or edit a video encoding preset:**
+**To add or edit a Video Encoding Preset:**
 
 1. In Adobe Dynamic Media Classic, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
 1. Select **[!UICONTROL Single Encoding Presets]**.

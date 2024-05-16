@@ -101,7 +101,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
 
   * Supercharge your customer experience by eliminating these 9 "gotchas."
   * Find out how the Dynamic Media team can help you prepare for a day with higher than normal visitor traffic.
-  * A second chance to catch two recent Skill Builder webinars.
+  * A second chance to catch two recent Skill Builder Webinars.
   * Watch the on-demand webinar on protecting your digital assets from piracy.
   * Meet `Bridget Roman`, Senior Product Marketing Manager for Experience Manager Assets.
   * Get up to speed on Dynamic Media and Adobe Dynamic Media Classic in Experience League.
@@ -120,10 +120,10 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
 
     In this issue:
 
-  * Resources and information that let you properly manage your high-value assets to confidently deliver experiences that keep your visitors coming back.
+  * Resources and information that let you properly manage your high-value assets so you can confidently deliver experiences that keep your visitors coming back.
   * Learn about an upcoming webinar on protecting your digital assets.
   * Next stop on the information-filled Adobe Insider Tour.
-  * Exciting capabilities available when you have Dynamic Media within Experience Manager Assets (Experience Manager Assets).
+  * Exciting capabilities are available when you have Dynamic Media within Experience Manager Assets (Experience Manager Assets).
   * Adding 360-degree videos and custom video thumbnails to your website.
   * Meet `Andrew Hathaway`, Principal Solutions Consultant for Dynamic Media within Experience Manager Assets.
 
@@ -136,13 +136,13 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
   * Learn more about the upcoming Adobe Insider Tour.
   * Read about how you can protect your digital assets from being pirated.
   * Learn about AI-driven Smart Crop for images.
-  * Meet `Alex Thiers`, one of the driving forces behind many of the great features and innovations within Dynamic Media and Adobe Dynamic Media Classic.
+  * Meet `Alex Thiers`, a driving force behind many of the great features and innovations within Dynamic Media on AEM and Adobe Dynamic Media Classic.
 
 * **[May 2019, Issue 05](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_05_2019_May.html)**
 
     In this issue:
 
-  * Explore top ten hidden features of Adobe Dynamic Media Classic in a blog posting.
+  * Explore the top ten hidden features of Adobe Dynamic Media Classic in a blog posting.
   * Watch key how-to videos in Experience League.
   * Learn about the upcoming Adobe Insider Tour.
   * To update your rich media strategy, read a three-part blog series.

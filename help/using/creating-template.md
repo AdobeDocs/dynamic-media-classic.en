@@ -19,13 +19,13 @@ See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.h
 
 >[!NOTE]
 >
->If you edit a template created in an earlier version of Adobe Dynamic Media Classic, a prompt asks you upon saving "Do you want to add a canvas layer?". Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.
+>If you edit a template created in an earlier version of Adobe Dynamic Media Classic, a prompt asks you upon saving "Do you want to add a canvas layer?" Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.
 
 ## Create the initial template {#creating-the-initial-template}
 
-When you create a template set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+When you create a template set, the **[!UICONTROL Publish after saving]** option affects the set and set members in the following ways:
 
-| **[!UICONTROL Publish after save]** option selected before saving? | State of set after saving | State of set members after saving |
+| **[!UICONTROL Publish after saving]** option selected before saving? | State of set after saving | State of set members after saving |
 | --- | --- | --- |
 | Yes | Published | Published |
 | No | Unpublished |Set members retain their published or unpublished state. |
@@ -44,7 +44,7 @@ You can create a template from an existing template. Open the template, select *
 
 1. In the Enter Canvas Size dialog box, enter the width and the height measurements for your template.
 1. Select a folder in the Asset Library and drag the PSD file or images you want for your template onto the Template screen.
-1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after saving]** is selected (default).
 1. Select **[!UICONTROL Save]**.
 1. Select a folder for storing your template, enter a name for the template, and select **[!UICONTROL Submit]**.
 
@@ -52,9 +52,9 @@ You can create a template from an existing template. Open the template, select *
 
 ## Edit a template set {#editing-a-template-set}
 
-Whether you edit a published set or an unpublished template set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+Whether you edit a published set or an unpublished template set, the **[!UICONTROL Publish after saving]** option affects the set and set members in the following ways:
 
-| Set already published? | **[!UICONTROL Publish after save]** option selected before saving your edit? | State of set after saving | State of set members after saving |
+| Set already published? | **[!UICONTROL Publish after saving]** option selected before saving your edit? | State of set after saving | State of set members after saving |
 | --- | --- | --- | --- |
 | Yes | Yes | Published | Published |
 | Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |
@@ -67,12 +67,12 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. In the Grid View, browse to a Template Set, and then below the image, select **[!UICONTROL Edit]**.
 1. Change the template as necessary.
-1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after saving]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete a Template
 
-When you delete a Template set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a Template Set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
@@ -95,11 +95,11 @@ Use these tools on the Template screen so you can create templates:
 
 * **[!UICONTROL Parameter Summary]** Opens the Parameter Summary screen. You can see the name of each layer in a template, and on each layer, the names of parameters that have been activated.
 
-* **[!UICONTROL Text Editor v4.3 and Text Editor v4.2]**: You can choose to use the latest and most fully featured text editor, Text Editor v4.3, or the previous text editor, Text Editor v4.2. When creating templates, Text Editor v4.3 is selected by default. When editing older templates, Text Editor v4.2 is selected by default. Text Editor v4.3 does not currently support word wrap, so when editing older templates that use word wrap, use Text Editor v4.2 to keep the template's fidelity fully intact. If your older template does not use word wrap, you can choose Text Editor v4.3 to take advantage of the many new features it offers. For example, Increase Margins, Decrease Margins, Set Text In All Caps, and Copy Fit Text.
+* **[!UICONTROL Text Editor v4.3 and Text Editor v4.2]**: Use the latest and most fully featured Text Editor. You can choose to use Text Editor v4.3, or the previous Text Editor, Text Editor v4.2. When creating templates, Text Editor v4.3 is selected by default. When editing older templates, Text Editor v4.2 is selected by default. Text Editor v4.3 does not currently support word wrap, so when editing older templates that use word wrap, use Text Editor v4.2 to keep the template's fidelity fully intact. If your older template does not use word wrap, you can choose Text Editor v4.3 to take advantage of the many new features it offers. For example, Increase Margins, Decrease Margins, Set Text In All Caps, and Copy Fit Text.
 
    >[!NOTE]
    >
-   >Text Editor v4.2 is planned for removal as an option in Adobe Dynamic Media Classic, so it is recommended that you use Text Editor 4.3 when possible. The **[!UICONTROL Word Wrap]** option will be incorporated into a future release of the Text Editor.
+   >Text Editor v4.2 is planned for removal as an option in Adobe Dynamic Media Classic. It is recommended that you use Text Editor 4.3 when possible. The **[!UICONTROL Word Wrap]** option will be incorporated into a future release of the Text Editor.
 
 * **[!UICONTROL Designer and Developer]**: Select the option that best describes your role.
 
@@ -107,7 +107,7 @@ Use these tools on the Template screen so you can create templates:
 
 * **[!UICONTROL Layers list]**: Lists the name of layers in the template. To select a layer, select its name in the Layers list. The Layers list offers tools for adding effects to layers, deleting layers, reordering layers, and parameterizing layers. See [Work with layers](#working-with-layers).
 
-* **[!UICONTROL Layer Properties area]**: Offers tools for changing the background color, opacity, size, and position of a layer, as well as the background color, opacity, and size of the canvas. You can also adjust shadow and glow effects. See [Work with layers](#working-with-layers).
+* **[!UICONTROL Layer Properties area]**: This area offers tools for changing the background color, opacity, size, and position of a layer. You can also change the background color, opacity, and size of the canvas. You can also adjust shadow and glow effects. See [Work with layers](#working-with-layers).
 
 ## Create image layers {#creating-image-layers}
 
@@ -123,7 +123,7 @@ Use these tools on the Template screen so you can create templates:
 
 1. Select the **[!UICONTROL Text]** tool.
 1. Drag to create a text box on the canvas or on an image. 
-1. In the Text screen that opens, add text by doing any of the following on the Preview tab:
+1. In the Text screen that opens, add text by doing any of the following in the Preview tab:
 
     * Type text in the text box. Choose Copy Fit Text to make the text fit n the text box.
     * Paste text from the Clipboard into the text box.
@@ -168,7 +168,7 @@ To format text in a text layer, do the following:
 1. Select the paragraph that you want to format.
 1. Specify any of the following formatting options, and then select **[!UICONTROL Apply]**.
 
-   * **[!UICONTROL Alignment]**: Select to specify the type of alignment: align left, align center, align right, or justify.
+   * **[!UICONTROL Alignment]**: Specify the type of alignment by clicking **[!UICONTROL Align left]**, **[!UICONTROL Align center]**, **[!UICONTROL Align right]**, or **[!UICONTROL Justify]**.
 
    * **[!UICONTROL End of Paragraph Justification]**: Select to specify the type of justification for the last line in the paragraph: last line aligns left; last line aligns center; and last line aligns right.
 
@@ -193,7 +193,7 @@ To format text in a text layer, do the following:
 1. In the Template Basics screen, select the text box you want to adjust.
 1. In the Layer Properties panel, select any of the following:
 
-   * **[!UICONTROL Shrink Text (Text Editor v4.2 only)]**: To fit within the text box, select to shrink the text.
+   * **[!UICONTROL Shrink Text (Text Editor v4.2 only)]**: Select this option to shrink the text so that it fits within the text box.
 
    * **[!UICONTROL Word Wrap (Text Editor v4.2 only)]**: To specify if or how the text wraps, select a wrap option:
 
@@ -205,11 +205,11 @@ To format text in a text layer, do the following:
 
    * **[!UICONTROL Position]**: Specifies the location of the text box on the canvas.
 
-   * **[!UICONTROL Padding]**: Adds margins or crops the layer rectangle. Specify the number of pixels that you want to add or remove for Left, Top, Bottom, and Right. Enter positive numbers if you want to add a margin or negative numbers to crop.
+   * **[!UICONTROL Padding]**: Adds margins or crops the layer rectangle. Specify the number of pixels that you want to add or remove for Left, Top, Bottom, and Right. Enter positive numbers if you want to add a margin or negative numbers to the crop.
 
 ### View and edit text source code {#view-and-edit-text-source-code}
 
-The information provided in Source tab of the Text Editor is for your reference. Edit the text only if you are familiar with editing source code.
+The information provided in the Source tab of the Text Editor is for your reference. Edit the text only if you are familiar with editing source code.
 
 1. In the Layers list, double-click the name of the text box with text you want to edit. The Text Editor opens.
 1. In the Text Editor, to reveal the source code for the text, select the **[!UICONTROL Source]** tab in the Text Editor.
@@ -244,7 +244,7 @@ Layers must be small enough to fit on the canvas. You can change the size of a l
 
 * **Changing the size of a layer**: To change the size of a layer or the canvas, select the layer or canvas on the Layers list and use one of these techniques:
 
-* **Manually changing size**: Select and drag a corner of the layer or canvas. With text layers, you can also drag a side of the layer. Hold down the Shift key as you drag to change size but maintain the aspect ratio (the shape).
+* **Manually changing size**: Select and drag a corner of the layer or canvas. With text layers, you can also drag a side of the layer. Hold down the Shift key as you drag to change the size but maintain the aspect ratio (the shape).
 
 * **Entering layer size measurements**: Enter pixel measurements in the W (Width) and H (Height) text boxes in the Layer Properties area.
 
@@ -284,7 +284,7 @@ To choose a background color, opacity, and blend mode for a layer or the canvas,
 
 ## Use shadow and glow effects on layers {#using-shadow-and-glow-effects-on-layers}
 
-You can apply a shadow or glow to a layer. The shadow or glow is applied to the perimeter of the layer and extends inward or outward, depending on the shadow or glow option you choose. If your template originated with a PSD file with shadow and glow effects, you can adjust these effects in Adobe Dynamic Media Classic.
+You can apply a shadow or glow to a layer. The shadow or glow applies to the perimeter of the layer and extends inward or outward, depending on the shadow or glow option you choose. If your template originated with a PSD file with shadow and glow effects, you can adjust these effects in Adobe Dynamic Media Classic.
 
 After you apply a shadow or glow effect, you can adjust its size, color, opacity, and position in the Layer Properties area of the Template screen.
 

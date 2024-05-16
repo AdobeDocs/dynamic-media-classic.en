@@ -24,7 +24,7 @@ To open the pages of Publish Setup, go to **[!UICONTROL Setup]** > **[!UICONTROL
 
 ## Image Server {#image-server}
 
-The Image Server page establishes default settings for delivering images from image servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings).
+The Image Server page establishes default settings for delivering images from Image Servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings).
 
 Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
 
