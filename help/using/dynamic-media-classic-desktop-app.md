@@ -1,6 +1,6 @@
 ---
-title: Adobe Dynamic Media Classic desktop app: Now available
-description: Learn more about the Adobe Dynamic Media Classic desktop application.
+title: Adobe Dynamic Media Classic desktop
+description: Learn more about the Adobe Dynamic Media Classic desktop application that is now available.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
