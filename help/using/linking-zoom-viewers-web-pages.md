@@ -47,7 +47,7 @@ For more details and code samples, see the [Embed HTML5 Basic Zoom Viewer in the
 
 Using the Embed Code feature lets you review the viewer code for the selected Zoom viewer. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the embed code of a Zoom viewer:**
+**To copy the Embed Code of a Zoom viewer:**
 
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Zoom viewer whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:

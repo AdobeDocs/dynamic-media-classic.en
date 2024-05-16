@@ -17,9 +17,9 @@ To create a multiple-view Image Set, you need images that show an item from diff
 
 ## Create an Image Set {#create}
 
-When you create a set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+When you create a set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-|**[!UICONTROL `Publish after save`]** option selected before saving?|State of set after saving|State of set members after saving|
+|**[!UICONTROL `Publish after a save`]** option selected before saving?|State of set after saving|State of set members after saving|
 | --- | --- | --- |
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
@@ -46,15 +46,15 @@ See also [Dynamic Media limitations](/help/using/limitations.md).
    * **Start from the Image Set screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**. The Image Set screen opens. Select a folder in the Asset Library and drag the images you want for your Image Set onto the Image Set screen.
 
 1. To change the order of images, drag the images to new locations.
-1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a folder for storing your Image Set, enter a name for the set, and then select **[!UICONTROL Save]**.
 1. To see your Image Set in the Image Set Viewer, select **[!UICONTROL Preview]** on the Image Set screen. You can select swatch thumbnails in the Image Set Viewer to see how they behave.
 
 ## Edit an Image Set {#editing-an-image-set}
 
-Whether you edit a published or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+Whether you edit a published or an unpublished set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-|Set already published?|**[!UICONTROL `Publish after save`]** option selected before saving your edit?|State of set after saving|State of set members after saving|
+|Set already published?|**[!UICONTROL `Publish after a save`]** option selected before saving your edit?|State of set after saving|State of set members after saving|
 | --- | --- | --- | --- |
 | Yes | Yes | Published|Published |
 | Yes | No | Published|Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |
@@ -72,7 +72,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
     * To remove an image, select it, and then select **[!UICONTROL Delete]** on the toolbar.
     * To reorder images, drag an image to a new position.
 
-1. When you are finished editing the set, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished editing the set, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder for your set, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete an Image Set

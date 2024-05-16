@@ -15,8 +15,8 @@ exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
 
 Image Sizing refers to the ability of Adobe Dynamic Media Classic to create multiple derivative images based on a single high-resolution image. Rather than manually creating several images—for example, a thumbnail and enlarged-view image—for your Web site or application, you provide a single primary image. Adobe Dynamic Media Classic generates all modified images just as you request them. Being able to deliver images dynamically from a single primary image has many advantages:
 
-* You do not have to manually create several copies of the image at different sizes. You supply one primary image to Adobe Dynamic Media Classic, and Adobe Dynamic Media Classic generates different-sized derivatives from the primary image. 
-* You can quickly change the size of an image type throughout your Web site or application. For example, to change all thumbnail images, you can modify the "thumbnail" Image Preset. An Image Preset—it's similar to a macro—is a collection of size and formatting attributes. You can modify the "thumbnail" Image Preset to change the size of all thumbnail images throughout your Web site or application. 
+* Manually creating several copies of the image at different sizes is not necessary. You supply one primary image to Adobe Dynamic Media Classic, and Adobe Dynamic Media Classic generates different-sized derivatives from the primary image. 
+* You can quickly change the size of an image type throughout your Web site or application. For example, to change all thumbnail images, you can modify the "thumbnail" Image Preset. An Image Preset-it is similar to a macro-is a collection of size and formatting attributes. You can modify the "thumbnail" Image Preset to change the size of all thumbnail images throughout your Web site or application. 
 * You do not have to manage the primary files and all the various derivatives in any of your content or asset management systems internally or externally.
 
 ![You can create multiple derivative images at different sized from the same high-resolution primary file.](/help/using/assets/is_derivative_sizes_popup.png)
@@ -33,7 +33,7 @@ On the Global Navigation bar, select **[!UICONTROL Upload]** to upload files fro
 
 ## 2. Set up Image Presets
 
-Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Image Servers. You can set up Image Presets on your own if you have Company Administrator status. Adobe Dynamic Media Classic also comes with default Image Presets, and you can use them to dynamically deliver images.
+Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Image Servers. You can set up Image Presets on your own if you have Company Administrator status. You can dynamically deliver images using the default Image Presets that already come with Adobe Dynamic Media Classic.
 
 To create an Image Preset (if you are an administrator), on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Image Presets]**. Then select **[!UICONTROL Add]** to create an Image Preset, or select **[!UICONTROL Edit]** to change an existing Image Preset.
 
@@ -60,6 +60,6 @@ On the Global Navigation bar, select **[!UICONTROL Publish]** to start a publish
 
 ## 5. Link URLs to your Web application
 
-Adobe Dynamic Media Classic creates URL callout strings for images. When you publish images to Dynamic Media Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail View) or Preview screen. After you copy the URL strings, you can use them in your Web site and applications. The URL for image sizing replaces the reference to a static image name in your Web page code. The URL references a primary image name, which is replaced by your database for each new image to display.
+Adobe Dynamic Media Classic creates URL callout strings for images. When you publish images to Dynamic Media Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail View) or Preview screen. After you copy the URL strings, you can use them in your Web site and applications. The URL for Image Sizing replaces the reference to a static image name in your Web page code. The URL references a primary image name that the database replaces for each new image to display.
 
 URL strings generated with Image Presets contain the name of an Image Preset. This name is enclosed in dollar signs (`$`). For example, `$thumbnail$` can be the Image Preset designed to show primary images at thumbnail size. See [Link URLs to your Web application](linking-urls-web-application.md#linking_urls_to_your_web_application).

@@ -22,7 +22,7 @@ This topic includes the following sections:
 
 ## Best practices and enforced limits by Dynamic Media on asset types {#best-practice-enforced-limits}
 
-When you create a Spin Set or an Image Set, or upload PDFs for page extraction, Adobe recommends the following best practices and enforces the following limits:
+When you create a Spin Set or an Image Set, or upload PDFs for page extraction, Adobe recommends the following best practices. Adobe also enforces the following limits:
 
 | Asset: Limit type | Best practice | Limit imposed |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ When you create a Spin Set or an Image Set, or upload PDFs for page extraction, 
 | **Spin Set**: Maximum number of rows/columns per 2D set | 12-18 images per set | 1000 |
 | **PDF**: Maximum number of pages for a PDF to be considered for extraction || 100 (for all PDFs) |
 
-&Dagger; Best practice is to not have duplicate assets in a set. The limit is 20 duplicates for a single asset. If you add another duplicate for that asset&mdash;within that set&mdash;the request either gives an error or ignores the duplicate.
+&Dagger; Best practice is not to have duplicate assets in a set. The limit is 20 duplicates for a single asset. If you add another duplicate for that asset&mdash;within that set&mdash;the request either gives an error or ignores the duplicate.
 
 <!-- See also [Dynamic Media limitations](/help/using/assets/limitations.md). -->
 

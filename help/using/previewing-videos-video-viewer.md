@@ -39,7 +39,7 @@ See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer
 
 ## Work with Video Viewer Presets {#working-with-video-viewer-presets}
 
-Users watch videos in the Video Viewer. How the Video Viewer behaves, what it looks like, and how its playback controls work depends on the Viewer Preset you choose for playing the video. You choose a Viewer Preset on the Preview screen. After choosing a preset, you can obtain the URL, or the embed code, for playing the video using the Viewer Preset you chose.
+Users watch videos in the Video Viewer. How the Video Viewer behaves, what it looks like, and how its playback controls work depends on the Viewer Preset you choose for playing the video. You choose a Viewer Preset on the Preview screen. After choosing a preset, you can obtain the URL, or the Embed Code, for playing the video using the Viewer Preset you chose.
 
 Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Viewer Presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its size, color, video and audio controls, progress bar, user-interface skin, and social features.
 

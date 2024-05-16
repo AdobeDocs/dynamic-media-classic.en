@@ -62,7 +62,7 @@ See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/do
 
       In the Embed Code dialog box, select **[!UICONTROL Copy to Clipboard]**.
 
-      For the HTML5 `Universal_HTML5_Video`, `Universal_HTML5_MixedMedia_dark`, or `Universal_HTML5_MixedMedia_light` viewers, append the copied embed code with the following:
+      For the HTML5 `Universal_HTML5_Video`, `Universal_HTML5_MixedMedia_dark`, or `Universal_HTML5_MixedMedia_light` viewers, append the copied Embed Code with the following:
 
       `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1"`
 

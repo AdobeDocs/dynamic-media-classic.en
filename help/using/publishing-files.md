@@ -15,7 +15,7 @@ level: Intermediate
 
 You publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Adobe Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Adobe Dynamic Media Classic and add them to your website or application.
 
-Adobe Dynamic Media Classic now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset uses the HTTP/2 protocol to deliver it. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Adobe Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/http2).
+Adobe Dynamic Media Classic now supports the delivery of all images and video over HTTP/2. That is, a published URL or Embed Code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset uses the HTTP/2 protocol to deliver it. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Adobe Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/http2).
 
 ## Publish After Uploading {#publish-after-uploading}
 

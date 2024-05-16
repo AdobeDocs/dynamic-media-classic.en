@@ -33,9 +33,9 @@ In general, the more images you have in a Spin Set, the better the image-spinnin
 
 The order in which the Spin Set is authored or created in Adobe Dynamic Media Classic is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction. Therefore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
 
-When you create a set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+When you create a set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-| **[!UICONTROL Publish after save]** option selected before saving? | State of set after saving | State of set members after saving |
+| **[!UICONTROL Publish after a save]** option selected before saving? | State of set after saving | State of set members after saving |
 | --- | --- | --- |
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
@@ -63,16 +63,16 @@ After you save a Spin Set, you can use Preview in the Build: Spin Set page to se
 
 1. Select **[!UICONTROL OK]**.
 1. Drag and drop images into the grid on the Spin Set screen.
-1. When you are finished, near the lower-right corner of the page, ensure that **Publish after save** is selected (default).
+1. When you are finished, near the lower-right corner of the page, ensure that **Publish after a save** is selected (default).
 1. Select **[!UICONTROL Save]**.
 1. In the Save dialog box, select a folder for storing your spin set. In the File Name field, enter the spin set name.
 1. Select **[!UICONTROL Save]**.
 
 ## Edit a Spin Set {#editing-a-spin-set}
 
-Whether you edit a published set or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+Whether you edit a published set or an unpublished set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
-| Set already published? | **[!UICONTROL Publish after save]** option selected before saving your edit? | State of set after saving | State of set members after saving |
+| Set already published? | **[!UICONTROL Publish after a save]** option selected before saving your edit? | State of set after saving | State of set members after saving |
 | --- | --- | --- | --- |
 | Yes | Yes | Published | Published |
 | Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |
@@ -94,7 +94,7 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 
     * **Adding rows and cells**: Enter a number in the Rows box and Cells box to determine the number of rows and the number of cells in each row.
 
-1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete a Spin Set

@@ -707,13 +707,13 @@ The URL is copied to the Clipboard. You can use it as necessary in the HTML code
 
    In the Viewer List page, under the Actions column of the table, select **[!UICONTROL Copy URL]**.
 
-### Copy the embed code of a Viewer Preset {#copying-the-embed-code-of-a-viewer-preset}
+### Copy the Embed Code of a Viewer Preset {#copying-the-embed-code-of-a-viewer-preset}
 
 Using the Embed Code feature lets you review the viewer code for the selected Viewer Preset. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer.
 
 Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the embed code of a Viewer Preset:**
+**To copy the Embed Code of a Viewer Preset:**
 
 1. Select the asset in the Asset Browse panel.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:

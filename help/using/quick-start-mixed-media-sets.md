@@ -15,7 +15,7 @@ level: Beginner
 
  Mixed Media Sets give users an integrated viewing experience. Mixed Media Sets can include images, Image Sets, Swatch Sets, Spin Sets, and videos. Users can select different tabs within the Mixed Media Viewer to see the items in the different viewers. If no tabs are specified, all assets are displayed together in the swatch row.
 
-Mixed Media Set Viewer Presets include community options for end users to embed code, copy URLs, and link to the main Web site. Users can use these options to share information about products on their personal Web sites or social networking sites.
+Mixed Media Set Viewer Presets include community options for end users to Embed Code, copy URLs, and link to the main Web site. Users can use these options to share information about products on their personal Web sites or social networking sites.
 
 This Mixed Media Sets Quick Start is designed to get you up and running quickly with Mixed Media Set techniques in Adobe Dynamic Media Classic.
 
