@@ -120,7 +120,7 @@ You can play the video on the Preview page. You can also choose different Video 
 
 Viewer Preset customization: Adobe Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
 
-See [Work with video viewer presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
+See [Work with Video Viewer Presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
 See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 

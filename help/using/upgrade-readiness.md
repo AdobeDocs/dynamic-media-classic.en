@@ -21,6 +21,6 @@ Use the following checklist to help you understand and prepare for an upgrade fr
 | **Phase 4: Upgrade** | Replicate assets | During the upgrade process, designated [!DNL Dynamic Media Classic] assets are replicated over to Dynamic Media. |
 | **Phase 5: Administrative Setup**  | Setup users and permissions | Create users and grant appropriate permissions. |
 |   | Setup video encoding profiles | Create video encoding profiles. |
-|   | Setup viewer presets | Create viewer presets. |
+|   | Setup Viewer Presets | Create Viewer Presets. |
 |   | Set Image Presets | Setup Image Presets. |
 | **Phase 6: Validation** | Validation | Verify use cases, assets, links, and APIs. |

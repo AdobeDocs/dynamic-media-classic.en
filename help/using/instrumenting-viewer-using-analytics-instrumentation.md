@@ -15,7 +15,7 @@ level: Experienced
 
 You can use the Adobe Analytics Instrumentation Kit to integrate an HTML5 viewer with Adobe Analytics.
 
-If you use any of the predefined Adobe Dynamic Media Classic HTML5 viewer presets, they already contain all the implementation code to send data to Adobe Analytics. You do not need to add any further instrumentation.
+If you use any of the predefined Adobe Dynamic Media Classic HTML5 Viewer Presets, they already contain all the implementation code to send data to Adobe Analytics. You do not need to add any further instrumentation.
 
 ## Set up Adobe Analytics tracking from Adobe Dynamic Media Classic {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 

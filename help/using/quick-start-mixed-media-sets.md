@@ -41,9 +41,9 @@ See [Create a Mixed Media Set](creating-mixed-media-set.md#creating-a-mixed-medi
 
 ## 4. Set up Mixed Media Viewer Presets
 
-Adobe Dynamic Media Classic comes with default viewer presets for Mixed Media Sets. Administrators can create or modify Mixed Media Set Viewer Presets.
+Adobe Dynamic Media Classic comes with default Viewer Presets for Mixed Media Sets. Administrators can create or modify Mixed Media Set Viewer Presets.
 
-When setting up a Mixed Media Set Viewer Preset, add the viewer presets for all the other assets in your set. For example, if your Mixed Media Set includes videos, add a Video Viewer Preset to the Mixed Media Set Viewer Preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
+When setting up a Mixed Media Set Viewer Preset, add the Viewer Presets for all the other assets in your set. For example, if your Mixed Media Set includes videos, add a Video Viewer Preset to the Mixed Media Set Viewer Preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
 
 See [Set up a Mixed Media Set Viewer Preset](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) and [Create and edit Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 

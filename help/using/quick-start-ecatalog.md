@@ -30,7 +30,7 @@ Depending on the settings that you choose for your eCatalog, the viewer can let 
 * Move the pointer over a page region (called an Image Map) so you can see a pop-up window with information about an item.
 * Select a page region so it opens a new Web page with more information about an item.
 * Write a sticky note and attach it to an eCatalog page.
-* Tap image map icons if you want to launch related Web pages or in-context info panels.
+* Tap Image Map icons if you want to launch related Web pages or in-context info panels.
 * Use gesture interactions, including pinching to zoom and swiping to turn pages.
 * Search by keyword for items.
 
@@ -86,7 +86,7 @@ See [Create eCatalog Image Maps](creating-ecatalog-image-maps.md#creating-ecatal
 
 See [Use Image Maps to embed rich media in an eCatalog](creating-ecatalog-image-maps.md#embedding-rich-media-in-an-ecatalog).
 
-You can set up and manage the image map text using the Info Panel settings in the eCatalog screen.
+You can set up and manage the Image Map text using the Info Panel settings in the eCatalog screen.
 
 See [Manage Info Panel content in eCatalogs](/help/using/info-panel-content-ecatalog.md).
 

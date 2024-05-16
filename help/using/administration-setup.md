@@ -14,7 +14,7 @@ level: Intermediate
 
 # Administration Setup{#administration-setup}
 
-The Administration Setup screens are for administering Adobe Dynamic Media Classic users. Use these screens to enable users to work in Adobe Dynamic Media Classic and to communicate by e-mail with users.
+The Administration Setup screens are for administering Adobe Dynamic Media Classic users. Use these screens to enable users to work in Adobe Dynamic Media Classic and to communicate by e-mail with other users.
 
 1. To access Administration Setup options, go to **Setup** > **Personal Setup** > **Administration Setup**.
 
@@ -22,7 +22,7 @@ The Administration Setup screens are for administering Adobe Dynamic Media Class
 
 All Adobe Dynamic Media Classic users are assigned a role that determines their privileges and access rights to features in Adobe Dynamic Media Classic. Administrators determine the different roles and responsibilities for the companies to which they are assigned.
 
-Typically, Adobe Dynamic Media Classic configures the first set of companies and assigns a company administrator. The company administrator then sets up and administers Adobe Dynamic Media Classic users.
+Typically, Adobe Dynamic Media Classic configures the first set of companies and assigns a Company Administrator. The Company Administrator then sets up and administers Adobe Dynamic Media Classic users.
 
 Adobe Dynamic Media Classic supports several user roles. These roles can access companies set up for the Adobe Dynamic Media Classic:
 
@@ -103,7 +103,7 @@ You can use the following user list-filtering techniques:
 
 * **Filter out invalid users**: Deselect **[!UICONTROL Include Invalid]**. The search results display only users who are in the system. Invalid users have been deleted from the system and the accounts that you administer.
 
-* **Sort by column heading**: Select a heading to sort all users by their status, alphabetically by first name, last name, or email, by user role, or by valid/invalid status.
+* **Sort by column heading**: Select a heading to sort all users by their status, alphabetically by first name, last name, or email. Or, sort by user role, or by valid/invalid status.
 
 If you have many users, you can limit the size of the list by selecting the Max List Size menu and choosing a number.
 
@@ -148,7 +148,7 @@ The following table describes reports that you can generate from the Bandwidth &
 |Report|Information|Use|
 |:--- |:--- |:--- |
 |Bandwidth|Bandwidth use by company|Track bandwidth usage by company over specific date ranges to determine traffic patterns.|
-|Storage|Storage usage|Track the amount of data uploaded by company.|
+|Storage|Storage usage|Track the amount of data uploaded by the company.|
 |Image Content|The number of image requests by type|Track the number of requests and volume for different image types.|
 |Domain|The number of URL requests by domain|Track image usage based on the domain of the image request for a specific company. (Adobe Dynamic Media Classic can provide more than one domain per account. For more information, contact Technical Support.)|
 |Video Streaming|Bandwidth usage for streaming video|Track streaming video usage by company over specific date ranges to determine traffic patterns.|
@@ -164,9 +164,9 @@ The Image Content report provides information about requests for the following i
 
 * **Viewer Tile Request**: Image requests loaded by a viewer.
 
-* **Vnt Object Request**: Image rendering requests that return an image with specified objects in the requested vignettes.
+* **VNT Object Request**: Image rendering requests that return an image with specified objects in the requested vignettes.
 
-* **Vnt Info Request**: Image rendering requests that return information concerning the requested vignettes.
+* **VNT Info Request**: Image rendering requests that return information concerning the requested vignettes.
 
 >[!NOTE]
 >
@@ -196,7 +196,7 @@ After you generate a report on the Bandwidth & Storage page, you can choose opti
 
 * **Custom time period**: On the Pre-defined Report menu, select **[!UICONTROL Custom]**. Then choose a date on the **[!UICONTROL Start Month]** (or **[!UICONTROL Start Date]**) menu and a date on the # of Months (or # or Days) menu. For Domain and Video Content Reports, you can choose a specific start and end date for capturing report information.
 
-* **Sort data (Data view only)**: To sort information on a column, select the column's heading. Select again to sort in descending order.
+* **Sort data (Data view only)**: Sort information in a column. Select the column's heading. Select again to sort in descending order.
 
 * **Rearrange columns (Data view only)**: To move a column to a different location on the data grid, drag its heading.
 

@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Adjust an image{#adjusting-an-image}
 
-Adobe Dynamic Media Classic offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the color balance, and colorize an image. As you experiment with these commands, you can see their effects on the image you are working with.
+Adobe Dynamic Media Classic offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the Color Balance, and colorize an image. As you experiment with these commands, you can see their effects on the image you are working with.
 
 See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for_an_image).
 
@@ -39,7 +39,7 @@ See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for
 
     * To save the image as a new primary image, select **[!UICONTROL Save As]**.
 
-      In the drop-down list, select **[!UICONTROL Save as new primary]**.
+      In the drop-down list, select **[!UICONTROL Save as a new primary]**.
       In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new primary image saved.
       Select **[!UICONTROL Save]**.
 
@@ -51,7 +51,7 @@ See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for
 
 ## Create an alias for an image {#creating-an-alias-for-an-image}
 
-When you have adjusted an image, you can save it as another view of the primary image. To do so, you can create an alias for the image by using the **[!UICONTROL Save as another view of primary]** feature.
+When you have adjusted an image, you can save it as another view of the primary image. To do so, you can create an alias for the image by using the **[!UICONTROL Save as another view of the primary]** feature.
 
 **To create an alias for an image:**
 

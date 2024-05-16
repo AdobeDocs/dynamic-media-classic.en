@@ -17,7 +17,7 @@ You can use Adobe PostScript&reg; (EPS) and Adobe&reg; Illustrator&reg; (AI) fil
 
 When you upload PostScript (EPS) or Illustrator (AI) image files, you can format them in various ways. You can rasterize the files, convert them to FXG for Template Publishing, maintain the transparent background, choose a resolution, and choose a color space. Options for formatting PostScript and Illustrator files are available on the Upload screen under PostScript Options and Illustrator Options in the Upload Job Options box.
 
-* **[!UICONTROL Processing]**: Choose **[!UICONTROL Rasterize]** to convert vector graphics in the file to the bitmap format.
+* **[!UICONTROL Processing]**: Choose **[!UICONTROL Rasterize]** to convert the vector graphics in the file to the bitmap format.
 
 * **[!UICONTROL Maintain Transparent Background In Rendered Image]**: Maintains the background transparency of the file.
 

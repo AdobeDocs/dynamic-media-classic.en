@@ -1,6 +1,6 @@
 ---
-title: Preview videos in a video viewer
-description: Learn how to preview videos in a Video viewer.
+title: Preview videos in a Video Viewer
+description: Learn how to preview videos in a Video Viewer.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -11,17 +11,17 @@ exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
 topic: Content Management
 level: Intermediate
 ---
-# Preview videos in a video viewer{#previewing-videos-in-a-video-viewer}
+# Preview videos in a Video Viewer{#previewing-videos-in-a-video-viewer}
 
 You can preview what a video looks like and how it plays in the Video Viewer.
 
 See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-**To preview videos in a video viewer:**
+**To preview videos in a Video Viewer:**
 
 1. In the Asset Library panel on the left side, in the Show drop-down list, select **[!UICONTROL Video]** (single-encoded videos) or **[!UICONTROL Adaptive Video Set]**. When the Adaptive Video encoding preset is used, it results in a set of multi-bitrate encoded videos.
 1. In the Asset Library panel on the left side, navigate the asset folders to select the video that you want to preview.
-1. Do any one of the following
+1. Do any one of the following:
 
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL List View]**. In the Asset window, hover on an asset, and then select **[!UICONTROL Preview]**.
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Grid View]**. In the Asset window, in an asset thumbnail window, select **[!UICONTROL Preview]**.
@@ -35,33 +35,33 @@ See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic provides a convenient method of previewing MP4 video on the desktop. Use this method to preview mobile content on the desktop without physically testing it on mobile devices. Be aware, however, that what is seen in desktop preview does not realistically show what playback looks like on the mobile device. To preview how video looks and plays on a mobile device, go to the Preview screen, select **[!UICONTROL Copy URL]**, and enter that URL in the Web browser of a mobile device. For more information, see [Deploy video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
+>Adobe Dynamic Media Classic provides a convenient method of previewing MP4 video on the desktop. Use this method to preview mobile content on the desktop without physically testing it on mobile devices. Be aware, however, that what is seen in desktop preview does not realistically show what playback looks like on the mobile device. To preview how the video looks and plays on a mobile device, go to the Preview screen. Click **[!UICONTROL Copy URL]**, and enter that URL in the Web browser of a mobile device. For more information, see [Deploy video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 
-## Work with video viewer presets {#working-with-video-viewer-presets}
+## Work with Video Viewer Presets {#working-with-video-viewer-presets}
 
 Users watch videos in the Video Viewer. How the Video Viewer behaves, what it looks like, and how its playback controls work depends on the Viewer Preset you choose for playing the video. You choose a Viewer Preset on the Preview screen. After choosing a preset, you can obtain the URL, or the embed code, for playing the video using the Viewer Preset you chose.
 
 Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Viewer Presets. There are more than 12 different settings for configuring the Video Viewer. You can configure its size, color, video and audio controls, progress bar, user-interface skin, and social features.
 
-See [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
+See [Preview videos in a Video Viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
-See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
+See also [Video Presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 
 ### Add or edit a Video Viewer Preset {#adding-or-editing-a-video-viewer-preset}
 
-You can use Viewer Presets to see various viewer types and their pre-defined settings. You can also add and edit your own customized viewer presets or edit existing viewer presets that come with Adobe Dynamic Media Classic.
+You can use Viewer Presets to see various viewer types and their pre-defined settings. You can also add and edit your own customized Viewer Presets or edit existing Viewer Presets that come with Adobe Dynamic Media Classic.
 
 In Viewer Presets, you can activate, filter, sort, and preview Viewer Presets.
 
 See [Viewer Presets](application-setup.md#viewer_presets).
 
-See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
+See also [Video Presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 
 **To add or edit a Video Viewer Preset:**
 
 1. Near the upper-right corner of Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
-   To see only presets for Video Viewers, select Video Viewer from the open Viewers drop-down list in the toolbar directly above the table.
+   You can choose to see only presets for Video Viewers. In the toolbar directly above the table, select Video Viewer from the open Viewers drop-down list.
 
 1. Add or edit a Viewer Preset for showing video:
 

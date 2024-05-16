@@ -371,5 +371,5 @@ Administrators can delete custom Video Presets. Video presets that come with Ado
 >
 >* [Quick Start: Video in Adobe Dynamic Media Classic](quick-start-video.md#quick-start-video)
 >* [Upload and encode videos](uploading-encoding-videos.md#uploading-and-encoding-videos)
->* [Work with video viewer presets](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
+>* [Work with Video Viewer Presets](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
 >* [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video

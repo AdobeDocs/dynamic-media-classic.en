@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Create and enable Image Presets{#creating-and-enabling-image-presets}
 
-When users export image assets using Media Portal, they can choose an Image Preset in the Export Selected Assets dialog box. An Image Preset is a collection of pre-defined settings that change the size, image quality, format, resolution, and other aspects of an image's appearance when it is exported.
+When users export image assets using Media Portal, they can choose an Image Preset in the Export Selected Assets dialog box. An Image Preset is a collection of pre-defined settings. These settings can change the size, image quality, format, resolution, and other aspects of an image's appearance when it is exported.
 
 Media Portal administrators can create Image Presets to control how images are reformatted when they are exported. Image Presets reformat images to the specifications of your company when users export images from the Adobe Dynamic Media Classic. Rather than reformatting images on their own, users export them to the precise specifications of an Image Preset.
 

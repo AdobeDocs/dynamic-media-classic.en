@@ -122,7 +122,7 @@ If you did not use an Image Preset or pass specific Image Server sharpening prot
 
 To set your company's default sharpening options, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. If you set the Default Resampling Mode to **`Sharp2`**, it always sharpens the image when downsampling.
 
-**Add sharpening to viewer presets**
+**Add sharpening to Viewer Presets**
 
 Unless you added sharpening image modifiers to the preset, the small initial load image can look soft because it is downsampled to fit into the viewer window without being sharpened.
 

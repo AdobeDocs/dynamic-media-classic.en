@@ -33,7 +33,7 @@ On the Global Navigation bar, select **[!UICONTROL Upload]** to upload files fro
 
 ## 2. Set up Image Presets
 
-Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Image Servers. You can set up Image Presets on your own if you have company administrator status. Adobe Dynamic Media Classic also comes with default Image Presets, and you can use them to dynamically deliver images.
+Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Image Servers. You can set up Image Presets on your own if you have Company Administrator status. Adobe Dynamic Media Classic also comes with default Image Presets, and you can use them to dynamically deliver images.
 
 To create an Image Preset (if you are an administrator), on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Image Presets]**. Then select **[!UICONTROL Add]** to create an Image Preset, or select **[!UICONTROL Edit]** to change an existing Image Preset.
 
