@@ -86,13 +86,13 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 1. Select the Spin Set's rollover **[!UICONTROL Edit]** button.
 1. Do any of the following:
 
-    * **Removing images** - Select the image, and then select **[!UICONTROL Delete]**.
+    * **Removing images**: Select the image, and then select **[!UICONTROL Delete]**.
 
-    * **Adding images** - Drag the image into a cell.
+    * **Adding images**: Drag the image into a cell.
 
-    * **Reordering rows (two-dimensional Spin Sets)** - Select a row-selector box (to the left of the row) and then select **[!UICONTROL Move Row Down]** or **[!UICONTROL Move Row Up]**.
+    * **Reordering rows (two-dimensional Spin Sets)**: Select a row-selector box (to the left of the row) and then select **[!UICONTROL Move Row Down]** or **[!UICONTROL Move Row Up]**.
 
-    * **Adding rows and cells** - Enter a number in the Rows box and Cells box to determine the number of rows and the number of cells in each row.
+    * **Adding rows and cells**: Enter a number in the Rows box and Cells box to determine the number of rows and the number of cells in each row.
 
 1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.

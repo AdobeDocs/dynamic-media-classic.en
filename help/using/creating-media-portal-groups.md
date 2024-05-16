@@ -92,6 +92,6 @@ See also [Specify export options available to Media Portal users](specifying-exp
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. On the Group List page, select a group and edit or delete it.
 
-   **Edit a group** - Select **[!UICONTROL Edit]**, and then choose options in the Edit Group dialog box.
+   **Edit a group**: Select **[!UICONTROL Edit]**, and then choose options in the Edit Group dialog box.
 
-   **Delete a group** - Select **[!UICONTROL Delete]**.
+   **Delete a group**: Select **[!UICONTROL Delete]**.

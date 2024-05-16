@@ -53,7 +53,7 @@ The successful response for images appears similar to the following:
 <scene7> 
     <user_generated_content> 
         <response> 
-        <serviceName>User Generated Content - Images</serviceName> 
+        <serviceName>User Generated Content: Images</serviceName> 
         <version>1.0.0</version> 
         <operationName>get_uploadtoken</operationName> 
         <serviceStatus>SUCCESS</serviceStatus> 
@@ -145,7 +145,7 @@ The following is a sample response from a successful upload:
 <scene7> 
     <user_generated_content> 
         <response> 
-            <serviceName>User Generated Content - Images</serviceName> 
+            <serviceName>User Generated Content: Images</serviceName> 
             <version>1.0.0</version> 
             <operationName>upload</operationName> 
             <serviceStatus>SUCCESS</serviceStatus> 
@@ -209,7 +209,7 @@ An example of a successful response appears similar to the following:
 <scene7> 
     <user_generated_content> 
         <response> 
-            <serviceName>User Generated Content - Images</serviceName> 
+            <serviceName>User Generated Content: Images</serviceName> 
             <version>1.0.0</version> 
             <operationName>image_info</operationName> 
             <serviceStatus>SUCCESS</serviceStatus> 

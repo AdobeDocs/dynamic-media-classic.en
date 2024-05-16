@@ -36,14 +36,14 @@ A feature comparison table between [!DNL Dynamic Media] in [!DNL Adobe Experienc
 | Viewer Integration with Analytics  | &#10003;  | &#10003;  |
 | 1:1 Templates | &#10003;<br>*Personalized media bundle*  | &#10003;  |
 | Visual Configurator<br>(product personalization)  | &#10003;<br>*Personalized media bundle*  | &#10003;  |
-| 3D - Experience Manager Sites<br>WCM component | &#10003;  | -  |
-| 3D - Interactive Experience Viewer  | &#10003;  |  - |
-| 3D - Publish AR/VR and core 3D files  | &#10003;  |  - |
-| Carousels  | &#10003;  | -  |
-| Shoppable/Interactive Media - Images  | &#10003;  | -  |
-| Shoppable/Interactive Media - Video  | &#10003;  | -  |
-| Smart Crop - Images  | &#10003;  | -  |
-| Smart Crop - Video  | &#10003;  | -  |
-| Video Thumbnail Selection  | &#10003;  | -  |
-| Viewer Designer  | &#10003;  | -  |
-| YouTube Publish  | &#10003;  | -  |
+| 3D: Experience Manager Sites<br>WCM component | &#10003;  |:  |
+| 3D: Interactive Experience Viewer  | &#10003;  | : |
+| 3D: Publish AR/VR and core 3D files  | &#10003;  | : |
+| Carousels  | &#10003;  |:  |
+| Shoppable/Interactive Media: Images  | &#10003;  |:  |
+| Shoppable/Interactive Media: Video  | &#10003;  |:  |
+| Smart Crop: Images  | &#10003;  |:  |
+| Smart Crop: Video  | &#10003;  |:  |
+| Video Thumbnail Selection  | &#10003;  |:  |
+| Viewer Designer  | &#10003;  |:  |
+| YouTube Publish  | &#10003;  |:  |

@@ -32,9 +32,9 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. Begin creating your eCatalog with one of these techniques:
 
-   * **Select the files first** - In the Browse Panel, select files and then go to **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**.
+   * **Select the files first**: In the Browse Panel, select files and then go to **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**.
 
-   * **Start from the eCatalog screen** - Go to **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Select a folder in the Asset Library and drag files from the folder into the Order Pages tab of the eCatalog page.
+   * **Start from the eCatalog screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Select a folder in the Asset Library and drag files from the folder into the Order Pages tab of the eCatalog page.
 
       >[!NOTE]
       >
@@ -44,11 +44,11 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. Optionally, change the layout of individual pages or page spreads by selecting them and then choosing **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, or **[!UICONTROL Custom]** button. In the **[!UICONTROL Change eCatalog Layout]** dialog box, select the **[!UICONTROL Selected Spreads]** options and select **[!UICONTROL OK]**.
 1. Reorder the pages as necessary with one of these techniques:
 
-   * **Dragging** - Drag a page or page spread to a new location. The vertical bar shows you where the page is being moved.
+   * **Dragging**: Drag a page or page spread to a new location. The vertical bar shows you where the page is being moved.
 
-   * **Move To button** - Select a page or page spread, select **[!UICONTROL Move To]**, and choose the page on the menu that you want your page to appear before.
+   * **Move To button**: Select a page or page spread, select **[!UICONTROL Move To]**, and choose the page on the menu that you want your page to appear before.
 
-   * **Sequence #** - In List View, enter page numbers in the fields of Sequence #.
+   * **Sequence #**: In List View, enter page numbers in the fields of Sequence #.
 
 1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**.

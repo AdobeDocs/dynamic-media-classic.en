@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Publish eCatalogs and associated PDFs{#publishing-ecatalogs-and-associated-pdfs}
 
-Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can be made available to your web site or application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL string. You can place this URL string in your HTML web page code.
+Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can be made available to your Web site or application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL string. You can place this URL string in your HTML Web page code.
 
 >[!NOTE]
 >

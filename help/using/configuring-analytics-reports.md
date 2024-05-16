@@ -53,7 +53,7 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
 
 ### Viewer events {#viewer-events}
 
-Viewer events describe actions that users perform with Dynamic Media Classic viewers. When a user initiates an action, such as selecting a thumbnail or starting or stopping a video, the viewer "broadcasts" an event to the web page. Data associated with that event is also pushed. 
+Viewer events describe actions that users perform with Dynamic Media Classic viewers. When a user initiates an action, such as selecting a thumbnail or starting or stopping a video, the viewer "broadcasts" an event to the Web page. Data associated with that event is also pushed. 
 
 The following table describes viewer events that you can add to the Adobe Analytics Configuration screen.
 
@@ -99,8 +99,8 @@ The following table describes Adobe Dynamic Media Classic variables:
 
 On the Adobe Analytics Configuration screen, you can activate, edit, and delete viewer events:
 
-* **Activate** - Select **[!UICONTROL Enable]** to activate or **[!UICONTROL Disable]** to deactivate a selected viewer event.
+* **Activate**: Select **[!UICONTROL Enable]** to activate or **[!UICONTROL Disable]** to deactivate a selected viewer event.
 
-* **Edit** - Select a viewer event and select the **[!UICONTROL View/Edit]** Variables gray button. In the Adobe Dynamic Media Classic variable and Adobe Analytics variable drop-down lists, choose a different variable from each respective list. For more information, see [Assigning Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables](#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables).
+* **Edit**: Select a viewer event and select the **[!UICONTROL View/Edit]** Variables gray button. In the Adobe Dynamic Media Classic variable and Adobe Analytics variable drop-down lists, choose a different variable from each respective list. For more information, see [Assigning Adobe Analytics variables to Adobe Dynamic Media Classic viewer events and variables](#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables).
 
-* **Delete** - Select a viewer event, and select the **[!UICONTROL View/Edit]** Variables gray button. Select **[!UICONTROL Delete]**.
+* **Delete**: Select a viewer event, and select the **[!UICONTROL View/Edit]** Variables gray button. Select **[!UICONTROL Delete]**.

@@ -25,7 +25,7 @@ The following is an example of a response when an image asset is deleted:
 <scene7> 
     <user_generated_content> 
         <response> 
-            <serviceName>User Generated Content - Images</serviceName> 
+            <serviceName>User Generated Content: Images</serviceName> 
             <version>1.0.0</version> 
             <operationName>delete</operationName> 
             <serviceStatus>SUCCESS</serviceStatus> 

@@ -107,24 +107,24 @@ You can send a Welcome e-mail when you add new Media Portal users, contributors,
 1. In the User Administration Setup screen, select **[!UICONTROL Email Settings]**.
 1. In the Email Settings dialog box, specify any of the following settings:
 
-   * **[!UICONTROL Send Email]** - Deselect this option to inform new users by e-mail that you have signed them up.
+   * **[!UICONTROL Send Email]**: Deselect this option to inform new users by e-mail that you have signed them up.
 
-   * **[!UICONTROL Default Password]** - Enter a temporary password for new users, or leave the field empty to have Adobe Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they sign in.
+   * **[!UICONTROL Default Password]**: Enter a temporary password for new users, or leave the field empty to have Adobe Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they sign in.
 
-   * **[!UICONTROL Replacement URL]** - Enter a URL different from the default if your users access Adobe Dynamic Media Classic through a different URL.
+   * **[!UICONTROL Replacement URL]**: Enter a URL different from the default if your users access Adobe Dynamic Media Classic through a different URL.
 
 ## Other user management tasks {#other-user-management-tasks}
 
 Starting on the User Administration Setup screen, you can also do these tasks:
 
-* **[!UICONTROL Filter and sort the user list]** - Filter the list of Media Portal users to locate users.
+* **[!UICONTROL Filter and sort the user list]**: Filter the list of Media Portal users to locate users.
 
-* **[!UICONTROL Delete users]** - Remove a user from the list.
+* **[!UICONTROL Delete users]**: Remove a user from the list.
 
-* **[!UICONTROL Activate and deactivate users]** - Suspend a user from accessing folders.
+* **[!UICONTROL Activate and deactivate users]**: Suspend a user from accessing folders.
 
-* **[!UICONTROL Edit user information]** - Enter up-to-date information about a user.
+* **[!UICONTROL Edit user information]**: Enter up-to-date information about a user.
 
-* **[!UICONTROL Create user-defined fields]** - Create custom, user-defined metadata fields so they can help you organize assets in the Adobe Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
+* **[!UICONTROL Create user-defined fields]**: Create custom, user-defined metadata fields so they can help you organize assets in the Adobe Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
 
 See [User-Defined Fields](application-setup.md#user_defined_fields).

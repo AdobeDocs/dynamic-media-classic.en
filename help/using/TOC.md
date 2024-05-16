@@ -20,7 +20,7 @@ index: y
 + [NEW Adobe Dynamic Media Classic log on now available](new-ui-2020.md)
 + [Adobe Dynamic Media newsletter archive by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
-  + [Adobe Dynamic Media Classic Desktop app - Now available](dynamic-media-classic-desktop-app.md)
+  + [Adobe Dynamic Media Classic Desktop app: Now available](dynamic-media-classic-desktop-app.md)
   + [About Adobe Dynamic Media Classic Help](introduction.md)
   + [Developer resources](developer-resources.md)
   + [What's new](whats-new.md)
@@ -81,7 +81,7 @@ index: y
   + [Upload primary images](uploading-master-images.md)
   + [Publish primary images](publishing-master-images.md)
   + [Set up Image Presets](setting-image-presets.md)
-  + [Link URLs to your web application](linking-urls-web-application.md)
+  + [Link URLs to your Web application](linking-urls-web-application.md)
 + Zoom {#zoom}
   + [Quick Start: Zoom](quick-start-zoom.md)
   + [Upload Zoom images](uploading-zoom-images.md)
@@ -89,7 +89,7 @@ index: y
   + [Set up Zoom Viewer Presets](setting-zoom-viewer-presets.md)
   + [Preview image assets with different Zoom viewers](previewing-image-assets-different-zoom.md)
   + [Publish zoom images](publishing-zoom-images.md)
-  + [Link Zoom viewers to your web pages](linking-zoom-viewers-web-pages.md)
+  + [Link Zoom viewers to your Web pages](linking-zoom-viewers-web-pages.md)
 + eCatalogs {#ecatalogs}
   + [Quick Start: eCatalogs](quick-start-ecatalog.md)
   + [Upload the PDF files](uploading-pdf-files.md)
@@ -99,7 +99,7 @@ index: y
   + [Set up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md)
   + [Preview eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-viewer.md)
   + [Publish eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md)
-  + [Link an eCatalog to a web page](linking-ecatalog-web-page.md)
+  + [Link an eCatalog to a Web page](linking-ecatalog-web-page.md)
 + Image Sets {#image-sets}
   + [Quick Start: Image Sets](quick-start-image-sets.md)
   + [Prepare Image Set assets for upload](preparing-image-set-assets-upload.md)
@@ -108,28 +108,28 @@ index: y
   + [Manage Info Panel content in Image Sets](info-panel-content-image-sets.md)
   + [View Image Sets](viewing-image-sets.md)
   + [Automate Image Set generation](automated-image-set-generation.md)
-  + [Link an Image Set to a web page](linking-image-set-web-page.md)
+  + [Link an Image Set to a Web page](linking-image-set-web-page.md)
 + Swatch Sets {#swatch-sets}
   + [Quick Start: Swatch Sets](quick-start-swatch-sets.md)
   + [Include zoom targets and Image Maps in Swatch Sets](including-zoom-targets-image-maps-swatch-sets.md)
   + [Prepare Swatch Set assets for upload](preparing-swatch-set-assets-upload.md)
   + [Create a Swatch Set](creating-swatch-set.md)
   + [View Swatch Sets](viewing-swatch-sets.md)
-  + [Link a Swatch Set to a web page](linking-swatch-set-web-page.md)
+  + [Link a Swatch Set to a Web page](linking-swatch-set-web-page.md)
 + Spin Sets {#spin-sets}
   + [Quick Start: Spin Sets](quick-start-spin-sets.md)
   + [Create a Spin Set](creating-spin-set.md)
   + [Preview a Spin Set](previewing-spin-set.md)
   + [Publish a Spin Set](publishing-spin-set.md)
   + [Set up Spin Set Viewer Presets](setting-spin-set-viewer-presets.md)
-  + [Link a Spin Set to a web page](linking-spin-set-web-page.md)
+  + [Link a Spin Set to a Web page](linking-spin-set-web-page.md)
 + Template basics {#template-basics}
   + [Quick Start: Template Basics](quick-start-template-basics.md)
   + [Upload template files](uploading-template-files.md)
   + [Create a template](creating-template.md)
   + [Create template parameters](creating-template-parameters.md)
   + [Publish templates](publishing-templates.md)
-  + [Link a template to a web page](linking-template-web-page.md)
+  + [Link a template to a Web page](linking-template-web-page.md)
   + [Manage content variations](content-variations.md)
 + Video {#video}
   + [Quick Start: Video](quick-start-video.md)
@@ -145,7 +145,7 @@ index: y
   + [Set up a Mixed Media Set Viewer Preset](setting-mixed-media-set-viewer.md)
   + [Create a Mixed Media Set](creating-mixed-media-set.md)
   + [Publish a Mixed Media Set](publishing-mixed-media-set.md)
-  + [Link a Mixed Media Set to a web page](linking-mixed-media-set-web.md)
+  + [Link a Mixed Media Set to a Web page](linking-mixed-media-set-web.md)
 + Adobe Analytics instrumentation kit {#analytics-kit}
   + [Quick Start: Integrating Adobe Dynamic Media Classic with Adobe Analytics](quick-start-integrating-dmc-analytics.md)
   + [Log on to Adobe Analytics](log-analytics.md)

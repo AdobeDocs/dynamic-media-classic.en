@@ -118,7 +118,7 @@ You can play the video on the Preview page. You can also choose different Video 
 
 **Optional**
 
-Viewer Preset customization - Adobe Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
+Viewer Preset customization: Adobe Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
 
 See [Work with video viewer presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
@@ -138,11 +138,11 @@ To integrate video into your website, you can do either one of the following:
   >
   >URLs are activated only after you publish the video or Adaptive Video Set.
 
-* Display the video embedded on the web page, in which case use the **[!UICONTROL Embed Code]** feature.
+* Display the video embedded on the Web page, in which case use the **[!UICONTROL Embed Code]** feature.
 
   To obtain the embed code for a video, in the Grid View or List View, select the video in the Browse Panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
 
-  Select **[!UICONTROL Close]** and paste the embed code in one or more of your web pages.
+  Select **[!UICONTROL Close]** and paste the embed code in one or more of your Web pages.
 
   >[!NOTE]
   >

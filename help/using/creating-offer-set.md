@@ -31,13 +31,13 @@ Adobe Dynamic Media Classic offers tools for editing as well as creating offer s
 
 Create an offer set from the following types of offer sets:
 
-* **Images** - You can assemble images for an offer set. Each image includes a different offer in the set.
+* **Images**: You can assemble images for an offer set. Each image includes a different offer in the set.
 
-* **Image template** - You can parameterize image templates in Adobe Dynamic Media Classic with the **[!UICONTROL Build]** > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see [Create template parameters](creating-template-parameters.md#creating_template_parameters).
+* **Image template**: You can parameterize image templates in Adobe Dynamic Media Classic with the **[!UICONTROL Build]** > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see [Create template parameters](creating-template-parameters.md#creating_template_parameters).
 
 See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) training video.
 
-* **Video** - You can assemble video for an offer set. Each video is a different offer in the set.
+* **Video**: You can assemble video for an offer set. Each video is a different offer in the set.
 
 ## Create an offer set with a parameterized template {#creating-an-offer-set-with-a-parameterized-template}
 
@@ -61,7 +61,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
    The left side of the page lists parameters in the template and their values.
 
-1. Change parameter values to create the offer. For example, enter different text in a text field, change the size of a layer, swap one image for another, or choose a different viewer preset.
+1. Change parameter values to create the offer. For example, enter different text in a text field, change the size of a layer, swap one image for another, or choose a different Viewer Preset.
 1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As**]** to save the offer as part of the offer set.
 
    The Test&Target Offer Set page lists the offers you created.
@@ -87,9 +87,9 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. Assemble images or videos for the offer set. Start in the Test&Target Offer Set screen or in the Grid View or List View and use one of the following methods:
 
-   * **Test&Target Offer Set screen** - Go to **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
+   * **Test&Target Offer Set screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
 
-   * **Grid View or List View** - Select the images or videos, and then go to **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**.
+   * **Grid View or List View**: Select the images or videos, and then go to **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**.
 
 1. Optionally, select an image or video and select **[!UICONTROL Preview]**. On the Preview Offers page, you can change the size and look of the image or video you selected. Or, you can change all images or videos in the offer set.
 
@@ -121,10 +121,10 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. To edit an offer set, display the offer set in Grid View or List View, and then select its **[!UICONTROL Edit]** rollover button.
 1. In the Test&Target Offer Set page, do any of the following:
 
-    * **Removing an offer** - Select the offer, and then select **[!UICONTROL Delete]** to remove an offer from the set.
-    * **Adding an offer** - How you add an offer depends on the type of offer set you are working with:
-      * **Templates** - Select **[!UICONTROL Add & Preview]**, and on the Add & Preview Offers page, create another offer.
-      * **Images and videos** - Drag an image or video onto the Test&Target Offer Set page.
+    * **Removing an offer**: Select the offer, and then select **[!UICONTROL Delete]** to remove an offer from the set.
+    * **Adding an offer**: How you add an offer depends on the type of offer set you are working with:
+      * **Templates**: Select **[!UICONTROL Add & Preview]**, and on the Add & Preview Offers page, create another offer.
+      * **Images and videos**: Drag an image or video onto the Test&Target Offer Set page.
 
     >[!NOTE]
     >

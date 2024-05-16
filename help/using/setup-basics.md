@@ -20,15 +20,15 @@ The settings available to you on this page depend on your status as a user or ad
 * Users can only access **[!UICONTROL Personal Setup]** and the accounts of companies of which they are a member; they cannot perform any administrative tasks.
 * Administrators can access **[!UICONTROL Personal Setup]**, and view and administer their own company accounts. They can also perform all application setup functions, and all administration functions, including adding administrators and users.
 
-Administrators can also set up Image presets and Viewer presets in the **[!UICONTROL Setup]** page:
+Administrators can also set up Image Presets and Viewer presets in the **[!UICONTROL Setup]** page:
 
-* **Image presets** - Image presets are saved formats for displaying primary images at different sizes and formats.
+* **Image Presets**: Image Presets are saved formats for displaying primary images at different sizes and formats.
 
-* **Viewer presets** - Viewer presets determine how you see your rich media when you see it in a viewer.
+* **Viewer presets**: Viewer presets determine how you see your rich media when you see it in a viewer.
 
 >[!MORELIKETHIS]
 >
 >* [Basic setup training video](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/573_Setup%20Basics_converted%20renamed_Getting%20Started-AVS)
 >* [Adobe Dynamic Media Classic user roles and privileges](administration-setup.md#user_administration)
->* [Image presets](application-setup.md#image_presets)
+>* [Image Presets](application-setup.md#image_presets)
 >* [Viewer presets](application-setup.md#viewer_presets)

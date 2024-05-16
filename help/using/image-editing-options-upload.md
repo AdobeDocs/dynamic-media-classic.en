@@ -28,17 +28,17 @@ These options are on the Upload page under the **[!UICONTROL Imaging Edit Option
 
 You can automatically crop white-space pixels from an image. On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. In the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Trim]**. Then choose these options:
 
-* **[!UICONTROL Trim Away Based On]** - From this drop-down list, choose whether to crop based on color or transparency:
+* **[!UICONTROL Trim Away Based On]**: From this drop-down list, choose whether to crop based on color or transparency:
 
-  * **[!UICONTROL Color]** - Choose the **[!UICONTROL Color]** option. Then, from the **[!UICONTROL Corner]** drop-down list, select the corner of the image with the color that best represents the white-space color you want to crop.
+  * **[!UICONTROL Color]**: Choose the **[!UICONTROL Color]** option. Then, from the **[!UICONTROL Corner]** drop-down list, select the corner of the image with the color that best represents the white-space color you want to crop.
 
-  * **[!UICONTROL Transparency]** - Choose the Transparency option.
+  * **[!UICONTROL Transparency]**: Choose the Transparency option.
 
-* **[!UICONTROL Tolerance]** - Drag the slider to specify a tolerance from 0 through 1:
+* **[!UICONTROL Tolerance]**: Drag the slider to specify a tolerance from 0 through 1:
 
-  * **Trimming based on color** - Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
+  * **Trimming based on color**: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
 
-  * **Trimming based on transparency** - Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
+  * **Trimming based on transparency**: Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
 
 ## Crop manually from the sides of images
 
@@ -48,11 +48,11 @@ To manually crop from the sides of an image, select the Crop menu and choose Man
 
 To select a color space for the image, choose a Color Profile option:
 
-* **[!UICONTROL Convert To sRGB]** - Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages.
+* **[!UICONTROL Convert To sRGB]**: Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on Web pages.
 
-* **[!UICONTROL Keep Original Color Space]** - Retains the original color space.
+* **[!UICONTROL Keep Original Color Space]**: Retains the original color space.
 
-* **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
+* **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 
@@ -87,7 +87,7 @@ Use Knockout Background so you can automatically remove the background of an ima
 | --- | --- |
 | Knockout Background | Select to enable or "turn on" the Knockout Background feature and options. |
 | Corner | Required.<br>The corner of the image that is used to define the background color to knockout.<br>You can choose from <b>Upper Left, Bottom Left, Upper Right, or Bottom Right</b>.|
-|Fill Method|Required. <br>Controls pixel transparency from the Corner location that you set.<br>You can choose from the following fill methods:<br>&bull; <b>Flood Fill</b> - turns all pixels transparent that match the Corner that you have specified and are connected to it.<br>&bull; <b>Match Pixel</b> - turns all matching pixels transparent, regardless of their location on the image. |
+|Fill Method|Required. <br>Controls pixel transparency from the Corner location that you set.<br>You can choose from the following fill methods:<br>&bull; <b>Flood Fill</b>: turns all pixels transparent that match the Corner that you have specified and are connected to it.<br>&bull; <b>Match Pixel</b>: turns all matching pixels transparent, regardless of their location on the image. |
 | Tolerance | Optional.<br>Controls the allowable amount of variation in pixel color matching based on the Corner location that you set.<br>Use a value of 0.0 to match pixel colors exactly. Or, use a value of 1.0 to allow for the greatest variation. |
 
 >[!MORELIKETHIS]

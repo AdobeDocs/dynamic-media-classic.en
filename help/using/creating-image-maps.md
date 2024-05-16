@@ -13,14 +13,14 @@ level: Intermediate
 ---
 # Create Image Maps {#creating-image-maps}
 
-An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. An outline appears around an Image Map when the user moves the pointer over it.
+An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a Web page is launched so that the user can learn more about a product. An outline appears around an Image Map when the user moves the pointer over it.
 
 Besides the ability to create Image Maps in Adobe Dynamic Media Classic, you can also create Image Maps when you design a catalog in Adobe Acrobat or Adobe InDesign.
 
 When you create Image Maps, you can do any of the following:
 
 * Enter rollover text.
-* Enter JavaScript and URLs for launching web pages.
+* Enter JavaScript and URLs for launching Web pages.
 * Create URL templates for Image Maps.
 * Copy Image Maps to other images, or eCatalog pages, or SpinSets.
 * Export Image Maps to CSV or to XML.
@@ -48,7 +48,7 @@ When you create Image Maps, you can do any of the following:
 
    To create the name, Adobe Dynamic Media Classic appends a sequential number to the name of the image or eCatalog page you are working with. You can enter a name of your choice.
 
-1. If you want users to open a new web page when they select the Image Map, enter the URL in the Image Map list.
+1. If you want users to open a new Web page when they select the Image Map, enter the URL in the Image Map list.
 
    See [to enter JavaScript and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
@@ -141,9 +141,9 @@ Javascript:loadProduct('$$');void(0);
 
 You place all values that do not change between Image Maps in the URL template. Add only the values that do change in the URL column in the Image Map list. For example:
 
-* URL template - `javascript:loadProduct('https://www.examplesitehere.com/$$');void(0);`
-* URL value - `product.htm`
-* Actual URL generated - `javascript:loadProduct('https://www.examplesitehere.com/product.html);void(0);`
+* URL template: `javascript:loadProduct('https://www.examplesitehere.com/$$');void(0);`
+* URL value: `product.htm`
+* Actual URL generated: `javascript:loadProduct('https://www.examplesitehere.com/product.html);void(0);`
 
 By default, the URL template includes a proprietary Adobe Dynamic Media Classic JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Adobe Dynamic Media Classic handlers:
 
@@ -171,11 +171,11 @@ The Map Editor page (images and SpinSets) and the Map Pages tab of the eCatalog 
 
 ## Define other actions for Image Maps {#defining-other-actions-for-image-maps}
 
-You can select the **[!UICONTROL Show]** menu and choose **[!UICONTROL Other Actions]** to trigger actions other than rollover text and web page launches. When the user moves the pointer over an Image Map, you can initiate an action. These actions are attributes defined for client-side Image Maps by World Wide Web Consortium HTML specifications. They include:
+You can select the **[!UICONTROL Show]** menu and choose **[!UICONTROL Other Actions]** to trigger actions other than rollover text and Web page launches. When the user moves the pointer over an Image Map, you can initiate an action. These actions are attributes defined for client-side Image Maps by World Wide Web Consortium HTML specifications. They include:
 
 * **`accesskey`**: Triggers an action when the user presses a designated key on the keyboard.
 
-* **`onfocus`**: Triggers an event when the Image Map receives focus—by the cursor, by tabbing, or by pressing an access key. For example, you can launch a web page when the Image Map receives focus and close it when your Image Map loses focus.
+* **`onfocus`**: Triggers an event when the Image Map receives focus—by the cursor, by tabbing, or by pressing an access key. For example, you can launch a Web page when the Image Map receives focus and close it when your Image Map loses focus.
 
 * **`onblur`**: Triggers an event when the Image Map loses focus, either by the cursor or by tabbing.
 

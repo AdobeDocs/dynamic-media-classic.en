@@ -47,7 +47,7 @@ Select the **[!UICONTROL Mark For Publish]** icon to the left of its name in the
 
 See [Publish files](publishing-files.md#publishing-files).
 
-## 6. Link a Swatch Set to a web page
+## 6. Link a Swatch Set to a Web page
 
 Adobe Dynamic Media Classic creates URL calls for Swatch Sets, and activates them after you publish. You can copy these URLs from the Preview page.
 

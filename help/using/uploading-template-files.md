@@ -17,7 +17,7 @@ Upload the files that you need for your template into Adobe Dynamic Media Classi
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic recommends using transparent TIFF or PSD images in your templates at the exact size that you want to display them on your web site. When you publish the template, call the image with an Image Preset that is also the same size. Paying attention to size ensures that your template is not resized (resampled) at a size larger or smaller than the size at which it was designed.
+>Adobe Dynamic Media Classic recommends using transparent TIFF or PSD images in your templates at the exact size that you want to display them on your Web site. When you publish the template, call the image with an Image Preset that is also the same size. Paying attention to size ensures that your template is not resized (resampled) at a size larger or smaller than the size at which it was designed.
 
 Templates can be created from Adobe Photoshop PSD files or image files.
 

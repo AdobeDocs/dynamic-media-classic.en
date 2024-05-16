@@ -135,13 +135,13 @@ Organize and structure folders and subfolders for your content in Adobe Dynamic 
 
 The folder-naming approach and structure you choose for storing your content on the Adobe Dynamic Media Classic depends on the needs of your organization. Here are some sample folder structures:
 
-**SKU-based** - Folders are named according to SKUs or item numbers. For example, separate folders are created for all 0-, 20-, 30- number series.
+**SKU-based**: Folders are named according to SKUs or item numbers. For example, separate folders are created for all 0-, 20-, 30- number series.
 
-**Brand-based** - For manufacturers with multiple brand lines and retailers who market other brands from other companies, separate files into product folders named for different brands.
+**Brand-based**: For manufacturers with multiple brand lines and retailers who market other brands from other companies, separate files into product folders named for different brands.
 
-**Project-based** - Folders are organized according to rollout/drop date or project name. Clients who primarily produce eCatalogs favor this approach.
+**Project-based**: Folders are organized according to rollout/drop date or project name. Clients who primarily produce eCatalogs favor this approach.
 
-**Mirror of web site folder hierarchy** - This folder structure mirrors the folder structure of the website, with the folders named, for example, for product categories.
+**Mirror of Web site folder hierarchy**: This folder structure mirrors the folder structure of the website, with the folders named, for example, for product categories.
 
 ## About uploading files {#uploading-your-files}
 
@@ -201,74 +201,74 @@ To cancel an upload job in progress, select **[!UICONTROL Cancel]** next to the 
 
 When uploading files, you can choose from the following options in the Upload Job Options dialog box:
 
-* **JOB** - Select **[!UICONTROL JOB]** to choose options that affect the entire upload job.
+* **JOB**: Select **[!UICONTROL JOB]** to choose options that affect the entire upload job.
 
     You can also choose *default* options for uploading jobs by using the **[!UICONTROL Default Upload Options]** dialog box in General Settings. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Default Upload Options]**, then set the default options you want.
 
-  * **[!UICONTROL When]** - This option is available only if you selected the **[!UICONTROL VIA FTP]** tab.
-    * **[!UICONTROL One-Time]** - Specify an upload job that runs once. Options include the following:
-      * **[!UICONTROL Now]** - Runs the upload job immediately after you select **[!UICONTROL Save]** in the Upload Job Options dialog box, then select **[!UICONTROL Submit Upload]** on the Upload page.
-      * **[!UICONTROL Schedule For Later]** - Select the year, month, day, and time (in 15-minute increments) that you want the upload job to run.
-    * **[!UICONTROL Recurring]** - Specify an upload job that runs daily, weekly, or monthly. Or, customize the upload job to your own specifications.
-      * **[!UICONTROL Daily]** - Set the time that you want the job to run every day. If you want the job to run only Monday to Friday, select **[!UICONTROL Weekdays Only]**.
-      * **[!UICONTROL Weekly]** - Choose a specific day of the week and time that you want the job to run.
-      * **[!UICONTROL Monthly]** - Choose a specific day of the month or day of the week, including the start time, that you want the job to run.
-      * **[!UICONTROL Custom]** - Customize an upload  or publish job time interval to your own specifications. See [Create a custom upload or publish job time interval](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
+  * **[!UICONTROL When]**: This option is available only if you selected the **[!UICONTROL VIA FTP]** tab.
+    * **[!UICONTROL One-Time]**: Specify an upload job that runs once. Options include the following:
+      * **[!UICONTROL Now]**: Runs the upload job immediately after you select **[!UICONTROL Save]** in the Upload Job Options dialog box, then select **[!UICONTROL Submit Upload]** on the Upload page.
+      * **[!UICONTROL Schedule For Later]**: Select the year, month, day, and time (in 15-minute increments) that you want the upload job to run.
+    * **[!UICONTROL Recurring]**: Specify an upload job that runs daily, weekly, or monthly. Or, customize the upload job to your own specifications.
+      * **[!UICONTROL Daily]**: Set the time that you want the job to run every day. If you want the job to run only Monday to Friday, select **[!UICONTROL Weekdays Only]**.
+      * **[!UICONTROL Weekly]**: Choose a specific day of the week and time that you want the job to run.
+      * **[!UICONTROL Monthly]**: Choose a specific day of the month or day of the week, including the start time, that you want the job to run.
+      * **[!UICONTROL Custom]**: Customize an upload  or publish job time interval to your own specifications. See [Create a custom upload or publish job time interval](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
 
-  * **[!UICONTROL Publish After Uploading]** - Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab. Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
+  * **[!UICONTROL Publish After Uploading]**: Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab. Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
 
-  * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** - Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab. Select this option if you want the files you upload to replace existing files with the same names. This option is also available on the Upload page. The name of this option could be different, depending on the settings in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
+  * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]**: Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab. Select this option if you want the files you upload to replace existing files with the same names. This option is also available on the Upload page. The name of this option could be different, depending on the settings in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
 
-  * **[!UICONTROL Uncompress Zip or Tar Files on Upload]** - Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab.
+  * **[!UICONTROL Uncompress Zip or Tar Files on Upload]**: Available if you selected either the **[!UICONTROL FROM DESKTOP]** tab or the **[!UICONTROL VIA FTP]** tab.
 Select this option if you want to automatically extract all files from your uploaded ZIP or TAR file. This same option is also available in the Job Options dialog box. 
 
-  * **[!UICONTROL Include subfolders]** - Available only if you selected the **[!UICONTROL VIA FTP]** tab.
+  * **[!UICONTROL Include subfolders]**: Available only if you selected the **[!UICONTROL VIA FTP]** tab.
 Select this option if you want to upload subfolders of the folder you intend to upload. The names of the folder and its subfolders you upload are entered automatically in Adobe Dynamic Media Classic.
 
-  * **[!UICONTROL Process metadata files]** - Available only if you selected either the **[!UICONTROL VIA FTP]** tab. Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
+  * **[!UICONTROL Process metadata files]**: Available only if you selected either the **[!UICONTROL VIA FTP]** tab. Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
 See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
 
-* **Crop options** - To automatically crop white-space pixels from an image, open the **[!UICONTROL Crop]** menu, select **[!UICONTROL Manual]**, and enter pixel measurements in the Top, Right, Bottom, and Left text fields to crop from the sides. You can also select **[!UICONTROL Trim]** on the Crop menu and choose these options:
+* **Crop options**: To automatically crop white-space pixels from an image, open the **[!UICONTROL Crop]** menu, select **[!UICONTROL Manual]**, and enter pixel measurements in the Top, Right, Bottom, and Left text fields to crop from the sides. You can also select **[!UICONTROL Trim]** on the Crop menu and choose these options:
 
-  * **[!UICONTROL Trim Away Based On]** - Choose whether to crop based on color or transparency:
-    * **[!UICONTROL Color]** - Choose the Color option. Then select the Corner menu and choose the corner of the image with the color that best represents the white-space color you want to crop.
+  * **[!UICONTROL Trim Away Based On]**: Choose whether to crop based on color or transparency:
+    * **[!UICONTROL Color]**: Choose the Color option. Then select the Corner menu and choose the corner of the image with the color that best represents the white-space color you want to crop.
       Trimming based on color: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
-    * **[!UICONTROL Transparency]** -  Choose the **[!UICONTROL Transparency]** option.
+    * **[!UICONTROL Transparency]**:  Choose the **[!UICONTROL Transparency]** option.
       Trimming based on transparency: Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
-    * **[!UICONTROL Tolerance]** - Drag the slider to specify a tolerance from 0 through 1.
+    * **[!UICONTROL Tolerance]**: Drag the slider to specify a tolerance from 0 through 1.
 
-* **Color profile options** - Choose a color conversion when you create optimized files that are used for Adobe Dynamic Media Classic dynamic delivery:
+* **Color profile options**: Choose a color conversion when you create optimized files that are used for Adobe Dynamic Media Classic dynamic delivery:
 
-  * **[!UICONTROL Default Color Preservation]** - Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on web pages.
-  * **[!UICONTROL Keep Original Color Space]** - Retains the original colors without any color conversion at the point of ingestion into Adobe Dynamic Media Classic. For images without an embedded color profile, any required color conversion to process requests for the image is done using the default color profiles as configured in the Publishing settings. These color profiles do not always align with the colors in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
-  * **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a **[!UICONTROL Convert From]** and **[!UICONTROL Convert To]** color space. This advanced option overrides any color information that is embedded in the source file. Select this option only when all the images that you are submitting contain incorrect or missing color profile data.
+  * **[!UICONTROL Default Color Preservation]**: Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on Web pages.
+  * **[!UICONTROL Keep Original Color Space]**: Retains the original colors without any color conversion at the point of ingestion into Adobe Dynamic Media Classic. For images without an embedded color profile, any required color conversion to process requests for the image is done using the default color profiles as configured in the Publishing settings. These color profiles do not always align with the colors in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
+  * **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose a **[!UICONTROL Convert From]** and **[!UICONTROL Convert To]** color space. This advanced option overrides any color information that is embedded in the source file. Select this option only when all the images that you are submitting contain incorrect or missing color profile data.
 
-* **Image edit options** - You can preserve the clipping <> masks in images, and choose a color profile.
+* **Image edit options**: You can preserve the clipping <> masks in images, and choose a color profile.
 See [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
-* **PostScript&reg; options** - You can rasterize PostScript&reg; files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
+* **PostScript&reg; options**: You can rasterize PostScript&reg; files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Work with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-* **Photoshop options** - You can create templates from Adobe&reg; Photoshop&reg; files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
+* **Photoshop options**: You can create templates from Adobe&reg; Photoshop&reg; files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
 See [PSD upload options](psd-files.md#psd_upload_options).
 
-* **PDF options** - You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
+* **PDF options**: You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
 See [PDF upload options](pdfs.md#pdf_upload_options).
 
-* **Illustrator options** - You can rasterize Adobe Illustrator&reg; files, maintain transparent backgrounds, choose a resolution, and choose a color space.
+* **Illustrator options**: You can rasterize Adobe Illustrator&reg; files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Work with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-* **EVIDEO options** - You can transcode a video file by choosing a Video Preset.
+* **EVIDEO options**: You can transcode a video file by choosing a Video Preset.
 See [Work with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
-* **More Metadata** - Enter keywords that describe the files you intend to upload. Separate keywords by comma. Keywords make searching for assets easier.
+* **More Metadata**: Enter keywords that describe the files you intend to upload. Separate keywords by comma. Keywords make searching for assets easier.
 See [Conduct an advanced search](searching-assets.md#conducting_an_advanced_search). 
 See also [Upload keywords](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) training video.
 
-* **Batch Set Presets** - If you want to create an Image Set, Spin Set, or Swatch Set from the uploaded files, select the **[!UICONTROL Active]** column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
+* **Batch Set Presets**: If you want to create an Image Set, Spin Set, or Swatch Set from the uploaded files, select the **[!UICONTROL Active]** column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
 See [Batch Set Presets](application-setup.md#batch_set_presets).
 
-* **Advanced** - See [Follow an upload with another job](uploading-files.md#follow-an-upload-with-another-job).
+* **Advanced**: See [Follow an upload with another job](uploading-files.md#follow-an-upload-with-another-job).
 
 ## Follow an upload with another job {#follow-an-upload-with-another-job}
 

@@ -27,25 +27,25 @@ Select **[!UICONTROL Jobs]** on the Global Navigation bar so the Jobs page opens
 
 Jobs are listed in these categories on the History tab of the Jobs page:
 
-* **[!UICONTROL Job Type]** - An icon indicates the job type: Upload and Publish are the most common job types.
+* **[!UICONTROL Job Type]**: An icon indicates the job type: Upload and Publish are the most common job types.
 
-* **[!UICONTROL Job Name]** - The name of the job. The name includes the user-entered portion of the name and the date and time.
+* **[!UICONTROL Job Name]**: The name of the job. The name includes the user-entered portion of the name and the date and time.
 
-* **[!UICONTROL Started]** - When the job started.
+* **[!UICONTROL Started]**: When the job started.
 
-* **[!UICONTROL Total]** - The number of files transferred.
+* **[!UICONTROL Total]**: The number of files transferred.
 
-* **[!UICONTROL W (warnings)]** - The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Mac) and Thumbs.db files (Windows&reg;) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don't pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
+* **[!UICONTROL W (warnings)]**: The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Mac) and Thumbs.db files (Windows&reg;) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don't pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
 
-* **[!UICONTROL E (errors)]** - Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
+* **[!UICONTROL E (errors)]**: Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
 
-* **[!UICONTROL Duration]** - How long it took to complete the job.
+* **[!UICONTROL Duration]**: How long it took to complete the job.
 
-* **[!UICONTROL Status]** - Shows the status of the job.
+* **[!UICONTROL Status]**: Shows the status of the job.
 
-* **[!UICONTROL Destination]** - For upload jobs, the company name, and folder to which the files were uploaded. This category does not apply to jobs for publishing.
+* **[!UICONTROL Destination]**: For upload jobs, the company name, and folder to which the files were uploaded. This category does not apply to jobs for publishing.
 
-* **[!UICONTROL Submitted By]** - Lists who uploaded the assets.
+* **[!UICONTROL Submitted By]**: Lists who uploaded the assets.
 
 >[!NOTE]
 >
@@ -55,13 +55,13 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 Use these techniques to sort jobs or change your view of the History tab of the Jobs page:
 
-* **[!UICONTROL Sorting]** - Select a column name to sort the list by a particular column. You can select the switch beside the column name to sort in descending or ascending order.
+* **[!UICONTROL Sorting]**: Select a column name to sort the list by a particular column. You can select the switch beside the column name to sort in descending or ascending order.
 
-* **[!UICONTROL Date Range]** - Select the **[!UICONTROL Date Range]** menu and choose an option to narrow the list of jobs to the current date, the previous week, or the previous month. Select **[!UICONTROL Custom Date Range]**, then enter a specific date range.
+* **[!UICONTROL Date Range]**: Select the **[!UICONTROL Date Range]** menu and choose an option to narrow the list of jobs to the current date, the previous week, or the previous month. Select **[!UICONTROL Custom Date Range]**, then enter a specific date range.
 
-* **[!UICONTROL Job Type]** - Select the **[!UICONTROL Job Type]** menu and choose **[!UICONTROL Publish]** or **[!UICONTROL Upload]** to narrow the list to publish jobs or upload jobs. Select **[!UICONTROL All]** to see both types of jobs.
+* **[!UICONTROL Job Type]**: Select the **[!UICONTROL Job Type]** menu and choose **[!UICONTROL Publish]** or **[!UICONTROL Upload]** to narrow the list to publish jobs or upload jobs. Select **[!UICONTROL All]** to see both types of jobs.
 
-* **[!UICONTROL Show]** - Go to **[!UICONTROL Show]** > **[!UICONTROL My Jobs]** or **[!UICONTROL Show]** > **[!UICONTROL All Jobs]** to narrow the list to jobs you ordered or jobs that people in your company ordered.
+* **[!UICONTROL Show]**: Go to **[!UICONTROL Show]** > **[!UICONTROL My Jobs]** or **[!UICONTROL Show]** > **[!UICONTROL All Jobs]** to narrow the list to jobs you ordered or jobs that people in your company ordered.
 
 ## View, or copy, or print a Job Details report {#viewing-copying-or-printing-a-job-details-report}
 
@@ -87,13 +87,13 @@ Select the Jobs button on the Global Navigation bar and, on the Jobs page, selec
 
 Select a recurring job on the Jobs page and follow these instructions if you want to edit or delete it:
 
-* **Edit a recurring job** - Select the **[!UICONTROL Edit]** button and enter schedule information in the Edit Scheduled Job dialog box. If you want the job to recur at an interval of your choice, go to **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**.
+* **Edit a recurring job**: Select the **[!UICONTROL Edit]** button and enter schedule information in the Edit Scheduled Job dialog box. If you want the job to recur at an interval of your choice, go to **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**.
 
 See [Create a custom upload or publish job time interval](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
-* **Deleting a recurring job** - Select the **[!UICONTROL Delete]** button.
+* **Deleting a recurring job**: Select the **[!UICONTROL Delete]** button.
 
-* **Pausing (and resuming) a recurring job** - In the Active column, deselect a check box to pause a job; select a check box to resume a job that was paused.
+* **Pausing (and resuming) a recurring job**: In the Active column, deselect a check box to pause a job; select a check box to resume a job that was paused.
 
 ### Create a custom upload or publish job time interval {#creating-a-custom-upload-or-publish-job-time-interval}
 
@@ -111,13 +111,13 @@ This table shows the time increments, their allowed values, and the wildcards th
 
 |Time increments|Values allowed|Comments|Wildcards supported|
 |--- |--- |--- |--- |
-|Seconds|0-59||`, - * /`|
-|Minutes|0-59||`, - * /`|
-|Hours|0-23|Note the use of a 24-hour clock.|`, - * /`|
-|Day of the month|1-31|You cannot specify a numeric value for both "day of the month" and "day of the week." One of these fields must use a `?` wildcard character.|`, - * / ? L C`|
-|Month|1-12 or Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Sep, Oct, Nov, Dec|Values are case-sensitive.|`, - * /`|
-|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case-sensitive. You cannot specify a numeric value for both "day of the month" and "day of the week." One of these fields must use a `?` wildcard character.|`, - * / ? L C #`|
-|Year (optional)|Empty or 1970-2099||`, - * /`|
+|Seconds|0-59||`,: * /`|
+|Minutes|0-59||`,: * /`|
+|Hours|0-23|Note the use of a 24-hour clock.|`,: * /`|
+|Day of the month|1-31|You cannot specify a numeric value for both "day of the month" and "day of the week." One of these fields must use a `?` wildcard character.|`,: * / ? L C`|
+|Month|1-12 or Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Sep, Oct, Nov, Dec|Values are case-sensitive.|`,: * /`|
+|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case-sensitive. You cannot specify a numeric value for both "day of the month" and "day of the week." One of these fields must use a `?` wildcard character.|`,: * / ? L C #`|
+|Year (optional)|Empty or 1970-2099||`,: * /`|
 
 
 This table describes the wildcard characters that are allowed in the Rule box and how to use them:

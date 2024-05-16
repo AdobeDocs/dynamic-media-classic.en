@@ -12,9 +12,9 @@ level: Intermediate
 ---
 # Upload and encode videos{#uploading-and-encoding-videos}
 
-To create single video or adaptive video sets for delivery to the web or mobile devices, you first upload your primary video files to Adobe Dynamic Media Classic. Adobe Dynamic Media Classic encodes videos to MP4 format and it publishes video in the following file formats:
+To create single video or Adaptive Video sets for delivery to the Web or mobile devices, you first upload your primary video files to Adobe Dynamic Media Classic. Adobe Dynamic Media Classic encodes videos to MP4 format and it publishes video in the following file formats:
 
-* **MP4** - Adobe Dynamic Media Classic recommends MP4 as the preferred video file format. Use MP4 files for the following:
+* **MP4**: Adobe Dynamic Media Classic recommends MP4 as the preferred video file format. Use MP4 files for the following:
 
   * HTTP Dynamic Streaming on desktops.
   * HTTP Live Streaming (Apple's streaming protocol).
@@ -22,9 +22,9 @@ To create single video or adaptive video sets for delivery to the web or mobile 
 
   Adobe Dynamic Media Classic offers two workflows for uploading video files:
 
-* **Pre-encoded Videos** - You upload MP4 files directly to Adobe Dynamic Media Classic. With this workflow, files are not encoded at the time you upload them. The files are pre-encoded in preparation for delivery to the desktop and to mobile devices.
+* **Pre-encoded Videos**: You upload MP4 files directly to Adobe Dynamic Media Classic. With this workflow, files are not encoded at the time you upload them. The files are pre-encoded in preparation for delivery to the desktop and to mobile devices.
 
-* **Primary source videos** - Upload primary source video files and, at upload, encode these files to MP4 files. Encoded videos are labeled "Video" in the Browse panel. Adobe Dynamic Media Classic supports the encoding of video files in many formats.
+* **Primary source videos**: Upload primary source video files and, at upload, encode these files to MP4 files. Encoded videos are labeled "Video" in the Browse panel. Adobe Dynamic Media Classic supports the encoding of video files in many formats.
 
   * Make sure the primary source video files that you want to encode are supported.
 
@@ -47,7 +47,7 @@ Do any one of the following.
 *If your videos are already encoded*
 
 1. On the Global Navigation bar, select **[!UICONTROL Upload]**.
-1. In the Upload page, select **[!UICONTROL From Desktop]** tab.
+1. In the Upload page, select the **[!UICONTROL From Desktop]** tab.
 1. On the Upload page, in the **[!UICONTROL Select Files for Upload]** panel, select **[!UICONTROL Browse]**, navigate to an MP4 video file, and then select **[!UICONTROL Open]**.
 1. In the chosen **[!UICONTROL Folder Destination]** panel, select a folder for the uploaded file.
 1. On the Upload page, make sure that **[!UICONTROL Publish After Uploading]** is checked.
@@ -56,13 +56,13 @@ Do any one of the following.
 *If you want to encode your videos using Adobe Dynamic Media Classic*
 
 1. On the Global Navigation bar, select **[!UICONTROL Upload]**.
-1. In the Upload page, select **[!UICONTROL From Desktop]** tab.
+1. In the Upload page, select the **[!UICONTROL From Desktop]** tab.
 1. In the **[!UICONTROL Select Files to Upload]** panel, select **[!UICONTROL Browse]**, navigate to a primary source video file, and then select **[!UICONTROL Open]**.
 1. In the chosen **[!UICONTROL Folder Destination]** panel, select a folder for the uploaded file.
 1. In the lower-right corner of the page, select **[!UICONTROL Job Options]**,
 1. In the Upload Job Options dialog box, expand **[!UICONTROL EVideo Options]**, then do one of the following:
 
-    * Best practice is to select **[!UICONTROL Adaptive Video Encoding]**. See [Adaptive Video (default)](application-setup.md#adaptive-video-default).
+    * The best practice is to select **[!UICONTROL Adaptive Video Encoding]**. See [Adaptive Video (default)](application-setup.md#adaptive-video-default).
     * Optional. If you want to use individual encoding settings, expand **[!UICONTROL Single Encoding Presets]**, and then select the encoding options you want for Desktop, Mobile, and Tablet.
        See [Desktop video encoding presets](application-setup.md#desktop-video-encoding-presets), [Mobile video encoding presets](application-setup.md#mobile-video-encoding-presets), [Tablet video encoding presets](application-setup.md#tablet-video-encoding-presets).
 1. In the Upload Job Options dialog box, select **[!UICONTROL Save]**.
@@ -72,7 +72,7 @@ Do any one of the following.
 *If you want to re-encode a video file that you previously uploaded*
 
 1. In Adobe Dynamic Media Classic, in the Browse panel, navigate to the video and select it.
-1. Go to **[!UICONTROL File]** > **[!UICONTROL Reprocess]**.``
+1. Go to **[!UICONTROL File]** > **[!UICONTROL Reprocess]**.
 1. In the Reprocess Assets dialog box, expand **[!UICONTROL EVideo Options]**, then do one of the following:
    * Best practice is to use the following method. Select **Adaptive Video**.
      See [Adaptive Video (default)](application-setup.md#adaptive-video-default).
@@ -80,7 +80,7 @@ Do any one of the following.
      See [Desktop video encoding presets](application-setup.md#desktop-video-encoding-presets), [Mobile video encoding presets](application-setup.md#mobile-video-encoding-presets), [Tablet video encoding presets](application-setup.md#tablet-video-encoding-presets).
 1. In the Reprocess Assets dialog box, select **[!UICONTROL Submit]**.
 
-When you use Adaptive Video encoding preset or you use multiple single-encoding presets, the result is an Adaptive Video Set that is automatically created with multiple video encodings. You can also manually create an Adaptive Video Set by selecting individual videos.
+When you use an Adaptive Video encoding preset or multiple single-encoding presets, the result is an Adaptive Video Set that is automatically created with multiple video encodings. You can also manually create an Adaptive Video Set by selecting individual videos.
 
 Only MP4 and M4V file types are created when you generate an Adaptive Video Set either automatically or manually.
 
@@ -88,9 +88,9 @@ Only MP4 and M4V file types are created when you generate an Adaptive Video Set 
 
 The following table lists video file types (with permitted video codecs) that you can encode to MP4 or OGV format when you upload files. The table lists file formats and codecs:
 
-* **Video file formats** - Similar to a ZIP file, a video file format determines how files are contained in the video file. A video file usually contains multiple tracks — a video track (without audio) and one or more audio tracks (without video) — that are interrelated and synchronized. The video file format determines how these different data tracks and metadata are organized.
+* **Video file formats**: Similar to a ZIP file, a video file format determines how files are contained in the video file. A video file usually contains multiple tracks — a video track (without audio) and one or more audio tracks (without video) — that are interrelated and synchronized. The video file format determines how these different data tracks and metadata are organized.
 
-* **Video codecs** - A video codec describes the algorithm by which a video is encoded. A video player decodes the video according to its codec and then displays a series of images, or frames, on the screen. Codecs minimize the amount of information that video files are required to store to play video. Rather than information about each individual frame, only information about the differences between one frame and the next is stored. Because most videos change little from one frame to the next, codecs allow for high compression rates, which result in smaller file sizes.
+* **Video codecs**: A video codec describes the algorithm by which a video is encoded. A video player decodes the video according to its codec and then displays a series of images, or frames, on the screen. Codecs minimize the amount of information that video files are required to store to play video. Rather than information about each individual frame, only information about the differences between one frame and the next is stored. Because most videos change little from one frame to the next, codecs allow for high compression rates, which result in smaller file sizes.
 
   | Video file format | Video codecs |
   | --- | --- |
@@ -102,14 +102,14 @@ The following table lists video file types (with permitted video codecs) that yo
   | M2V | MPEG-2 ES |
   | M4V | H.264 |
   | MOV | DV, DVCPro 50, H.261, H.263, H.264, Sorenson Video 1 |
-  | MP4 | H.264 / MPEG-4 AVC |
+  | MP4 | `H.264/MPEG-4` AVC |
   | MPEG | MPEG-2 SS |
   | MPG | MPEG-2 SS |
   | MTS | MPEG-2 |
   | ProRes | APCN, APCS, APCO, APCH, AP4H |
   | TS | DVCPro 50 |
   | VOB | MPEG-2 |
-  | WMV/ASF | VC-1, Windows&reg; Media Video 7, Windows&reg; Media Video 8 |
+  | WMV / ASF | VC-1, Windows&reg; Media Video 7, Windows&reg; Media Video 8 |
 
   >[!NOTE]
   >
@@ -134,14 +134,14 @@ The following table describes the recommended size, aspect ratio, and minimum bi
 | Size | Aspect ratio | Minimum bit rate |
 | --- | --- | --- |
 | 1024 X 768 | 4:3 | 4500 kbps for most videos. |
-| 1280 X 720 | 16:9 | 3000 - 6000 kbps, depending on the amount of motion in the video. |
-| 1920 X 1080 | 16:9 | 6000 - 8000 kbps, depending on the amount of motion in the video. |
+| 1280 X 720 | 16:9 | 3000: 6000 kbps, depending on the amount of motion in the video. |
+| 1920 X 1080 | 16:9 | 6000: 8000 kbps, depending on the amount of motion in the video. |
 
 ### Obtain a file's metadata {#obtaining-a-file-s-metadata}
 
 You can obtain a file's metadata by viewing its metadata in Adobe Dynamic Media Classic, using a video-editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file's metadata:
 
-1. Go to this web page: [https://mediaarea.net/en/MediaInfo](https://mediaarea.net/en/MediaInfo).
+1. Go to this Web page: [https://mediaarea.net/en/MediaInfo](https://mediaarea.net/en/MediaInfo).
 1. Select and download the installer for the GUI version, and follow the installation instructions.
 1. After installation, either right-click the video file (Windows&reg; only) and select MediaInfo, or open MediaInfo and drag your video file into the application. You see all metadata associated with your video file, including its width, height, and fps.
 
@@ -151,7 +151,7 @@ When you choose or create a video encoding preset for your primary video file, m
 
 To determine the aspect ratio of a video file, obtain the file's metadata, and note the file's width and its height (see [Obtain a file's metadata](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Then use this formula to determine the aspect ratio:
 
-width/height = aspect ratio
+Width / Height = Aspect ratio
 
 The following table describes how formula results translate to common aspect ratio choices:
 
@@ -216,11 +216,11 @@ When you choose (or create) a video encoding preset for your primary video file,
 | 720p | 720 | Large screen |
 | 1080p | 1080 | High-definition large screen |
 
-### Fps (frames per second) {#fps-frames-per-second}
+### FPS (frames per second) {#fps-frames-per-second}
 
-In the United States and Japan, most video is shot at 29.97 frames per second (fps); in Europe, most video is shot at 25 fps. Film is shot at 24 fps.
+In the United States and Japan, most video is shot at 29.97 frames per second (FPS); in Europe, most video is shot at 25 FPS. The film is shot at 24 FPS.
 
-Choose a video encoding preset that matches the fps rate of your primary video file. For example, if your primary video is 25 fps, choose an encoding preset with 25 fps. By default, all custom encodings use the primary video file's fps. For this reason, you do not need to explicitly specify the fps setting when you create a video encoding preset.
+Choose a video encoding preset that matches the FPS rate of your primary video file. For example, if your primary video is 25 FPS, choose an encoding preset with 25 FPS. By default, all custom encodings use the primary video file's FPS. For this reason that specifying the FPS setting when you create a video encoding preset is not necessary.
 
 ### Video encoding dimensions {#video-encoding-dimensions}
 
@@ -245,7 +245,7 @@ Adobe Dynamic Media Classic recommends using MP4 H.264 video encoding presets. B
 
 ## Work with video encoding presets {#working-with-video-encoding-presets}
 
-Primary video files created with video production equipment and video-editing software are often too large and not in the proper format for delivery to online destinations. To convert digital video to the proper format and specifications for playback on different screens, you can *transcode* video files (a process also known as *encoding*). During the encoding process, the video is compressed to a smaller, efficient file size for optimal delivery to the web and to mobile devices.
+Primary video files created with video production equipment and video-editing software are often too large and not in the proper format for delivery to online destinations. To convert digital video to the proper format and specifications for playback on different screens, you can *transcode* video files (a process also known as *encoding*). During the encoding process, the video is compressed to a smaller, efficient file size. It does so for optimal delivery to the Web and to mobile devices.
 
 See [Upload and encode videos](uploading-encoding-videos.md#uploading-and-encoding-videos).
 
@@ -256,15 +256,15 @@ On the Video Presets screen, administrators can set up and manage video encoding
 * Activate and deactivate video encoding presets.
 * Create a video encoding preset.
 * Edit video encoding presets.
-* Delete video presets.
+* Delete Video Presets.
 
-Any video that you upload to Adobe Dynamic Media Classic or that you encode in Adobe Dynamic Media Classic is treated as "video". In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Adobe Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
+Any video that you upload to Adobe Dynamic Media Classic or that you encode in Adobe Dynamic Media Classic is treated as "video." In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Adobe Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
 
 See [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing-videos-in-a-video-viewer).
 
 See [Link a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking-a-video-url-to-a-mobile-site-or-a-website).
 
-See [Embed the video viewer on a web page](deploying-video-websites-mobile-sites.md#embedding-the-video-viewer-on-a-web-page).
+See [Embed the video viewer on a Web page](deploying-video-websites-mobile-sites.md#embedding-the-video-viewer-on-a-web-page).
 
 For video assets that you upload and encode in Adobe Dynamic Media Classic, video is delivered in the following file format:
 
@@ -274,11 +274,11 @@ For video assets that you upload and encode in Adobe Dynamic Media Classic, vide
 * HLS (HTTP Live Streaming, Apple's streaming protocol).
 * Progressive video delivery to Android&trade;, BlackBerry&reg;, and Windows&reg; mobile devices.
 
-Any other video format and codec is treated as a "Primary Video". This asset classification means that the video is a source video file and cannot be used for delivery playback on desktops or mobile devices. For example, you cannot preview these types of videos in Adobe Dynamic Media Classic. You cannot generate Copy URLs or Embed Code for use in video players, on websites, and so on.
+Any other video format and codec is treated as a "Primary Video." This asset classification means that the video is a source video file and cannot be used for delivery playback on desktops or mobile devices. For example, you cannot preview these types of videos in Adobe Dynamic Media Classic. You cannot generate Copy URLs or Embed Code for use in video players, on websites, and so on.
 
 ### Filter the list of video encoding presets {#filtering-the-list-of-video-encoding-presets}
 
-The Video Presets page and the Adaptive Video Presets page consist of a table that lists the active status, preset name, intended playback device, video size, and data rate of each video preset.
+The Video Presets page and the Adaptive Video Presets page consist of a table that lists the active status, preset name, intended playback device, video size, and data rate of each Video Preset.
 
 You can refine the list by choosing to filter on Both, Active, or Inactive, to see all Video Presets or narrow the list to presets that are active or inactive.
 
@@ -288,7 +288,7 @@ You can also filter based on a playback device option to narrow the list to Vide
 
 1. In Adobe Dynamic Media Classic, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Adaptive Video Presets]** or **[!UICONTROL Single Encoding Presets]**.
 
-   The pages for Adaptive Video Presets and Single Encoding Presets include a table that lists the Active status, Preset name, intended Playback Device, video dimensions, and  data rate of each video preset. 
+   The pages for Adaptive Video Presets and Single Encoding Presets include a table that lists the Active status, Preset name, intended playback device, video dimensions, and data rate of each Video Preset. 
 
 1. On the Single Encoding Presets page called Video Presets, on the Video Presets toolbar, use the two drop-down lists to refine the list of presets in the table based on Active status, and playback device.
 
@@ -307,8 +307,8 @@ Activated Video Presets show up in the Upload Job Options dialog box. The dialog
 
 1. Do one of the following:
 
-    * To activate a video preset, on the presets page, under the Active column, select the box next to a preset name.
-    * To deactivate a video preset, deselect the box next to the video preset that you want to make inactive.
+    * To activate a Video Preset, on the presets page, under the Active column, select the box next to a preset name.
+    * To deactivate a Video Preset, deselect the box next to the Video Preset that you want to make inactive.
 
       >[!NOTE]
       >
@@ -316,17 +316,17 @@ Activated Video Presets show up in the Upload Job Options dialog box. The dialog
 
 1. In the lower right corner of the page, select **[!UICONTROL Close]**.
 
-### Add or edit a video encoding preset {#adding-or-editing-a-video-encoding-preset}
+### Add or edit a Video Encoding Preset {#adding-or-editing-a-video-encoding-preset}
 
-You can create your own custom, single-encoding video presets and add them to the Video Presets table. You can also change any pre-defined single-encoding Video Presets that came with Adobe Dynamic Media Classic, provided you save the edited preset with a new name.
+You can create your own custom, single-encoding Video Presets and add them to the Video Presets table. You can also change any pre-defined single-encoding Video Presets that came with Adobe Dynamic Media Classic, provided you save the edited preset with a new name.
 
-Adobe Dynamic Media Classic has set maximum limits on the target data rate, resolution height, and resolution width to ensure a proper playback experience. Warning messages appear if you exceed these limits which are the following:
+Adobe Dynamic Media Classic has set maximum limits on the target data rate, resolution height, and resolution width to ensure a proper playback experience. Warning messages appear if you exceed these limits, which are the following:
 
 * For computer playback, the limits are: (Width/16) &#42; (Height/16) &lt; 8192.
 * For mobile playback, the limits are: (Width/16) &#42; (Height/16) &lt; 660; target data rate &lt; 4000.
 * For tablet playback, the limits are: (Width/16) &#42; (Height/16) &lt; 3600.
 
-**To add or edit a video encoding preset:**
+**To add or edit a Video Encoding Preset:**
 
 1. In Adobe Dynamic Media Classic, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
 1. Select **[!UICONTROL Single Encoding Presets]**.
@@ -344,10 +344,10 @@ Adobe Dynamic Media Classic has set maximum limits on the target data rate, reso
     | Video Preset option | Description |
     | --- | --- |
     | Preset Name | Enter a descriptive name for the Video Preset. The name you enter appears in the Upload Job Options dialog box, in which users choose transcoding options. |
-    | Description | Describe the Video Preset. What you enter appears as a tooltip when you move the pointer over the name of the preset in the Upload Job Options dialog box in which users choose transcoding options. |
+    | Description | Describe the Video Preset. What you enter appears as a tooltip. When users choose transcoding options, the tooltip appears when they move the pointer over the name of the preset in the Upload Job Options dialog box. |
     | Playback Device | Choose the device that the video is intended to play back on. The options are Computer (desktops), Mobile (iPhone, iPad, Android&trade;); or Tablet (iPad only). This setting automatically determines the appropriate video and audio codec used during encoding. |
-    | Target Data Rate | Enter the average Internet connection speed (in kilobits per second) of the target end user. You can enter the rate or drag the slider to enter it. The User Connection Speed spectrum lists typical speeds for broadband, DSL, mobile, and dial-up connections. This setting automatically determines the combined video and audio data rate. In other words, the amount of data that is encoded to make up a single second of video playback. The higher the data rate, the better the quality of the resulting video. However, data rates that are too high result in large file sizes that create subpar viewing experiences for users with a low bandwidth. As a best practice, strike a balance between high and low data rates. Aim to create an adequate quality playback experience without alienating users who have narrow bandwidths. |
-    | Aspect Ratio | Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3 - Used for almost all standard definition TV broadcast content.</li><li>16:9 - Used for almost all wide-screen content and movies on High-Definition Television (HDTV).</li><li>Auto-scale - (Default) A single-encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio (width to height ratio).</li><li>Custom - Used when you want to define a non-standard video size.</li><li>The aspect ratio that you choose determines the width and the height settings for the Resolution Size; the width and the height value automatically scale to the proper aspect ratio.</li></ul> |
+    | Target Data Rate | Enter the average Internet connection speed (in kilobits per second) of the target end user. You can enter the rate or drag the slider to enter it. The User Connection Speed spectrum lists typical speeds for broadband, DSL, mobile, and dial-up connections. This setting automatically determines the combined video and audio data rate. In other words, the amount of data that is encoded to make up a single second of video playback. The higher the data rate, the better the quality of the resulting video. However, data rates that are too high result in large file sizes that create subpar viewing experiences for users with a low bandwidth. As a best practice, strike a balance between high and low data rates. Try to aim to create an adequate quality playback experience without alienating users who have narrow bandwidths. |
+    | Aspect Ratio | The aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3: Used for almost all standard definition TV broadcast content.</li><li>16:9: Used for almost all wide-screen content and movies on High-Definition Television (HDTV).</li><li>Auto-scale: (Default) A single-encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio (width to height ratio).</li><li>Custom: Used when you want to define a non-standard video size.</li><li>The aspect ratio that you choose determines the width and the height settings for the Resolution Size; the width and the height value automatically scale to the proper aspect ratio.</li></ul> |
     | Resolution Size | Resolution size, expressed by the number of pixels wide by the number of pixels high, determines the size. Enter a width and a height value in pixels or drag the slider to enter these values. The Resolution spectrum lists typical resolution sizes. The width value and the height value automatically adhere to the aspect ratio that you selected. For example, if you select 4:3 as the aspect ratio and enter 400 for width, 300 is entered automatically for height. If you selected Auto-scale for the Aspect Ratio setting, then the Width value for the Resolution Size is automatically set to Auto. Select **[!UICONTROL Preview]** so you can open a browser window and see your resolution choices there. |
     | Encode File Suffix | Enter a suffix. This suffix is appended to the resulting encoded video file. You can enter a hyphen and underscore in the name; blank spaces and special characters are not allowed. |
     | Other Settings | Adobe Dynamic Media Classic determines all other encoding settings automatically according to best-practice encoding guidelines. |

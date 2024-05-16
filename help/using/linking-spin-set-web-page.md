@@ -1,6 +1,6 @@
 ---
-title: Link a Spin Set to a web page
-description: Learn how to link a Spin Set to a web page in Adobe Dynamic Media Classic.
+title: Link a Spin Set to a Web page
+description: Learn how to link a Spin Set to a Web page in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -11,9 +11,9 @@ exl-id: af75547e-20e8-44c2-b165-01532d6e21d0
 topic: Content Management
 level: Intermediate
 ---
-# Link a Spin Set to a web page{#linking-a-spin-set-to-a-web-page}
+# Link a Spin Set to a Web page{#linking-a-spin-set-to-a-web-page}
 
-Web sites and applications access Dynamic Media Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embed code for your Spin Set in your web pages and applications, you copy it from Adobe Dynamic Media Classic.
+Web sites and applications access Dynamic Media Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embed code for your Spin Set in your Web pages and applications, you copy it from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Web sites and applications access Dynamic Media Image Server content, including 
 
       In the Viewer List page, under the Actions column of the table, select **[!UICONTROL Copy URL]**.
 
-## Add Spin Set URLs to your web page {#adding-spin-set-urls-to-your-web-page}
+## Add Spin Set URLs to your Web page {#adding-spin-set-urls-to-your-web-page}
 
 Spin Sets are deployed like all zoom viewers, by way of a dynamic page (ASP or JSP) that displays the Spin Set in a zoom window. The URL call to the Adobe Dynamic Media Classic platform follows the same protocol on the zoom viewer. However, the Viewer Preset name depends on the Preset that your administrator defined as the default Spin Set Viewer Preset. For example, the following non-live, URL syntax example includes a Preset name called `viewer.jsp` and the SKU parameter is now the Spin Set name:
 
@@ -50,7 +50,7 @@ In this URL syntax example (the link is not live), notice a SKU number ( `sku=ba
 
 ## Copy the embed code of a Spin Set viewer {#copying-the-embed-code-of-a-spin-set-viewer}
 
-Using the Embed Code feature lets you review the viewer code for the selected Spin Set. You can also copy the code to the clipboard so you can paste it in your web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+Using the Embed Code feature lets you review the viewer code for the selected Spin Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
 **To copy the embed code of a Spin Set viewer:**
 

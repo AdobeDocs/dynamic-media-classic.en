@@ -1,6 +1,6 @@
 ---
-title: Link URLs to your web application
-description: Learn how to link URLs to your web application from Adobe Dynamic Media Classic.
+title: Link URLs to your Web application
+description: Learn how to link URLs to your Web application from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -11,11 +11,11 @@ exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
 topic: Administration, Content Management, Development
 level: Intermediate
 ---
-# Link URLs to your web application{#linking-urls-to-your-web-application}
+# Link URLs to your Web application{#linking-urls-to-your-web-application}
 
-Your web sites and applications access Dynamic Media Image Server content by way of URL strings. After you publish an image, Adobe Dynamic Media Classic activates a URL string that references the Image Preset on Dynamic Media Image Servers. You can paste these URLs into a web browser for testing.
+Your Web sites and applications access Dynamic Media Image Server content by way of URL strings. After you publish an image, Adobe Dynamic Media Classic activates a URL string that references the Image Preset on Dynamic Media Image Servers. You can paste these URLs into a Web browser for testing.
 
-To place these URL strings in your web pages and applications, copy them from Adobe Dynamic Media Classic. To obtain a URL string generated with an Image Preset, go to the Preview screen or the Browse Panel (in Detail View).
+To place these URL strings in your Web pages and applications, copy them from Adobe Dynamic Media Classic. To obtain a URL string generated with an Image Preset, go to the Preview screen or the Browse Panel (in Detail View).
 
 ## Obtain an Image Preset URL {#obtaining-an-image-preset-url}
 
@@ -72,9 +72,9 @@ https://s7d1.scene7.com/is/image/S7learn/backpack?$Large$
 
 Image Preset names in URLs are enclosed in dollar signs ($). When a Dynamic Media Image Server encounters the Image Preset portion of the URL (the `Large` in this case), using the size and formatting instructions defined by the "Large" Image Preset.
 
-## Add dynamic images to your web page {#adding-dynamic-images-to-your-web-page}
+## Add dynamic images to your Web page {#adding-dynamic-images-to-your-web-page}
 
-To add dynamic images to your web page, the `<IMG>` tag in your HTML web page code typically is modified using the Adobe Dynamic Media Classic URL string to make a request to Dynamic Media Image Servers. This string produces the image at the size and formatting specifications defined by the Image Preset.
+To add dynamic images to your Web page, the `<IMG>` tag in your HTML Web page code typically is modified using the Adobe Dynamic Media Classic URL string to make a request to Dynamic Media Image Servers. This string produces the image at the size and formatting specifications defined by the Image Preset.
 
 For example, instead of the typical call to open a static image such as
 

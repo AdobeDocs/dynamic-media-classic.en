@@ -88,7 +88,7 @@ You can display the Advanced options on the Publishing page and choose these opt
 
 * **[!UICONTROL Publish To]**: To publish assets only to a specific server, choose a server type.
 
-* **[!UICONTROL Publish]** - By default, Adobe Dynamic Media Classic publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can select **[!UICONTROL Full Publish]** so you can also publish assets that have been updated or changed since they were last published. Select **[!UICONTROL Full w/ Search Data]** if you are publishing an eCatalog and you want readers to be able to search it by keyword.
+* **[!UICONTROL Publish]**: By default, Adobe Dynamic Media Classic publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can select **[!UICONTROL Full Publish]** so you can also publish assets that have been updated or changed since they were last published. Select **[!UICONTROL Full w/ Search Data]** if you are publishing an eCatalog and you want readers to be able to search it by keyword.
 
 * **[!UICONTROL Run Job As]**: Choose a user name from the list. You can sort jobs by user name on the Jobs page. By choosing a name, you associate a publishment job with a user.
 
@@ -144,13 +144,13 @@ The last date that an asset was published is shown in Detail View at the top of 
 
 ## Republished assets and CDN delays {#republished-assets-and-cdn-delays}
 
-Adobe Dynamic Media Classic assets are distributed on the content delivery network (CDN). CDN is a system of computer servers networked together that cooperate transparently to deliver content, especially large media content, to end users. In the CDN system, web content is stored in web caches across the Internet (called the edge cache network). Web content is delivered from the Web caches to end users to make for faster deliveries.
+Adobe Dynamic Media Classic assets are distributed on the content delivery network (CDN). CDN is a system of computer servers networked together that cooperate transparently to deliver content, especially large media content, to end users. In the CDN system, Web content is stored in Web caches across the Internet (called the edge cache network). Web content is delivered from the Web caches to end users to make for faster deliveries.
 
-The first time someone downloads a web page, the assets are delivered to a CDN web cache server. This server stores them so that the next time someone in the same area accesses the web page, the same cached content is delivered faster. The content is delivered faster because it is located closer to the end user. CDN makes for faster web page displays. It decreases bandwidth demands on the central server because content is delivered from the edge cache network, not from a central server in every instance.
+The first time someone downloads a Web page, the assets are delivered to a CDN Web cache server. This server stores them so that the next time someone in the same area accesses the Web page, the same cached content is delivered faster. The content is delivered faster because it is located closer to the end user. CDN makes for faster Web page displays. It decreases bandwidth demands on the central server because content is delivered from the edge cache network, not from a central server in every instance.
 
-Newly published Adobe Dynamic Media Classic content is available immediately to the end user and quickly populates the edge cache network. However, newly republished content, that is, images that have the same names as images previously published to an image server, are not updated on CDN for up to ten hours. Instead, end users see what is in a web cache on the CDN network. For this reason, your Adobe Dynamic Media Classic republished assets do not appear to end users for ten hours.
+Newly published Adobe Dynamic Media Classic content is available immediately to the end user and quickly populates the edge cache network. However, newly republished content, that is, images that have the same names as images previously published to an Image Server, are not updated on CDN for up to ten hours. Instead, end users see what is in a Web cache on the CDN network. For this reason, your Adobe Dynamic Media Classic republished assets do not appear to end users for ten hours.
 
-If you want your newly republished image assets to be available sooner than the ten-hour delay, you can flush web caches on CDN. Flushing these web caches removes old content from CDN web caches and replaces it with your most recently published assets.
+If you want your newly republished image assets to be available sooner than the ten-hour delay, you can flush Web caches on CDN. Flushing these Web caches removes old content from CDN Web caches and replaces it with your most recently published assets.
 
 To flush the cache, on the Global Navigation bar, go to **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**. All selected files are removed from the cache. If there are no publishable assets, or if you are not a company admin, the Remove from CDN option is not available.
 

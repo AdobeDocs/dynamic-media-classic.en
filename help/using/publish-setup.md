@@ -1,6 +1,6 @@
 ---
 title: Publish Setup
-description: Publish Setup settings let you determine how assets are delivered by default from Adobe Dynamic Media Classic servers to web sites or applications.
+description: Publish Setup settings let you determine how assets are delivered by default from Adobe Dynamic Media Classic servers to Web sites or applications.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -12,7 +12,7 @@ level: Intermediate
 ---
 # Publish Setup {#publish-setup}
 
-The Publish Setup page settings determine how assets are delivered by default from Adobe Dynamic Media Classic servers to web sites or applications. If no setting is specified, the Adobe Dynamic Media Classic server delivers an asset according to a default setting on a Publish Setup page. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server page.
+The Publish Setup page settings determine how assets are delivered by default from Adobe Dynamic Media Classic servers to Web sites or applications. If no setting is specified, the Adobe Dynamic Media Classic server delivers an asset according to a default setting on a Publish Setup page. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server page.
 
 Administrators can change the default settings on the Image Server, Image Renderer, and Vignette pages to establish default settings for delivering assets from servers.
 
@@ -20,15 +20,15 @@ To open the pages of Publish Setup, go to **[!UICONTROL Setup]** > **[!UICONTROL
 
 >[!NOTE]
 >
->The Publish Setup pages are for use by experienced web site developers and programmers. Adobe Dynamic Media Classic assumes that users who change settings on these pages are familiar with Adobe Dynamic Media Classic, HTTP protocol standards and conventions, and basic imaging technology.
+>The Publish Setup pages are for use by experienced Web site developers and programmers. Adobe Dynamic Media Classic assumes that users who change settings on these pages are familiar with Adobe Dynamic Media Classic, HTTP protocol standards and conventions, and basic imaging technology.
 
 ## Image Server {#image-server}
 
-The Image Server page establishes default settings for delivering images from image servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings).
+The Image Server page establishes default settings for delivering images from Image Servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings).
 
 Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
 
-* **[!UICONTROL Catalog Management]**: These settings determine how Adobe Dynamic Media Classic and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the Image Server. It also contains the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
+* **[!UICONTROL Catalog Management]**: These settings determine how Adobe Dynamic Media Classic and the catalog interact. Unlike most Web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the Image Server. It also contains the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
 * **[!UICONTROL Request Attributes]**: These settings impose limits on images that can be delivered from the server. For example, the *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 and **[!UICONTROL Height]** 5000.
 
@@ -154,7 +154,7 @@ The locale IDs are mapped to their corresponding suffixes. If no locale-specific
 | en, en_us, en_uk | myImg_E, myImg |
 | de, de_de, de_at | myImg_D, myImg |
 | fr | myImg_F, myImg |
-| All others | - |
+| All others |: |
 
 ##### Finding the localeMap when the locale is unknown
 
@@ -216,15 +216,15 @@ Using the first example as a basis, images for all languages could have the suff
 
 The Image Renderer page establishes default settings for delivering Image Sets from image-rendering servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings):
 
-* **[!UICONTROL Catalog Management]** - These settings determine how Adobe Dynamic Media Classic and the catalog file interact. Adobe Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
+* **[!UICONTROL Catalog Management]**: These settings determine how Adobe Dynamic Media Classic and the catalog file interact. Adobe Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
 
-* **[!UICONTROL Session Attributes]** - These settings establish error parameters, the URL for relative image URLs, and whether object overlapping is permitted.
+* **[!UICONTROL Session Attributes]**: These settings establish error parameters, the URL for relative image URLs, and whether object overlapping is permitted.
 
-* **[!UICONTROL Default Material Attributes]** - These settings establish default resolution and sharpening settings for images.
+* **[!UICONTROL Default Material Attributes]**: These settings establish default resolution and sharpening settings for images.
 
-* **[!UICONTROL Response Image Attributes]** - These settings pertain to the default appearance of images.
+* **[!UICONTROL Response Image Attributes]**: These settings pertain to the default appearance of images.
 
-* **[!UICONTROL Color Management Attributes]** - These settings pertain to the default color settings of images.
+* **[!UICONTROL Color Management Attributes]**: These settings pertain to the default color settings of images.
 
 ## Vignette {#vignette}
 

@@ -24,9 +24,9 @@ You can create and customize Viewer Presets to suit your needs.
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Create or edit a Viewer preset on the Viewer Presets page by doing one of the following:
 
-   * **Create** - Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, in the Viewer drop-down list, choose **[!UICONTROL Zoom Viewer]**, and then select **[!UICONTROL Add]**. You can also create a Zoom Viewer preset by starting from an existing one. Display the name of the preset, select it, and then select **[!UICONTROL Edit]**. On the `Configure Viewer` page, enter a new name for the preset.
+   * **Create**: Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, in the Viewer drop-down list, choose **[!UICONTROL Zoom Viewer]**, and then select **[!UICONTROL Add]**. You can also create a Zoom Viewer preset by starting from an existing one. Display the name of the preset, select it, and then select **[!UICONTROL Edit]**. On the `Configure Viewer` page, enter a new name for the preset.
 
-   * **Edit** - Display the name of a preset, select it, then select **[!UICONTROL Edit]**.
+   * **Edit**: Display the name of a preset, select it, then select **[!UICONTROL Edit]**.
 
 1. On the `Configure Viewer` page, in the Preset Name text field, type a name for the Swatch Set Viewer Preset.
 1. Choose options in the `Configure Viewer` page.

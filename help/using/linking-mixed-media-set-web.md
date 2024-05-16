@@ -1,6 +1,6 @@
 ---
-title: Link a Mixed Media Set to a web page
-description: Learn how to link a Mixed Media Set to a web page in Adobe Dynamic Media Classic.
+title: Link a Mixed Media Set to a Web page
+description: Learn how to link a Mixed Media Set to a Web page in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -11,9 +11,9 @@ exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
 topic: Content Management
 level: Intermediate
 ---
-# Link a Mixed Media Set to a web page{#linking-a-mixed-media-set-to-a-web-page}
+# Link a Mixed Media Set to a Web page{#linking-a-mixed-media-set-to-a-web-page}
 
-After you publish a Mixed Media Set, you can obtain its associated URL for use in your web site or application. Then you can deploy the URL as necessary so users can view the Mixed Media Set on your web site or application.
+After you publish a Mixed Media Set, you can obtain its associated URL for use in your Web site or application. Then you can deploy the URL as necessary so users can view the Mixed Media Set on your Web site or application.
 
 ## Obtain a Mixed Media Set URL {#obtain-a-mixed-media-set-url}
 
@@ -34,13 +34,13 @@ After you publish a Mixed Media Set, you can obtain its associated URL for use i
 
       In the Viewer List page, under the Actions column of the table, select **[!UICONTROL Copy URL]**.
 
-## Add Mixed Media Set URLs to your web page {#add-mixed-media-set-urls-to-your-web-page}
+## Add Mixed Media Set URLs to your Web page {#add-mixed-media-set-urls-to-your-web-page}
 
-The most common way to deploy a Mixed Media Set is to place a link (by way of a navigation icon) on your web page. When selected, the link launches a dynamic page (ASP or JSP) that displays the Mixed Media Set in Mixed Media Set Viewer.
+The most common way to deploy a Mixed Media Set is to place a link (by way of a navigation icon) on your Web page. When selected, the link launches a dynamic page (ASP or JSP) that displays the Mixed Media Set in Mixed Media Set Viewer.
 
 ## Copy the embed code of a Mixed Media Set viewer {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 
-Using the Embed Code feature lets you review the viewer code for the selected Mixed Media Set. You can also copy the code to the clipboard so you can paste it in your web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+Using the Embed Code feature lets you review the viewer code for the selected Mixed Media Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
 **To copy the embed code of a Mixed Media Set viewer:**
 

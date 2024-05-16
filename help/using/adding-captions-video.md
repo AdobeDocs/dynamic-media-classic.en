@@ -26,11 +26,11 @@ To configure the Caption Effect and to edit the Caption Menu itself, including t
 * `Universal_HTML5_MixedMedia_dark` viewer
 * `Universal_HTML5_MixedMedia_light` viewer
 
-See [Add or edit a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
+See [Add or edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
 See also [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-Adobe Dynamic Media Classic can convert caption files to JSON (JavaScript Object Notation) format. This conversion means you can embed the JSON text into a web page as a hidden but complete transcript of the video. Search engines can then crawl and index the content to make the videos more easily discoverable and give customers more details about the video content.
+Adobe Dynamic Media Classic can convert caption files to JSON (JavaScript Object Notation) format. This conversion means you can embed the JSON text into a Web page as a hidden but complete transcript of the video. Search engines can then crawl and index the content to make the videos more easily discoverable and give customers more details about the video content.
 
 See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) in for more information about using the JSON function in a URL.
 
@@ -40,7 +40,7 @@ See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/do
 
    |Viewer type|Captioning file|
    |--- |--- |
-   |HTML5|If you are using an HTML5 video viewer, ensure that the caption file you create follows the WebVTT (Web Video Text Tracks) standard. The captioning filename extension is `.VTT`. You can learn more information about the WebVTT captioning standard.<br><br>[See WebVTT](https://w3c.github.io/webvtt/): The Web Video Text Tracks format. <br><br>There are many websites that offer both free and fee-based tools and services that you can use to author WebVTT caption files. <br><br>Follow the onscreen instructions from a site to author and save your WebVTT file. When you have finished, copy the caption file contents and paste it into a plain text editor and save it with a VTT filename extension. <br><br><b>Note:</b> For global support of video captions in languages other than English, the WebVTT standard requires that you create separate `.VTT` files and calls for each language you want to support. <br><br>Generally, you want to name the caption VTT file the same name as the video file, and append it with captions. By doing so, it can help you with automating the generation of the video URLs using your existing web content management system.|
+   |HTML5|If you are using an HTML5 video viewer, ensure that the caption file you create follows the WebVTT (Web Video Text Tracks) standard. The captioning filename extension is `.VTT`. You can learn more information about the WebVTT captioning standard.<br><br>[See WebVTT](https://w3c.github.io/webvtt/): The Web Video Text Tracks format. <br><br>There are many websites that offer both free and fee-based tools and services that you can use to author WebVTT caption files. <br><br>Follow the onscreen instructions from a site to author and save your WebVTT file. When you have finished, copy the caption file contents and paste it into a plain text editor and save it with a VTT filename extension. <br><br><b>Note:</b> For global support of video captions in languages other than English, the WebVTT standard requires that you create separate `.VTT` files and calls for each language you want to support. <br><br>Generally, you want to name the caption VTT file the same name as the video file, and append it with captions. By doing so, it can help you with automating the generation of the video URLs using your existing Web content management system.|
 
 1. In Adobe Dynamic Media Classic, upload your WebVTT, DFXP, or SMPTE XML caption file.
 

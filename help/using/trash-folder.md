@@ -47,9 +47,9 @@ When you delete assets in the Trash folder, the assets are permanently deleted. 
 
 To permanently delete assets from the Trash folder, select the **[!UICONTROL Trash]** icon. On the Trash folder page, do any of the following:
 
-* **Deleting individual assets** - Select the assets that you want to permanently delete, and then go to **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
+* **Deleting individual assets**: Select the assets that you want to permanently delete, and then go to **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
 
-* **Deleting all assets** - Go to **[!UICONTROL File]** > **[!UICONTROL Empty trash]**.
+* **Deleting all assets**: Go to **[!UICONTROL File]** > **[!UICONTROL Empty trash]**.
 
 >[!MORELIKETHIS]
 >

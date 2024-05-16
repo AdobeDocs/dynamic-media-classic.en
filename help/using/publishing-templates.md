@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Publish templates{#publishing-templates}
 
-Publishing your template places it on Dynamic Media Image Servers, where it is available to your web site and application. During the publishing process, Adobe Dynamic Media Classic activates the URLs you need for your web site and application.
+Publishing your template places it on Dynamic Media Image Servers, where it is available to your Web site and application. During the publishing process, Adobe Dynamic Media Classic activates the URLs you need for your Web site and application.
 
 >[!NOTE]
 >

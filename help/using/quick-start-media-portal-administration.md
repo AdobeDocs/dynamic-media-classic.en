@@ -15,7 +15,7 @@ level: Beginner
 
 Media Portal lets companies easily acquire, control, and distribute approved assets to external partners and channels, and internal users of a company. This browser-based, "self-serve" environment provides Media Portal users with administrator-controlled "views" into Adobe Dynamic Media Classic assets for easy access to, browse, search, preview, and export assets in corporate-approved formats.
 
-As an administrator, you control how users view, access, and use assets in Media Portal. Moreover, you can customize the Media Portal interface to match your web site and brand. You can specify font, font color, font size, and incorporate branding elements such as logos in the Media Portal interface.
+As an administrator, you control how users view, access, and use assets in Media Portal. Moreover, you can customize the Media Portal interface to match your Web site and brand. You can specify font, font color, font size, and incorporate branding elements such as logos in the Media Portal interface.
 
 See the following training videos:
 
@@ -29,7 +29,7 @@ The following Quick Start is designed to get you up and running quickly with Med
 
 ## 1. Understand Media Portal user roles
 
-Media Portal users fall in three roles - user, contributor, and user-contributor. Each role can perform a different set of tasks. For example, a contributor can rename and delete files and folders, but a user cannot do those tasks. Understand the different roles so that when you add users, you understand what responsibilities you give them.
+Media Portal users fall in three roles: user, contributor, and user-contributor. Each role can perform a different set of tasks. For example, a contributor can rename and delete files and folders, but a user cannot do those tasks. Understand the different roles so that when you add users, you understand what responsibilities you give them.
 
 See [Media Portal user roles](media-portal-user-roles.md#media_portal_user_roles).
 

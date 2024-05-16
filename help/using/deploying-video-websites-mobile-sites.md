@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Deploy video to your websites and mobile sites{#deploying-video-to-your-websites-and-mobile-sites}
 
-Websites, mobile sites, and desktop applications access Adobe Dynamic Media Classic server content, including video, by using URL strings or embedded code. Adobe Dynamic Media Classic activates these URL strings during the publishing process. To place the URL string or embed code for your video in your web pages, mobile pages, and desktop applications, copy it from Adobe Dynamic Media Classic.
+Websites, mobile sites, and desktop applications access Adobe Dynamic Media Classic server content, including video, by using URL strings or embedded code. Adobe Dynamic Media Classic activates these URL strings during the publishing process. To place the URL string or embed code for your video in your Web pages, mobile pages, and desktop applications, copy it from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -25,9 +25,9 @@ Publishing a video enables Adobe Dynamic Media Classic Servers to deliver video 
 
 There are two different methods that you can use to publish video:
 
-* **Publish videos automatically and instantly on upload** - As part of the video upload process, Adobe Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability to instantly publish means that there is no need to publish videos separately after the fact.
+* **Publish videos automatically and instantly on upload**: As part of the video upload process, Adobe Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability to instantly publish means that there is no need to publish videos separately after the fact.
 
-* **Publish video manually after upload** - If you do not want to publish videos immediately, you can manually publish videos at any time.
+* **Publish video manually after upload**: If you do not want to publish videos immediately, you can manually publish videos at any time.
 
 After you publish videos, Adobe Dynamic Media Classic activates the URL strings for your HTML page or application code.
 
@@ -40,11 +40,11 @@ After you publish videos, Adobe Dynamic Media Classic activates the URL strings 
 
 ## Link a video URL to a mobile site or a website {#linking-a-video-url-to-a-mobile-site-or-a-website}
 
-When you publish a video, you can obtain its associated URL for use in your website, mobile site, or desktop application. Use the video URL when you want to display video in a pop-up or modal window on top of the web page.
+When you publish a video, you can obtain its associated URL for use in your website, mobile site, or desktop application. Use the video URL when you want to display video in a pop-up or modal window on top of the Web page.
 
 When a customer selects the link, their device, bandwidth, and screen size are automatically detected. The appropriate video is displayed for playback in a pre-defined viewer for desktop, or in the mobile device's native video player for smartphones and tablets.
 
-See also [Embed the video viewer on a web page](deploying-video-websites-mobile-sites.md#embedding_the_video_viewer_on_a_web_page).
+See also [Embed the video viewer on a Web page](deploying-video-websites-mobile-sites.md#embedding_the_video_viewer_on_a_web_page).
 
 **To link a video URL to a mobile site or a website:**
 
@@ -67,13 +67,13 @@ See also [Embed the video viewer on a web page](deploying-video-websites-mobile-
 
 1. Paste the HTML5 video URL link on your website and mobile site.
 
-## Embed the video viewer on a web page {#embedding-the-video-viewer-on-a-web-page}
+## Embed the video viewer on a Web page {#embedding-the-video-viewer-on-a-web-page}
 
-Use the Embed Code feature when you want to play the video embedded on the web page. You copy the embed code to the clipboard so you can paste it in your web pages. Editing of the code is not permitted in the Embed Code dialog box.
+Use the Embed Code feature when you want to play the video embedded on the Web page. You copy the embed code to the clipboard so you can paste it in your Web pages. Editing of the code is not permitted in the Embed Code dialog box.
 
 See also [Link a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
-**To embed the video viewer on a web page:**
+**To embed the video viewer on a Web page:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Video]**, or **[!UICONTROL Adaptive Video Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set whose embed code you want to copy.
@@ -97,7 +97,7 @@ See also [Link a video URL to a mobile site or a website](deploying-video-websit
    Editing the code is not permitted in the Embed Code dialog box.
 
 1. select **[!UICONTROL Close]**.
-1. Paste the embed code in your web pages.
+1. Paste the embed code in your Web pages.
 
 ### Implement embed code for using HTML5 video with MP4 video assets {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 
@@ -179,7 +179,7 @@ The *poster frame* is the initial frame that appears in Video viewers before the
 
 You can apply image modifiers to the poster frame. For example, you can crop the poster frame or make it transparent. To modify the poster frame, open the video viewer configuration screen and enter modifiers in the Poster Image Modifiers section.
 
-See [Add or edit a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
+See [Add or edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
 See [Image Serving Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home#image-serving-api).
 

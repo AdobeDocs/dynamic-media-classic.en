@@ -17,7 +17,7 @@ Template Basics are dynamically created and addressable layered image files like
 
 A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, and create templates in Adobe Dynamic Media Classic. You can create text layers in templates using fonts that you uploaded into Adobe Dynamic Media Classic. After you add text to a template, you can format it by changing its justification, its font, font size, and color.
 
-Using the Parameters page, you can convert any aspect of a template to an addressable parameter. In doing so, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the image server.
+Using the Parameters page, you can convert any aspect of a template to an addressable parameter. In doing so, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the Image Server.
 
 See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) training video.
 
@@ -53,14 +53,14 @@ To parameterize a layer, open the template in the Template page, and then select
 
 ## 4. Publish templates
 
-Publishing your template places it on Dynamic Media Image Servers so that it can be dynamically delivered to your web site or application. Publishing also activates the URL to call the template from Dynamic Media Image Servers to your web site or application.
+Publishing your template places it on Dynamic Media Image Servers so that it can be dynamically delivered to your Web site or application. Publishing also activates the URL to call the template from Dynamic Media Image Servers to your Web site or application.
 
 Be sure to publish all images associated with your template.
 
 To publish a template, mark it for publish and on the Global Navigation bar, select **[!UICONTROL Publish]**. Then select **[!UICONTROL Submit Publish]**. See [Publish templates](publishing-templates.md#publishing_templates).
 
-## 5. Link a template to a web page
+## 5. Link a template to a Web page
 
 Dynamic Media Classic creates URLs for templates, and activates the URLs when you publish templates to Dynamic Media Image Servers. You can copy these URL strings from the Template Preview page.
 
-Select your template in the Browse Panel, and then select **[!UICONTROL Preview]** to open the Template Preview page. Choose an Image Preset for delivering your template, and then select **[!UICONTROL Copy URL]**. After you copy the URL from the Preview page, you can use it in your web site or application. See [Link a template to a web page](linking-template-web-page.md#linking_a_template_to_a_web_page).
+Select your template in the Browse Panel, and then select **[!UICONTROL Preview]** to open the Template Preview page. Choose an Image Preset for delivering your template, and then select **[!UICONTROL Copy URL]**. After you copy the URL from the Preview page, you can use it in your Web site or application. See [Link a template to a Web page](linking-template-web-page.md#linking_a_template_to_a_web_page).

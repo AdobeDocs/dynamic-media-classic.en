@@ -10,7 +10,7 @@ exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
 topic: Administration
 level: Intermediate
 ---
-# Adobe Dynamic Media Classic Desktop app - Now available {#new-ui-2020}
+# Adobe Dynamic Media Classic Desktop app: Now available {#new-ui-2020}
 
 See the [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the new app, and then sign in to it.
 
@@ -21,7 +21,7 @@ Adobe Dynamic Media Classic users now have access to a new sign-in that no longe
 ## Frequently Asked Questions
 
 +++**_When browsers stop supporting Adobe Flash on December 31, 2020, will there be any impact to Adobe Dynamic Media Classic (formerly Scene7)?_**
-Adobe Flash Player was a web browser plug-in that allowed web browsers to use content developed on the Adobe Flash Platform. The web user interface of Adobe Dynamic Media Classic (currently labeled [!DNL Scene7 Publishing System] or [!DNL SPS] in the product) required the Adobe Flash Player. When Adobe Flash is deprecated December 31, 2020, Adobe Dynamic Media Classic customers will no longer be able to log into the web user interface. Because of this change, Adobe has provided customers with a desktop app that replaces the browser experience.
+Adobe Flash Player was a Web browser plug-in that allowed Web browsers to use content developed on the Adobe Flash Platform. The Web user interface of Adobe Dynamic Media Classic (currently labeled [!DNL Scene7 Publishing System] or [!DNL SPS] in the product) required the Adobe Flash Player. When Adobe Flash is deprecated December 31, 2020, Adobe Dynamic Media Classic customers will no longer be able to log into the Web user interface. Because of this change, Adobe has provided customers with a desktop app that replaces the browser experience.
 +++
 
 +++**_How do I access the new desktop app?_**
@@ -41,7 +41,7 @@ After downloading, installing, and launching the desktop app, you are presented 
 
 +++
 
-+++**_What if I am using the Adobe Dynamic Media Classic APIs to access the product and do not sign in through the web user interface?_**
++++**_What if I am using the Adobe Dynamic Media Classic APIs to access the product and do not sign in through the Web user interface?_**
 There are no changes to the underlying APIs for Adobe Dynamic Media Classic.
 +++
 
@@ -104,4 +104,4 @@ To learn more about the benefits of upgrading to the next generation of rich med
 >* [Sign in to and out of the Adobe Dynamic Media Classic desktop application](/help/using/signing-out.md)
 >* [Download and install the Adobe Dynamic Media Classic desktop application](/help/using/dynamic-media-classic-desktop-app.md)
 
-<!-- SAVE - OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->
+<!-- SAVE: OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->

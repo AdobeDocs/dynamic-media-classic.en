@@ -19,13 +19,13 @@ See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.h
 
 >[!NOTE]
 >
->If you edit a template created in an earlier version of Adobe Dynamic Media Classic, a prompt asks you upon saving "Do you want to add a canvas layer?". Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.
+>If you edit a template created in an earlier version of Adobe Dynamic Media Classic, a prompt asks you upon saving "Do you want to add a canvas layer?" Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.
 
 ## Create the initial template {#creating-the-initial-template}
 
-When you create a template set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+When you create a template set, the **[!UICONTROL Publish after saving]** option affects the set and set members in the following ways:
 
-| **[!UICONTROL Publish after save]** option selected before saving? | State of set after saving | State of set members after saving |
+| **[!UICONTROL Publish after saving]** option selected before saving? | State of set after saving | State of set members after saving |
 | --- | --- | --- |
 | Yes | Published | Published |
 | No | Unpublished |Set members retain their published or unpublished state. |
@@ -38,13 +38,13 @@ You can create a template from an existing template. Open the template, select *
 
 1. To create your initial template, use one of the following methods:
 
-   * **Select the PSD or images first** - In the Browse Panel, select the PSD file or images you want for your template, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**.
+   * **Select the PSD or images first**: In the Browse Panel, select the PSD file or images you want for your template, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**.
 
-   * **Start from the Template screen** - Go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Select either Designer or Developer.
+   * **Start from the Template screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Select either Designer or Developer.
 
 1. In the Enter Canvas Size dialog box, enter the width and the height measurements for your template.
 1. Select a folder in the Asset Library and drag the PSD file or images you want for your template onto the Template screen.
-1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after saving]** is selected (default).
 1. Select **[!UICONTROL Save]**.
 1. Select a folder for storing your template, enter a name for the template, and select **[!UICONTROL Submit]**.
 
@@ -52,9 +52,9 @@ You can create a template from an existing template. Open the template, select *
 
 ## Edit a template set {#editing-a-template-set}
 
-Whether you edit a published set or an unpublished template set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+Whether you edit a published set or an unpublished template set, the **[!UICONTROL Publish after saving]** option affects the set and set members in the following ways:
 
-| Set already published? | **[!UICONTROL Publish after save]** option selected before saving your edit? | State of set after saving | State of set members after saving |
+| Set already published? | **[!UICONTROL Publish after saving]** option selected before saving your edit? | State of set after saving | State of set members after saving |
 | --- | --- | --- | --- |
 | Yes | Yes | Published | Published |
 | Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |
@@ -67,12 +67,12 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. In the Grid View, browse to a Template Set, and then below the image, select **[!UICONTROL Edit]**.
 1. Change the template as necessary.
-1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after saving]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
 
 ## Delete a Template
 
-When you delete a Template set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a Template Set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
@@ -87,27 +87,27 @@ The Template screen offers tools for manipulating and parameterizing layers.
 
 Use these tools on the Template screen so you can create templates:
 
-* **[!UICONTROL Pan]** - Lets you select layers, move them around the canvas, resize them, or rotate them.
+* **[!UICONTROL Pan]**: Lets you select layers, move them around the canvas, resize them, or rotate them.
 
-* **[!UICONTROL Text]** - Creates a text layer. Drag on the canvas to create a text layer, and then enter the text in the layer. See [Creating a text layer](#creating-a-text-layer).
+* **[!UICONTROL Text]**: Creates a text layer. Drag on the canvas to create a text layer, and then enter the text in the layer. See [Creating a text layer](#creating-a-text-layer).
 
-* **[!UICONTROL Preview]** - Opens the Preview screen and shows the template in a Zoom Viewer. You see what the template looks like to users on your web site or application.
+* **[!UICONTROL Preview]**: Opens the Preview screen and shows the template in a Zoom Viewer. You see what the template looks like to users on your Web site or application.
 
 * **[!UICONTROL Parameter Summary]** Opens the Parameter Summary screen. You can see the name of each layer in a template, and on each layer, the names of parameters that have been activated.
 
-* **[!UICONTROL Text Editor v4.3 and Text Editor v4.2]** - You can choose to use the latest and most fully featured text editor, Text Editor v4.3, or the previous text editor, Text Editor v4.2. When creating templates, Text Editor v4.3 is selected by default. When editing older templates, Text Editor v4.2 is selected by default. Text Editor v4.3 does not currently support word wrap, so when editing older templates that use word wrap, use Text Editor v4.2 to keep the template's fidelity fully intact. If your older template does not use word wrap, you can choose Text Editor v4.3 to take advantage of the many new features it offers. For example, Increase Margins, Decrease Margins, Set Text In All Caps, and Copy Fit Text.
+* **[!UICONTROL Text Editor v4.3 and Text Editor v4.2]**: Use the latest and most fully featured Text Editor. You can choose to use Text Editor v4.3, or the previous Text Editor, Text Editor v4.2. When creating templates, Text Editor v4.3 is selected by default. When editing older templates, Text Editor v4.2 is selected by default. Text Editor v4.3 does not currently support word wrap, so when editing older templates that use word wrap, use Text Editor v4.2 to keep the template's fidelity fully intact. If your older template does not use word wrap, you can choose Text Editor v4.3 to take advantage of the many new features it offers. For example, Increase Margins, Decrease Margins, Set Text In All Caps, and Copy Fit Text.
 
    >[!NOTE]
    >
-   >Text Editor v4.2 is planned for removal as an option in Adobe Dynamic Media Classic, so it is recommended that you use Text Editor 4.3 when possible. The **[!UICONTROL Word Wrap]** option will be incorporated into a future release of the Text Editor.
+   >Text Editor v4.2 is planned for removal as an option in Adobe Dynamic Media Classic. It is recommended that you use Text Editor 4.3 when possible. The **[!UICONTROL Word Wrap]** option will be incorporated into a future release of the Text Editor.
 
-* **[!UICONTROL Designer and Developer]** - Select the option that best describes your role.
+* **[!UICONTROL Designer and Developer]**: Select the option that best describes your role.
 
-* **[!UICONTROL Canvas]** - Defines the total available area, in pixels, for defining your template. The default size is 300 &times; 300 pixels. Layers are placed on the canvas.
+* **[!UICONTROL Canvas]**: Defines the total available area, in pixels, for defining your template. The default size is 300 &times; 300 pixels. Layers are placed on the canvas.
 
-* **[!UICONTROL Layers list]** - Lists the name of layers in the template. To select a layer, select its name in the Layers list. The Layers list offers tools for adding effects to layers, deleting layers, reordering layers, and parameterizing layers. See [Work with layers](#working-with-layers).
+* **[!UICONTROL Layers list]**: Lists the name of layers in the template. To select a layer, select its name in the Layers list. The Layers list offers tools for adding effects to layers, deleting layers, reordering layers, and parameterizing layers. See [Work with layers](#working-with-layers).
 
-* **[!UICONTROL Layer Properties area]** - Offers tools for changing the background color, opacity, size, and position of a layer, as well as the background color, opacity, and size of the canvas. You can also adjust shadow and glow effects. See [Work with layers](#working-with-layers).
+* **[!UICONTROL Layer Properties area]**: This area offers tools for changing the background color, opacity, size, and position of a layer. You can also change the background color, opacity, and size of the canvas. You can also adjust shadow and glow effects. See [Work with layers](#working-with-layers).
 
 ## Create image layers {#creating-image-layers}
 
@@ -123,7 +123,7 @@ Use these tools on the Template screen so you can create templates:
 
 1. Select the **[!UICONTROL Text]** tool.
 1. Drag to create a text box on the canvas or on an image. 
-1. In the Text screen that opens, add text by doing any of the following on the Preview tab:
+1. In the Text screen that opens, add text by doing any of the following in the Preview tab:
 
     * Type text in the text box. Choose Copy Fit Text to make the text fit n the text box.
     * Paste text from the Clipboard into the text box.
@@ -138,25 +138,25 @@ To format text in a text layer, do the following:
 1. In the text box of the Text Editor, select the text you want to format. You can select all the text, portions of the text, or individual characters.
 1. Specify any of the following formatting options, and then select **[!UICONTROL Apply]**.
 
-   * **[!UICONTROL Font]** - Choose a font on the Font menu. If a font you want does not appear on the menu, you can upload it into the Adobe Dynamic Media Classic. See Fonts.
+   * **[!UICONTROL Font]**: Choose a font on the Font menu. If a font you want does not appear on the menu, you can upload it into the Adobe Dynamic Media Classic. See Fonts.
 
-   * **[!UICONTROL Font Size]** - Choose a font size from the menu, type a specific size in the box, or select the **[!UICONTROL Up]** or **[!UICONTROL Down]** arrows to increase or decrease the size by two points.
+   * **[!UICONTROL Font Size]**: Choose a font size from the menu, type a specific size in the box, or select the **[!UICONTROL Up]** or **[!UICONTROL Down]** arrows to increase or decrease the size by two points.
 
-   * **[!UICONTROL Color]** - Select to choose a color for text.
+   * **[!UICONTROL Color]**: Select to choose a color for text.
 
-   * **[!UICONTROL Bold]**, **[!UICONTROL Italic]**, or **[!UICONTROL Underline]** - Select the text, and then select the icon for the type of formatting you want to apply to the text.
+   * **[!UICONTROL Bold]**, **[!UICONTROL Italic]**, or **[!UICONTROL Underline]**: Select the text, and then select the icon for the type of formatting you want to apply to the text.
 
-   * **[!UICONTROL All Caps]**, **[!UICONTROL Superscript]**, or **[!UICONTROL Subscript]** - Select the text, and then select the icon for the type of formatting you want to apply to the text.
+   * **[!UICONTROL All Caps]**, **[!UICONTROL Superscript]**, or **[!UICONTROL Subscript]**: Select the text, and then select the icon for the type of formatting you want to apply to the text.
 
-   * **[!UICONTROL Alignment]** - Choose an Alignment button to left-align, center, or right-align text in the text layer.
+   * **[!UICONTROL Alignment]**: Choose an Alignment button to left-align, center, or right-align text in the text layer.
 
-   * **[!UICONTROL Tracking]** - Type or select a numeric value by which to adjust the amount of space between words.
+   * **[!UICONTROL Tracking]**: Type or select a numeric value by which to adjust the amount of space between words.
 
-   * **[!UICONTROL Kerning]** - Type or select a numeric value by which to adjust the amount of space between characters.
+   * **[!UICONTROL Kerning]**: Type or select a numeric value by which to adjust the amount of space between characters.
 
-   * **[!UICONTROL Line Spacing]** - Type or select a numeric value by which to adjust the amount of space between lines.
+   * **[!UICONTROL Line Spacing]**: Type or select a numeric value by which to adjust the amount of space between lines.
 
-   * **[!UICONTROL Baseline Shift]** - Type or select a numeric value by which to move a selected character up or down relative to the baseline of the surrounding text. This option is especially useful when you're hand-setting fractions or adjusting the position of inline graphics.
+   * **[!UICONTROL Baseline Shift]**: Type or select a numeric value by which to move a selected character up or down relative to the baseline of the surrounding text. This option is especially useful when you're hand-setting fractions or adjusting the position of inline graphics.
 
 >[!NOTE]
 >
@@ -168,48 +168,48 @@ To format text in a text layer, do the following:
 1. Select the paragraph that you want to format.
 1. Specify any of the following formatting options, and then select **[!UICONTROL Apply]**.
 
-   * **[!UICONTROL Alignment]** - Select to specify the type of alignment: align left, align center, align right, or justify.
+   * **[!UICONTROL Alignment]**: Specify the type of alignment by clicking **[!UICONTROL Align left]**, **[!UICONTROL Align center]**, **[!UICONTROL Align right]**, or **[!UICONTROL Justify]**.
 
-   * **[!UICONTROL End of Paragraph Justification]** - Select to specify the type of justification for the last line in the paragraph: last line aligns left; last line aligns center; and last line aligns right.
+   * **[!UICONTROL End of Paragraph Justification]**: Select to specify the type of justification for the last line in the paragraph: last line aligns left; last line aligns center; and last line aligns right.
 
-   * **[!UICONTROL Line Spacing]** - Type or select a numeric value by which to adjust the amount of space between all the lines in the paragraph.
+   * **[!UICONTROL Line Spacing]**: Type or select a numeric value by which to adjust the amount of space between all the lines in the paragraph.
 
-   * **[!UICONTROL Indent All]** - Select to increase the amount the text is indented.
+   * **[!UICONTROL Indent All]**: Select to increase the amount the text is indented.
 
-   * **[!UICONTROL Remove Indent]** - Select to decrease the amount the text is indented.
+   * **[!UICONTROL Remove Indent]**: Select to decrease the amount the text is indented.
 
-   * **[!UICONTROL Indent First Line]** - Specify the amount by which you want to indent the first line of text.
+   * **[!UICONTROL Indent First Line]**: Specify the amount by which you want to indent the first line of text.
 
-   * **[!UICONTROL Space Before Paragraph]** - Specify the amount of space that you want to appear above the first line of text in the paragraph.
+   * **[!UICONTROL Space Before Paragraph]**: Specify the amount of space that you want to appear above the first line of text in the paragraph.
 
-   * **[!UICONTROL Space After Paragraph]** - Specify the amount of space that you want to appear below the last line of text in the paragraph.
+   * **[!UICONTROL Space After Paragraph]**: Specify the amount of space that you want to appear below the last line of text in the paragraph.
 
-   * **[!UICONTROL Vertical Align]** - Select where you want the text to appear vertically within the text box: Top, Middle, Bottom.
+   * **[!UICONTROL Vertical Align]**: Select where you want the text to appear vertically within the text box: Top, Middle, Bottom.
 
-   * **[!UICONTROL Text Direction]** - Select the direction in which you want the text to display: Right-To-Left or Left-To-Right.
+   * **[!UICONTROL Text Direction]**: Select the direction in which you want the text to display: Right-To-Left or Left-To-Right.
 
 ### Adjust text layer properties {#adjust-text-layer-properties}
 
 1. In the Template Basics screen, select the text box you want to adjust.
 1. In the Layer Properties panel, select any of the following:
 
-   * **[!UICONTROL Shrink Text (Text Editor v4.2 only)]** - To fit within the text box, select to shrink the text.
+   * **[!UICONTROL Shrink Text (Text Editor v4.2 only)]**: Select this option to shrink the text so that it fits within the text box.
 
-   * **[!UICONTROL Word Wrap (Text Editor v4.2 only)]** - To specify if or how the text wraps, select a wrap option:
+   * **[!UICONTROL Word Wrap (Text Editor v4.2 only)]**: To specify if or how the text wraps, select a wrap option:
 
-   * **[!UICONTROL Wrap]** - Wraps the text to fit into a text box that is too small horizontally.
+   * **[!UICONTROL Wrap]**: Wraps the text to fit into a text box that is too small horizontally.
 
-   * **[!UICONTROL No Wrap]** - Does not wrap the text when the text box is too small horizontally, and instead, cuts off a portion of the text.
+   * **[!UICONTROL No Wrap]**: Does not wrap the text when the text box is too small horizontally, and instead, cuts off a portion of the text.
 
-   * **[!UICONTROL Nonbreaking Wrap]** - Wraps text to fit into a textbox, and does not break words.
+   * **[!UICONTROL Nonbreaking Wrap]**: Wraps text to fit into a textbox, and does not break words.
 
-   * **[!UICONTROL Position]** - Specifies the location of the text box on the canvas.
+   * **[!UICONTROL Position]**: Specifies the location of the text box on the canvas.
 
-   * **[!UICONTROL Padding]** - Adds margins or crops the layer rectangle. Specify the number of pixels that you want to add or remove for Left, Top, Bottom, and Right. Enter positive numbers if you want to add a margin or negative numbers to crop.
+   * **[!UICONTROL Padding]**: Adds margins or crops the layer rectangle. Specify the number of pixels that you want to add or remove for Left, Top, Bottom, and Right. Enter positive numbers if you want to add a margin or negative numbers to the crop.
 
 ### View and edit text source code {#view-and-edit-text-source-code}
 
-The information provided in Source tab of the Text Editor is for your reference. Edit the text only if you are familiar with editing source code.
+The information provided in the Source tab of the Text Editor is for your reference. Edit the text only if you are familiar with editing source code.
 
 1. In the Layers list, double-click the name of the text box with text you want to edit. The Text Editor opens.
 1. In the Text Editor, to reveal the source code for the text, select the **[!UICONTROL Source]** tab in the Text Editor.
@@ -242,25 +242,25 @@ Layers must be small enough to fit on the canvas. You can change the size of a l
 >
 >Adobe Dynamic Media Classic recommends creating an Image Preset that is the exact size of your template. Matching the Image Preset size to the template size ensures that the final output size and sharpening options for the template are set correctly. After you've created this Image Preset, you can choose it from the Apply Preset menu on the Template Preview screen. The screen shows you what the image looks like when it is delivered from the server. See [Set up Image Presets](setting-image-presets.md#setting_up_image_presets).
 
-* **Changing the size of a layer** - To change the size of a layer or the canvas, select the layer or canvas on the Layers list and use one of these techniques:
+* **Changing the size of a layer**: To change the size of a layer or the canvas, select the layer or canvas on the Layers list and use one of these techniques:
 
-* **Manually changing size** - Select and drag a corner of the layer or canvas. With text layers, you can also drag a side of the layer. Hold down the Shift key as you drag to change size but maintain the aspect ratio (the shape).
+* **Manually changing size**: Select and drag a corner of the layer or canvas. With text layers, you can also drag a side of the layer. Hold down the Shift key as you drag to change the size but maintain the aspect ratio (the shape).
 
-* **Entering layer size measurements** - Enter pixel measurements in the W (Width) and H (Height) text boxes in the Layer Properties area.
+* **Entering layer size measurements**: Enter pixel measurements in the W (Width) and H (Height) text boxes in the Layer Properties area.
 
 Beside changing the size of a layer, you can pad it. To do so, enter a Padding measurement in the Left, Right, Top, and Bottom box of the Layer Properties area. Padding adds a margin to the current layer to offset it from the perimeter of its base layer. Padding is useful if you add a drop shadow or outer glow effect and you want to make the effect more visible. Padding increases the size of a layer and displays its background color in the extended, padded area. The base layer repositions itself relative to the new size of the layer. For example, if the current layer is centered on the base layer, extending the left side of the layer moves it further to the right of the base layer.
 
-* **Changing the position of a layer** - To change the position of a layer on the canvas, select its name in the Layers list and use one of these techniques:
+* **Changing the position of a layer**: To change the position of a layer on the canvas, select its name in the Layers list and use one of these techniques:
 
-* **Manually changing position** - Move the pointer near to but not over a layer boundary, and when you see the four-headed arrow cursor, select and start dragging.
+* **Manually changing position**: Move the pointer near to but not over a layer boundary, and when you see the four-headed arrow cursor, select and start dragging.
 
-* **Entering position offset measurements** - Enter X and Y offset measurements in the X and Y text boxes. These measurements represent the x, y offset of the anchor point in pixels.
+* **Entering position offset measurements**: Enter X and Y offset measurements in the X and Y text boxes. These measurements represent the x, y offset of the anchor point in pixels.
 
-* **Rotating a layer** - The Rotate box lists the angle to which the layer was rotated. To rotate a layer, select its name in the Layers list and use one of these techniques:
+* **Rotating a layer**: The Rotate box lists the angle to which the layer was rotated. To rotate a layer, select its name in the Layers list and use one of these techniques:
 
-* **Manually rotating** - Move the cursor near to but not over a corner of the layer. When you see the rotation cursor, drag the corner of the layer. Hold down the Shift key as you drag to rotate by 15-degree increments.
+* **Manually rotating**: Move the cursor near to but not over a corner of the layer. When you see the rotation cursor, drag the corner of the layer. Hold down the Shift key as you drag to rotate by 15-degree increments.
 
-* **Entering a degree measurement** - Enter the number of degrees to rotate the layer. Rotation is clockwise; to rotate in a counterclockwise fashion, enter a negative number.
+* **Entering a degree measurement**: Enter the number of degrees to rotate the layer. Rotation is clockwise; to rotate in a counterclockwise fashion, enter a negative number.
 
 **Hide a layer or a layer effect:**
 
@@ -274,17 +274,17 @@ You can hide a layer or layer effect by selecting the eye icon next to a layer n
 
 To choose a background color, opacity, and blend mode for a layer or the canvas, select the layer or canvas and use these techniques:
 
-* **Foreground color** - Select **[!UICONTROL Foreground Color]** and choose a color swatch to change the color of the shadow or glow. You can also enter a color-value parameter in the box. The background color applies only to layers that use transparency. For example, it applies to a partially transparent layer in a price tag or the background of a text field. Layers that consist of a PSD, TIFF or PNG image with transparency turned on can have transparent backgrounds.
+* **Foreground color**: Select **[!UICONTROL Foreground Color]** and choose a color swatch to change the color of the shadow or glow. You can also enter a color-value parameter in the box. The background color applies only to layers that use transparency. For example, it applies to a partially transparent layer in a price tag or the background of a text field. Layers that consist of a PSD, TIFF or PNG image with transparency turned on can have transparent backgrounds.
 
-* **Background color** - Select **[!UICONTROL Background Color]** and choose a color swatch to change the color of the padded areas.
+* **Background color**: Select **[!UICONTROL Background Color]** and choose a color swatch to change the color of the padded areas.
 
-* **Opacity** - Drag the Opacity slider to make any layer translucent so that part of the underlying image shows through. The 100-percent setting is opaque; 0 is transparent.
+* **Opacity**: Drag the Opacity slider to make any layer translucent so that part of the underlying image shows through. The 100-percent setting is opaque; 0 is transparent.
 
-* **Blend mode** - To simulate one of the blend modes available in Photoshop, choose an option. The options are Normal, Dissolve, Lighten, Darken, Multiply, and Screen. These options are available for layers, not the canvas.
+* **Blend mode**: To simulate one of the blend modes available in Photoshop, choose an option. The options are Normal, Dissolve, Lighten, Darken, Multiply, and Screen. These options are available for layers, not the canvas.
 
 ## Use shadow and glow effects on layers {#using-shadow-and-glow-effects-on-layers}
 
-You can apply a shadow or glow to a layer. The shadow or glow is applied to the perimeter of the layer and extends inward or outward, depending on the shadow or glow option you choose. If your template originated with a PSD file with shadow and glow effects, you can adjust these effects in Adobe Dynamic Media Classic.
+You can apply a shadow or glow to a layer. The shadow or glow applies to the perimeter of the layer and extends inward or outward, depending on the shadow or glow option you choose. If your template originated with a PSD file with shadow and glow effects, you can adjust these effects in Adobe Dynamic Media Classic.
 
 After you apply a shadow or glow effect, you can adjust its size, color, opacity, and position in the Layer Properties area of the Template screen.
 
@@ -293,13 +293,13 @@ After you apply a shadow or glow effect, you can adjust its size, color, opacity
 1. Select a layer in the Layers list.
 1. Select the **[!UICONTROL `Add Effect`]** menu and choose an option:
 
-   * **[!UICONTROL Drop Shadow]** - Applies a shadow to the bottom and right side of the layer.
+   * **[!UICONTROL Drop Shadow]**: Applies a shadow to the bottom and right side of the layer.
 
-   * **[!UICONTROL Inner Shadow]** - Applies a shadow effect inside all edges of the layer.
+   * **[!UICONTROL Inner Shadow]**: Applies a shadow effect inside all edges of the layer.
 
-   * **[!UICONTROL Outer Glow]** - Applies a glow effect around all edges of the layer.
+   * **[!UICONTROL Outer Glow]**: Applies a glow effect around all edges of the layer.
 
-   * **[!UICONTROL Inner Glow]** - Applies a glow effect inside all edges of the layer.
+   * **[!UICONTROL Inner Glow]**: Applies a glow effect inside all edges of the layer.
 
 An effect name appears on the Layers list after you apply an effect. To delete an effect, select its name on the Layers list and then select **[!UICONTROL Delete]**.
 
@@ -311,17 +311,17 @@ An effect name appears on the Layers list after you apply an effect. To delete a
 
 To adjust a shadow or glow effect, start by selecting its name in the Layers list. Then change its settings in the Layer Properties area of the Template screen:
 
-* **[!UICONTROL Color]** - Select the Color button and choose a color swatch to change the color of the shadow or glow. You can also enter a color-value parameter in the box.
+* **[!UICONTROL Color]**: Select the Color button and choose a color swatch to change the color of the shadow or glow. You can also enter a color-value parameter in the box.
 
-* **[!UICONTROL Opacity]** - Drag the slider to determine how intense the effect is. Less opaque effects are more transparent.
+* **[!UICONTROL Opacity]**: Drag the slider to determine how intense the effect is. Less opaque effects are more transparent.
 
-* **[!UICONTROL Blend Mode]** - To simulate one of the blend modes available in Photoshop, choose an option. The options are Normal, Dissolve, Lighten, Darken, Multiply, and Screen.
+* **[!UICONTROL Blend Mode]**: To simulate one of the blend modes available in Photoshop, choose an option. The options are Normal, Dissolve, Lighten, Darken, Multiply, and Screen.
 
-* **[!UICONTROL Size]** - Enter measurements in the X and Y box to enlarge or shrink the shadow effect. Size options are only available for inner shadows and drop shadows.
+* **[!UICONTROL Size]**: Enter measurements in the X and Y box to enlarge or shrink the shadow effect. Size options are only available for inner shadows and drop shadows.
 
-* **[!UICONTROL Grow]** - Drag the slider to extend the effect inward or outward.
+* **[!UICONTROL Grow]**: Drag the slider to extend the effect inward or outward.
 
-* **[!UICONTROL Blur]** - Drag the slider to control feathering at the edges of the effect. Effects with more blur are more feathered.
+* **[!UICONTROL Blur]**: Drag the slider to control feathering at the edges of the effect. Effects with more blur are more feathered.
 
 ## Mask layers {#masking-layers}
 

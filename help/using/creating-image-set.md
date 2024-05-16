@@ -41,9 +41,9 @@ See also [Dynamic Media limitations](/help/using/limitations.md).
 
 1. Do one of the following:
 
-   * **Select the images first** - In the Browse Panel, select the images you want for your Image Set, go to **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**.
+   * **Select the images first**: In the Browse Panel, select the images you want for your Image Set, go to **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**.
 
-   * **Start from the Image Set screen** - Go to **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**. The Image Set screen opens. Select a folder in the Asset Library and drag the images you want for your Image Set onto the Image Set screen.
+   * **Start from the Image Set screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**. The Image Set screen opens. Select a folder in the Asset Library and drag the images you want for your Image Set onto the Image Set screen.
 
 1. To change the order of images, drag the images to new locations.
 1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).

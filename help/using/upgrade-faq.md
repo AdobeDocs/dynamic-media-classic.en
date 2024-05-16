@@ -36,7 +36,7 @@ level: Intermediate
 * Combine campaign assets with product information so you can streamline the click to cart.
 * Easily create, adjust, brand, and deploy interactive viewers using the WYSIWYG Viewer Designer.
 * Deliver optimized rich media to [!DNL Experience Cloud] solutions.
-* Integration with [!DNL Experience Cloud] for advanced asset analytics, targeting, and asset reuse across marketing touch points. Those touchpoints include [!DNL Adobe Campaign] for email, [!DNL Adobe Social] for social channels, and [!DNL Experience Manager] Sites for responsive web and mobile apps.
+* Integration with [!DNL Experience Cloud] for advanced asset analytics, targeting, and asset reuse across marketing touch points. Those touchpoints include [!DNL Adobe Campaign] for email, [!DNL Adobe Social] for social channels, and [!DNL Experience Manager] Sites for responsive Web and mobile apps.
 
 +++
 
@@ -133,7 +133,7 @@ Yes. You can continue to use the [!DNL Dynamic Media Classic] (formerly Adobe Sc
 +++
 
 +++**Do I have to update my production URLs?**
-No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. The benefit of this approach is that you do not have to change any production URLs on your web pages, therefore minimizing the risk and effort of migration to [!DNL Dynamic Media].
+No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. The benefit of this approach is that you do not have to change any production URLs on your Web pages, therefore minimizing the risk and effort of migration to [!DNL Dynamic Media].
 
 +++
 
@@ -146,7 +146,7 @@ No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and deliv
 No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. The benefit of this approach is that you can continue to use your custom-built viewers, therefore minimizing the risk and effort of migration to [!DNL Dynamic Media].
 +++
 
-+++**How do I migrate my settings (such as image presets, video encodings) to [!DNL Dynamic Media]?**
++++**How do I migrate my settings (such as Image Presets, video encodings) to [!DNL Dynamic Media]?**
 Presets and other settings must be recreated within [!DNL Dynamic Media]. As part of the service project, Adobe Global Services or Partner can assist.
 
 +++
@@ -182,9 +182,9 @@ Dynamic Media comes with 60 GB of storage. You can purchase additional storage i
 +++
 
 +++**What metric is used to measure [!DNL Dynamic Media] usage?**
-Page Views per Month (PVM). Page View means a single view of an email or web page of an Internet site. It also includes application screen views, application screen states, mobile web pages, and social network pages. Page Views occur:
+Page Views per Month (PVM). Page View means a single view of an email or Web page of an Internet site. It also includes application screen views, application screen states, mobile Web pages, and social network pages. Page Views occur:
 
-* Each time the loading or refreshing of a web page occurs
+* Each time the loading or refreshing of a Web page occurs
 * When an application is loaded
 * When content renders
 * Shown through an opened or viewed email

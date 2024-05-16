@@ -31,13 +31,13 @@ Options for uploading PDF files are on the Upload page under PDF Options.
 
 ### Processing options
 
-**[!UICONTROL Rasterize]** - (Default) Rips the pages in the PDF file and converts vector graphics to bitmap images. To create an eCatalog, choose this option.
+**[!UICONTROL Rasterize]**: (Default) Rips the pages in the PDF file and converts vector graphics to bitmap images. To create an eCatalog, choose this option.
 
-**[!UICONTROL Extract Search Words]** - Extracts words from the PDF file so that keywords in the file can be searched in an eCatalog Viewer.
+**[!UICONTROL Extract Search Words]**: Extracts words from the PDF file so that keywords in the file can be searched in an eCatalog Viewer.
 
-**[!UICONTROL Extract Links]** - Extracts links from the PDF files and coverts them to Image Maps that are used in an eCatalog Viewer.
+**[!UICONTROL Extract Links]**: Extracts links from the PDF files and coverts them to Image Maps that are used in an eCatalog Viewer.
 
-**[!UICONTROL Auto-Generate eCatalog With Multi-page PDF]** - Automatically creates an eCatalog from the PDF file. The eCatalog is named after the PDF file you uploaded. (This option is only available if you rasterize the PDF file as you upload it.)
+**[!UICONTROL Auto-Generate eCatalog With Multi-page PDF]**: Automatically creates an eCatalog from the PDF file. The eCatalog is named after the PDF file you uploaded. (This option is only available if you rasterize the PDF file as you upload it.)
 
 ### Resolution
 
@@ -47,21 +47,21 @@ Determines the resolution setting. This setting determines how many pixels are d
 
 Select the Color Space menu and choose a color space for the PDF file. Most PDF files have both RGB and CMYK color images. The RGB color space is preferable for online viewing.
 
-* **[!UICONTROL Detect Automatically]** - Retains the color space of the PDF file.
+* **[!UICONTROL Detect Automatically]**: Retains the color space of the PDF file.
 
-* **[!UICONTROL Force As RGB]** - Converts to the RGB color space.
+* **[!UICONTROL Force As RGB]**: Converts to the RGB color space.
 
-* **[!UICONTROL Force As CMYK]** - Converts to the CMYK color space.
+* **[!UICONTROL Force As CMYK]**: Converts to the CMYK color space.
 
-* **[!UICONTROL Force As Grayscale]** - Converts to the Grayscale color space.
+* **[!UICONTROL Force As Grayscale]**: Converts to the Grayscale color space.
 
 ### Color Profile options
 
-* **[!UICONTROL Convert To sRGB]** - Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on a web page.
+* **[!UICONTROL Convert To sRGB]**: Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on a Web page.
 
-* **[!UICONTROL Keep Original Color Space]** - Retains the original color space.
+* **[!UICONTROL Keep Original Color Space]**: Retains the original color space.
 
-* **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
+* **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
 
 See also [ICC profiles](/help/using/icc-profiles.md#icc_profiles).
 
@@ -72,17 +72,17 @@ You can automatically crop white-space pixels from a PDF file as you upload it.
 1. Select the Crop menu and choose Trim. 
 1. Specify the following options:
 
-   * **[!UICONTROL Trim Away Based On]** - Choose whether to crop based on color or transparency:
+   * **[!UICONTROL Trim Away Based On]**: Choose whether to crop based on color or transparency:
 
-     * **[!UICONTROL Color]** - Choose the Color option. Then select the **[!UICONTROL Corner]** menu and choose the corner of the PDF with the color that best represents the white-space color you want to crop.
+     * **[!UICONTROL Color]**: Choose the Color option. Then select the **[!UICONTROL Corner]** menu and choose the corner of the PDF with the color that best represents the white-space color you want to crop.
 
-     * **[!UICONTROL Transparency]** - Choose the Transparency option.
+     * **[!UICONTROL Transparency]**: Choose the Transparency option.
 
-   * **[!UICONTROL Tolerance]** - Drag the slider to specify a tolerance from 0 through 1.
+   * **[!UICONTROL Tolerance]**: Drag the slider to specify a tolerance from 0 through 1.
 
-   * **[!UICONTROL Trimming based on color]** - Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the PDF. Numbers closer to 1 allow for more color difference.
+   * **[!UICONTROL Trimming based on color]**: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the PDF. Numbers closer to 1 allow for more color difference.
 
-   * **[!UICONTROL Trimming based on transparency]** - Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
+   * **[!UICONTROL Trimming based on transparency]**: Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
 
 ## Crop from the sides of PDF pages {#cropping-from-the-sides-of-pdf-pages}
 

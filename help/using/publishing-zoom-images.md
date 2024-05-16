@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Publish zoom images{#publishing-zoom-images}
 
-Publishing places your zoom images on Dynamic Media Image Servers so they can be made available to your web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL strings. You can place these URL strings in the HTML code of your web site.
+Publishing places your zoom images on Dynamic Media Image Servers so they can be made available to your Web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL strings. You can place these URL strings in the HTML code of your Web site.
 
 ## Mark images for publish {#marking-images-for-publish}
 
