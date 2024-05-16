@@ -35,7 +35,7 @@ If you specifically do not grant a group permission to an asset or folder, that 
 
    See [Establish asset access permissions for a group](creating-media-portal-groups.md#establishing_asset_access_permissions_for_a_group).
 
-1. If you want to choose which Image Presets are available to the group, select the **[!UICONTROL Image Preset Access Permissions]** tab, and select Image Presets that the group can use.
+1. You can choose which Image Presets are available to the group. Just click the **[!UICONTROL Image Preset Access Permissions]** tab, and select Image Presets that the group can use.
 
    See [Choose Image Preset access permissions for a group](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group).
 
@@ -50,7 +50,7 @@ If you specifically do not grant a group permission to an asset or folder, that 
     * To edit a group's permissions, select the group, and then select **[!UICONTROL Edit]**.
 
 1. In the Add Group or Edit group dialog box, select the **[!UICONTROL Asset Access Permissions]** tab. The right side of the tab offers boxes for establishing read, write, and delete permissions for folders and assets. You can expand and collapse folders and subfolders in the left pane.
-1. To assign rights to folders or individual assets, select the folder in the left pane. The folder contents appear in the right pane. Then assign rights for the group by selecting the boxes for the corresponding files or folders in the right pane.
+1. To assign rights to folders or individual assets, select the folder in the left pane. The folder contents appear in the right pane. Then assign rights for the group by selecting the boxes for the corresponding files. Or, selecting the folders in the right pane.
 
    This table maps different tasks to read, write, and delete permissions.
 
@@ -92,6 +92,6 @@ See also [Specify export options available to Media Portal users](specifying-exp
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. On the Group List page, select a group and edit or delete it.
 
-   **Edit a group**: Select **[!UICONTROL Edit]**, and then choose options in the Edit Group dialog box.
+   **Edit a group**: Select **[!UICONTROL Edit]**, and then choose the options in the Edit Group dialog box.
 
    **Delete a group**: Select **[!UICONTROL Delete]**.

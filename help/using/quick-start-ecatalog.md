@@ -64,7 +64,7 @@ See [Upload the PDF files](uploading-pdf-files.md#uploading_the_pdf_files).
 
 ## 2. Create an eCatalog
 
-Create your eCatalog by selecting PDF or image files in the Browse Panel. Select **[!UICONTROL Build]**, then choose **[!UICONTROL eCatalogs]**.
+Create your eCatalog by selecting PDF or image files in the Browse panel. Select **[!UICONTROL Build]**, then choose **[!UICONTROL eCatalogs]**.
 
 On the eCatalog page, on the **[!UICONTROL Order Pages]** tab, select a Layout option: **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, or **[!UICONTROL Custom]**. You can rearrange pages or spreads by dragging them or, in a large eCatalog, choosing a page name on the Move To menu.
 
@@ -102,7 +102,7 @@ See [Set up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#setting-
 
 eCatalog Viewer Presets determine the style and behavior of your eCatalog Viewers.
 
-To find out how eCatalog Viewer Presets display your eCatalog, select your eCatalog in the Browse Panel, and then select **[!UICONTROL Preview]**. The Preview screen opens in the default viewer.
+To find out how eCatalog Viewer Presets display your eCatalog, select your eCatalog in the Browse panel, and then select **[!UICONTROL Preview]**. The Preview screen opens in the default viewer.
 
 Notice the orientation, color scheme, what the controls for changing pages look like, and what pages look like when they are turned.
 
@@ -112,13 +112,13 @@ See [Preview eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-vie
 
 Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your Web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your Web site or application.
 
-After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publishing page, select **[!UICONTROL Submit Publish]**.
+After marking your eCatalog and PDF for publish in the Browse panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
 ## 7. Link an eCatalog to a Web page
 
-Adobe Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail View) by selecting URLs in the panel. After you copy the URL string, it is available to your Web sites and applications.
+Adobe Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Image Servers. You can copy this URL string from the Preview screen and the Browse panel (in Detail View) by selecting URLs in the panel. After you copy the URL string, it is available to your Web sites and applications.
 
 Work with your IT team to place the link to the eCatalog in the appropriate place in your Web page. When users select the link, the eCatalog Viewer appears and users can browse your eCatalog.
 

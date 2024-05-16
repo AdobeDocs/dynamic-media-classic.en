@@ -33,7 +33,7 @@ You can change the size of the Zoom Viewer to match the size being used on your 
 Create and edit Zoom Targets on the Zoom Target Editor screen. To open this screen, select an image and do one of the following:
 
 * Select the rollover **[!UICONTROL Edit]** button and choose Zoom Targets.
-* In the Browse Panel, display the image in **[!UICONTROL Detail View]**, then select **[!UICONTROL Zoom Targets]**.
+* In the Browse panel, display the image in **[!UICONTROL Detail View]**, then select **[!UICONTROL Zoom Targets]**.
 
 On the Zoom Target Editor screen, select the **[!UICONTROL Select Target]** button (arrow) to select a target before changing its size or position. To create a zoom target on the image, select **[!UICONTROL Add Targets]** (rectangle). The Zoom Target Editor page also offers tools for deleting, copying, and naming Zoom Targets.
 
@@ -49,7 +49,7 @@ To create a zoom target, open the Zoom Target Editor page and do the following:
 
     * **Resize**: Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
 
-    * **Position**:  Move the pointer over the zoom target and drag it to a different location.
+    * **Position**: Move the pointer over the zoom target and drag it to a different location.
 
 1. Enter a name for the zoom target in the Name box.
 

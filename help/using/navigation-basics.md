@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Navigation basics{#navigation-basics}
 
-The Adobe Dynamic Media Classic screen includes three major areas: Global Navigation bar, Asset Library, Asset Filters tab, Browse Panel/Build Panel, and Media Cart (Media Portal only).
+The Adobe Dynamic Media Classic screen includes three major areas: Global Navigation bar, Asset Library, Asset Filters tab, Browse panel/Build Panel, and Media Cart (Media Portal only).
 
 ![Navigation basics](/help/using/assets/gs_navigation_basics_popup_popup.png)
 *Main Adobe Dynamic Media Classic areas*
@@ -57,11 +57,11 @@ The top of the Asset Library panel has commands for locating assets. You can sea
 >
 >You can select **[!UICONTROL Asset Library]** controls to open or close the Asset Library and get more room to work onscreen. Select the **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** control to expand or close the panel. These controls are on the left side of the panel.
 
-## Browse Panel/Build Panel {#browse-panel-build-panel}
+## Browse panel/Build Panel {#browse-panel-build-panel}
 
 The Browse/Build Panel is where you do much of your work. The functions that are available in this panel depend on whether you are in Browse mode or Build mode.
 
-* **[!UICONTROL Browse mode]**: To view and work with a folder's contents in the Browse Panel, select a folder in the Asset Library. This panel offers the **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]**, and **[!UICONTROL Sort]** menus for working with assets. You can also view assets in different ways by moving the slider or select **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. Selecting **[!UICONTROL Detail View]** or double-clicking an asset opens the asset in Detail View, where you can perform asset-dependent file operations.
+* **[!UICONTROL Browse mode]**: You can view and work with a folder's contents in the Browse panel. Select a folder in the Asset Library. This panel offers the **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]**, and **[!UICONTROL Sort]** menus for working with assets. You can also view assets in different ways by moving the slider or select **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. Selecting **[!UICONTROL Detail View]** or double-clicking an asset opens the asset in Detail View, where you can perform asset-dependent file operations.
 
 * **[!UICONTROL Build mode]**: Select **[!UICONTROL Build]**, then choose an option so you can start building an eCatalog, Image Set, Spin Set, or one of several other available items on the Build menu. The Build page opens. You can select the assets you want to work with before or after you enter Build mode.
 
@@ -70,6 +70,6 @@ See also [Navigation basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer
 >[!MORELIKETHIS]
 >
 >* [Manage assets](about-managing-assets.md)
->* [View assets in the Browse Panel](viewing-assets-browse-panel.md#viewing_assets_in_the_browse_panel)
->* [Select assets in the Browse Panel](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
+>* [View assets in the Browse panel](viewing-assets-browse-panel.md#viewing_assets_in_the_browse_panel)
+>* [Select assets in the Browse panel](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
 >* [Search assets](searching-assets.md#searching_assets)

@@ -17,17 +17,17 @@ To create an effective Spin Set, make sure that you shoot the images correctly. 
 
 >[!NOTE]
 >
->Previous versions of Adobe Dynamic Media Classic did not offer two-dimensional Spin Sets. If you created a Spin Set in a previous version of Adobe Dynamic Media Classic, you cannot save your one-dimensional Spin Set without first saving it under a different name. Select **[!UICONTROL Save As]** in the Spin Set screen and enter a new name so that you can edit it in Adobe Dynamic Media Classic.
+>Previous versions of Adobe Dynamic Media Classic did not offer two-dimensional Spin Sets. If you created a Spin Set in a previous version of Adobe Dynamic Media Classic, save it under a different name, then you can save your one-dimensional Spin Set. Select **[!UICONTROL Save As]** in the Spin Set screen and enter a new name so that you can edit it in Adobe Dynamic Media Classic.
 
 ## Guidelines for shooting Spin Set images {#guidelines-for-shooting-spin-set-images}
 
 In general, the more images you have in a Spin Set, the better the image-spinning effect is. However, including many images in the set also increases the amount of time it takes for the images to load. Adobe Dynamic Media Classic recommends these guidelines for shooting images for use in Spin Sets:
 
-* At minimum, use 8-12 images in a one-dimensional spin set and 16-24 images in a two-dimensional Spin Set.
+* At minimum, use 8-12 images in a one-dimensional Spin Set and 16-24 images in a two-dimensional Spin Set.
 * Use a lossless format; TIFF and PNG are recommended.
 * Mask all images so the item appears on a pure white or other high-contrast background. Optionally, add shadows.
 * Make sure that product details are well lighted and in focus.
-* Take spin images for fashion clothing with a mannequin or model. Often the mannequin is either masked (using a glass mannequin) or a stylized mannequin/dressform is shown in the image. You can create an on model spin set by defining the number of angles. Mark each angle with tape on the floor so you can guide the model to step and look in the direction of each shot.
+* Take spin images for fashion clothing with a mannequin or model. Often the mannequin is either masked (using a glass mannequin) or a stylized mannequin/dressform is shown in the image. You can create an on model Spin Set by defining the number of angles. Mark each angle with tape on the floor so you can guide the model to step and look in the direction of each shot.
 
 ## Create a Spin Set {#create}
 
@@ -57,7 +57,7 @@ After you save a Spin Set, you can use Preview in the Build: Spin Set page to se
 1. On the **[!UICONTROL Build]** drop-down menu, select **[!UICONTROL Spin Sets]**.
 1. In the Spin Set Size dialog box, set the number of rows and cells that you want.
 
-   To make a one-dimensional spin set, select one row only.
+   To make a one-dimensional Spin Set, select one row only.
 
    To make a two-dimensional Spin Set, select two or more rows.
 
@@ -65,7 +65,7 @@ After you save a Spin Set, you can use Preview in the Build: Spin Set page to se
 1. Drag and drop images into the grid on the Spin Set screen.
 1. When you are finished, near the lower-right corner of the page, ensure that **Publish after a save** is selected (default).
 1. Select **[!UICONTROL Save]**.
-1. In the Save dialog box, select a folder for storing your spin set. In the File Name field, enter the spin set name.
+1. In the Save dialog box, select a folder for storing your Spin Set. In the File Name field, enter the Spin Set name.
 1. Select **[!UICONTROL Save]**.
 
 ## Edit a Spin Set {#editing-a-spin-set}

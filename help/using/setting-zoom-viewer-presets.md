@@ -15,7 +15,7 @@ level: Intermediate
 
 Zoom Viewer Presets determine the style, behavior, and look of your Zoom vVewers. Adobe Dynamic Media Classic offers many options for customizing and skinning Viewers. Adobe Dynamic Media Classic comes with default basic (fast), fly-out, and custom Zoom Viewer Presets. If you are an administrator, you can create company Zoom Viewer Presets or edit a default preset and save it with a new name.
 
-All Zoom Viewers have buttons for zooming in, zooming out, panning, and resetting the image to its original state after zooming. What these buttons look like and how the window itself appears depends on your choice of Zoom Viewer Presets. You can configure a Zoom Viewer Preset with different colors, borders, fonts, and image settings. When configuring a Guided Zoom Viewer, you can also choose where to place the zoom targets. Zoom targets are the thumbnails that users click to zoom to areas you specify.
+All Zoom Viewers have buttons for zooming in, zooming out, panning, and resetting the image to its original state after zooming. What these buttons look like and how the window itself appears depends on your choice of Zoom Viewer Presets. You can configure a Zoom Viewer Preset with different colors, borders, fonts, and image settings. When configuring a Guided Zoom Viewer, you can also choose where to place the Zoom Targets. Zoom targets are the thumbnails that users click to zoom to areas you specify.
 
 ## About Zoom Viewer Presets {#about-zoom-viewer-presets}
 

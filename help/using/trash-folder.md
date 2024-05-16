@@ -21,7 +21,7 @@ Deleting items from the Trash folder permanently deletes items from Adobe Dynami
 
 >[!NOTE]
 >
->Assets that have been moved to the Trash folder are still registered on Adobe Dynamic Media Classic. If you try to upload a file that has the same name as a deleted file in the Trash folder, Adobe Dynamic Media Classic treats the asset you want to upload as a duplicate asset. As such, a number is appended to its name.
+>Assets that have been moved to the Trash folder are still registered on Adobe Dynamic Media Classic. For example, suppose you try to upload a file that has the same name as a deleted file in the Trash folder. Adobe Dynamic Media Classic treats the asset that you want to upload as a duplicate asset. As such a case, a number is appended to its name.
 
 ## About the Trash folder {#about-the-trash-folder}
 
@@ -45,9 +45,9 @@ To restore assets from the Trash folder to the folders from which they were dele
 
 When you delete assets in the Trash folder, the assets are permanently deleted. Assets are automatically deleted from the Trash folder after seven days.
 
-To permanently delete assets from the Trash folder, select the **[!UICONTROL Trash]** icon. On the Trash folder page, do any of the following:
+You can permanently delete assets from the Trash folder by electing the **[!UICONTROL Trash]** icon. On the Trash folder page, do any of the following:
 
-* **Deleting individual assets**: Select the assets that you want to permanently delete, and then go to **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
+* **Deleting individual assets**: You can permanently delete assets. Select the assets that you want, then click **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
 
 * **Deleting all assets**: Go to **[!UICONTROL File]** > **[!UICONTROL Empty trash]**.
 

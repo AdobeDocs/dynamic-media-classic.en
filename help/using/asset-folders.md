@@ -19,7 +19,7 @@ Be sure to establish a folder structure and organization for storing your files 
 
 ## Display, move, hide, and open folders {#displaying-moving-hiding-and-opening-folders}
 
-The Asset Library displays files in a folder tree. When you select a folder in the Asset Library, its contents appear in the Browse Panel. Use these techniques to locate folders in the folder tree:
+The Asset Library displays files in a folder tree. When you select a folder in the Asset Library, its contents appear in the Browse panel. Use these techniques to locate folders in the folder tree:
 
 * **Display subfolders**: Select the **[!UICONTROL Expand Folder]** icon to display the subfolders in a folder. This icon is located to the left of folder names.
 
@@ -27,11 +27,11 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 * **Hide folders**: Select the **[!UICONTROL Collapse Folder]** icon if you want to collapse subfolders to hide them from view. This icon is located to the left of folder names.
 
-* **Open a folder**: Select a folder if you want to display its contents in the Browse Panel.
+* **Open a folder**: Select a folder if you want to display its contents in the Browse panel.
 
 >[!TIP]
 >
->You can hide or display the Asset Library by selecting the **[!UICONTROL Expand]** or **[!UICONTROL Collapse]** control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse Panel.
+>You can hide or display the Asset Library by selecting the **[!UICONTROL Expand]** or **[!UICONTROL Collapse]** control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse panel.
 
 ## Create folders
 

@@ -15,7 +15,7 @@ level: Beginner
 
 Adobe Dynamic Media Classic Image Sets give users an integrated viewing experience. In the dynamic Image Set Viewer, users can see different views of an item by selecting a thumbnail image. Image Sets lets you present alternative high-resolution views of an item.
 
-The Image Set Viewer offers zooming tools for examining images closely. If you want, you can make guided zoom targets and Image Maps part of your Image Set. Image Sets make for a more concerted, intimate viewing experience.
+The Image Set Viewer offers zooming tools for examining images closely. If you want, you can make guided Zoom Targets and Image Maps part of your Image Set. Image Sets make for a more concerted, intimate viewing experience.
 
 See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/556_Image%20&%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) training video.
 
@@ -48,7 +48,7 @@ To create an Image Set, on the Global Navigation bar, select **[!UICONTROL Build
 
 See [Create an Image Set](creating-image-set.md#creating-an-image-set).
 
-See also [Include zoom targets and Image Maps in Image Sets](/help/using/including-zoom-targets-image-maps-image-sets.md)
+See also [Include Zoom Targets and Image Maps in Image Sets](/help/using/including-zoom-targets-image-maps-image-sets.md)
 
 ## 3. Prepare Image Set Viewer Presets, as needed
 
@@ -60,7 +60,7 @@ See [Create and edit Viewer Presets](application-setup.md#adding-and-editing-vie
 
 ## 4. Preview an Image Set
 
-Select the Image Set in the Browse Panel, and then select **[!UICONTROL Preview]**. In the Preview page, select the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
+Select the Image Set in the Browse panel, and then select **[!UICONTROL Preview]**. In the Preview page, select the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
 
 See [Preview an asset](previewing-asset.md#previewing-an-asset).
 
@@ -72,7 +72,7 @@ Publishing an Image Set places it on Adobe Dynamic Media Classic servers and act
 >
 >This step is not necessary if you selected **[!UICONTROL Publish after a save]** (default) at the time you created and saved the Image Set.
 
-Select **[!UICONTROL Mark for Publish]** icon to the left of its name in the Browse Panel. Then select **[!UICONTROL Publish]**. On the Publishing page, select **[!UICONTROL Submit Publish]**.
+Select **[!UICONTROL Mark for Publish]** icon to the left of its name in the Browse panel. Then select **[!UICONTROL Publish]**. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish files](publishing-files.md#publishing-files).
 

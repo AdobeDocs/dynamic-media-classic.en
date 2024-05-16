@@ -57,7 +57,7 @@ These options are available when uploading PSD files:
 
         * **[!UICONTROL Layer Name]**: Names the images after their layer names in the PSD file. For example, a layer named Price Tag in the original PSD file becomes an image named Price Tag. However, if the layer names in the PSD file are default Photoshop layer names (Background, Layer 1, Layer 2, and so on), the images are named after their layer numbers in the PSD file. <!-- not their default layer names -->
 
-        * **[!UICONTROL Photoshop and layer number]**: Names the images after their layer numbers in the PSD file, ignoring original layer names. Images are named with the Photoshop filename and an appended layer number. For example, the second layer of a file called `Spring Ad.psd` is named `Spring Ad_2` even if it had a non-default name in Photoshop.
+        * **[!UICONTROL Photoshop and layer number]**: Names the images after their layer numbers in the PSD file, ignoring the original layer names. Images are named with the Photoshop filename and an appended layer number. For example, the second layer of a file called `Spring Ad.psd` is named `Spring Ad_2` even if it had a non-default name in Photoshop.
 
         * **[!UICONTROL Photoshop and layer name]**: Names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names. For example, a layer named `Price Tag` in a PSD file that is named `SpringAd` is named `Spring Ad_Price Tag`. A layer with the default name Layer 2 is called `Spring Ad_2`.
 
@@ -65,13 +65,13 @@ These options are available when uploading PSD files:
 
 ## View and edit layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
 
-If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded your PSD, Adobe Dynamic Media Classic ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse Panel in Detail View.
+If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded your PSD, Adobe Dynamic Media Classic ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse panel in Detail View.
 
 >[!NOTE]
 >
 >Adobe Dynamic Media Classic supports up to five levels in a nested layer group.
 
-1. Double-click the full PSD file in the Browse Panel. The file opens in Detail View.
+1. Double-click the full PSD file in the Browse panel. The file opens in Detail View.
 
     >[!NOTE]
     >
@@ -81,7 +81,7 @@ If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded yo
 1. Double-click a layer and do any of the following:
 
     * To create an Image Map on the layer, select the **[!UICONTROL Image Map]** icon. (See [Create Image Maps](creating-image-maps.md#creating_image_maps).)
-    * To create zoom targets on the layer, select the **[!UICONTROL Zoom Targets]** icon. (See [Create zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
+    * To create Zoom Targets on the layer, select the **[!UICONTROL Zoom Targets]** icon. (See [Create Zoom Targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
     * To crop the layer, select the **[!UICONTROL Crop]** icon. (See [Crop an image](cropping-image.md#cropping_an_image).)
     * To sharpen the layer, select **[!UICONTROL Sharpen]**. (See [Sharpen an image](sharpening-image.md#sharpening_an_image).)
     * To adjust the layer, select **[!UICONTROL Adjust]**. (See [Adjust an image](adjusting-image.md#adjusting_an_image).)

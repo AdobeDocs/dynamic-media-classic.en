@@ -19,7 +19,7 @@ Adobe Dynamic Media Classic also offers guided zooming &ndash; a means for you t
 
 All zoom images are created and served from single primary images, graphics, and database-driven attributes. Adobe Dynamic Media Classic zooming greatly reduces the time and cost of producing and delivering images. You can use Zoom Viewers to zoom in and out of images. The Zoom Viewer has buttons that you can select to zoom and pan; you can also pan by dragging onscreen. Using Zoom Viewer Presets, you can configure the Zoom Viewer in which you zoom images.
 
-See [Zoom target: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/559_Zoom%20Target%20Tool_converted%20renamed_Dynamic%20Imaging-AVS) and [Zoom: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/560_Zoom_converted%20renamed_Dynamic%20Imaging-AVS) training videos.
+See [Zoom Target: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/559_Zoom%20Target%20Tool_converted%20renamed_Dynamic%20Imaging-AVS) and [Zoom: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/560_Zoom_converted%20renamed_Dynamic%20Imaging-AVS) training videos.
 
 The following Zoom Quick Start is designed to get you up and running quickly with Zoom techniques in Adobe Dynamic Media Classic. Follow steps 1 through 6. After each step, there is a cross-reference to a topic heading where you can find more information.
 
@@ -29,11 +29,11 @@ Start by uploading your zoom images to Adobe Dynamic Media Classic. For optimal 
 
 On the Global Navigation bar, select **[!UICONTROL Upload]** to upload images from your computer or network to a folder on Adobe Dynamic Media Classic. See [Upload zoom images](uploading-zoom-images.md#uploading_zoom_images).
 
-## 2. Create zoom targets for guided zooming
+## 2. Create Zoom Targets for guided zooming
 
-Zoom targets present a way for you to highlight specific parts of an image. For example, you can direct attention to the parts of an image that make it unique or distinctive. In the Zoom Viewer window, zoom targets appear in the form of thumbnail images to the side of the image. Selecting one of these zoom target thumbnails automatically zooms to a part of the image that you specify.
+Zoom targets present a way for you to highlight specific parts of an image. For example, you can direct attention to the parts of an image that make it unique or distinctive. In the Zoom Viewer window, Zoom Targets appear in the form of thumbnail images to the side of the image. Selecting one of these zoom target thumbnails automatically zooms to a part of the image that you specify.
 
-To create a zoom target, select **[!UICONTROL Edit]** and choose Zoom Targets, or open an image in the Browse Panel in Detail View and select **[!UICONTROL Zoom Targets]**. Then use the Zoom tools on the Zoom Target Editor page so you can isolate part of the image as a target. See [Create zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).
+To create a zoom target, select **[!UICONTROL Edit]** and choose Zoom Targets, or open an image in the Browse panel in Detail View and select **[!UICONTROL Zoom Targets]**. Then use the Zoom tools on the Zoom Target Editor page so you can isolate part of the image as a target. See [Create Zoom Targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).
 
 ## 3. Set up Zoom Viewer Presets
 
@@ -47,9 +47,9 @@ Adobe Dynamic Media Classic offers **[!UICONTROL Zoom Viewer Preset]** options t
 
 You can preview images in a Zoom Viewer to see what the zooming experience is when images are zoomed.
 
-To explore different Zoom Viewer Presets and how they present the zooming experience, select an image in the Browse Panel and select **[!UICONTROL Preview]**. Go to **[!UICONTROL Presets]** > **[!UICONTROL Zoom]**, and then select a preset with the Zoom menu.
+To explore different Zoom Viewer Presets and how they present the zooming experience, select an image in the Browse panel and select **[!UICONTROL Preview]**. Go to **[!UICONTROL Presets]** > **[!UICONTROL Zoom]**, and then select a preset with the Zoom menu.
 
-Zoom buttons appear. You can see what the zoom images look like on your Web site. Select the Zoom buttons (and zoom targets) so you can test the settings of the Zoom Viewer Preset you chose. See [Preview images with different Zoom Viewers](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
+Zoom buttons appear. You can see what the zoom images look like on your Web site. Select the Zoom buttons (and Zoom Targets) so you can test the settings of the Zoom Viewer Preset you chose. See [Preview images with different Zoom Viewers](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
 
 ## 5. Publish zoom images
 

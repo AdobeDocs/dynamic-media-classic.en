@@ -32,7 +32,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. Do one of the following:
 
-   * **Select the images first**: In the Browse Panel, select the images, and then go to **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**.
+   * **Select the images first**: In the Browse panel, select the images, and then go to **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**.
 
    * **Start from the Swatch Set screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**. Select a folder in the Asset Library and drag the images onto the Views section of the Swatch Set page.
 

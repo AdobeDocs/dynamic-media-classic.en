@@ -19,7 +19,7 @@ In Adobe Dynamic Media Classic, you can choose an ICC profile to convert images 
 
 See [Image edit options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
-Besides using the default ICC profiles, you can upload other ICC profiles to Adobe Dynamic Media Classic and make them available for color space conversion. Switch to Detail View in the Browse Panel to investigate the profile class, color space type, and PCS type of an ICC profile.
+Besides using the default ICC profiles, you can upload other ICC profiles to Adobe Dynamic Media Classic and make them available for color space conversion. Switch to Detail View in the Browse panel to investigate the profile class, color space type, and PCS type of an ICC profile.
 
 ## Upload ICC profiles {#uploading-icc-profiles}
 
@@ -29,7 +29,7 @@ See [Upload your files](uploading-files.md#uploading_your_files).
 
 ## Examine an ICC profile {#examining-an-icc-profile}
 
-To examine an ICC profile, select it in the Browse Panel and display it in Detail View. Detail View provides this information about ICC profiles:
+To examine an ICC profile, select it in the Browse panel and display it in Detail View. Detail View provides this information about ICC profiles:
 
 * **[!UICONTROL Profile Class]**: The ICC (International Color Consortium) defines each class to cover a type of application. For example, Input profiles apply to devices such as digital cameras and scanners, and Output profiles apply to printers.
 

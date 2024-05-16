@@ -39,7 +39,7 @@ See also [Sharpening](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?v
 
 **To sharpen an image:**
 
-To sharpen an image, select its rollover **[!UICONTROL Edit]** button and choose **[!UICONTROL Sharpen]**, or open it in the Browse Panel in Detail View, and then select **[!UICONTROL Sharpen]**. The Sharpness Editor page opens with sharpening commands. Choose the commands that you want, then click **[!UICONTROL Save]**.
+To sharpen an image, select its rollover **[!UICONTROL Edit]** button and choose **[!UICONTROL Sharpen]**, or open it in the Browse panel in Detail View, and then select **[!UICONTROL Sharpen]**. The Sharpness Editor page opens with sharpening commands. Choose the commands that you want, then click **[!UICONTROL Save]**.
 
 >[!NOTE]
 >

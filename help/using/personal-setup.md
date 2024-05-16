@@ -19,7 +19,7 @@ All users can change settings on the Personal Setup screen. To open the Personal
 >
 >The Personal Setup screen lists which user role you have in Adobe Dynamic Media Classic: Company Administrator, Administrator, or User.
 
-The Personal Setup settings control the default behavior of the Browse Panel, how you receive e-mail, and password settings. Remember to select **[!UICONTROL Save]** after you change these settings.
+The Personal Setup settings control the default behavior of the Browse panel, how you receive e-mail, and password settings. Remember to select **[!UICONTROL Save]** after you change these settings.
 
 ## My Account Information
 
@@ -66,9 +66,9 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## Browser
 
-* **[!UICONTROL Thumbnail Size]**: Determines the default size of thumbnail images in Grid View in the Browse Panel.
+* **[!UICONTROL Thumbnail Size]**: Determines the default size of thumbnail images in Grid View in the Browse panel.
 * **[!UICONTROL Default Asset Library View]**: Determines whether the assets in the Asset Library for build sets appear as thumbnails or by name. If you are working with large quantities of assets in the Asset Library, you can view the assets by name. For example, if you are building a large eCatalog with many PDF files, you can view the assets by name to make the list shorter.
-* **[!UICONTROL Default Browse Sort Order]**: Determines the order in which assets appear by default in the Browse Panel. Choose a sort criterion on the menu and whether you want an ascending or descending sort.
+* **[!UICONTROL Default Browse Sort Order]**: Determines the order in which assets appear by default in the Browse panel. Choose a sort criterion on the menu and whether you want an ascending or descending sort.
 * **[!UICONTROL Default Browse Location]**: Lets you set the browse location to the default, the last folder browsed, or to a specific location that you navigate to and identify. You can also set the browse location to sort the files and folders in ascending or descending order.
 * **[!UICONTROL Default Browse View]**: Determines whether Grid View or List View is the default view you see when you first open the Browse panel.
 * **[!UICONTROL Splash Screen Display]**: Determines whether you see any splash screens, including the Welcome splash screen.
@@ -77,7 +77,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 * **[!UICONTROL Show File Size]**: Displays the file size of an asset when you are browsing.
 * **[!UICONTROL Include UDFs in Search]**: To improve system performance for most metadata searches that you run, deselected (default).
 
-  If most of your metadata searches benefit from including user-defined fields, you can select this option to turn it on. As an alternative, use Advanced Search to give you a more directed and faster search experience than including user-defined fields.
+  If most of your metadata searches benefit from including user-defined fields, you can select this option to turn it on. As an alternative, use Advanced Search to give you a more directed and faster search experience than by including user-defined fields.
 
   See [Conducting an advanced search](searching-assets.md#conducting_an_advanced_search).
 
@@ -101,7 +101,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 * **[!UICONTROL Current Password]**: Enter the password your present password.
 * **[!UICONTROL New Password]**: Enter a new, valid password. Your password must meet the following requirements:
-  * Be between 8-25 characters long.
+  * It must be between 8-25 characters long.
   * Contain at least one lowercase letter.
   * Contain at least one uppercase letter.
   * Contain at least one number.

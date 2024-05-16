@@ -63,4 +63,4 @@ To publish a template, mark it for publish and on the Global Navigation bar, sel
 
 Dynamic Media Classic creates URLs for templates, and activates the URLs when you publish templates to Dynamic Media Image Servers. You can copy these URL strings from the Template Preview page.
 
-Select your template in the Browse Panel, and then select **[!UICONTROL Preview]** to open the Template Preview page. Choose an Image Preset for delivering your template, and then click the **[!UICONTROL Copy URL]** button. After you copy the URL from the Preview page, you can use it in your Web site or application. See [Link a template to a Web page](linking-template-web-page.md#linking_a_template_to_a_web_page).
+Select your template in the Browse panel, and then select **[!UICONTROL Preview]** to open the Template Preview page. Choose an Image Preset for delivering your template, and then click the **[!UICONTROL Copy URL]** button. After you copy the URL from the Preview page, you can use it in your Web site or application. See [Link a template to a Web page](linking-template-web-page.md#linking_a_template_to_a_web_page).

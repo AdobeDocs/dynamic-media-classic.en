@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Creating an eCatalog {#creating-an-ecatalog}
 
-Creating an eCatalog entails ordering the pages, choosing the page layout, and linking the pages by drawing Image Maps and entering rollover and hypertext link data. Optionally, you can customize the TOC so that viewers see page names rather than page numbers in the eCatalog Viewer.
+Creating an eCatalog entails ordering the pages, choosing the page layout, and linking the pages by drawing Image Maps. It also requires entering rollover and hypertext link data. Optionally, you can customize the TOC so that viewers see page names rather than page numbers in the eCatalog Viewer.
 
 ## Create an eCatalog {#create}
 
@@ -32,9 +32,9 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. Begin creating your eCatalog with one of these techniques:
 
-   * **Select the files first**: In the Browse Panel, select files and then go to **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**.
+   * **Select the files first**: In the Browse panel, select files and then go to **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**.
 
-   * **Start from the eCatalog screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Select a folder in the Asset Library and drag files from the folder into the Order Pages tab of the eCatalog page.
+   * **Start from the eCatalog screen**: Go to **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Select a folder in the Asset Library. Drag files from the folder into the Order Pages tab of the eCatalog page.
 
       >[!NOTE]
       >
@@ -52,7 +52,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**.
-1. In the Save dialog box, select a folder for storing your eCatalog. In the File Name field, enter the spin set name.
+1. In the Save dialog box, select a folder for storing your eCatalog. In the File Name field, enter the Spin Set name.
 1. Select **[!UICONTROL Save]**.
 
    You can preview your eCatalog, after you save it, by selecting **[!UICONTROL Preview]**.
@@ -92,7 +92,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 Adobe Dynamic Media Classic provides default page numbers in your eCatalog on the Order Pages tab of the eCatalog screen. For custom page names, you can change the page labels that constitute the table of contents (TOC). Renaming the front and back cover is recommended. For example, the front cover page can read "Cover" instead of "Page 0-1."
 
-You can create a customized table of contents (TOC) for your eCatalog manually or by importing the page names from a CSV (Mac only) or XML file.
+You can create a customized table of contents (TOC) for your eCatalog manually. Or, you can import the page names from a CSV (Mac only) or XML file.
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ You can create a customized table of contents (TOC) for your eCatalog manually o
 
 ### Manually entering page names {#manually-entering-page-names}
 
-To manually enter page names one at a time, go to the Order Pages tab of the eCatalog screen. Then, in the page number field, enter a name for each page you want to name.
+Manually enter page names one at a time by going to the Order Pages tab of the eCatalog screen. Then, in the page number field, enter a name for each page you want to name.
 
 ### Import page names {#importing-page-names}
 

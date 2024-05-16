@@ -63,7 +63,7 @@ See [Setup Spin Set Viewer Presets](setting-spin-set-viewer-presets.md#setting-u
 
 ## 5. Preview a Spin Set
 
-Select your Spin Set in the Browse Panel, and then select **[!UICONTROL Preview]**. On the Preview page, hold down the mouse button and drag the pointer left or right to visually "spin" the item.
+Select your Spin Set in the Browse panel, and then select **[!UICONTROL Preview]**. On the Preview page, hold down the mouse button and drag the pointer left or right to visually "spin" the item.
 
 See [Preview a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
@@ -71,7 +71,7 @@ See [Preview a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
 Publishing a Spin Set places it on Adobe Dynamic Media Classic servers so it can be dynamically delivered to your Web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image Servers to your Web site or application.
 
-To publish a Spin Set, mark it for publish by selecting the **[!UICONTROL Mark for Publish]** icon beside its name in the Browse Panel. On the Global Navigation bar, select **[!UICONTROL Publish]** to initiate a publishing. On the Publishing page, select **[!UICONTROL Submit Publish]**.
+To publish a Spin Set, mark it for publish by selecting the **[!UICONTROL Mark for Publish]** icon beside its name in the Browse panel. On the Global Navigation bar, select **[!UICONTROL Publish]** to initiate a publishing. On the Publishing page, select **[!UICONTROL Submit Publish]**.
 
 See [Publish a Spin Set](publishing-spin-set.md#publishing-a-spin-set).
 

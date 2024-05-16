@@ -80,7 +80,7 @@ Rather than manually enter metadata one asset at a time, you can import metadata
 
 You can find more information about standardized properties at the [Adobe XMP Developer Center](https://www.adobe.com/devnet/xmp.html).
 
-1. In the Browse Panel, select the images to which you want to add metadata from the tab-delimited or XML file.
+1. In the Browse panel, select the images to which you want to add metadata from the tab-delimited or XML file.
 1. Go to **[!UICONTROL File]** > **[!UICONTROL Import Metadata]**.
 1. In the **[!UICONTROL Upload Metadata]** dialog box, select **[!UICONTROL Browse]**.
 1. In the **[!UICONTROL Select files to upload]** dialog box, select the tab-delimited or XML file with the metadata.
@@ -129,7 +129,7 @@ On the Global Navigation bar, select **[!UICONTROL Upload]**. To import the meta
 
 ## Batch rename IDs using metadata {#batch-rename-ids-using-metadata}
 
-Using metadata imported from a tab-delimited file or XML file, you can rename Adobe Dynamic Media Classic IDs. The imported metadata is applied only to the images specified in the metadata file itself. It does not matter whether images are selected on the Browse Panel.
+Using metadata imported from a tab-delimited file or XML file, you can rename Adobe Dynamic Media Classic IDs. The imported metadata is applied only to the images specified in the metadata file itself. It does not matter whether images are selected on the Browse panel.
 
 To rename an image's Adobe Dynamic Media Classic ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called `new_vc_objectname` to the XML data.
 

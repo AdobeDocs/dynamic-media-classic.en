@@ -13,12 +13,12 @@ level: Intermediate
 ---
 # Select assets in the Browse panel{#selecting-assets-in-the-browse-panel}
 
-Select an asset in the Browse Panel so you can work with it. Use these techniques to select assets:
+Select an asset in the Browse panel so you can work with it. Use these techniques to select assets:
 
 * **A single asset**: Select the asset (double-clicking opens the asset in Detail View).
 
-* **Several assets**: Ctrl+click (Windows&reg;) or Command+click (Mac) assets to select assets in different places on the Browse Panel. Shift+click (click one asset, and then Shift+click another) to select adjacent assets.
+* **Several assets**: Ctrl+click (Windows&reg;) or Command+click (Mac) assets to select assets in different places on the Browse panel. Shift+click (click one asset, and then Shift+click another) to select adjacent assets.
 
-* **All assets in the Browse Panel**: Go to **[!UICONTROL Select]** > **[!UICONTROL All]**.
+* **All assets in the Browse panel**: Go to **[!UICONTROL Select]** > **[!UICONTROL All]**.
 
 * **No assets**: Go to **[!UICONTROL Select]** > **[!UICONTROL None]**.

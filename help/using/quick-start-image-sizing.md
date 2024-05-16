@@ -60,6 +60,6 @@ On the Global Navigation bar, select **[!UICONTROL Publish]** to start a publish
 
 ## 5. Link URLs to your Web application
 
-Adobe Dynamic Media Classic creates URL callout strings for images. When you publish images to Dynamic Media Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail View) or Preview screen. After you copy the URL strings, you can use them in your Web site and applications. The URL for Image Sizing replaces the reference to a static image name in your Web page code. The URL references a primary image name that the database replaces for each new image to display.
+Adobe Dynamic Media Classic creates URL callout strings for images. When you publish images to Dynamic Media Image Servers, the URLs become active. You can copy these URL strings from the Browse panel (in Detail View) or Preview screen. After you copy the URL strings, you can use them in your Web site and applications. The URL for Image Sizing replaces the reference to a static image name in your Web page code. The URL references a primary image name that the database replaces for each new image to display.
 
 URL strings generated with Image Presets contain the name of an Image Preset. This name is enclosed in dollar signs (`$`). For example, `$thumbnail$` can be the Image Preset designed to show primary images at thumbnail size. See [Link URLs to your Web application](linking-urls-web-application.md#linking_urls_to_your_web_application).

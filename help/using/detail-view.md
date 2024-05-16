@@ -36,7 +36,7 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
 You can display an asset in Detail View so you can closely examine, preview, or work on it. 
 
-1. In the Browse Panel, do any one of the following:
+1. In the Browse panel, do any one of the following:
 
     * Select the asset. Near the upper-right corner of the Adobe Dynamic Media Classic, select the **[!UICONTROL Detail View]** icon.
     * Double-click the asset.
@@ -50,7 +50,7 @@ You can display an asset in Detail View so you can closely examine, preview, or 
 
 Detail View provides information about an asset or file. This information is displayed about an item: the folder where it is stored, its filename, the date the item was uploaded to Adobe Dynamic Media Classic, and its publishing history. You can also view and edit metadata and add keywords for an asset in Detail View.
 
-You can obtain an asset URL in Detail View; however, the URL is not active until you publish the asset. For images, Detail View also provides a list of built and derived assets and metadata, such as zoom targets and Image Sets.
+You can obtain an asset URL in Detail View; however, the URL is not active until you publish the asset. For images, Detail View also provides a list of built and derived assets and metadata, such as Zoom Targets and Image Sets.
 
 ## Work with assets in Detail View {#working-with-assets-in-detail-view}
 
@@ -72,7 +72,7 @@ This table shows which other options are available with different types of asset
 
 | Asset type | Edit/adjust | Preview |
 | --- | --- | --- |
-| Images | Add Image Maps<br>Add zoom targets<br>Crop<br>Sharpen<br>Create adjusted views | Yes; Zoom and Image Presets |
+| Images | Add Image Maps<br>Add Zoom Targets<br>Crop<br>Sharpen<br>Create adjusted views | Yes; Zoom and Image Presets |
 | Cabinet and window covering images | No | Thumbnail |
 | eCatalogs | Edit | Yes<br>Info Panel is also available |
 | Fonts | Edit font information | No |
@@ -83,7 +83,7 @@ This table shows which other options are available with different types of asset
 | InDesign files | No (unless converted to FXG) | No |
 | PDF files | No | No |
 | PSD files | Yes for individual layers | Yes for individual layers |
-| Spin sets | Edit | Yes |
+| Spin Sets | Edit | Yes |
 | SVG files | No | No |
 | Templates | Edit | Yes |
 | Videos | No | Yes |

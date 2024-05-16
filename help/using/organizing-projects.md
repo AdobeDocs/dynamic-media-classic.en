@@ -43,7 +43,7 @@ You can create a Project folder starting in the Assets Library or when you uploa
 
 To display, delete, and rename a Project folder, do any of the following:
 
-* **Browsing contents**: Select the name of the folder in the Asset Library. Its assets appear in the Browse Panel.
+* **Browsing contents**: Select the name of the folder in the Asset Library. Its assets appear in the Browse panel.
 
 * **Deleting Project folders**: Select the Project folder and then select **[!UICONTROL Remove Project]**. Deleting assets from a Project folder does not delete them from Adobe Dynamic Media Classic; the assets remain in the original folders in which they are stored.
 
@@ -51,8 +51,8 @@ To display, delete, and rename a Project folder, do any of the following:
 
 ## Add assets to a Project folder {#adding-assets-to-a-project-folder}
 
-You can add images to a Project folder starting in the Browse Panel or when you upload files to Adobe Dynamic Media Classic:
+You can add images to a Project folder starting in the Browse panel or when you upload files to Adobe Dynamic Media Classic:
 
-* **From the Browse Panel**, select the assets and drag them to a Project folder. You can also go to **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Select a Project folder name in the Select Project dialog box, and then select **[!UICONTROL Submit]**.
+* **From the Browse panel**, select the assets and drag them to a Project folder. You can also go to **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Select a Project folder name in the Select Project dialog box, and then select **[!UICONTROL Submit]**.
 
 * **When uploading files**: On the Upload page, select **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, select **[!UICONTROL Projects]**, and then select a project name.
