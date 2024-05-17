@@ -13,7 +13,7 @@ level: Experienced
 ---
 # Create template parameters{#creating-template-parameters}
 
-Parameters enable you to use templates with maximum flexibility; they allow you to dynamically customize a template image. You can decide which text and image layers to include in the template, and in each layer, which parameters to display. For example, to draw attention to a product that is on sale, you can create an On Sale text layer. Later, you can remove this layer but still retain the rest of the template image by removing the On Sale parameter.
+Parameters enable you to use templates with maximum flexibility; they let you dynamically customize a template image. You can decide which text and image layers to include in the template, and in each layer, which parameters to display. For example, to draw attention to a product that is on sale, you can create an On Sale text layer. Later, you can remove this layer but still retain the rest of the template image by removing the On Sale parameter.
 
 When you create template parameters, you in effect declare which parts of the template to call in a URL string. A URL constructed with parameters exposes those items in the URL string. With parameters exposed, you can create custom results from the way the template image is dynamically constructed from the Image Server. In this way, you can change a template dynamically because you can call some or all of its parameters in a URL.
 
@@ -53,4 +53,4 @@ To make the parameter name use a database value, append the following string to 
 ?$_2(parameter name)=(database value)
 ```
 
-The parameter name is replaced by names in a database field or Java&trade; code indicating, for example, the current price of an item or a customer name.
+Names in a database field or Java&trade; code replace the parameter names. Such functionality indicates, for example, the current price of an item or a customer name.
