@@ -13,7 +13,7 @@ level: Intermediate
 ---
 # Check job files{#checking-job-files}
 
-To monitor file uploads to Adobe Dynamic Media Classic, and files that you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
+To monitor file uploads to Adobe Dynamic Media Classic, and files that you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review, upload, and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
 
 When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can select the icon to see more information about the active job.
 
@@ -43,7 +43,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 * **[!UICONTROL Status]**: Shows the status of the job.
 
-* **[!UICONTROL Destination]**: For upload jobs, the company name, and folder to which the files were uploaded. This category does not apply to jobs for publishing.
+* **[!UICONTROL Destination]**: For upload jobs, the destination is the company name and folder to which the files were uploaded. This category does not apply to jobs for publishing.
 
 * **[!UICONTROL Submitted By]**: Lists who uploaded the assets.
 

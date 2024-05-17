@@ -17,7 +17,7 @@ As an administrator, you can add and manage users, decide whether they can chang
 
 >[!NOTE]
 >
->Before you add users, set up groups for administering them. Media Portal does not let you add a user without assigning the user to one or more groups. For more information, see [Create and manage Media Portal groups](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
+>Before you add users, set up groups for administering them. Media Portal lets you add a user by assigning the user to one or more groups. For more information, see [Create and manage Media Portal groups](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
 
 ## Administration of Media Portal passwords {#handling-media-portal-passwords}
 
@@ -35,7 +35,7 @@ Media Portal users, contributors, and contributor-users are sent a Welcome e-mai
 
 1. Navigate to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. On the User Administration page, select **Add**.
-1. In the **[!UICONTROL `Add User`]** dialog box, in the User Info panel, enter the First Name, Last Name, and Email address of the user, and then select **[!UICONTROL Next]**.
+1. In the **[!UICONTROL `Add User`]** dialog box, in the User Info panel, enter the first name, last name, and email address of the user, and then select **[!UICONTROL Next]**.
 1. In the Company/Role panel, in the Companies drop-down list, select a company or companies for the user.
 1. In the Role list, select a Media Portal role, and then select **[!UICONTROL Next]**.
 
@@ -89,7 +89,7 @@ Each user in the list is automatically added to the specified groups. A Welcome 
 
 >[!NOTE]
 >
->If the CSV file was not formatted correctly, the following error message appears: "An error occurred while processing the uploaded CSV file. Check the file contents for valid data." In addition, if the CSV contains an existing IP or IPS user, the user is not added to the User List.
+>If the CSV file was not formatted correctly, the following error message appears: "An error occurred while processing the uploaded CSV file. Check the file contents for valid data." In addition, if the CSV contains an existing IP or IPS user, the user is not added to the user list.
 
 ## Generate a selectable list of Media Portal users {#generating-a-selectable-list-of-media-portal-users}
 

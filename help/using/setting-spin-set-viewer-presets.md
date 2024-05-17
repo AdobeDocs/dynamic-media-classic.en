@@ -21,9 +21,9 @@ Spin Set Viewer Presets determine the style, behavior, and look of your viewers.
 1. Do one of the following:
 
     * To create a preset, select **[!UICONTROL Add]**, then in the Add Viewer Preset dialog box, choose a platform, and then select **[!UICONTROL Spin Set Viewer]**.
-    * To edit an existing Spin Set Viewer preset, select the preset, and then select **[!UICONTROL Edit]**.
+    * To edit an existing Spin Set Viewer Preset, select the preset, and then select **[!UICONTROL Edit]**.
 
-1. On the `Configure Viewer` page, type a name in the Preset Name box for the Spin Set Viewer preset.
+1. On the `Configure Viewer` page, type a name in the Preset Name box for the Spin Set Viewer Preset.
 1. Specify other options as desired. To see a description of an option, select the **[!UICONTROL Info Tip]** icon next to the option.
 
    The Preview page displays the viewer as you update and change settings.
