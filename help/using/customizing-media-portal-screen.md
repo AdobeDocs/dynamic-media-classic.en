@@ -21,7 +21,7 @@ To access the style settings, go to **[!UICONTROL Setup]** > **[!UICONTROL Media
 
 * **[!UICONTROL Application]**: Create a gradient color blend by making choices on the menus of the Background Gradient Colors.
 
-* **[!UICONTROL Tree]**: Choose a rollover color (the color that appears when you move the pointer over an item) and selection color (the color that appears when you select an item).
+* **[!UICONTROL Tree]**: Choose a rollover color and selection color.
 
 * **[!UICONTROL Accordion]**: Choose background colors, a border style, and rollover and selected colors for the accordion that appears on the right side of the screen in Details view.
 
