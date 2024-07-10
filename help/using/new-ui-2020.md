@@ -119,7 +119,6 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
 1. Navigate to the uploaded video asset that you want to add multiple caption and audio tracks.
 1. In asset selection mode, either from the List View or the Card View, select the video asset.
 1. On the toolbar, select the Properties icon (a circle with an "i" in it).
-<!-- ![Selected video asset with checkmark over video thumbnail image and View Properties highlighted on the toolbar.](/help/assets/dynamic-media/assets/msma-selectedasset-propertiesbutton.png)*Selected video asset in Card view.* -->
 1. On the video's Properties page, select the **[!UICONTROL Captions & Audio Tracks]** tab.
 
    >[!TIP]
@@ -129,8 +128,6 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
    >* Or, the video must be reprocessed by Dynamic Media. In which case, see [Reprocess Dynamic Media assets in a folder].
    >
    >When you have completed either one of the above tasks, return to these steps.
-  
-   <!-- ![Captions and Audio Tracks tab on the Properties page.](/help/assets/dynamic-media/assets/msma-audiotracks2.png)*Captions and Audio Tracks tab on the video's Properties page.* -->
 
 1. To add one or more audio tracks to a video, do the following:
    1. Select **[!UICONTROL Upload Audio Tracks]**.
@@ -159,7 +156,6 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
    | **Option 2** | I want AI to generate my caption files in multiple languages.<br>See **Option 2** in step 8 below. |
    | **Option 3** | Text in a caption file (.vtt) needs to be corrected, reuploaded to replace the old .vtt file, then have AI translate the corrected file.<br>See **Option 3** in step 8 below. |
 
-
     +++**Option 1:** *I have my own pre-existing caption files that are in the languages that I want to use.*
 
     1. Near the upper-right side of the page, click **[!UICONTROL Create Caption]** > **[!UICONTROL Upload files]**.
@@ -183,7 +179,6 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
 
     1. If you selected **[!UICONTROL Save & Close]** in the previous step, instead of selecting **[!UICONTROL Save]**, you can still view the processing status of the uploaded files. See [View the lifecycle status of uploaded caption and audio track files].
     1. Continue to step 9.
-
     +++
 
     +++**Option 2:** *I want AI to generate my caption files in multiple languages.*
@@ -212,7 +207,6 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
 
         You can change or edit certain caption metadata later, if necessary. When the video is published, these metadata details are reflected on public URLs in published videos.
     1. Continue to step 9.
-
     +++
 
     +++**Option 3:** *Text in a caption file (.vtt) needs to be corrected, reuploaded to replace the old .vtt file, then have AI translate the corrected file.*
@@ -242,7 +236,6 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
         You can change or edit certain caption metadata later, if necessary. When the video is published, these metadata details are reflected on public URLs in published videos.
 
     1. Continue to step 9.
-
     +++
 
 1. (Optional) Preview the video before publishing to ensure the captions and audio work as expected. See [Preview a video that has multiple captions and audio tracks].
