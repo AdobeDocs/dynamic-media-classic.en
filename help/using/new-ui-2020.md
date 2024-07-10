@@ -104,18 +104,18 @@ To learn more about the benefits of upgrading to the next generation of rich med
 Before you add multiple caption and audio tracks to your video, be sure you already have the following in-place:
 
 * Dynamic Media is set up in an AEM environment.
-* A [Dynamic Media Video profile is applied to the folder where your videos are ingested](/help/assets/dynamic-media/video-profiles.md#applying-a-video-profile-to-folders).
-* [Multi-caption/audio tracks and AI-generated captions are enabled on your Dynamic Media account](#enable-dash).
+* A [Dynamic Media Video profile is applied to the folder where your videos are ingested].
+* [Multi-caption/audio tracks and AI-generated captions are enabled on your Dynamic Media account].
 
 Added captions are supported with WebVTT and Adobe VTT formats. And, added audio track files are supported with MP3 format.
 
 >[!IMPORTANT]
 >
->For videos uploaded *before* enabling multiple caption/audio track support or AI-generated captions on your Dynamic Media account, [you need to reprocess them](/help/assets/dynamic-media/about-image-video-profiles.md#reprocessing-assets). This reprocessing step ensures that these videos can use the multiple caption/audio track and AI-generated caption features. After reprocessing, the video URLs continue to function and play as usual.
+>For videos uploaded *before* enabling multiple caption/audio track support or AI-generated captions on your Dynamic Media account, [you need to reprocess them]. This reprocessing step ensures that these videos can use the multiple caption/audio track and AI-generated caption features. After reprocessing, the video URLs continue to function and play as usual.
 
 **To add multiple captions and audio tracks to your video:**
 
-1. [Upload your primary video to a folder](/help/assets/manage-video-assets.md#upload-and-preview-video-assets) that already has a video profile assigned to it. You do not need to publish the video until later in these steps.
+1. [Upload your primary video to a folder]) that already has a video profile assigned to it. You do not need to publish the video until later in these steps.
 1. Navigate to the uploaded video asset that you want to add multiple caption and audio tracks.
 1. In asset selection mode, either from the List View or the Card View, select the video asset.
 1. On the toolbar, select the Properties icon (a circle with an "i" in it).
@@ -125,8 +125,8 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
    >[!TIP]
    >If you do not see the **[!UICONTROL Captions & Audio Tracks]** tab, it means either one of two things:
    >
-   >* The folder in which the selected video resides does not have a video profile assigned to it. In which case, see [Apply a video profile to the folder](/help/assets/dynamic-media/video-profiles.md#applying-video-profiles-to-specific-folders)
-   >* Or, the video must be reprocessed by Dynamic Media. In which case, see [Reprocess Dynamic Media assets in a folder](/help/assets/dynamic-media/about-image-video-profiles.md#reprocessing-assets).
+   >* The folder in which the selected video resides does not have a video profile assigned to it. In which case, see [Apply a video profile to the folder]
+   >* Or, the video must be reprocessed by Dynamic Media. In which case, see [Reprocess Dynamic Media assets in a folder].
    >
    >When you have completed either one of the above tasks, return to these steps.
   
@@ -181,7 +181,7 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
         >
         >Based on the caching settings of your instance, the metadata processing can take several minutes before it is reflected in preview and in published URLs.
 
-    1. If you selected **[!UICONTROL Save & Close]** in the previous step, instead of selecting **[!UICONTROL Save]**, you can still view the processing status of the uploaded files. See [View the lifecycle status of uploaded caption and audio track files](#lifecycle-status-video).
+    1. If you selected **[!UICONTROL Save & Close]** in the previous step, instead of selecting **[!UICONTROL Save]**, you can still view the processing status of the uploaded files. See [View the lifecycle status of uploaded caption and audio track files].
     1. Continue to step 9.
 
     +++
@@ -197,7 +197,7 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
         | Output languages | In the drop-down list, select one or more languages in which you want the caption file to appear.<br>To remove a selected language, click **X**.<br>During video playback, the list of languages appears in the media player in the order that you select them here. |
 
     1. Click **[!UICONTROL Done]**.
-    1. Near the upper-right corner the page, in the **[!UICONTROL Save & Close]** drop-down, click **[!UICONTROL Save]**. One or more caption files are created and processing begins, as seen in the **Status** column of the interface. See also [View the lifecycle status of uploaded caption and audio track files](#lifecycle-status-video).
+    1. Near the upper-right corner the page, in the **[!UICONTROL Save & Close]** drop-down, click **[!UICONTROL Save]**. One or more caption files are created and processing begins, as seen in the **Status** column of the interface. See also [View the lifecycle status of uploaded caption and audio track files].
 
         >[!NOTE]
         >
@@ -226,7 +226,7 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
         | Output languages | In the drop-down list, select one or more languages in which you want the caption file to appear.<br>To remove a selected language, click **X**.<br>During video playback, the list of languages appears in the media player in the order that you select them here. |
 
     1. Click **[!UICONTROL Done]**.
-    1. Near the upper-right corner the page, in the **[!UICONTROL Save & Close]** drop-down, click **[!UICONTROL Save]**. One or more caption files are created and processing begins, as seen in the **Status** column of the interface. See also [View the lifecycle status of uploaded caption and audio track files](#lifecycle-status-video).
+    1. Near the upper-right corner the page, in the **[!UICONTROL Save & Close]** drop-down, click **[!UICONTROL Save]**. One or more caption files are created and processing begins, as seen in the **Status** column of the interface. See also [View the lifecycle status of uploaded caption and audio track files].
 
         >[!NOTE]
         >
@@ -245,7 +245,7 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
 
     +++
 
-1. (Optional) Preview the video before publishing to ensure the captions and audio work as expected. See [Preview a video that has multiple captions and audio tracks](#preview-video-audio-subtitle)
+1. (Optional) Preview the video before publishing to ensure the captions and audio work as expected. See [Preview a video that has multiple captions and audio tracks].
 
 >[!MORELIKETHIS]
 >
