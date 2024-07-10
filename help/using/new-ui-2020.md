@@ -99,6 +99,154 @@ Adobe Dynamic Media Classic is a powerful, feature-rich solution designed to enh
 To learn more about the benefits of upgrading to the next generation of rich media authoring, publishing, and dynamic delivery, visit the [Adobe Dynamic Media portal for upgrading](/help/using/upgrade.md).
 +++
 
+### Add multiple captions and audio tracks to your video {#add-msma}
+
+Before you add multiple caption and audio tracks to your video, be sure you already have the following in-place:
+
+* Dynamic Media is set up in an AEM environment.
+* A [Dynamic Media Video profile is applied to the folder where your videos are ingested].
+* [Multi-caption/audio tracks and AI-generated captions are enabled on your Dynamic Media account].
+
+Added captions are supported with WebVTT and Adobe VTT formats. And, added audio track files are supported with MP3 format.
+
+>[!IMPORTANT]
+>
+>For videos uploaded *before* enabling multiple caption/audio track support or AI-generated captions on your Dynamic Media account, [you need to reprocess them]. This reprocessing step ensures that these videos can use the multiple caption/audio track and AI-generated caption features. After reprocessing, the video URLs continue to function and play as usual.
+
+**To add multiple captions and audio tracks to your video:**
+
+1. [Upload your primary video to a folder]) that already has a video profile assigned to it. You do not need to publish the video until later in these steps.
+1. Navigate to the uploaded video asset that you want to add multiple caption and audio tracks.
+1. In asset selection mode, either from the List View or the Card View, select the video asset.
+1. On the toolbar, select the Properties icon (a circle with an "i" in it).
+<!-- ![Selected video asset with checkmark over video thumbnail image and View Properties highlighted on the toolbar.](/help/assets/dynamic-media/assets/msma-selectedasset-propertiesbutton.png)*Selected video asset in Card view.* -->
+1. On the video's Properties page, select the **[!UICONTROL Captions & Audio Tracks]** tab.
+
+   >[!TIP]
+   >If you do not see the **[!UICONTROL Captions & Audio Tracks]** tab, it means either one of two things:
+   >
+   >* The folder in which the selected video resides does not have a video profile assigned to it. In which case, see [Apply a video profile to the folder]
+   >* Or, the video must be reprocessed by Dynamic Media. In which case, see [Reprocess Dynamic Media assets in a folder].
+   >
+   >When you have completed either one of the above tasks, return to these steps.
+  
+   <!-- ![Captions and Audio Tracks tab on the Properties page.](/help/assets/dynamic-media/assets/msma-audiotracks2.png)*Captions and Audio Tracks tab on the video's Properties page.* -->
+
+1. To add one or more audio tracks to a video, do the following:
+   1. Select **[!UICONTROL Upload Audio Tracks]**.
+   1. Navigate to, and select, one or more .mp3 files and open them.
+   1. For audio tracks to be visible in the **[!UICONTROL Select audio or caption]** pop-up list on the media player, you *must* add required details about *each* audio track file that you added. Select the pencil icon to the right of an audio track file name. In the **Edit Audio Track** dialog box, enter the following required details:
+    
+      | Audio Track metadata | Description |
+      |--- |--- |
+      | Filename | The default filename is derived from the original filename. The filename can be changed only while uploading and cannot be changed later. Filename character requirements are the same as for AEM Assets.<br>The same filename cannot be used for additional audio track files or caption files. |
+      | Language | Select the correct language of the audio track. |
+      | Type | Select the type of audio track that you are using.<br>**Original** &ndash; The audio track originally attached to the video and represented as `[Original]` in the label with `English` language selected by default. While **[!UICONTROL Label]** and **[!UICONTROL Language]** can be changed in the **[!UICONTROL Edit Audio Track]** dialog box, it defaults to the original values if the primary video is reprocessed.<br>**Standard** &ndash; An add-on audio track for a language other than the original.<br>**Audio description** &ndash; An audio track that also includes a descriptive narration of non-verbal actions and gestures in the video, making content more accessible for individuals who are visually impaired. |
+      | Label | The text that is displayed as the audio track's name in the **[!UICONTROL Select audio or caption]** pop-up list in the media player. The label is what a customer sees that corresponds to an audio track. For example, `English [Original]`. The label of audio attached to a video is set to `[Original]` by default. |
+
+      You can change or edit this audio track metadata later, if necessary. When the video is published, these details are reflected on public URLs in published videos.
+
+   1. Near the upper-right corner the page, in the **[!UICONTROL Save & Close]** drop-down, click **[!UICONTROL Save]**.
+   1. Do one of the following:
+        * Repeat this process for each audio track file that you upload.
+        * Continue to the next step to add captions to a video.
+
+1. To add one or more caption files to a video, choose which one of the following use cases best fits your scenario:
+   
+   |  | Use case |
+   | --- | --- |
+   | **Option 1** | I have my own pre-existing caption files that are in the languages that I want to use.<br>See **Option 1** in step 8 below. |
+   | **Option 2** | I want AI to generate my caption files in multiple languages.<br>See **Option 2** in step 8 below. |
+   | **Option 3** | Text in a caption file (.vtt) needs to be corrected, reuploaded to replace the old .vtt file, then have AI translate the corrected file.<br>See **Option 3** in step 8 below. |
+
+
+    +++**Option 1:** *I have my own pre-existing caption files that are in the languages that I want to use.*
+
+    1. Near the upper-right side of the page, click **[!UICONTROL Create Caption]** > **[!UICONTROL Upload files]**.
+    1. Navigate to, and select, one or more of your pre-existing .vtt (Video Text Tracks) files and open them.
+    1. For captions to be visible on the media player, you *must* add the required details about *each* caption file that you upload. Select the pencil icon to the right of a caption file name. In the **Edit Caption** dialog box, enter the following required details about the file:
+    
+        | Caption metadata | Description |
+        |--- |--- |
+        | Filename | The default filename is derived from the original filename. The filename can be changed only while uploading and cannot be changed later. Filename character requirements are the same as for AEM Assets.<br>The same filename cannot be used for additional caption files and audio track files. |
+        | Language | Select the language of the caption. After a caption file is processed, this language field becomes uneditable (dimmed) |
+        | Type | Select the type of caption that you are using.<br>**Subtitle** &ndash; The caption text displayed with the video that translates or transcribes the dialogue.<br>**Caption** &ndash; The caption text also includes background noises, speaker differentiation, and other relevant information, along with the translation or transcription of the dialogue, making the content more accessible for individuals who are deaf or hard of hearing. |
+        | Label | The text that is displayed for the caption's name in the **[!UICONTROL Select audio or caption]** pop-up list in the media player. The label is what a customer sees that corresponds to a subtitle or caption track. For example, `English (CC)`. |
+
+        You can change or edit caption metadata later, if necessary. When the video is published, these details are reflected on public URLs in published videos.
+
+    1. Near the upper-right corner the page, in the **[!UICONTROL Save & Close]** drop-down, click **[!UICONTROL Save]**. The files are uploaded and metadata processing begins, as seen in the **Status** column of the interface.
+
+        >[!NOTE]
+        >
+        >Based on the caching settings of your instance, the metadata processing can take several minutes before it is reflected in preview and in published URLs.
+
+    1. If you selected **[!UICONTROL Save & Close]** in the previous step, instead of selecting **[!UICONTROL Save]**, you can still view the processing status of the uploaded files. See [View the lifecycle status of uploaded caption and audio track files].
+    1. Continue to step 9.
+
+    +++
+
+    +++**Option 2:** *I want AI to generate my caption files in multiple languages.*
+
+    1. Near the upper-right corner of the page, click **[!UICONTROL Create Caption]** > **[!UICONTROL Convert audio tracks]**.
+    1. In the **Convert Audio Tracks** dialog box, set the following options:
+    
+        | Option | Description |
+        |--- |--- |
+        | Audio track to convert | In the drop-down list, choose the uploaded audio track file from which you want AI to generate captions.  |
+        | Output languages | In the drop-down list, select one or more languages in which you want the caption file to appear.<br>To remove a selected language, click **X**.<br>During video playback, the list of languages appears in the media player in the order that you select them here. |
+
+    1. Click **[!UICONTROL Done]**.
+    1. Near the upper-right corner the page, in the **[!UICONTROL Save & Close]** drop-down, click **[!UICONTROL Save]**. One or more caption files are created and processing begins, as seen in the **Status** column of the interface. See also [View the lifecycle status of uploaded caption and audio track files].
+
+        >[!NOTE]
+        >
+        >Based on the caching settings of your instance, the metadata processing can take several minutes before it is reflected in preview and in published URLs.
+
+    1. (Optional) Select the pencil icon to the right of a caption file name. In the **Edit Caption** dialog box, you can edit the following details about the file:
+
+        | Caption metadata | Description |
+        | --- | --- |
+        | Type | Select the type of caption that you are using.<br>**Subtitle** &ndash; The caption text displayed with the video that translates or transcribes the dialogue.<br>**Caption** &ndash; The caption text also includes background noises, speaker differentiation, and other relevant information, along with the translation or transcription of the dialogue, making the content more accessible for individuals who are deaf or hard of hearing. |
+        | Label | The text that is displayed for the caption's name in the **[!UICONTROL Select audio or caption]** pop-up list in the media player. The label is what a customer sees that corresponds to a subtitle or caption track. For example, `English (CC)`. |
+
+        You can change or edit certain caption metadata later, if necessary. When the video is published, these metadata details are reflected on public URLs in published videos.
+    1. Continue to step 9.
+
+    +++
+
+    +++**Option 3:** *Text in a caption file (.vtt) needs to be corrected, reuploaded to replace the old .vtt file, then have AI translate the corrected file.*
+
+    1. Click **[!UICONTROL Create Caption]** > **[!UICONTROL Translate captions]**.
+    1. In the **Translate caption** dialog box, set the following options:
+
+        | Option | Description |
+        |--- |--- |
+        | Caption to translate | In the drop-down list, choose a caption file from which you want AI to translate the caption text. |
+        | Output languages | In the drop-down list, select one or more languages in which you want the caption file to appear.<br>To remove a selected language, click **X**.<br>During video playback, the list of languages appears in the media player in the order that you select them here. |
+
+    1. Click **[!UICONTROL Done]**.
+    1. Near the upper-right corner the page, in the **[!UICONTROL Save & Close]** drop-down, click **[!UICONTROL Save]**. One or more caption files are created and processing begins, as seen in the **Status** column of the interface. See also [View the lifecycle status of uploaded caption and audio track files].
+
+        >[!NOTE]
+        >
+        >Based on the caching settings of your instance, the metadata processing can take several minutes before it is reflected in preview and in published URLs.
+
+    1. (Optional) Select the pencil icon to the right of a caption file name. In the **Edit Caption** dialog box, you can edit the following details about the file:
+
+        | Caption metadata | Description |
+        | --- | --- |
+        | Type | Select the type of caption that you are using.<br>**Subtitle** &ndash; The caption text displayed with the video that translates or transcribes the dialogue.<br>**Caption** &ndash; The caption text also includes background noises, speaker differentiation, and other relevant information, along with the translation or transcription of the dialogue, making the content more accessible for individuals who are deaf or hard of hearing. |
+        | Label | The text that is displayed for the caption's name in the **[!UICONTROL Select audio or caption]** pop-up list in the media player. The label is what a customer sees that corresponds to a subtitle or caption track. For example, `English (CC)`. |
+
+        You can change or edit certain caption metadata later, if necessary. When the video is published, these metadata details are reflected on public URLs in published videos.
+
+    1. Continue to step 9.
+
+    +++
+
+1. (Optional) Preview the video before publishing to ensure the captions and audio work as expected. See [Preview a video that has multiple captions and audio tracks].
+
 >[!MORELIKETHIS]
 >
 >* [Sign in to and out of the Adobe Dynamic Media Classic desktop application](/help/using/signing-out.md)
