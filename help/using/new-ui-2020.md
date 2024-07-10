@@ -119,7 +119,7 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
 1. Navigate to the uploaded video asset that you want to add multiple caption and audio tracks.
 1. In asset selection mode, either from the List View or the Card View, select the video asset.
 1. On the toolbar, select the Properties icon (a circle with an "i" in it).
-![Selected video asset with checkmark over video thumbnail image and View Properties highlighted on the toolbar.](/help/assets/dynamic-media/assets/msma-selectedasset-propertiesbutton.png)*Selected video asset in Card view.*
+<!-- ![Selected video asset with checkmark over video thumbnail image and View Properties highlighted on the toolbar.](/help/assets/dynamic-media/assets/msma-selectedasset-propertiesbutton.png)*Selected video asset in Card view.* -->
 1. On the video's Properties page, select the **[!UICONTROL Captions & Audio Tracks]** tab.
 
    >[!TIP]
@@ -130,7 +130,7 @@ Added captions are supported with WebVTT and Adobe VTT formats. And, added audio
    >
    >When you have completed either one of the above tasks, return to these steps.
   
-   ![Captions and Audio Tracks tab on the Properties page.](/help/assets/dynamic-media/assets/msma-audiotracks2.png)*Captions and Audio Tracks tab on the video's Properties page.*
+   <!-- ![Captions and Audio Tracks tab on the Properties page.](/help/assets/dynamic-media/assets/msma-audiotracks2.png)*Captions and Audio Tracks tab on the video's Properties page.* -->
 
 1. To add one or more audio tracks to a video, do the following:
    1. Select **[!UICONTROL Upload Audio Tracks]**.
