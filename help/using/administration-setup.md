@@ -1,5 +1,5 @@
 ---
-title: Administration setup
+title: Administration Setup
 description: Learn how to set up the administration area of Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -12,13 +12,13 @@ level: Intermediate
 ---
 <!-- UPDATE TOPIC AFTER DECEMBER 31, 2020!!!! -->
 
-# Administration Setup{#administration-setup}
+# Administration setup{#administration-setup}
 
 The Administration Setup screens are for administering Adobe Dynamic Media Classic users. Use these screens to enable users to work in Adobe Dynamic Media Classic and to communicate by e-mail with other users.
 
 1. To access Administration Setup options, go to **Setup** > **Personal Setup** > **Administration Setup**.
 
-## User Administration {#user-administration}
+## User administration {#user-administration}
 
 All Adobe Dynamic Media Classic users are assigned a role that determines their privileges and access rights to features in Adobe Dynamic Media Classic. Administrators determine the different roles and responsibilities for the companies to which they are assigned.
 
@@ -135,7 +135,7 @@ You can link an Adobe IMS user identity to an Adobe Dynamic Media Classic IPS us
       Replace "N" in the above path with the number for your IPS company region. That is, N = 1 for North America; 3 for EMEA; or 5 for JAPAC.
  -->
 
-## Bandwidth and Storage {#bandwidth-storage}
+## Bandwidth and storage {#bandwidth-storage}
 
 Adobe Dynamic Media Classic Administrators can generate bandwidth, storage, and other types of reports for the companies they administer. These reports are available on the Bandwidth & Storage page.
 
