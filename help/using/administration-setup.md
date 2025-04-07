@@ -145,14 +145,14 @@ To open this page, go to **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]*
 
 The following table describes reports that you can generate from the Bandwidth & Storage page:
 
-|Report|Information|Use|
-|:--- |:--- |:--- |
-|Bandwidth|Bandwidth use by company|Track bandwidth usage by company over specific date ranges to determine traffic patterns.|
-|Storage|Storage usage|Track the amount of data uploaded by the company.|
-|Image Content|The number of image requests by type|Track the number of requests and volume for different image types.|
-|Domain|The number of URL requests by domain|Track image usage based on the domain of the image request for a specific company. (Adobe Dynamic Media Classic can provide more than one domain per account. For more information, contact Technical Support.)|
-|Video Streaming|Bandwidth usage for streaming video|Track streaming video usage by company over specific date ranges to determine traffic patterns.|
-|Video Content|Playing time of different videos|Determine which are the most viewed and least viewed videos.|
+| Report | Information | Use|
+| --- | --- | --- |
+| Bandwidth | | <!-- CQDOC-22504 --> **IMPORTANT**: The Bandwidth tab is no longer supported. Although it still appears in the UI, bandwidth data is not available and all values display as `0`. |
+| Storage | Storage usage | Track the amount of data uploaded by the company. |
+| Image Content | Displays the total hits and image delivery volume broken down by request type and subtype. | Track the number of requests and volume for different image types including metrics from non-video assets. <!-- CQDOC-22504 --> |
+| Domain | The number of URL requests by domain | Track image usage based on the domain of the image request for a specific company. (Adobe Dynamic Media Classic can provide more than one domain per account. For more information, contact Technical Support.) |
+| Video Streaming | Bandwidth usage for streaming video | Track streaming video usage by company over specific date ranges to determine traffic patterns. |
+| Video Content | Playing time of different videos|Determine which are the most viewed and least viewed videos. |
 
 The Image Content report provides information about requests for the following image types:
 
