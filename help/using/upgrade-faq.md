@@ -264,8 +264,7 @@ For custom or individual training, contact your Adobe Account Team representativ
 
 ## Additional resources                                  
  
-+++**Where 
-can I learn more about [!DNL Dynamic Media] and its features?**
++++**Where can I learn more about [!DNL Dynamic Media] and its features?**
 See the [[!DNL Dynamic Media] microsite](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/solutions.html) to learn more about [!DNL Dynamic Media].
 
 +++
