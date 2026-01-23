@@ -42,13 +42,13 @@ Your Web sites and applications access Dynamic Media Image Server content, inclu
 
 The most common way to deploy an eCatalog is to place a link in the form of an eCatalog thumbnail cover page on your Web page. Work with your IT team to make sure that the eCatalog launches in a clean, centered pop-up window. Ask your IT team to keep the toolbar and address bar in the browser from showing.
 
-For more details and code samples, see the [Embed HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+For more details and code samples, see the [Embedded HTML5 eCatalog Viewer](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in the Adobe Viewers Reference.
 
-## Copy the Embed Code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
+## Copy the embedded code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
 
-Using the Embed Code feature lets you review the viewer code for the selected eCatalog. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+Using the embedded code feature lets you review the viewer code for the selected eCatalog. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the Embed Code of an eCatalog viewer:**
+**To copy the embedded code of an eCatalog viewer:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Catalog]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the eCatalog whose Embed Code you want to copy.

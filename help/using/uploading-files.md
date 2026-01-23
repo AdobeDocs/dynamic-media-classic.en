@@ -285,11 +285,11 @@ The new job sends a notification to the address that you specify so that the cod
     * HTTP Request
     * Image Serving Publish
     * Image Rendering Publish
-    * Video Publish
+    * `Video Publish`
 
 1. Specify the HTTP address.
 1. Specify if you want to run only if files were uploaded.
-1. Indicate whether you want to run this request every time this job completes, or only when files were published.
+1. Indicate whether you want to run this request every time this job completes, or only when files are published.
 
    >[!NOTE]
    >

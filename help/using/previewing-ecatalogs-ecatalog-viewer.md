@@ -21,7 +21,7 @@ See [Preview an asset](previewing-asset.md#previewing_an_asset).
 
 **To preview eCatalogs in the eCatalog Viewer:**
 
-1. In the Asset Library panel on the left side, in the Show drop-down list, select a video-based asset type such as Video or Video Set.
+1. In the Asset Library panel on the left side, in the Show drop-down list, select a video-based asset type, such as Video or Video Set.
 1. In the Asset Library panel on the left side, navigate the Asset folders that contain videos that you want to preview with an eCatalog Viewer.
 1. Do one of the following:
 

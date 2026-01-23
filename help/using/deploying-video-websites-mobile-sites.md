@@ -67,9 +67,9 @@ See also [Embed the video viewer on a Web page](deploying-video-websites-mobile-
 
 1. Paste the HTML5 video URL link on your website and mobile site.
 
-## Embed the video viewer on a Web page {#embedding-the-video-viewer-on-a-web-page}
+## Add the video viewer on a Web page {#embedding-the-video-viewer-on-a-web-page}
 
-Use the Embed Code feature when you want to play the video embedded on the Web page. You copy the Embed Code to the clipboard so you can paste it in your Web pages. Editing of the code is not permitted in the Embed Code dialog box.
+Use the embedded code feature when you want to play the video embedded on the Web page. You copy the embedded code to the clipboard so you can paste it in your Web pages. Editing of the code is not permitted in the Embed Code dialog box.
 
 See also [Link a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
@@ -97,7 +97,7 @@ See also [Link a video URL to a mobile site or a website](deploying-video-websit
    Editing the code is not permitted in the Embed Code dialog box.
 
 1. select **[!UICONTROL Close]**.
-1. Paste the Embed Code in your Web pages.
+1. Paste the embedded code in your Web pages.
 
 ### Implement Embed Code for using HTML5 video with MP4 video assets {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 

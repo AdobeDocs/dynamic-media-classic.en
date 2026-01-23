@@ -44,11 +44,11 @@ The most common way to deploy Swatch Sets is to place a link (by way of a naviga
 
 For more details and code samples, see [Embedding HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
-## Copy the Embed Code of a Swatch Set viewer {#copying-the-embed-code-of-a-swatch-set-viewer}
+## Copy the embedded code of a Swatch Set viewer {#copying-the-embed-code-of-a-swatch-set-viewer}
 
-Using the Embed Code feature lets you review the viewer code for the selected Swatch Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+Using the embedded code feature lets you review the viewer code for the selected Swatch Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the Embed Code of a Swatch Set viewer:**
+**To copy the embedded code of a Swatch Set viewer:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Swatch Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Swatch Set whose Embed Code you want to copy.

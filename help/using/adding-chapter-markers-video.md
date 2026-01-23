@@ -17,7 +17,7 @@ You can make your long-form videos easier to watch and navigate by adding chapte
 
 >[!NOTE]
 >
->The video player that is used must support the use of chapter markers.
+>The video player must support the use of chapter markers.
 
 See [Add or edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) if you want to configure the chapter navigation cue points and chapter title pop-up text for the `Universal_HTML5_Video` viewer (HTML5).
 

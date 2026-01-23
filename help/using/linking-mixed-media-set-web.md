@@ -38,11 +38,11 @@ After you publish a Mixed Media Set, you can obtain its associated URL for use i
 
 The most common way to deploy a Mixed Media Set is to place a link (by way of a navigation icon) on your Web page. When selected, the link launches a dynamic page (ASP or JSP) that displays the Mixed Media Set in Mixed Media Set Viewer.
 
-## Copy the Embed Code of a Mixed Media Set viewer {#copying-the-embed-code-of-a-mixed-media-set-viewer}
+## Copy the embedded code of a Mixed Media Set viewer {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 
-Using the Embed Code feature lets you review the viewer code for the selected Mixed Media Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+Using the embedded code feature lets you review the viewer code for the selected Mixed Media Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the Embed Code of a Mixed Media Set viewer:**
+**To copy the embedded code of a Mixed Media Set viewer:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Mixed Media Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Mixed Media Set whose Embed Code you want to copy.

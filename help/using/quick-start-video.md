@@ -15,7 +15,7 @@ level: Beginner
 
  Adobe Dynamic Media Classic Video is an end-to-end solution that makes it easy to publish high-quality Adaptive Video for streaming across multiple screens, including desktop, iOS, Android&trade;, BlackBerry&reg;, and Windows&reg; mobile devices. An Adaptive Video Set groups versions of the same video that are encoded at different bit rates and formats such as 400 kbps, 800 kbps, and 1000 kbps. The desktop computer or mobile device detects the available bandwidth.
 
-For example, on an iOS mobile device, it detects a bandwidth such as 3G, 4G, or Wi-Fi. Then, it automatically selects the right encoded video from among the various video bit rates within the Adaptive Video Set. The video is streamed to desktops, mobile devices, or tablets.
+For example, on an iOS mobile device, it detects a bandwidth, such as 3G, 4G, or Wi-Fi. Then, it automatically selects the right encoded video from among the various video bit rates within the Adaptive Video Set. The video is streamed to desktops, mobile devices, or tablets.
 
 In addition, video quality is dynamically switched automatically if network conditions change on the desktop or on the mobile device. Also, if a customer enters full-screen mode on a desktop, the Adaptive Video Set responds by using a better resolution, improving the customer's viewing experience. Using Adaptive Video Sets provides you with the best possible playback. It is best for customers playing Adobe Dynamic Media Classic Video on multiple screens and devices.
 
@@ -138,15 +138,15 @@ To integrate video into your website, you can do either one of the following:
   >
   >URLs are activated only after you publish the video or Adaptive Video Set.
 
-* Display the video embedded on the Web page, in which case use the **[!UICONTROL Embed Code]** feature.
+* Display the video embedded on the Web page, in which case use the embedded code feature.
 
-  To obtain the Embed Code for a video, in the Grid View or List View, select the video in the Browse panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
+  To obtain the embedded code for a video, in the Grid View or List View, select the video in the Browse panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
 
-  Select **[!UICONTROL Close]** and paste the Embed Code in one or more of your Web pages.
+  Select **[!UICONTROL Close]** and paste the embedded code in one or more of your Web pages.
 
   >[!NOTE]
   >
-  >The Embed Code is only activated after you publish the video or Adaptive Video Set.
+  >The embedded code is only activated after you publish the video or Adaptive Video Set.
 
 See [Deploy video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 

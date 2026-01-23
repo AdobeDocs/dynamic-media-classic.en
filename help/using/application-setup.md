@@ -91,13 +91,13 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
    To continue the ability to access all your encoded video derivatives when you search and browse, select **[!UICONTROL Show Encoded Videos]**.
 
-   There are certain actions on the Build menu that only work, or optionally work, with individual videos. This functionality makes it necessary to show all the encoded video derivatives that you can select from, regardless of how you set **[!UICONTROL Show Encoded Videos]**. The Build actions that over-ride the **[!UICONTROL Show Encoded Videos]** setting include **[!UICONTROL Adaptive Video Sets]**, and **[!UICONTROL eCatalogs]**.
+   There are certain actions on the Build menu that only work, or optionally work, with individual videos. This functionality makes it necessary to show all the encoded video derivatives that you can select from, regardless of how you set **[!UICONTROL Show Encoded Videos]**. The Build actions that override the **[!UICONTROL Show Encoded Videos]** setting include **[!UICONTROL Adaptive Video Sets]**, and **[!UICONTROL eCatalogs]**.
 
    >[!NOTE]
    >
    >If you did not use Adobe Dynamic Media Classic to upload and encode your video assets, Adobe Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.
 
-* **[!UICONTROL Show Refresh Subfolders Button]**: Turn on or off the display of the subfolders Refresh button.
+* **[!UICONTROL Show the Refresh Subfolders Button]**: Turn on or off the display of the subfolders Refresh button.
 
 ### Adobe Dynamic Media Classic FTP Account
 
@@ -207,7 +207,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 * **[!UICONTROL Colorspace]**: Select a color space.
 
-* **[!UICONTROL Sharpening]**: Select the Enable Simple Sharpening option to apply a basic sharpening filter to the image after all scaling takes place. Sharpening can help compensate for blurriness that can result when you display an image at a different size.
+* **[!UICONTROL Sharpening]**: Select the **[!UICONTROL `Enable Simple Sharpening`]** option to apply a basic sharpening filter to the image after all scaling takes place. Sharpening can help compensate for blurriness that can result when you display an image at a different size.
 
    For more information about sharpening, resample modes, and unsharp masking, see [Sharpen an image](sharpening-image.md#sharpening_an_image). See also [Sharpening](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) training video.
 
@@ -231,7 +231,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 * **[!UICONTROL Color Space]**: Determines whether the image uses the space in which the image was created, usually RGB (Original) or a luminance space (Intensity).
 
-* **[!UICONTROL Color]** Choose these options:
+* **[!UICONTROL Color]** You can choose these options:
 
 * **[!UICONTROL Output Color Profile]**: Select **[!UICONTROL Use Default]** or one of the ICC color profiles available on the Adobe Dynamic Media Classic.
 
@@ -501,14 +501,14 @@ See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/e
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
-|Image Set Viewers|||||||
+|Image Sets Viewers|||||||
 |Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
 |Universal_HTML5_ImageSet_dark|HTML5|X|X|X|X|X|
 |Universal_HTML5_ImageSet_light|HTML5|X|X|X|X|X|
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
-|Swatch Set Viewers|||||||
+|Swatch Sets Viewers|||||||
 |Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
 |Universal_HTML5_SwatchSet_dark|HTML5|X|X|X|X|X|
 |Universal_HTML5_SwatchSet_light|HTML5|X|X|X|X|X|
@@ -549,7 +549,7 @@ The following table identifies the mobile viewer gestures that are supported on 
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
-|Image Set Viewers|||||||
+|Image Sets Viewers|||||||
 |Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
 |Universal_HTML5_ImageSet_dark|HTML5|X|X|X|X|X|
 |Universal_HTML5_ImageSet_light|HTML5|X|X|X|X|X|
@@ -707,13 +707,13 @@ The URL is copied to the Clipboard. You can use it as necessary in the HTML code
 
    In the Viewer List page, under the Actions column of the table, select **[!UICONTROL Copy URL]**.
 
-### Copy the Embed Code of a Viewer Preset {#copying-the-embed-code-of-a-viewer-preset}
+### Copy the embedded code of a Viewer Preset {#copying-the-embed-code-of-a-viewer-preset}
 
-Using the Embed Code feature lets you review the viewer code for the selected Viewer Preset. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer.
+Using the embedded code feature lets you review the viewer code for the selected Viewer Preset. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer.
 
 Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the Embed Code of a Viewer Preset:**
+**To copy the embedded code of a Viewer Preset:**
 
 1. Select the asset in the Asset Browse panel.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
@@ -818,7 +818,7 @@ One effective use of user-defined metadata fields is to delay the activation tim
 
 >[!NOTE]
 >
->To make user-defined fields appear in the Metadata panel in Detail View, include user-defined fields in Metadata Views. On the Metadata Views screen, select the Include UDF (user-defined fields) option. For more information, see [Metadata Views](application-setup.md#metadata_views).
+>To make user-defined fields appear in the Metadata panel in Detail View, include user-defined fields in Metadata Views. On the Metadata Views screen, select the **[!UICONTROL `Include UDF (user-defined fields)`] option. For more information, see [Metadata Views](application-setup.md#metadata_views).
 
 >[!NOTE]
 >
@@ -897,7 +897,7 @@ All active Batch Set Presets for a company are listed on the Upload Job Option d
 
 ### Default Naming {#default-naming}
 
-The Company Administrator creates a default naming convention that is used in any Batch Set Preset recipe. The default naming convention selected in the Batch Set Preset definition may be all that your company needs to batch-generate sets for all websites. A Batch Set Preset is created to use the default naming convention you define. You are able to create as many Batch Set Presets with alternate, custom naming conventions needed for a particular set of content in cases where there is an exception to the company-defined default naming.
+The Company Administrator creates a default naming convention that is used in any Batch Set Preset recipe. The default naming conventions selected in the Batch Set Preset definition may be all that your company needs to batch-generate sets for all websites. A `Batch Set Preset` is created to use the default naming convention you define. You are able to create as many Batch Set Presets with alternate, custom naming conventions needed for a particular set of content in cases where there is an exception to the company-defined default naming.
 
 Setting up a default naming convention is not required to use Batch Set Preset functionality. However, Adobe best practice recommends that you use a default naming convention to define as many elements of your naming convention that you want grouped in a set. Doing so helps to streamline Batch Set creation.
 
@@ -975,9 +975,9 @@ With this information, your Batch Set Type recipe could be created as follows:
 
 ![Batch set recipe image](assets/se_batch_set_recipe.png)
 
-Grouping for the shared asset name part of the Spin Set is added to the Match field (as highlighted). The variable part of the asset name containing the row and column is added to the Row and Column fields, respectively.
+Grouping for the shared asset name part of the spinning set is added to the Match field (as highlighted). The variable part of the asset name containing the row and column is added to the Row and Column fields, respectively.
 
-When the Spin Set is uploaded and published, you would activate the name of the 2D Spin Set recipe that is listed under **[!UICONTROL Batch Set Presets]** in the Upload Job Options dialog box.
+When the spinning set is uploaded and published, you would activate the name of the 2D Spin Set recipe that is listed under **[!UICONTROL Batch Set Presets]** in the Upload Job Options dialog box.
 
 **To create a Batch Set Preset for the auto generation of a 2D Spin Set:**
 

@@ -24,7 +24,7 @@ You can move assets to different folders in the Browse panel.
 1. Select the asset or assets in the Browse panel, and do one of the following:
 
     * Display the folder that you want to move the assets to in the Asset Library and drag the assets to the folder.
-    * Go to **[!UICONTROL File]** > **[!UICONTROL Move]**, select a folder in the Move Assets window, and select **[!UICONTROL Move]**.
+    * Go to **[!UICONTROL File]** > **`Move`**, select a folder in the `Move Assets` window, and select **`Move`**.
 
 ## Rename assets {#rename-assets}
 

@@ -33,7 +33,7 @@ The new [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] builds on the fu
 
 * Seamless, unified experience and integration with [!DNL Adobe Experience Manager]: Configure and dynamically deliver rich content from one store, one source
 * New marketer-centric user experience for easy authoring and delivery of rich media content
-* WYSIWYG (What You See Is What You Get) look and feel, and behavior editors for image viewers and video players.
+* WYSIWYG (What You See Is What You Get) when it comes to the overall look and feel, and behavior editors for image viewers and video players.
 * Speed creation and deployment of Shoppable/Interactive Media experiences including image hotspots and shoppable video
 
 ### [!DNL Dynamic Media] capabilities inside [!DNL Experience Manager] Assets

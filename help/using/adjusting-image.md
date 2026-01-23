@@ -24,7 +24,7 @@ See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for
 1. Use the commands on the right side of the `Adjust Editor` window so you can adjust the image:
 
     * Use the Flip options to flip an image horizontally or vertically.
-    * Use the Rotate slider to rotate the image. You can enter values in the Rotate field to rotate an image. Positive values rotate it clockwise; negative values rotate it counterclockwise.
+    * Use the **[!UICONTROL Rotator]** slider to rotate the image. You can enter values in the **[!UICONTROL Rotator]** field to rotate an image. Positive values rotate it clockwise; negative values rotate it counterclockwise.
     * Use the Blur slider or its corresponding box to blur an image. The higher the value, the more blurry the image becomes.
     * Use the Contrast, Brightness, Saturation, Hue, and Color Balance options to adjust the color and brightness. These effects are cumulative. For example, changes to the Magenta/Green settings are added to changes made to the Hue settings.
     * Use the `Colorize` options to colorize an image while preserving shadows and highlights. Changes to the Colorize options are also cumulative. From the Brightness menu, choose **[!UICONTROL No Compensation]** so you disable automatic brightness compensation. Set the contrast value to 0 to preserve the contrast range of the original image, or specify a contrast range with a value greater than 0. A value of 100 maximizes the contrast. Typical values are in the 30-70 range.

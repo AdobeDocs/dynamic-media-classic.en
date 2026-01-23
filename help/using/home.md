@@ -42,5 +42,5 @@ See [Frequently Asked Questions](new-ui-2020.md). New updates as of May 7, 2020.
 
 ## Adobe Dynamic Media Classic Training
 
-Go [here](https://learning.adobe.com/catalog.html#product=adobe-scene7) to see the training courses that are currently available.
+Go [here](https://learning.adobe.com/courses.html#product=adobe-scene7) to see the training courses that are currently available.
 [Adobe Dynamic Media Classic Training Videos](/help/using/training-videos.md).

@@ -41,13 +41,13 @@ Your Web sites and applications access Dynamic Media Image Server content by way
 
 Typically, visitors zoom images on a website by first selecting a Zoom icon (often the icon shows the image of a magnifying glass). Selecting this icon launches a dynamic Web page (ASP or JSP) that displays the image in a pop-up window. The pop-up window is where visitors actually zoom the image.
 
-For more details and code samples, see the [Embed HTML5 Basic Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+For more details and code samples, see the [Embedded HTML5 Basic Zoom Viewer](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in the Adobe Viewers Reference Guide.
 
-## Copy the embed copy of a Zoom viewer {#copying-the-embed-copy-of-a-zoom-viewer}
+## Copy the embedded copy of a Zoom viewer {#copying-the-embed-copy-of-a-zoom-viewer}
 
-Using the Embed Code feature lets you review the viewer code for the selected Zoom viewer. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+Using the embedded code feature lets you review the viewer code for the selected Zoom viewer. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the Embed Code of a Zoom viewer:**
+**To copy the embedded code of a Zoom viewer:**
 
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Zoom viewer whose Embed Code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
