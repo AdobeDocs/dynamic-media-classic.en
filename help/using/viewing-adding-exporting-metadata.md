@@ -129,7 +129,7 @@ On the Global Navigation bar, select **[!UICONTROL Upload]**. To import the meta
 
 ## Batch rename IDs using metadata {#batch-rename-ids-using-metadata}
 
-Using metadata imported from a tab-delimited file or XML file, you can rename Adobe Dynamic Media Classic IDs. The imported metadata is applied only to the images specified in the metadata file itself. It does not matter whether images are selected on the Browse panel.
+Using metadata imported from a tab-delimited file or XML file, you can rename Adobe Dynamic Media Classic IDs. The imported metadata is applied only to the images specified in the metadata file itself. It does not matter whether images are selected in the Browse panel.
 
 To rename an image's Adobe Dynamic Media Classic ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called `new_vc_objectname` to the XML data.
 

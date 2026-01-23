@@ -18,7 +18,7 @@ Captioning also allows for greater accessibility by using closed captioning for 
 
 >[!NOTE]
 >
->The video player that is used must support the display of captions.
+>The video player used must support the display of captions.
 
 To configure the Caption Effect and to edit the Caption Menu itself, including the menu's text for any of the following viewers:
 

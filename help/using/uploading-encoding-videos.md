@@ -258,7 +258,7 @@ On the Video Presets screen, administrators can set up and manage video encoding
 * Edit video encoding presets.
 * Delete Video Presets.
 
-Any video that you upload to Adobe Dynamic Media Classic or that you encode in Adobe Dynamic Media Classic is treated as "video." In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Adobe Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
+Any video that you upload to Adobe Dynamic Media Classic or that you encode in Adobe Dynamic Media Classic is treated as "video." In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Adobe Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the embedded code feature) for use with video players, on websites, and so on.
 
 See [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing-videos-in-a-video-viewer).
 

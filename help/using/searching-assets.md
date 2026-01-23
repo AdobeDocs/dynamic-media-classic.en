@@ -149,15 +149,15 @@ The metadata server is a public API that you can use to search for assets by met
 
 To configure the metadata server, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Metadata Server]**.
 
-The Metadata Server Publish page lets you set the following options:
+The Metadata Server Publisher page lets you set the following options:
 
-* **[!UICONTROL Instant Publish]**: Automatically pushes any metadata changes when they are made, including new assets, keyword changes, and so on.
+* **[!UICONTROL Instant Publishing]**: Automatically pushes any metadata changes when they are made, including new assets, keyword changes, and so on.
 
 * **[!UICONTROL XMP Packet]**: Publishes the XMP Packet. This packet is not used for searching, but provides the most up-to-date XMP.
 
 * **[!UICONTROL Keywords]**: Publishes your keywords to the metadata server for use in searches.
 
-* **[!UICONTROL Metadata Server Publish Fields]**: Select the fields to include in the metadata. This option lets you determine how much information about your assets is available to the public. These fields are also displayed in Metadata Views, but can only be changed in the metadata server.
+* **[!UICONTROL Metadata Server Publishing Fields]**: Select the fields to include in the metadata. This option lets you determine how much information about your assets is available to the public. These fields are also displayed in Metadata Views, but can only be changed in the metadata server.
 
 Select **[!UICONTROL Publish Now]** to start the job. A confirmation appears, telling you the job has started.
 

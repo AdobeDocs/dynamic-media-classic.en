@@ -17,7 +17,7 @@ level: Intermediate
 
 The Dynamic Media newsletter by Experience League was designed to help you get up to speed with Dynamic Media and Adobe Dynamic Media Classic so that you could start realizing value right away.
  
-In this one-stop shop archived newsletter, you can find valuable knowledge-building resources such as how-to videos and solution overviews. There are also introductions to key features and capabilities like Image Presets, Viewer Presets, and video profiles.
+In this one-stop shop archived newsletter, you can find valuable knowledge-building resources, such as how-to videos and solution overviews. There are also introductions to key features and capabilities like Image Presets, Viewer Presets, and video profiles.
 
 <!-- microsite demo page https://experienceleague.adobe.com/tools/dynamic-media-demo/index.html -->
 
@@ -48,7 +48,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
 
   * Explore three ways that your rich media investment can help during these challenging times.
   * Sign up for the webinar to learn how to lighten your page load with Smart Imaging.
-  * Watch the on-demand Skill Builder webinar for Adobe Dynamic Media Classic.
+  * Watch the On-demand Skill Builder webinar for Adobe Dynamic Media Classic.
   * View the Dynamic Media sessions from Online Adobe Summit 2020.
   * Learn more about Adobe's free Adobe Dynamic Media Classic audits.
   * Meet `John Monroe`, Senior Program Manager for Adobe Customer Solutions.
@@ -91,7 +91,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
   * How you can get advanced analytics on the actions visitors take in your Dynamic Media viewers.
   * An infographic with tips for jaw-dropping results from delivering high-quality images and videos.
   * A CMSwire article that helps you understand how to update your rich media strategy to meet today's customer expectations.
-  * Access to the on-demand webinar on Dynamic Media from the Skill Builder series.
+  * Access to the On-demand webinar on Dynamic Media from the Skill Builder series.
   * Meet `Nick Peters`, Manager, Site Reliability Engineering, Adobe Experience Manager.
   * Get up to speed on Dynamic Media and Adobe Dynamic Media Classic in Experience League.
 
@@ -102,7 +102,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
   * Supercharge your customer experience by eliminating these 9 "gotchas."
   * Find out how the Dynamic Media team can help you prepare for a day with higher than normal visitor traffic.
   * A second chance to catch two recent Skill Builder Webinars.
-  * Watch the on-demand webinar on protecting your digital assets from piracy.
+  * Watch the On-demand webinar on protecting your digital assets from piracy.
   * Meet `Bridget Roman`, Senior Product Marketing Manager for Experience Manager Assets.
   * Get up to speed on Dynamic Media and Adobe Dynamic Media Classic in Experience League.
 
@@ -155,7 +155,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
     In this issue:
 
   * Register for Adobe's Dynamic Media Classic Hidden Features webinar.
-  * To help you develop your rich media strategy, learn about Adobe's on-demand webinar series.
+  * To help you develop your rich media strategy, learn about Adobe's On-demand webinar series.
   * Read about key rich media use cases and Adobe's solutions for them.
   * ... and much more!
 

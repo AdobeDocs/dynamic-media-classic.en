@@ -66,7 +66,7 @@ For a given viewer platform, the Viewer List window lets you visually see what d
 
     * In the Viewer List window, under the Actions column of the table, select **[!UICONTROL Embed Code]**.
 
-      When you select **[!UICONTROL Embed Code]**, the Embed Code window is opened where you can review the viewer code. Editing of the code is not permitted in the window. You can also copy the code to the clipboard so you can paste it in your Web pages.
+      When you select **[!UICONTROL Embed Code]**, the Embedded Code window is opened where you can review the viewer code. Editing of the code is not permitted in the window. You can also copy the code to the clipboard so you can paste it in your Web pages.
 
       Close the displayed preview.
 

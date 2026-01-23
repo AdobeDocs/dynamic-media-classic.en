@@ -99,7 +99,7 @@ You can use the following user list-filtering techniques:
 
 * **Filter by user role**: Select the **[!UICONTROL By User Role]** menu and choose an option to narrow the list to users or administrators of different types.
 
-* **Filter by field name**: Select **[!UICONTROL Enable Filter By Field]**. Then select the **[!UICONTROL By Field Name]** menu, choose a column for filtering the list, and select the Filter Character menu and choose a letter. The list is filtered on one of the columns by the letter that you chose. To see the full list, deselect the **[!UICONTROL Enable Filter By Field]** option.
+* **Filter by field name**: Select **[!UICONTROL Enable Filter By Field]**. Then select the **[!UICONTROL By Field Name]** menu, choose a column for filtering the list, and select the Filter Character menu and choose a letter. The list is filtered on one of the columns by the letter that you chose. To see the full list, deselect the **`Enable Filter By Field`** option.
 
 * **Filter out invalid users**: Deselect **[!UICONTROL Include Invalid]**. The search results display only users who are in the system. Invalid users have been deleted from the system and the accounts that you administer.
 

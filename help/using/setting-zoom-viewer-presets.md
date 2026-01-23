@@ -53,7 +53,7 @@ Adobe Dynamic Media Classic recommends the following parameters for fly-out Zoom
    The Preview page displays the viewer as you update and change settings.
 
 1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
-1. On the Viewer Presets page, examine the Zoom Viewer Preset or Guided Zoom Viewer Preset you created. If it needs adjusting, select **[!UICONTROL Edit]**, change settings on the `Configure Viewer` page, and then select **[!UICONTROL Save]**.
+1. On the Viewer Presets page, examine the Zoom Viewer Preset or Guided Zoom Viewer Preset you created. If you need to adjust it, select **[!UICONTROL Edit]**, change settings on the `Configure Viewer` page, and then select **[!UICONTROL Save]**.
 
 For information about managing Viewer Presets on the Viewer Presets screen, see [Viewer Presets](application-setup.md#viewer_presets).
 

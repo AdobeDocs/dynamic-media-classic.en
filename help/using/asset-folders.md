@@ -21,11 +21,11 @@ Be sure to establish a folder structure and organization for storing your files 
 
 The Asset Library displays files in a folder tree. When you select a folder in the Asset Library, its contents appear in the Browse panel. Use these techniques to locate folders in the folder tree:
 
-* **Display subfolders**: Select the **[!UICONTROL Expand Folder]** icon to display the subfolders in a folder. This icon is located to the left of folder names.
+* **Display subfolders**: Select the **[!UICONTROL Expanded Folder]** icon to display the subfolders in a folder. This icon is located to the left of folder names.
 
 * **Move a folder**: You can move a folder by dragging it and dropping it in its new location, or by selecting **[!UICONTROL File]** > **[!UICONTROL Move Folder]**.
 
-* **Hide folders**: Select the **[!UICONTROL Collapse Folder]** icon if you want to collapse subfolders to hide them from view. This icon is located to the left of folder names.
+* **Hide folders**: Select the **[!UICONTROL Collapsed Folder]** icon if you want to collapse subfolders to hide them from view. This icon is located to the left of folder names.
 
 * **Open a folder**: Select a folder if you want to display its contents in the Browse panel.
 

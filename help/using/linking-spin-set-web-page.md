@@ -48,11 +48,11 @@ https://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_
 
 In this URL syntax example (the link is not live), notice a SKU number ( `sku=backpack_spin`). The string after `sku=` is the Spin Set name ( `backpack spin`).
 
-## Copy the Embed Code of a Spin Set viewer {#copying-the-embed-code-of-a-spin-set-viewer}
+## Copy the embedded code of a Spin Set viewer {#copying-the-embed-code-of-a-spin-set-viewer}
 
-Using the Embed Code feature lets you review the viewer code for the selected Spin Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+Using the embedded code feature lets you review the viewer code for the selected Spin Set. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the Embed Code of a Spin Set viewer:**
+**To copy the embedded code of a Spin Set viewer:**
 
 1. In the Asset Browse panel, in the Show drop-down list, select **[!UICONTROL Spin Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Spin Set whose Embed Code you want to copy.

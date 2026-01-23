@@ -87,7 +87,7 @@ The following table describes Adobe Dynamic Media Classic variables:
 |viewerId | An arbitrary number that is assigned to each different viewer type. |
 |pageLabel | In eCatalogs, the page that a viewer displays. |
 |label | The label value (a string). |
-|frame | The page or page reference in an Image Set. |
+|frame | The page or page that are referenced in an Image Set. |
 |rollover_keyRaw | The entire HREF value, not just any processed part of it. |
 |rollover_keyProc | The ID of an item that is referenced in an Image Map (valid for href and item events). |
 |searchTerm | A term that is used in eCatalog search. |

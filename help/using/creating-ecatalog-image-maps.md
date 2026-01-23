@@ -60,7 +60,7 @@ You can also optionally display tooltip text when customers move their pointers 
    See [Draw eCatalog Image Maps](creating-ecatalog-image-maps.md#drawing_ecatalog_image_maps).
 
 1. In the Show drop-down list, select **[!UICONTROL Rich Media]**.
-1. In the Add Assets panel on the left, navigate to a folder that contains the Spin Set or video (MP4 format) asset that you want to embed.
+1. In the Add Assets panel on the left, navigate to a folder that contains the spinning set or video (MP4 format) asset that you want to embed.
 1. Drag the asset onto the Image Map. 
 1. (Optional) In the Image Map list panel, under the **[!UICONTROL Tool Tip]** column header, enter the text that you want viewers to see onscreen when they move their pointer over the Image Map.
 1. Select **[!UICONTROL Save]**.

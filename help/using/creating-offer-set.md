@@ -94,7 +94,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. Optionally, select an image or video and select **[!UICONTROL Preview]**. On the Preview Offers page, you can change the size and look of the image or video you selected. Or, you can change all images or videos in the Offer Set.
 
     * Choose a Preset to change the look and size of the image or video.
-    * To apply the preset that you chose to all the offers in the Offer Set, select the **[!UICONTROL Select Presets to All]** check box.
+    * To apply the preset that you chose to all the offers in the Offer Set, check the **`Select Presets to All`** check box.
 
    Select **[!UICONTROL Save]** to save your changes to the image or video offer. Then select **[!UICONTROL Close]** to return to the Test&Target Offer Set page.
 

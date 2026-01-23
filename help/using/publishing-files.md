@@ -38,7 +38,7 @@ Some "child" assets are automatically marked for publish when their parents are 
 | Spin Sets | Images within the set. |
 | Templates | Template files, pages, and images. |
 
-Derived images are also automatically marked for publishment when their parent images are being published. Derived images include images you adjusted with image-editing options. You can see these derived images in Detail View under Built & Derivatives.
+Derived images are also automatically marked for publishment when their parent images are published. Derived images include images you adjusted with image-editing options. You can see these derived images in Detail View under Built & Derivatives.
 
 ## Create a publish job {#creating-a-publish-job}
 

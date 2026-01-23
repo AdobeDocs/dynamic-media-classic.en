@@ -17,7 +17,7 @@ In addition to using Image Map text for your rollovers in eCatalogs, you can use
 
 You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
 
-* The InfoPanel Setup panel lets you specify the template used to display the Info Panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the eCatalogs is automatically published.
+* The InfoPanel Setup panel lets you specify the template used to display the Info Panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the eCatalogs are published automatically.
 * The InfoPanel Data feed panel lets you specify a CSV file containing the text you want to appear in the InfoPanel rollover text, and schedule times for updating the information.
 * The import Metadata dialog box (accessed from the Map Pages view) lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the Data feed panel with the CSV file option for your rollover text.
 * Map Pages view provides an option for previewing the xml that appears for specific Image Maps.
