@@ -35,7 +35,8 @@ See also [Dynamic Media Developer Resources](https://experienceleague.adobe.com/
 | --- | --- |
 | API Reference Guide | [https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-production-api/c-overview](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-production-api/c-overview) |
 
-<!-- ## Image Authoring {#ia}
+<!-- 
+## Image Authoring {#ia}
 
 | Document| Web address |
 | --- | --- |
@@ -47,7 +48,7 @@ See also [Dynamic Media Developer Resources](https://experienceleague.adobe.com/
 | Document | Web address |
 | --- | --- |
 | API Reference Guide | Contact Adobe Dynamic Media Classic technical support for documentation. |
- -->
+-->
 
 
 

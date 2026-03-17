@@ -37,8 +37,10 @@ The upload token is an alphanumeric string that is available only for a specific
 * Raster image
   `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602`In this example, the shared-secret key is `fece4b21-87ee-47fc-9b99-2e29b78b602`
 
-<!-- * Vector
-  `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` -->
+<!-- 
+* Vector
+  `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` 
+-->
 
 By default, the upload token expires five minutes (300 seconds) after you retrieve it. To request more time, include `expires` in the URL and the amount of time you require in seconds. For example, the following sample image URL retrieves an upload token that is valid for 1800 seconds:
 
@@ -81,9 +83,11 @@ You can use the following fields in the query URL string to retrieve an upload t
 
 `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=600`
 
-<!-- **Sample vector URL:**
+<!-- 
+**Sample vector URL:**
 
-`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000` -->
+`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000` 
+-->
 
 **Allowed HTTP methods:**
 `GET` and `POST`
@@ -242,7 +246,8 @@ You can use the following fields in the URL query string to request information 
 
 GET and POST
 
-<!-- ## Upload a vector asset {#uploading-a-vector-asset}
+<!--
+## Upload a vector asset {#uploading-a-vector-asset}
 
 >[!IMPORTANT]
 >
@@ -377,4 +382,4 @@ Send the asset to upload as a multipart/form post while sending the rest of the 
 **Allowed HTTP method:**
 
 POST
- -->
+-->

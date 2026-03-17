@@ -47,9 +47,11 @@ Use the Search field in the Asset Library so you can conduct simple searches. Yo
 
    The results of your search appear in the Browse panel on the right.
 
-<!-- Does not appear to be working anymore >[!NOTE]
+<!--
+Does not appear to be working anymore >[!NOTE]
 >
->Adobe Dynamic Media Classic tracks searches. To run a search a second time, select **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. -->
+>Adobe Dynamic Media Classic tracks searches. To run a search a second time, select **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. 
+-->
 
 ## Conduct an advanced search {#conducting-an-advanced-search}
 

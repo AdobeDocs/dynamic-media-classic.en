@@ -42,9 +42,11 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 1. In Adobe Dynamic Media Classic, on the toolbar, go to **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**, under Creative Suite Extension, select **[!UICONTROL Download Now]** to download the `s7csxs.zxp` file. 
 1. Select the **[!UICONTROL Installation]** and **[!UICONTROL System Requirements]** links for additional information about the extension.
 
-<!--    A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
+<!--    
+A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
 
-1. Depending on your installed operating system, do one of the following: -->
+1. Depending on your installed operating system, do one of the following: 
+-->
 
 <!-- #### Windows
 
@@ -62,7 +64,8 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 |Adobe Illustrator 17 in Adobe Creative Cloud|<ul><li>From the root of the unzipped folder, select CC > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator's plug-in folder. For example, `/Applications/Adobe Illustrator CC/Plug-ins/Illustrator Formats/`.</li></ul><br/>|
 |Adobe Illustrator 16 in Adobe Creative Suite 6|<ul><li>From the root of the unzipped folder, select 6.0 > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator's plug-in folder. For example, `/Applications/Adobe Illustrator CS6/Plug-ins/Illustrator Formats/`.</li></ul>|
 
-The plug-in is now available for you to use in Adobe Illustrator. -->
+The plug-in is now available for you to use in Adobe Illustrator.
+-->
 
 ## Browser
 

@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Learn more about using Adobe Dynamic Media Classic
-index: y
+index: true
 ---
 
 # Adobe Dynamic Media Classic Guide {#using}
