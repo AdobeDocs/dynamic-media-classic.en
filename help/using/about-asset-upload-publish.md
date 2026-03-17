@@ -24,6 +24,8 @@ When you upload asset files to Adobe Dynamic Media Classic and when you publish 
 >
 >When you upload a file, Adobe Dynamic Media Classic generates the URL for the file. This URL is not active until you publish the file.
 
-<!-- >[!NOTE]
+<!-- 
+>[!NOTE]
 >
->A new Instant Publish feature was made available shortly after the release of Adobe Dynamic Media Classic 6.0. This feature, which publishes assets immediately with one step, is being rolled out gradually, replacing the **[!UICONTROL Mark for Publish]** functionality. Some users will continue to see the current interface and functionality for a while, until they are included in the rollout. In addition, some assets will continue to use the "Mark for Publish" process for a while after the rollout. -->
+>A new Instant Publish feature was made available shortly after the release of Adobe Dynamic Media Classic 6.0. This feature, which publishes assets immediately with one step, is being rolled out gradually, replacing the **[!UICONTROL Mark for Publish]** functionality. Some users will continue to see the current interface and functionality for a while, until they are included in the rollout. In addition, some assets will continue to use the "Mark for Publish" process for a while after the rollout. 
+-->

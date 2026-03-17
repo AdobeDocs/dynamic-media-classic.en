@@ -288,19 +288,19 @@ To select an encoding preset, in the lower-right corner of the Upload page, sele
 
   * **[!UICONTROL Adaptive Video]**: A single-encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video's aspect ratio.
 
-      This flexibility of having an "Auto-scale" is also available by default when you create your own custom video encoding preset.
+     This flexibility of having an "Auto-scale" is also available by default when you create your own custom video encoding preset.
 
-      See [Add or edit a video encoding preset](uploading-encoding-videos.md#adding_or_editing_a_video_encoding_preset).
+     See [Add or edit a video encoding preset](uploading-encoding-videos.md#adding_or_editing_a_video_encoding_preset).
 
   * **[!UICONTROL Adaptive Video Encoding (16:9 or 4:3)]**: Create both 16:9 and 4:3 aspect ratio videos for delivery to desktops, mobile (iPhone, iPad, Android&trade;), and tablets (iPad, Android&trade;). All optimized with the resolution and bit rate that best matches the viewer's connection speed.
 
-      See [Adaptive Video Encoding (16:9 or 4:3) video presets](application-setup.md#adaptive_video_encoding_16_9_or_4_3_video_presets).
+    See [Adaptive Video Encoding (16:9 or 4:3) video presets](application-setup.md#adaptive_video_encoding_16_9_or_4_3_video_presets).
 
   * **[!UICONTROL Single Encoding Presets]**
 
-      >[!NOTE]
-      >
-      >To deliver video to iPads, you can select a Mobile encoding preset or a Tablet encoding preset. Tablet presets are designed especially for the iPad, typically with higher resolution and quality to take advantage of the larger screen size and bandwidth connection. Delivering video files encoded with a Tablet preset requires you to include device-detection code on your mobile site or application. This code switches between an iPhone or iPad video experience, depending on the playback device. Choosing a Mobile preset for delivering video files to the iPad is a more simplified workflow. The reason is because you can use the same video file for both iPhones and iPads. However, the quality is standardized to the lower resolution iPhone experience.
+    >[!NOTE]
+    >
+    >To deliver video to iPads, you can select a Mobile encoding preset or a Tablet encoding preset. Tablet presets are designed especially for the iPad, typically with higher resolution and quality to take advantage of the larger screen size and bandwidth connection. Delivering video files encoded with a Tablet preset requires you to include device-detection code on your mobile site or application. This code switches between an iPhone or iPad video experience, depending on the playback device. Choosing a Mobile preset for delivering video files to the iPad is a more simplified workflow. The reason is because you can use the same video file for both iPhones and iPads. However, the quality is standardized to the lower resolution iPhone experience.
 
     * Under the Encoding Presets group, in the Sort Encoding Presets drop-down list, select Name, or Size to sort presets by name or resolution size.
     * Select an encoding preset based on the resolution size and bandwidth with which you plan to play the video.
@@ -562,28 +562,28 @@ The Viewer Presets screen offers tools for doing these tasks:
 
 * **Add a preset**: Select **[!UICONTROL Add]** and make choices in the Add Viewer Preset dialog box.
 
-      See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
+   See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
 * **Edit a preset**: Select a preset, and then select **[!UICONTROL Edit]**.
 
-      See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
+   See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
 * **Delete a preset**: Select a preset, and then select **[!UICONTROL Delete]**.
 
 * **Export a preset**: Select an HTML5 Viewer Preset. Then click **[!UICONTROL Export]** to download the viewer skin so that you can use it as the basis for creating and adding another Viewer Preset.
 
-      See [Export an HTML5 Viewer Preset](application-setup.md#exporting_an_html5_viewer_preset).
+   See [Export an HTML5 Viewer Preset](application-setup.md#exporting_an_html5_viewer_preset).
 
 * **Filter the Viewer Preset list**: Use these tools to filter the list:
 
-      * Open the **Active/Inactive** drop-down list and select an option to show active presets, inactive presets, or all presets.
-      * Open the **Viewer** drop-down list and select an option to see only viewers of a certain kind. Select **[!UICONTROL All Viewers]** to see all viewers.
+   * Open the **Active/Inactive** drop-down list and select an option to show active presets, inactive presets, or all presets.
+   * Open the **Viewer** drop-down list and select an option to see only viewers of a certain kind. Select **[!UICONTROL All Viewers]** to see all viewers.
 
 * **Sort presets**: Select a column heading (**[!UICONTROL Active]**, **[!UICONTROL Type]**, **[!UICONTROL Preset]**, or **[!UICONTROL Platform]**) to sort the list on a column. Select a column heading a second time to sort the list in descending (or ascending) order.
 
 * **Activate and deactivate presets**: Select a preset, and then select its Active option so you can activate or deactivate it.
 
-      See [Activate or deactivate Viewer Presets](application-setup.md#activating_or_deactivating_viewer_presets).
+  See [Activate or deactivate Viewer Presets](application-setup.md#activating_or_deactivating_viewer_presets).
 
 >[!NOTE]
 >
@@ -607,11 +607,11 @@ See also [Viewer Presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.ht
 
    * **Add**: On the toolbar, select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, select a platform, and select a rich-media asset type.
 
-         Select **[!UICONTROL Save As]** when you have finished creating the Viewer Preset.
+     Select **[!UICONTROL Save As]** when you have finished creating the Viewer Preset.
 
    * **Add by starting from an existing Viewer Preset**: In the table, select a Video Viewer Preset, and then select **[!UICONTROL Edit]** on the toolbar.
 
-         After you reconfigure the Video Viewer, select **[!UICONTROL Save As]** to save the preset using a different name in the Preset Name text field.
+     After you reconfigure the Video Viewer, select **[!UICONTROL Save As]** to save the preset using a different name in the Preset Name text field.
 
    * **Edit**: Select an existing Viewer Preset, and then select **[!UICONTROL Edit]**.
 

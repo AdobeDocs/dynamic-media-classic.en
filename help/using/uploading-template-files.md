@@ -25,8 +25,11 @@ For detailed instructions on uploading files, see [Upload files](uploading-files
 
 * If you are uploading a PSD file, you can create a template from it. Adobe Dynamic Media Classic creates a separate image for each layer in the PSD. In the Upload Job Options dialog box, select **[!UICONTROL Photoshop Options]**, and select **[!UICONTROL Maintain Layers]** and **[!UICONTROL Create Template]**. Then choose an option from the **[!UICONTROL Layer Naming]** drop-down list for naming the images that Adobe Dynamic Media Classic creates from layers in the PSD. 
 See [PSD upload options](psd-files.md#psd_upload_options).
-<!-- THERE IS NO LONGER AN IMAGE EDITING OPTIONS MENU * If you are uploading images, you can create a mask from its clipping path. This option applies to images created with image-editing applications in which a clipping path was created. In the Upload Job Options dialog box, select Image Editing Options and select the Create Mask From Clipping Path option. 
-See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload). -->
+
+<!--
+THERE IS NO LONGER AN IMAGE EDITING OPTIONS MENU * If you are uploading images, you can create a mask from its clipping path. This option applies to images created with image-editing applications in which a clipping path was created. In the Upload Job Options dialog box, select Image Editing Options and select the Create Mask From Clipping Path option. 
+See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload). 
+-->
 
 >[!MORELIKETHIS]
 >
