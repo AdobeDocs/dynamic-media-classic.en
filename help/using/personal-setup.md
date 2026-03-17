@@ -48,7 +48,8 @@ A readme file is included at the root of the unzipped file to provide you with a
 1. Depending on your installed operating system, do one of the following: 
 -->
 
-<!-- #### Windows
+<!--
+#### Windows
 
 |If you are running|Do this|
 |--- |--- |
