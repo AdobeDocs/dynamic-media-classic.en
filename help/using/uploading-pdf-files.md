@@ -9,6 +9,13 @@ role: User
 exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/Sk63A3p3RBQzrinqP1MobSUHVHNYj070Thz1gN4duBM
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Upload the PDF files{#uploading-the-pdf-files}
 

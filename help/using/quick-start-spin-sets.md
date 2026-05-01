@@ -10,6 +10,16 @@ role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
 topic: Content Management
 level: Beginner
+TQID: https://experienceleague.adobe.com/tf8x5NDVv1V5LmHSFVuJGOJmwoeGe4QChHuoDqfGLOU
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Quick Start: Spin Sets{#quick-start-spin-sets}
 

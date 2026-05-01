@@ -9,6 +9,13 @@ role: Developer
 exl-id: eaa6bf7b-ff38-4a15-b5b5-c60c3b75a35f
 topic: Development, Integrations
 level: Experienced
+TQID: https://experienceleague.adobe.com/Lr1ZvCkhzEI8oXPdWqdka6wI8ysnUjaq66Ih-8G-OJI
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Developer resources {#developer-resources}
 

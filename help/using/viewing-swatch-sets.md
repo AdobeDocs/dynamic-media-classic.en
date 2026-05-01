@@ -10,6 +10,16 @@ role: User
 exl-id: 05769eeb-5f1b-42ff-9392-2669f5051140
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/mAPCUBd2GMkkIz6rz7z4d7n920rtUjmvpI-xWqZ-x1E
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # View Swatch Sets{#viewing-swatch-sets}
 

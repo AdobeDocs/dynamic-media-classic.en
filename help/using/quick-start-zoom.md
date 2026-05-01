@@ -10,6 +10,16 @@ role: User
 exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
 topic: Content Management
 level: Beginner
+TQID: https://experienceleague.adobe.com/XMijFbgSS2HmKuvN6Tmt-J1cplUd-izIK1jFV2wq0mc
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Quick Start: Zoom{#quick-start-zoom}
 

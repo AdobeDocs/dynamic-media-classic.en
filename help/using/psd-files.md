@@ -10,6 +10,13 @@ role: User
 exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/YKzaZgR21SRyu9CMQ88p-G6YmmhrbJ2Dz4l2msxpH50
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Work with PSD files{#working-with-psd-files}
 

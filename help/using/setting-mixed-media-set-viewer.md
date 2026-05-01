@@ -10,6 +10,16 @@ role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/WViigvTfdVjS8M51PwDJTMhdh0hzsZFzC9d-jOa7aVU
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Set up a Mixed Media Set Viewer Preset{#setting-up-a-mixed-media-set-viewer-preset}
 

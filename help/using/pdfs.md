@@ -10,6 +10,13 @@ role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/UNAobQIst8ndVYaQYsD3qHYGRJeyURBw3HGXqt9fSX0
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Work with PDFs{#working-with-pdfs}
 

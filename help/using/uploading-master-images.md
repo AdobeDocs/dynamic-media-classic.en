@@ -10,6 +10,16 @@ role: User
 exl-id: 410ba80c-7f01-4cd0-9ab3-db9658757ba7
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/dfWEpe6nYYMgbm3D0PNAMSTCyEkzMaarnYS6MvmGaLQ
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Upload primary images{#uploading-master-images}
 

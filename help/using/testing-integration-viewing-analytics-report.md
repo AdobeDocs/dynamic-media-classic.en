@@ -10,6 +10,20 @@ role: Developer,Admin,User
 exl-id: 6186fcf0-99b4-447d-ae94-b4124dcb405b
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/pa6M2P10UXH8MPJytJFJEPSIVRV1L0nufMFV1V-wzp4
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # Test the integration by viewing an Adobe Analytics report{#testing-the-integration-by-viewing-an-adobe-analytics-report}
 

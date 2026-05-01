@@ -10,6 +10,17 @@ role: Developer,Admin,User
 exl-id: 778fd54b-a9e5-40c5-aff1-a156a5c15923
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/3m9TMj-Axfd-4I1eLTxS4-0W-zuU7XszptEhgNtwgGE
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Push offer sets to Adobe Target Standard/Premium {#pushing-offer-sets-to-target}
 

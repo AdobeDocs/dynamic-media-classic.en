@@ -6,6 +6,21 @@ role: Admin,User
 exl-id: 86537998-b7e9-449c-83eb-6fd04533a00f
 topic: Administration, Migration
 level: Intermediate
+TQID: https://experienceleague.adobe.com/X8x6Nzm7N00LqSejLK75O3V00ngFYcue4XWztYZ0hbI
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Upgrade readiness checklist
 

@@ -10,6 +10,16 @@ role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/hy-YAZCcqS-5Ktg-bCBd-aMCfxvZC1pgPJ95LdYGt8U
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Move, rename, and delete assets{#moving-renaming-and-deleting-assets}
 

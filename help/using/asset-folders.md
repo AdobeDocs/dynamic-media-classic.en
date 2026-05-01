@@ -10,6 +10,16 @@ role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/TIpfZnLpvgRQY-WDA2x6QtZY28KUwbFl6ZXhRbWgY7M
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Work with asset folders{#working-with-asset-folders}
 

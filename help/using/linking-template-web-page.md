@@ -10,6 +10,16 @@ role: User
 exl-id: 6305c287-360f-48c2-b456-58be0791c7af
 topic: Administration, Content Management, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/4x8lspt5kAHaAdGBdaT3EVjdSrGlte3JZTQKAgzOonc
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Link a template to a Web page{#linking-a-template-to-a-web-page}
 

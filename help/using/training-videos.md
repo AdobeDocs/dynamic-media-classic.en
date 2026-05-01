@@ -6,6 +6,21 @@ role: Admin,User
 exl-id: 21e67a41-16a2-4f41-8cfe-a5d7941c73a0
 topic: Administration, Collaboration
 level: Beginner
+TQID: https://experienceleague.adobe.com/MABVk9-yOB9un1gEtCbzoGH-5rdBnHUDpAcoJXUOyHA
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Adobe Dynamic Media Classic Training Videos {#training-videos}
 

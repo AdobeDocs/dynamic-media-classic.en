@@ -10,6 +10,16 @@ role: User
 exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
 topic: Integrations
 level: Experienced
+TQID: https://experienceleague.adobe.com/NG-LA9cr5R7ArkNd0H-T84MGUj77Pucu9P-sWqXbB1s
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Manage Info Panel content in eCatalogs{#managing-info-panel-content-in-ecatalogs}
 

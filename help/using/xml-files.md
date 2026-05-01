@@ -9,6 +9,13 @@ role: User
 exl-id: 6eaecd25-7de3-492c-81e0-86a78145feb0
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/ClwrcWkPXmrSSh-ay6PUrFGjahVHw1WTdcULK2TQ9-Q
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # XML files {#xml-files}
 

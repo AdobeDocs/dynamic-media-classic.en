@@ -10,6 +10,13 @@ role: User
 exl-id: d4315312-195c-453d-a3aa-c5e9f9365fc7
 topic: Content Management
 level: Experienced
+TQID: https://experienceleague.adobe.com/ts1sYkVOvQ8vNXKtxE5KkNnVUGLBV0NQ-B0Z6-Pj4Ew
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Publish templates{#publishing-templates}
 

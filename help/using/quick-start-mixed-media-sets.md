@@ -10,6 +10,16 @@ role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
 topic: Content Management
 level: Beginner
+TQID: https://experienceleague.adobe.com/tPpfq-hbtZWftg2gz5JyW3MQRXQNwQ4PY084dzoAADU
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Quick Start: Mixed Media Sets{#quick-start-mixed-media-sets}
 

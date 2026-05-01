@@ -10,6 +10,16 @@ role: User
 topic: Content Management
 level: Beginner
 exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
+TQID: https://experienceleague.adobe.com/tFiOoMod6opynHV9CLKuLrg4bdRhsBxNyMAI3j-5fX8
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Quick Start: Image Sizing{#quick-start-image-sizing}
 

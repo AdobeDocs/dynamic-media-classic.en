@@ -10,6 +10,18 @@ role: Admin,User
 exl-id: 8d70db72-b02b-4915-b4c3-6efb146b7f08
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/vewZDwEfw59JfeX-XTPHX3h4CfTdl14eWkhEPf03D64
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 <!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
 

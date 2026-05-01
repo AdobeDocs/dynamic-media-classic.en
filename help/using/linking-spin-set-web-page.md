@@ -10,6 +10,16 @@ role: User
 exl-id: af75547e-20e8-44c2-b165-01532d6e21d0
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/7jM8od3BuxvzLRZlydbz36pZuBB6cxbs4XWoKKpzw0U
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Link a Spin Set to a Web page{#linking-a-spin-set-to-a-web-page}
 

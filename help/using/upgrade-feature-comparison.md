@@ -6,6 +6,23 @@ role: Admin,User
 exl-id: eb56533a-4e31-4367-8b68-879cd70c761e
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/Ijd3K7aRmGAQHWlnDwUQqjNRrHXBDI3LTg9RlKOTqw4
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Feature comparison
 

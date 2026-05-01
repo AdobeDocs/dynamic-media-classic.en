@@ -9,6 +9,13 @@ role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/2LF3nmLJkw2e7dWdklqA6lxDp-9RBl1oHXI6np1TFOY
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Set up eCatalog Viewer Presets{#setting-up-ecatalog-viewer-presets}
 

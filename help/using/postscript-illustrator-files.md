@@ -10,6 +10,13 @@ role: User
 exl-id: 08f14fe9-3e3b-4235-a6c5-b6b6d2ffc4bd
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/3o5WNqHdESnN-VcluYurzYs2LpnK2-uonuUYkG7oD88
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Work with PostScript and Illustrator files{#working-with-postscript-and-illustrator-files}
 

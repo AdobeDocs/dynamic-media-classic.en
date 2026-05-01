@@ -10,6 +10,19 @@ role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/yXMzTKvgs9sZLpuGFGer-DTJTg96i7S1cX4IOQQlKEw
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Organize your work with Projects{#organizing-your-work-with-projects}
 

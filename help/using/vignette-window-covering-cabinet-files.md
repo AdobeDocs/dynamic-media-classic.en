@@ -10,6 +10,13 @@ role: User
 exl-id: 8d1e0c37-a648-4c7b-8f68-4b2ab71dfa11
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/bmgdP7zDi1bu6wZGOUI-UZhwwF4e95rsfQrh7OWQY7o
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Work with vignette, window covering, and cabinet files{#working-with-vignette-window-covering-and-cabinet-files}
 

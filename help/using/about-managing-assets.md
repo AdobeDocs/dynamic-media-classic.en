@@ -9,6 +9,19 @@ role: User
 exl-id: d15aaa18-123d-442e-928f-8e71fa266a64
 topic: Content Management
 level: Intermediate
+TQID: https://experienceleague.adobe.com/tjIaCuIR7np8BKkaTy-wW5pgughT-eyOHaH1W9OUQVQ
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # About managing assets in Adobe Dynamic Media Classic {#about-managing-assets}
 

@@ -10,6 +10,13 @@ role: User
 exl-id: 00b70162-2394-433d-a46c-1d90667030af
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/PVzB-gQIM4QmeXduqjXP0Mv7A9vti8WAyDM-t3hqb8U
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Publish eCatalogs and associated PDFs{#publishing-ecatalogs-and-associated-pdfs}
 

@@ -10,6 +10,13 @@ role: User
 exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
 topic: Integrations, Development
 level: Experienced
+TQID: https://experienceleague.adobe.com/pKxLJGoAkIKsCQQkOi9r0X-DQ3TFXZJNhrqwgz9H7Jw
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Link an eCatalog to a Web page{#linking-an-ecatalog-to-a-web-page}
 

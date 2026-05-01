@@ -10,6 +10,19 @@ role: Admin
 exl-id: aa268ff7-c474-409a-af3e-3fd8ae1e6241
 topic: Administration, Collaboration
 level: Intermediate
+TQID: https://experienceleague.adobe.com/vK0-BVvddP-yhX6F1Ub7TvGOJ3P15nimaaMSUUT3N78
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # System requirements for Media Portal in Adobe Dynamic Media Classic {#system-requirements}
 

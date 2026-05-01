@@ -7,6 +7,23 @@ role: Admin,User
 exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
 topic: Administration
 level: Intermediate
+TQID: https://experienceleague.adobe.com/j5LO-IkVNVnhbWrR-2VcBS20aoZ7UIxFBjnAZer2Yas
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Adobe Dynamic Media Classic Help {#scene7-overview}
 
