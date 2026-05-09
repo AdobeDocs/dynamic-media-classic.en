@@ -1,6 +1,9 @@
 ---
 cloud: Experience Cloud
 solution: Dynamic Media Classic
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    label: "Dynamic Media Classic"
 landing-page-name: experience-manager
 landing-page-breadcrumb-title: AEM
 type: Documentation
