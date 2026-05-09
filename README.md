@@ -2,6 +2,7 @@
 
 The Adobe Dynamic Media Classic documentation repository.
 
+
 Your contributions to the documentation are welcome. See the following resources:
 
 * [contributing.md](contributing.md) For an overview of how to contribute to the documentation.
