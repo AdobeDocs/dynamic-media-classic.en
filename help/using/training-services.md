@@ -10,7 +10,8 @@ role: Admin,User
 exl-id: e2840200-246e-4c68-b10f-a66461f2a118
 topic: Certification
 level: Intermediate
-TQID: https://experienceleague.adobe.com/bvAozTh3xc4wpIuQujt3nEIgvYBb-aQmUckfIUI-UOM
+autotag-review: '2026-05-13T20:14:51.725Z'
+TQID: 'https://experienceleague.adobe.com/7JapEdXICdgrmCm8Hdu1xdqQKpD0g-AQNTk3ooN8HUY'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
@@ -22,6 +23,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Adobe Training Services{#adobe-training-services}
 

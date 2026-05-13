@@ -10,7 +10,8 @@ role: User
 exl-id: af75547e-20e8-44c2-b165-01532d6e21d0
 topic: Content Management
 level: Intermediate
-TQID: https://experienceleague.adobe.com/7jM8od3BuxvzLRZlydbz36pZuBB6cxbs4XWoKKpzw0U
+autotag-review: '2026-05-13T20:03:03.240Z'
+TQID: 'https://experienceleague.adobe.com/wOviDM-OY9nHBF9RnPXwsCQ2psd6UsxVVppf5kyS0y0'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
@@ -20,6 +21,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Link a Spin Set to a Web page{#linking-a-spin-set-to-a-web-page}
 

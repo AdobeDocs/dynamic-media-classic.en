@@ -10,7 +10,7 @@ role: User
 exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
 topic: Integrations, Development
 level: Experienced
-autotag-review: '2026-05-13T19:54:03.627Z'
+autotag-review: '2026-05-13T20:08:12.325Z'
 TQID: 'https://experienceleague.adobe.com/DkWNVywchW9Lpxgg-u56TlLEmryKxrxc1zKIno8KgfU'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75

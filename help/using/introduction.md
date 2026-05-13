@@ -7,7 +7,8 @@ role: Admin,User
 exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
 topic: Administration
 level: Intermediate
-TQID: https://experienceleague.adobe.com/j5LO-IkVNVnhbWrR-2VcBS20aoZ7UIxFBjnAZer2Yas
+autotag-review: '2026-05-13T20:02:06.335Z'
+TQID: 'https://experienceleague.adobe.com/-4QZJnDiO4Am98z12DrePjuOB6W3sODJHn1ePGaepbg'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
@@ -19,6 +20,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

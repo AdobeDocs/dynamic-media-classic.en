@@ -6,7 +6,8 @@ role: Admin,User
 exl-id: 21e67a41-16a2-4f41-8cfe-a5d7941c73a0
 topic: Administration, Collaboration
 level: Beginner
-TQID: https://experienceleague.adobe.com/MABVk9-yOB9un1gEtCbzoGH-5rdBnHUDpAcoJXUOyHA
+autotag-review: '2026-05-13T20:15:12.699Z'
+TQID: 'https://experienceleague.adobe.com/CXXXCgclGgysDJ0lMKOhURx6kaPHXzr-VpSf7nA1RDA'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
@@ -18,6 +19,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

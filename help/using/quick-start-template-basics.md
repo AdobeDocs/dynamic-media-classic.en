@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Template Basics"
+title: 'Quick Start: Template Basics'
 description: An introduction and Quick Start to Template Basics to help you get up and running quickly in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,7 +10,8 @@ role: User
 exl-id: bf695fee-821c-4396-829a-d57ccf475b0c
 topic: Content Management
 level: Intermediate
-TQID: https://experienceleague.adobe.com/w5A8rlABO4uD9xQZ4VlrubmpteCsOJOv2h-UDBHBq2w
+autotag-review: '2026-05-13T20:10:57.394Z'
+TQID: 'https://experienceleague.adobe.com/2DaWdJsCz9f5iXEkMi6N1L7s3eFdvpBc1ECrgbVAueo'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic

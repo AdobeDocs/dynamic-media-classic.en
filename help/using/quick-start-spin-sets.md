@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Spin Sets"
+title: 'Quick Start: Spin Sets'
 description: An introduction and Quick Start to Spin Set to help you get up and running quickly in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,7 +10,8 @@ role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
 topic: Content Management
 level: Beginner
-TQID: https://experienceleague.adobe.com/tf8x5NDVv1V5LmHSFVuJGOJmwoeGe4QChHuoDqfGLOU
+autotag-review: '2026-05-13T20:10:31.990Z'
+TQID: 'https://experienceleague.adobe.com/dYjjsyvPAPOS5icw4Yi6Kpo93Nh2qvnCiW5-ih2hmDk'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic

@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Swatch Sets"
+title: 'Quick Start: Swatch Sets'
 description: An introduction and Quick Start to Swatch Set to help you get up and running quickly in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,7 +10,8 @@ role: User
 exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
 topic: Content Management
 level: Beginner
-TQID: https://experienceleague.adobe.com/iUcSY6XhvWizySbvHWUX3oqAV0U94ijGG-mbMKHNo2s
+autotag-review: '2026-05-13T20:10:43.672Z'
+TQID: 'https://experienceleague.adobe.com/vS0okk4Ham0VZzFCWdvOpl48NkeW9Nq5wlH6ZJAWGCM'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
