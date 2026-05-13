@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Zoom"
+title: 'Quick Start: Zoom'
 description: An introduction and Quick Start to Zoom to help you get up and running quickly.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,6 +10,17 @@ role: User
 exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
 topic: Content Management
 level: Beginner
+autotag-review: '2026-05-13T20:11:12.792Z'
+TQID: 'https://experienceleague.adobe.com/0ilSf9rbFcvh2-AVdVnifjNi7bOa5AjCqBFCUC95I5Q'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Quick Start: Zoom{#quick-start-zoom}
 

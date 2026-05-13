@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Video in Adobe Dynamic Media Classic"
+title: 'Quick Start: Video in Adobe Dynamic Media Classic'
 description: An introduction and Quick Start to Adobe Dynamic Media Classic Video to help you get up and running quickly.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,6 +10,20 @@ role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 topic: Content Management
 level: Beginner
+autotag-review: '2026-05-13T20:11:06.721Z'
+TQID: 'https://experienceleague.adobe.com/lB0O224FfzW1smqCgkraE9czEF4XSD98qarRus6GEFw'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Quick Start: Video in Adobe Dynamic Media Classic{#quick-start-video}
 

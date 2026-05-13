@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Mixed Media Set"
+title: 'Quick Start: Mixed Media Set'
 description: An introduction and Quick Start to Mixed Media Sets to help you get up and running quickly in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,6 +10,17 @@ role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
 topic: Content Management
 level: Beginner
+autotag-review: '2026-05-13T20:10:24.352Z'
+TQID: 'https://experienceleague.adobe.com/23AoGDGEDm6MKPXwRk5Orvi445FdE3BpcTaSY21YSUE'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Quick Start: Mixed Media Sets{#quick-start-mixed-media-sets}
 

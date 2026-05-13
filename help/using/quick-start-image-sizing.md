@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Image Sizing"
+title: 'Quick Start: Image Sizing'
 description: An introduction and Quick Start to Image Sizing to help you get up and running quickly with Image Sizing techniques in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,6 +10,17 @@ role: User
 topic: Content Management
 level: Beginner
 exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
+autotag-review: '2026-05-13T20:09:57.533Z'
+TQID: 'https://experienceleague.adobe.com/VGp4OQ03iRiobXKWuUERNtFwUMQ4z7a19wyOgHWuv3w'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Quick Start: Image Sizing{#quick-start-image-sizing}
 

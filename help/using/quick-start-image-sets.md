@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Image Sets"
+title: 'Quick Start: Image Sets'
 description: An introduction and Quick Start to Image Sets to help you get up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,6 +10,17 @@ role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 topic: Content Management
 level: Beginner
+autotag-review: '2026-05-13T20:09:40.553Z'
+TQID: 'https://experienceleague.adobe.com/s3cXJgoACODCKQ8oMlykXjLAVmx6yWw9F2EC-3EbR0k'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Quick Start: Image Sets{#quick-start-image-sets}
 

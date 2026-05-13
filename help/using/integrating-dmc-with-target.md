@@ -10,6 +10,21 @@ role: Developer,Admin,User
 exl-id: c6f217fb-89cb-4c8d-aa7f-309fc42f7d46
 topic: Integrations, Development
 level: Experienced
+autotag-review: '2026-05-13T19:51:50.750Z'
+TQID: 'https://experienceleague.adobe.com/csg3qawhCOMv6niWQHp9vyGgpJBcVuOOhExioDeURuA'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Integrate Adobe Dynamic Media Classic with Adobe Target Standard/Premium {#integrating-dmc-with-target}
 
