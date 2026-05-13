@@ -10,13 +10,19 @@ role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
 topic: Content Management
 level: Experienced
-TQID: https://experienceleague.adobe.com/b-Qqt-ceq53Y75FRUEugebcvGCE4EcoFo3tkHIiMBBE
+autotag-review: '2026-05-13T18:19:13.276Z'
+TQID: 'https://experienceleague.adobe.com/2bY6F28UOt--BmRcI4xv1GJnmSMzqbnkUnnPmfFHxmw'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
     internal-label: Measurement

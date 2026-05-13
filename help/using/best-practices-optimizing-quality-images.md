@@ -10,7 +10,8 @@ role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
 topic: Content Management
 level: Intermediate
-TQID: https://experienceleague.adobe.com/Nu5ugLDSIClHoZ3Ja3p2gwwv6UQPMi8pRhj2d9e2YNU
+autotag-review: '2026-05-13T17:39:42.316Z'
+TQID: 'https://experienceleague.adobe.com/kw-spdqv6ArVEWk8ID4mnQjYrS25RZntKOJ7-tESasY'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
@@ -25,6 +26,8 @@ topic_v2:
     internal-label: Experimentation
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Best practices for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}
 

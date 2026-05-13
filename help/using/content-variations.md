@@ -10,7 +10,8 @@ role: User
 exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
 topic: Content Management
 level: Intermediate
-TQID: https://experienceleague.adobe.com/5iZKGpupJ9dilREUCskh4Lx7G8LDy2zlzDBAZtuXvYs
+autotag-review: '2026-05-13T17:40:29.070Z'
+TQID: 'https://experienceleague.adobe.com/KjKdz4CAeSdJ3P-LKvdmsoGlkroeOZ60AvydF2FBHaI'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic

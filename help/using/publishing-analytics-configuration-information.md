@@ -10,7 +10,8 @@ role: Developer,Admin,User
 exl-id: 02782dc0-601f-453a-98d1-1fdd7267df3b
 topic: Integrations, Development
 level: Experienced
-TQID: https://experienceleague.adobe.com/4LmVGiVCkStisGo-uSSJLArgSBQbsut6T-ZohzRCadc
+autotag-review: '2026-05-13T19:54:18.922Z'
+TQID: 'https://experienceleague.adobe.com/jNDdOnS9hGF4Hv08BKhEJcTeMUTKC-qGSx1bTrwvG9g'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
@@ -21,6 +22,9 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Publish Adobe Analytics configuration information{#publishing-adobe-analytics-configuration-information}
 

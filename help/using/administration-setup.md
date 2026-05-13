@@ -9,7 +9,8 @@ role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-TQID: https://experienceleague.adobe.com/dpvl5TGGzrFUIZIinmSvD0ACT74Rg8ZnfKokY9JaGQA
+autotag-review: '2026-05-13T17:38:22.364Z'
+TQID: 'https://experienceleague.adobe.com/UbxE4vDKYB-6CsdV2d4lX2WeOMYPe9caewOQD-MBark'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic

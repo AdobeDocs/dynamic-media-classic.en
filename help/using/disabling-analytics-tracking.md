@@ -10,7 +10,8 @@ role: Developer,Admin,User
 exl-id: fa5b3971-1c7d-4371-8d69-c399cec0390d
 topic: Development, Integrations
 level: Experienced
-TQID: https://experienceleague.adobe.com/0Aaar5zgdJeJLRrIcJJFeq71oafLe5zvfInPhIOATu8
+autotag-review: '2026-05-13T19:46:01.795Z'
+TQID: 'https://experienceleague.adobe.com/onz12ez0LKHAYVFhM6Gmy4UV7TE2fAY1D9wghnUro-8'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
@@ -21,6 +22,11 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

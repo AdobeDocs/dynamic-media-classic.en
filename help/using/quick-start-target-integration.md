@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Adobe Target Standard/Premium integration"
+title: 'Quick Start: Adobe Target Standard/Premium integration'
 description: An introduction and Quick Start to Adobe Target Standard/Premium to help you get up and running quickly with Adobe Target Standard/Premium integration techniques in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,7 +10,8 @@ role: Developer,Admin,User
 exl-id: 4745ace5-7825-468e-8a82-bfbbcf1b0440
 topic: Integrations
 level: Experienced
-TQID: https://experienceleague.adobe.com/wWvfhd2jU9xsDiQgdXPxjw-zPdXqh6-Rq4oxConA7Zo
+autotag-review: '2026-05-13T19:56:29.690Z'
+TQID: 'https://experienceleague.adobe.com/urNoJw6SrzPpsfpoTtudKndZfJOmWsZKtBZ3Za4aE0I'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic
@@ -21,6 +22,9 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
