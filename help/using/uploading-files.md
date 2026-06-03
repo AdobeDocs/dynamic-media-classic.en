@@ -167,11 +167,11 @@ Adobe Dynamic Media Classic sends you an email message to confirm when your uplo
 
 During (or immediately after) a large upload job, some new items might display the "Image not yet optimized" message. This message appears because the files are not yet fully processed and added to Adobe Dynamic Media Classic. You can optimize these files later. See [Optimize files](application-setup.md#optimize_files).
 
-### FTP security {#about-ftp-security}
+### FTP security {#ftp-security}
 
 Dynamic Media Classic enforces the following security policies for FTP access:
 
-| Policy | Description |
+| Security policy | Description |
 | --- | --- |
 | User isolation | Each FTP user is restricted to their own directory and cannot access directories belonging to other users. |
 | Unique accounts | Each FTP user or integration requires a dedicated FTP account. Shared accounts are not permitted. See [Manage FTP accounts](/help/using/ftp-accounts.md). |
