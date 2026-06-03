@@ -163,7 +163,7 @@ The folder-naming approach and structure you choose for storing your content on 
 
 You can upload individual files from the desktop or upload folders using FTP. If you want to upload more than 100 MB of files or upload entire folders and subfolders, select the **VIA FTP** tab.
 
-Adobe Dynamic Media Classic sends you an email message to confirm when your upload job begins and ends, and to notify you of any problems.
+Adobe Dynamic Media Classic sends you an email message to confirm when your upload job begins and ends, and to notify you of any issues.
 
 During (or immediately after) a large upload job, some new items might display the "Image not yet optimized" message. This message appears because the files are not yet fully processed and added to Adobe Dynamic Media Classic. You can optimize these files later. See [Optimize files](application-setup.md#optimize_files).
 
