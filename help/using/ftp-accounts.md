@@ -47,7 +47,7 @@ See [Activate or deactivate users](administration-setup.md#activating_or_deactiv
 
    To upload media assets, you need the FTP Account Username that is listed in the Existing Accounts table, and the password that is assigned to the account.
 
-   See [Upload files](uploading-files.md#uploading_files).
+   See the topic [Upload files](uploading-files.md#uploading_files).
 
 ## Delete an existing FTP account {#deleting-an-existing-ftp-account}
 
