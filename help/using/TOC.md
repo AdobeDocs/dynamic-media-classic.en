@@ -55,14 +55,14 @@ index: true
   + [Make more efficient use of metadata](making-efficient-metadata.md)
   + [Customize the Media Portal screen](customizing-media-portal-screen.md)
 + Upload and publish assets {#upload-publish}
-  + [About uploading and publishing of assets](about-asset-upload-publish.md)
+  + [Upload and publish of assets](about-asset-upload-publish.md)
   + [Upload files](uploading-files.md)
   + [Publish files](publishing-files.md)
   + [Dynamic Media limitations](limitations.md)
   + [Test assets before making them public](testing-assets-making-them-public.md)
   + [Check job files](checking-job-files.md)
 + Managing assets {#managing-assets}
-  + [About managing assets](about-managing-assets.md)
+  + [Manage assets](about-managing-assets.md)
   + [Work with asset folders](asset-folders.md)
   + [View assets in the Browse panel](viewing-assets-browse-panel.md)
   + [Select assets in the Browse panel](selecting-assets-browse-panel.md)
