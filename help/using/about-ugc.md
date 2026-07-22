@@ -28,13 +28,13 @@ topic_v2:
 ---
 # About User-generated content in Adobe Dynamic Media Classic {#about-user-generated-content}
 
-Using UGC (user-generated content) consists of uploading assets to a dedicated Adobe Dynamic Media Classic storage repository and performing related operations.
+UGC (user-generated content) consists of uploading assets to a dedicated [!DNL Adobe Dynamic Media Classic] storage repository and performing related operations.
 
 UGC supports raster image file formats BMP, GIF, JPG, PNG, PSD, TIFF.
 
 >[!IMPORTANT]
 >
->Starting May 1, 2023, UGC assets in Dynamic Media will be available for use up to 60 days from the date of upload. After 60 days, the assets will be removed.
+>Starting May 1, 2023, UGC assets in Dynamic Media remain available for use up to 60 days from the date of upload. After 60 days, the assets are removed.
 
 <!-- * Vector: AI, EPS (EPS files from Adobe Illustrator 2018 are not supported), PDF (only when the PDF file is previously opened and saved in Adobe Illustrator CS6) -->
 
@@ -42,7 +42,7 @@ UGC supports raster image file formats BMP, GIF, JPG, PNG, PSD, TIFF.
 >
 >Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic ended on September 30, 2021.
 
-Before uploading assets, you obtain a shared-secret key. You use this key to retrieve an upload token. You submit the upload token when you upload assets and perform other UGC tasks.
+Before uploading assets, you must obtain a shared-secret key. You use this key to retrieve an upload token. You submit the upload token when you upload assets and perform other UGC tasks.
 
 After you retrieve a shared-secret key and upload token, you can perform the following operations for user-generated content:
 
