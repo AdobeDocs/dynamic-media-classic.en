@@ -1,5 +1,5 @@
 ---
-title: Work with asset folders
+title: Work with Asset Folders
 description: Learn how to work with asset folders in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -24,9 +24,9 @@ level_v2:
 ---
 # Work with asset folders{#working-with-asset-folders}
 
-File assets in the Adobe Dynamic Media Classic are kept in folders. These folders are listed in alphabetical order in the Asset Library Panel. Before uploading files from your computer or network to Adobe Dynamic Media Classic, you are asked to name a folder for storing the files. Create these folders before uploading any files.
+File assets in Adobe Dynamic Media Classic are kept in folders. These folders are listed alphabetically in the Asset Library Panel. Before uploading files from your computer or network to Adobe Dynamic Media Classic, you are asked to name a folder in which to store them. Create these folders before uploading any files.
 
-Be sure to establish a folder structure and organization for storing your files on Adobe Dynamic Media Classic before uploading files.
+Be sure to establish a folder structure and organization for storing your files in Adobe Dynamic Media Classic before uploading files.
 
 ## Display, move, hide, and open folders {#displaying-moving-hiding-and-opening-folders}
 
@@ -34,7 +34,7 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 * **Display subfolders**: Select the **[!UICONTROL Expanded Folder]** icon to display the subfolders in a folder. This icon is located to the left of folder names.
 
-* **Move a folder**: You can move a folder by dragging it and dropping it in its new location, or by selecting **[!UICONTROL File]** > **[!UICONTROL Move Folder]**.
+* **Move a folder**: Move a folder by dragging and dropping it, or select **[!UICONTROL File]** > **[!UICONTROL Move Folder]**.
 
 * **Hide folders**: Select the **[!UICONTROL Collapsed Folder]** icon if you want to collapse subfolders to hide them from view. This icon is located to the left of folder names.
 
@@ -42,11 +42,11 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 >[!TIP]
 >
->You can hide or display the Asset Library by selecting the **[!UICONTROL Expand]** or **[!UICONTROL Collapse]** control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse panel.
+>You can hide or display the Asset Library by selecting the **[!UICONTROL Expand]** or **[!UICONTROL Collapse]** control on its left side. Collapse the Asset Library panel when you need more space in the Browse panel.
 
 ## Create folders
 
-1. In the Asset Library, select the folder you want to create a folder in.
+1. In the Asset Library, select the folder in which you want to create a folder.
 1. Select the **[!UICONTROL `Add Folder`]** button. This icon is at the top of the folder list.
 1. Enter a descriptive name for your new folder or subfolder. Type it into the field next to the folder icon.
 
@@ -58,10 +58,10 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 Select a folder and use these techniques to delete or rename it:
 
-* **Delete**: Select the **[!UICONTROL `Remove Folder`]** button. Assets in a deleted folder are placed in the Trash folder. You can recover them from there.
+* **Delete**: Select the **[!UICONTROL `Remove Folder`]** button. Assets in a deleted folder are moved to the deleted items folder. You can recover them from there.
 
 * **Rename**: Double-click the name and enter a new name.
 
 >[!NOTE]
 >
->You cannot copy folders or assets because doing so would create duplicate folders and assets on Adobe Dynamic Media Classic, and duplicates are not permitted.
+>Copying folders or assets creates duplicate folders and assets in Adobe Dynamic Media Classic, which is not supported.
