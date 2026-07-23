@@ -1,5 +1,5 @@
 ---
-title: Add and manage Media Portal users
+title: Add and Manage Media Portal Users
 description: Learn how to add and manage Media Portal users in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
