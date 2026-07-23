@@ -26,7 +26,7 @@ topic_v2:
 ---
 # Add captions to video {#add-captions-to-video}
 
-Extend the reach of your videos to global markets. You can do so by adding captioning to single videos or Adaptive Video Sets. By adding captioning you avoid the need to dub the audio, or the need to use native speakers to rerecord the audio for each different language. The video is played in the language that it was recorded. Foreign language subtitles appear so that people of different languages can still understand the audio portion.
+Make your videos available to global markets. You can do so by adding captioning to single videos or Adaptive Video Sets. By adding captioning you avoid the need to dub the audio, or the need to use native voice artists to record the audio in each language. The video is played in its original language. Translated subtitles appear so that people of different languages can still understand the audio portion.
 
 Captioning also allows for greater accessibility by using closed captioning for people who are deaf or hard of hearing.
 
@@ -44,9 +44,9 @@ See [Add or Edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding
 
 See also [Add and Edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-Adobe Dynamic Media Classic can convert caption files to JSON (JavaScript Object Notation) format. This conversion means you can embed the JSON text into a Web page as a hidden but complete transcript of the video. Search engines can then crawl and index the content to make the videos more easily discoverable and give customers more details about the video content.
+Adobe Dynamic Media Classic can convert caption files to JSON (JavaScript Object Notation) format. This conversion lets you embed the JSON text into a Web page as a hidden but complete transcript of the video. Search engines can then crawl and index the content to make the videos more easily discoverable and give customers more details about the video content.
 
-See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) in for more information about using the JSON function in a URL.
+See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) for more information about using the JSON function in a URL.
 
 **To add captions to a video:**
 
@@ -62,17 +62,17 @@ See [Serve static (non-image) contents](https://experienceleague.adobe.com/en/do
 
 1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file to associate with the caption file that you uploaded.
 1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, select **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-1. In the Viewer List table, find the HTML5 viewer named **Univeral_HTML5_Video**, **Universal_HTML5_MixedMedia_dark**, or **Universal_HTML5_MixedMedia_light**, then do one of the following:
+1. In the Viewer List table, find the HTML5 viewer named **Universal_HTML5_Video**, **Universal_HTML5_MixedMedia_dark**, or **Universal_HTML5_MixedMedia_light**, then do one of the following:
 
-    * For a pop-up video viewer experience, select **[!UICONTROL Copy URL]** to the far right of the name.
+    * For a pop-up video viewer experience, select **[!UICONTROL Copy URL]** to the right of the name.
 
-      Append the copied URL of the video with the following syntax so you can associate it with the copied URL to your caption file:
+      Append the following syntax to the copied URL of the video so you can associate it with your caption file:
 
       `&caption=<full Copy URL path to the caption file .vtt>,1`
 
       Note the `,1` at the end of the caption URL path. Immediately following the VTT filename extension in the path, you can optionally enable or disable the closed caption button on the video player bar by setting to `1` or `0`, respectively.
     
-    * For an embedded video viewer experience, select **[!UICONTROL Embed Code]** to the far right of the name.
+    * For an embedded video viewer experience, select **[!UICONTROL Embed Code]** to the right of the name.
 
       In the Embed Code dialog box, select **[!UICONTROL Copy to Clipboard]**.
 
