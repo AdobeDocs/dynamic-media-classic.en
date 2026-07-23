@@ -111,7 +111,7 @@ Each user in the list is automatically added to the specified groups. A Welcome 
 
 ## Generate a selectable list of Media Portal users {#generating-a-selectable-list-of-media-portal-users}
 
-You can display the names and e-mail addresses of Media Portal users in a pop-up window. This list is useful if you want to cut and paste user names and addresses for use outside Media Portal.
+You can display the names and e-mail addresses of Media Portal users in a pop-up window. This list is useful if you want to copy and paste user names and addresses for use outside Media Portal.
 
 1. Navigate to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. In the **[!UICONTROL By User Role]** drop-down list, choose the name of a Media Portal user role, and select **[!UICONTROL Refresh]** to display the names of one class of Media Portal user.
@@ -135,7 +135,7 @@ You can send a Welcome e-mail when you add new Media Portal users, contributors,
 
 Starting on the User Administration Setup screen, you can also do these tasks:
 
-* **[!UICONTROL Filter and sort the user list]**: Filter the list of Media Portal users to locate users.
+* **[!UICONTROL Filter and sort the user list]**: To locate users, filter the list of Media Portal users.
 
 * **[!UICONTROL Delete users]**: Remove a user from the list.
 
@@ -143,6 +143,6 @@ Starting on the User Administration Setup screen, you can also do these tasks:
 
 * **[!UICONTROL Edit user information]**: Enter up-to-date information about a user.
 
-* **[!UICONTROL Create user-defined fields]**: Create custom, user-defined metadata fields so they can help you organize assets in the Adobe Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
+* **[!UICONTROL Create user-defined fields]**: Create custom, user-defined metadata fields so they can help you organize assets in Adobe Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
 
 See [User-Defined Fields](application-setup.md#user_defined_fields).
