@@ -1,5 +1,5 @@
 ---
-title: Best practices for optimizing the quality of your images
+title: Best Practices for Optimizing the Quality of Your Images
 description: Learn best practices for optimizing the quality of your images.
 contentOwner: Rick Brough
 content-type: reference
@@ -31,7 +31,7 @@ topic_v2:
 ---
 # Best practices for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}
 
-Optimizing image quality can consume lots of time. Many factors contribute to rendering acceptable results. The outcome is partly subjective because individuals perceive image quality differently. Structured experimentation is key.
+Optimizing image quality can be time-consuming. Many factors contribute to rendering acceptable results. The outcome is partly subjective because individuals perceive image quality differently. Structured experimentation is essential.
 
 Adobe Dynamic Media Classic includes more than 100 image-serving commands for tuning and optimizing images and rendering results. The following guidelines can help you streamline the process and achieve good results quickly using some essential commands and best practices.
 
@@ -41,20 +41,20 @@ See also [Smart imaging](https://experienceleague.adobe.com/en/docs/experience-m
 >
 >Try out and discover the benefits of Dynamic Media image modifiers and Smart Imaging, using Dynamic Media [_Snapshot_](https://snapshot.scene7.com/).
 >
-> Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. Experiment with test images or Dynamic Media URLs, so you can visually observe the output of various Dynamic Media image modifiers, and Smart Imaging optimizations for the following:
+> Snapshot is a visual demonstration tool, designed to illustrate the capabilities of Dynamic Media for optimized and dynamic image delivery. Experiment with test images or Dynamic Media URLs, so you can visually observe the output of various Dynamic Media image modifiers, and Smart Imaging optimizations for the following:
 >
 >* File size (with WebP and AVIF delivery)
 >* Network bandwidth
 >* DPR (Device Pixel Ratio) 
 >
->To learn how easy it is to use Snapshot, play the [Snapshot training video](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-snapshot) (3 minutes and 17 seconds).
+>To learn how to use Snapshot, view the [Snapshot training video](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-snapshot) (3 minutes and 17 seconds).
 
 
 ## Best practices for image format (&fmt=) {#best-practices-for-image-format-fmt}
 
 * JPG or PNG are the best choices to deliver images in good quality and with manageable size and weight.
 * If no format command is supplied in the URL, Dynamic Media Image Serving defaults to JPG for delivery.
-* JPG compresses at a ratio of 10:1 and usually produces smaller image file sizes. PNG compresses at a ratio of about 2:1, except sometimes when images contain an empty background. Typically though, PNG file sizes are larger than JPG files.
+* JPG compresses at a ratio of 10:1 and usually produces smaller image file sizes. PNG compresses at a ratio of about 2:1, except when images contain transparent backgrounds. Typically, PNG file sizes are larger than JPG files.
 * JPG uses lossy compression, meaning that picture elements (pixels) are dropped during compression. PNG on the other hand uses lossless compression.
 * JPG often compresses photographic images with better fidelity than synthetic images with sharp edges and contrast.
 * If your images contain transparency, use PNG because JPG does not support transparency.
@@ -65,24 +65,24 @@ As a best practice for image format, start with the most common setting `&fmt=JP
 
 Dynamically reducing image size is one of the most common tasks that Dynamic Media Image Serving performs. It involves specifying the size and, optionally, which downsampling mode is used to downscale the image.
 
-* For image sizing, the best and most straightforward approach is to use `&wid=<value>` and `&hei=<value>` or just `&hei=<value>`. These parameters automatically set the image width in accordance to the aspect ratio.
-* `&resMode=<value>` controls the algorithm used for downsampling. Start with `&resMode=sharp2`. This value provides the best image quality. While using the downsampling value `=bilin` is faster, it often results in the aliasing of artifacts.
+* For image sizing, use `&wid=<value>` and `&hei=<value>`. These parameters automatically set the image width in accordance with the aspect ratio.
+* `&resMode=<value>` Controls the algorithm used for downsampling. Start with `&resMode=sharp2`. This value provides the best image quality. While using the downsampling value `bilin` is faster, it often results in aliasing artifacts.
 
-As a best practice for image sizing, use `&wid=<value>&hei=<value>&resMode=sharp2` or `&hei=<value>&resMode=sharp2`
+As a best practice for image sizing, use `&wid=<value>&hei=<value>&resMode=sharp2`. `&hei=<value>&resMode=sharp2`
 
 ## Best practices for image sharpening {#best-practices-for-image-sharpening}
 
-Image sharpening is the most complex aspect of controlling images on your website, and where many mistakes are made. Take the time to learn more about how sharpening and unsharp masking works in Adobe Dynamic Media Classic by referring to the following helpful resources:
+Image sharpening is the most complex aspect of controlling images on your website, and where many errors occur. To learn more about how sharpening and unsharp masking works in Adobe Dynamic Media Classic, refer to the following helpful resources:
 
 Best practices whitepaper in PDF called [Sharpen images in Adobe Dynamic Media Classic and on Image Server](/help/using/assets/s7_sharpening_images.pdf).
 
 <!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
-With Adobe Dynamic Media Classic, you can sharpen images on ingestion, on delivery, or both. Usually, however, you sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
+In Adobe Dynamic Media Classic, you can sharpen images during ingestion, delivery, or both. Usually, however, you sharpen images using one method, but not both. Sharpening images on delivery through a URL typically gives you the best results.
 
 There are two image-sharpening methods that you can use:
 
-* Simple sharpening ( `&op_sharpen`): Similar to the sharpening filter used in Photoshop, simple sharpening applies basic sharpening to the final view of the image following dynamic resizing. However, this method is not user-configurable. The best practice is avoiding the use of `&op_sharpen` unless required.
+* Simple sharpening ( `&op_sharpen`): Similar to the sharpening filter used in Adobe Photoshop, simple sharpening applies basic sharpening to the final view of the image following dynamic resizing. However, this method is not user-configurable. The best practice is to avoid the use of `&op_sharpen` unless required.
 * Unsharp masking ( `&op_USM`): Unsharp masking is an industry standard filter for sharpening. The best practice is to sharpen images with unsharp masking following the guidelines below. Unsharp masking lets you control the following three parameters:
 
   * `&op_sharpen=amount,radius,threshold`
@@ -90,7 +90,7 @@ There are two image-sharpening methods that you can use:
     * `amount` (0-5, strength of the effect.)
     * `radius` (0-250, width of the "sharpening lines" drawn around the sharpened object, as measured in pixels.)
 
-      Keep in mind that the parameters `radius` and `amount` work against each other. Reducing `radius` can be compensated by increasing `amount`. `Radius` allows finer control as a lower value sharpens only the edge pixels, whereas a higher value sharpens a wider band of pixels.
+      Note that the parameters `radius` and `amount` have an inverse relationship. Reducing `radius` can be compensated by increasing `amount`. `Radius` allows finer control as a lower value sharpens only the edge pixels, whereas a higher value sharpens a wider range of pixels.
 
     * `threshold` (0-255, sensitivity of effect.)
 
@@ -107,7 +107,7 @@ As a best practice, start with the unsharp mask radius parameter. Radius setting
 * Offset printing (266-300 ppi): 0.7-1.0 pixels
 * Canvas printing (150 ppi): 1.5-2.0 pixels
 
-Gradually increase the amount from 1.75 to 4. If sharpening is still not the way you want, increase the radius by a decimal point and run the amount again from 1.75 to 4. Repeat as necessary.
+Gradually increase the amount from 1.75 to 4. If sharpening is still not the desired result, increase the radius by a decimal increment and set the amount again from 1.75 to 4. Repeat as necessary.
 
 Leave the monochrome parameter setting at 0.
 
@@ -115,38 +115,38 @@ Leave the monochrome parameter setting at 0.
 
 * This parameter controls JPG encoding quality. A higher value means a higher-quality image but a large file size; alternatively, a lower value means a lower quality image but a smaller file size. The range for this parameter is 0-100.
 * To optimize for quality, do not set the parameter value to 100. The difference between a setting of 90 or 95 and 100 is almost imperceptible. Yet 100 unnecessarily increases the size of the image file. Therefore, to optimize for quality but avoid image files becoming too large, set the `qlt=` value to 90 or 95.
-* To optimize for a small image file size but keep image quality at an acceptable level, set the `qlt=` value to 80. Values below 70 to 75 results in significant image quality degradation. 
-* As a best practice, to stay in the middle, set the `qlt=` value to 85 to stay in the middle.
-* Using the chroma flag in `qlt=`
+* To optimize for a small image file size but keep image quality at an acceptable level, set the `qlt=` value to 80. Values below 70 to 75 result in significant image quality degradation. 
+* To stay in the middle, set the `qlt=` value to 85 as a best practice.
+* Using the chroma flag `qlt=`
 
   * The `qlt=` parameter has a second setting that lets you turn on RGB chromaticity downsampling using the normal value `,0` (default), or turn it off using the value `,1`. 
-  * To keep it simple, start with RGB chromaticity downsampling turned off ( `,1`). This setting usually results in better image quality, especially for synthetic images with lots of sharp edges and contrast.
+  * Start with RGB chromaticity downsampling turned off ( `,1`). This setting usually results in better image quality, especially for synthetic images with lots of sharp edges and contrast.
 
 As a best practice for JPG compression use `&qlt=85,0`.
 
 ## Best practices for JPEG sizing (&jpegSize=) {#best-practices-for-jpeg-sizing-jpegsize}
 
-The parameter `jpegSize` is useful if you want to guarantee that an image does not exceed a certain size for delivery to devices that have limited memory.
+The parameter `jpegSize` is useful if you want to guarantee that an image does not exceed a certain size. This parameter is for delivery to devices that have limited memory.
 
 * This parameter is set in kilobytes ( `jpegSize=<size_in_kilobytes>`). It defines the maximum allowed size for image delivery.
-* `&jpegSize=` interacts with the JPG compression parameter `&qlt=`. If the JPG response with the specified JPG compression parameter ( `&qlt=`) does not exceed the `jpegSize` value, the image is returned with `&qlt=` as defined. Otherwise, `&qlt=` is gradually decreased until the image fits in the maximum allowed size. Or, until the system determines it cannot fit and returns an error.
+* `&jpegSize=` Interacts with the JPG compression parameter `&qlt=`. If the JPG response with the specified JPG compression parameter ( `&qlt=`) does not exceed the `jpegSize` value, the image is returned with `&qlt=` as defined. Otherwise, `&qlt=` is gradually decreased until the image fits in the maximum allowed size. Alternatively, the system returns an error if it cannot fit the image.
 
-As a best practice, set `&jpegSize=` and add the parameter `&qlt=` if you are delivering JPG images to devices with limited memory.
+As a best practice, set `&jpegSize=` and include the parameter `&qlt=` when you are delivering JPG images to devices with limited memory.
 
 ## Best practices summary {#best-practices-summary}
 
-As a best practice, to achieve a high image quality and a small file size, start with the following combination of parameters:
+As a best practice, to achieve high image quality and a small file size, start with the following combination of parameters:
 
 `fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0`
 
 This combination of settings produces excellent results under most circumstances.
 
-If the image requires further optimization, gradually fine-tune sharpening (unsharp masking) parameters by starting with a radius set to 0.2 or 0.3. Then, gradually increase the amount from 1.75 to a maximum of 4 (equivalent to 400% in Photoshop). Check to see that the desired result is achieved.
+If the image requires further optimization, gradually fine-tune sharpening (unsharp masking) parameters by starting with a radius set to 0.2 or 0.3. Then, gradually increase the amount from 1.75 to a maximum of 4 (equivalent to 400% in [!DNL Adobe Photoshop]). Check to see that the desired result is achieved.
 
-If sharpening results are still not satisfactory, increase the radius in decimal increments. For every decimal increment, restart the amount at 1.75 and gradually increase it to 4. Repeat this process until you achieve the desired result. While the values above are an approach that creative studios have validated, remember that you can start with other values and follow other strategies. Whether the results are satisfactory to you or not is a subjective matter, therefore structured experimentation is key.
+If sharpening results are still not satisfactory, increase the radius in decimal increments. For every decimal increment, reset the amount to 1.75 and gradually increase it to 4. Repeat this process until you achieve the desired result. While the values above are an approach that creative studios have validated, note that you can use other values and follow other procedures. Whether the results are satisfactory to you or not is a subjective matter; therefore, structured experimentation is required.
 
 As you experiment, the following general suggestions are helpful to optimize your workflow:
 
-* Try out and test different parameters in real time, either directly on a URL or using the Adobe Dynamic Media Classic's image adjustment functionality. The latter provides real-time previews for adjustment operations.
-* As a best practice, remember that you can group Dynamic Media Image Serving commands into an Image Preset. An Image Preset is basically URL command macros with custom preset names, such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path calls these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs.
+* Test different parameters in real time, directly on a URL or using [!DNL Adobe Dynamic Media Classic] image adjustment tools. The latter provides real-time previews for adjustment operations.
+* As a best practice, remember that you can group Dynamic Media Image Serving commands into an Image Preset. An Image Preset is a set of URL command macros with custom preset names, such as `$thumb_low$` and `$product_high$`. The custom preset name in a URL path calls these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs.
 * Adobe Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying image sharpening on ingestion. For advanced use cases where further tuning and optimizing of rendered results is an option, Adobe Professional Services can help you with customized insight and best practices.
