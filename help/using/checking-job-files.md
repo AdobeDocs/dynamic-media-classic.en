@@ -1,5 +1,5 @@
 ---
-title: Check job files
+title: Check Job Files
 description: Learn how to check job files in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -27,9 +27,9 @@ topic_v2:
 ---
 # Check job files{#checking-job-files}
 
-To monitor file uploads to Adobe Dynamic Media Classic, and files that you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review, upload, and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
+To monitor file uploads to Adobe Dynamic Media Classic and files that you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review, upload, and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
 
-When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can select the icon to see more information about the active job.
+When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress and showing the number of files in progress. You can select the icon to see more information about the active job.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 * **[!UICONTROL Total]**: The number of files transferred.
 
-* **[!UICONTROL W (warnings)]**: The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Mac) and Thumbs.db files (Windows&reg;) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don't pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
+* **[!UICONTROL W (warnings)]**: The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. As an example: `.DS_store` files (Mac) and Thumbs.db files (Windows&reg;) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don't pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
 
 * **[!UICONTROL E (errors)]**: Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
 
@@ -77,7 +77,7 @@ Use these techniques to sort jobs or change your view of the History tab of the 
 
 * **[!UICONTROL Show]**: Go to **[!UICONTROL Show]** > **[!UICONTROL My Jobs]** or **[!UICONTROL Show]** > **[!UICONTROL All Jobs]** to narrow the list to jobs you ordered or jobs that people in your company ordered.
 
-## View, or copy, or print a Job Details report {#viewing-copying-or-printing-a-job-details-report}
+## View, copy, or print a Job Details report {#viewing-copying-or-printing-a-job-details-report}
 
 Double-click the name of a report on the Jobs page so the Job Details page opens. This page provides a summary report about the files in the job. Select **[!UICONTROL View Detail]** so you can see an entry's Adobe Dynamic Media Classic ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in Adobe Dynamic Media Classic, the report lists the missing fonts.
 
@@ -89,7 +89,7 @@ You can copy this information to the Clipboard.
 
 ## Handle recurring upload and publish jobs {#handling-recurring-upload-and-publish-jobs}
 
-Recurring upload and publish jobs, that you create on the Upload and Publish pages, are listed on the Scheduled tab of the Jobs page. You can edit and delete recurring jobs on the Scheduled tab.
+Recurring upload and publish jobs that you create on the Upload and Publish pages are listed on the Scheduled tab of the Jobs page. You can edit and delete recurring jobs on the Scheduled tab.
 
 Select the Jobs button on the Global Navigation bar and, on the Jobs page, select the **[!UICONTROL Scheduled]** tab so you can edit and delete recurring jobs.
 
@@ -162,6 +162,6 @@ This list gives examples of describing time intervals in the Rule box:
 
 ## Use an upload or publish job as a trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
-When you upload assets by way of FTP or run a publish job, you can schedule a subsequent job to begin when the upload is complete. (If other jobs are scheduled to begin then, the job you schedule here is queued behind them.) The new job sends a notification to the address that you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix _Pub.
+When you upload assets through FTP or run a publish job, you can schedule a subsequent job to begin when the upload is complete. (If other jobs are scheduled to begin then, the job you schedule here is queued behind them.) The new job sends a notification to the address that you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix `_Pub`.
 
 To make one upload or publish job trigger another job, select **[!UICONTROL Advanced]** on the Upload or Publish page. Then enter the URL in the HTTP Notification text field.
