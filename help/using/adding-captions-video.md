@@ -1,5 +1,5 @@
 ---
-title: Add captions to video
+title: Add Captions to Video
 description: Learn how to add captions to video in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference

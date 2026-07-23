@@ -1,5 +1,5 @@
 ---
-title: About User-generated content in Adobe Dynamic Media Classic
+title: About User-generated Content in Adobe Dynamic Media Classic
 description: An introduction to user-generated content.
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
