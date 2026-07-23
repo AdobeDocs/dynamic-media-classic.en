@@ -1,5 +1,5 @@
 ---
-title: Add chapter markers to video
+title: Add Chapter Markers to Video
 description: Learn how to add chapter markers to a video in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -34,7 +34,7 @@ See [Add or edit a Video Viewer Preset](previewing-videos-video-viewer.md#adding
 
 See also [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-You create a chapter list for your video in much the same way that you create captions. That is, you create a WebVTT file. Note, however, that this file must be separate from any WebVTT caption file that you may also be using; you cannot combine captions and chapters into one WebVTT file.
+You create a chapter list for your video in much the same way that you create captions. That is, you create a WebVTT file. Note, however, that this file must be separate from any WebVTT caption file you use; do not combine captions and chapters into one WebVTT file.
 
 You can use the following sample as an example of the format you use to create a WebVTT file with chapter navigation:
 
@@ -54,7 +54,7 @@ Chapter 4
 Cost-efficient access to rapidly evolving technology.
 ```
 
-In the example above, `Chapter 1` is the cue identifier and is optional. The cue time of `00:00:000 --> 01:04:364` specifies the start time and end time of the chapter, in 00:00:000 format. That last three digits are milliseconds and can be left as 000, if preferred. The chapter title of `The bicycle store behind it all` is the actual description of the chapter's contents. The cue identifier, the starting cue time, and the chapter title all appear in a pop-up in the video player when the pointer is hovered over a visual cue point in the video's timeline.
+In the example above, `Chapter 1` is the cue identifier and is optional. The cue time of `00:00:000 --> 01:04:364` specifies the start time and end time of the chapter, in 00:00:000 format. The last three digits are milliseconds and can be left as 000, if preferred. The chapter title of `The bicycle store behind it all` is the description of the chapter content. The cue identifier, the starting cue time, and the chapter title appear in a video player pop-up when the pointer hovers over a visual cue point on the video timeline.
 
 Because you are using an HTML5 video viewer, ensure that the chapter file you create follows the WebVTT (Web Video Text Tracks) standard. The chapter filename extension is `.VTT`. You can learn more information about the WebVTT captioning standard.
 
@@ -68,9 +68,9 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
    >
    >For global support of video chapters in languages other than English, the WebVTT standard requires that you create separate `.VTT` files and calls for each language you want to support.
 
-1. Save the VTT file in UTF8 encoding so you can avoid problems with character rendition in the chapter title text.
+1. Save the VTT file in UTF-8 encoding so you can avoid problems with character rendition in the chapter title text.
 
-   Generally, you want to name the chapter VTT file the same name as the video file, and append it with `chapters`. By doing so, it can help you with automating the generation of the video URLs using your existing Web content management system.
+   Name the chapter VTT file the same as the video file, and append it with `_chapters`. Doing so can help you with automating the generation of the video URLs using your existing Web content management system.
 
 1. In Adobe Dynamic Media Classic, upload your WebVTT chapter file.
 
@@ -78,7 +78,7 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
 
 1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file to associate with the chapter file that you uploaded.
 1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, select **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-1. In the Viewer List table, find the HTML5 viewer named **Univeral_HTML5_Video**, and then do one of the following:
+1. In the Viewer List table, find the HTML5 viewer named **Universal_HTML5_Video**, and then do one of the following:
 
     * For a pop-up video viewer experience, select **[!UICONTROL Copy URL]** to the far right of the name.
 
