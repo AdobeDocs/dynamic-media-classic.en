@@ -1,5 +1,5 @@
 ---
-title: Manage content variations
+title: Manage Content Variations
 description: Learn how to manage content variations in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -26,11 +26,13 @@ level_v2:
 
 Use template sets to manage the way asset variations are published.
 
-Create a template set to manage variations of a template. You can control which variation is used without changing the code on your site. This method helps content managers rotate content without requiring IT to change a URL in the Web code.
+Create a template set to manage variations of a template. You can control which variation is used without changing the code on your site. This method lets content managers update content without requiring technical support to change a URL in the web code.
 
-Universal URLs are used to display the template variation that appears on the page, based on the order they are listed in the set. The template at the top of the template set list is always published.
+Universal URLs display the template variation on the page, based on set order. The template at the top of the template set list is always published.
 
-You can use any Image Preset URL from the list. Image Preset URLs are like universal URLs. There can be more than one Image Preset URL.
+You can use any Image Preset URL from the list. Image Preset URLs function similarly to universal URLs. There can be more than one Image Preset URL.
+
+**To manage content variations:**
 
 1. Go to **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**.
 1. In the builder, select a template, then select **[!UICONTROL Add/Preview]**.
@@ -41,8 +43,8 @@ You can use any Image Preset URL from the list. Image Preset URLs are like unive
 
 1. Go to the Detail page to get a copy URL from the URLs section.
 
-You can move a template in the template order (for example, to the top of the list) by dragging it to its new location. Publish again to submit the new order.
+You can reorder a template (for example, to the first position in the list) by dragging it to its new location. Publish again to submit the new order.
 
 >[!NOTE]
 >
->If necessary, clear the cache to see the changes. The change only appears on the website after the change has made its way through the cache cycle.
+>If necessary, clear the cache to see the changes. The change only appears on the website after the change has been processed through the cache cycle.
