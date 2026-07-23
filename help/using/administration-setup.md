@@ -38,7 +38,7 @@ All Adobe Dynamic Media Classic users are assigned a role that determines their 
 
 Typically, Adobe Dynamic Media Classic configures the first set of companies and assigns a Company Administrator. The Company Administrator then sets up and administers Adobe Dynamic Media Classic users.
 
-Adobe Dynamic Media Classic supports several user roles. These roles can access companies set up for the Adobe Dynamic Media Classic:
+Adobe Dynamic Media Classic supports several user roles. These roles can access companies set up for Adobe Dynamic Media Classic:
 
 <!-- **Adobe Dynamic Media Classic Administrator** Can view and administer all features in Adobe Dynamic Media Classic, as well as set up companies and add administrators and users. -->
 
@@ -46,7 +46,7 @@ Adobe Dynamic Media Classic supports several user roles. These roles can access 
 
 **Adobe Dynamic Media Classic Company Admin** Can view and administer only their own companies. A Company Administrator can also perform all administration functions, including adding administrators and users. A Company Administrator can add a user to the DMC company admin accounts. (This role is the default user role.)
 
-After you add a user, Adobe Dynamic Media Classic sends the user a Welcome e-mail message. The message includes a password and the Adobe Dynamic Media Classic URL.
+After you add a user, Adobe Dynamic Media Classic sends the user a welcome email message. The message includes a password and the Adobe Dynamic Media Classic URL.
 
 ### Add a user or administrator {#adding-a-user-or-administrator}
 
@@ -70,9 +70,9 @@ After you add a user, Adobe Dynamic Media Classic sends the user a Welcome e-mai
 
    All new users are given a randomly generated password; users are required to change passwords the first time they sign in to the Adobe Dynamic Media Classic desktop application.
 
-   New users are sent a Welcome e-mail after you add them. The e-mail provides a temporary password and explains how to sign in to Adobe Dynamic Media Classic.
+   New users are sent a welcome email after you add them. The email provides a temporary password and explains how to sign in to Adobe Dynamic Media Classic.
 
-   If the user does not receive the welcome email, have them go the Adobe Dynamic Media Classic sign in page (https://s7sps1.scene7.com), and select **[!UICONTROL Forgot My Password]**. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
+   If the user does not receive the welcome email, have them go to the Adobe Dynamic Media Classic sign-in page (https://s7sps1.scene7.com) and select **[!UICONTROL Forgot My Password]**. The password is reset and a new email is sent. If the user does not receive the email and it is not in their spam folder, contact Technical Support.
 
    When adding new Media Portal users, you can also go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]**, then select **[!UICONTROL Upload User List]** and select a .csv file containing no more than 500 users.
 
@@ -96,6 +96,8 @@ Users who have been deactivated no longer have permission to enter the account l
 
 The user information that you can edit depends on your role as an administrator and the assigned role of the user whose information you want to edit. Options that are dimmed (unavailable) are not editable.
 
+**To edit user information:**
+
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Select a user from the list, and then select **[!UICONTROL Edit]**.
 1. Select the entry in the table that shows the company you are trying to modify permissions or access for, then select **[!UICONTROL Manage Company]**.
@@ -113,11 +115,11 @@ You can use the following user list-filtering techniques:
 
 * **Filter by user role**: Select the **[!UICONTROL By User Role]** menu and choose an option to narrow the list to users or administrators of different types.
 
-* **Filter by field name**: Select **[!UICONTROL Enable Filter By Field]**. Then select the **[!UICONTROL By Field Name]** menu, choose a column for filtering the list, and select the Filter Character menu and choose a letter. The list is filtered on one of the columns by the letter that you chose. To see the full list, deselect the **`Enable Filter By Field`** option.
+* **Filter by field name**: Select **[!UICONTROL Enable Filter By Field]**. Then select the **[!UICONTROL By Field Name]** menu, choose a column for filtering the list, and select the Filter Character menu and choose a letter. The letter that you chose filters the list on one of the columns. To see the full list, deselect the **`Enable Filter By Field`** option.
 
 * **Filter out invalid users**: Deselect **[!UICONTROL Include Invalid]**. The search results display only users who are in the system. Invalid users have been deleted from the system and the accounts that you administer.
 
-* **Sort by column heading**: Select a heading to sort all users by their status, alphabetically by first name, last name, or email. Or, sort by user role, or by valid/invalid status.
+* **Sort by column heading**: Select a heading to sort all users by status, first name, last name, or email. Or, sort by user role or valid/invalid status.
 
 If you have many users, you can limit the size of the list by selecting the Max List Size menu and choosing a number.
 
@@ -197,19 +199,19 @@ To generate a bandwidth, storage, image content, domain, video streaming, or vid
 
    See [Types of reports](administration-setup.md#types_of_reports).
 
-### View data in different ways {#viewing-data-in-different-ways}
+### Configure data display options {#viewing-data-in-different-ways}
 
 After you generate a report on the Bandwidth & Storage page, you can choose options for viewing information. You can choose how information is presented, view information in a chart or data grid, and specify a time period for capturing information. In Data view, you can also sort information and rearrange columns.
 
 * **View data in a chart or data grid**: Select **[!UICONTROL Chart View]** to see data in a chart; select **[!UICONTROL Data View]** to view data in a data grid.
 
-* **Choose a report presentation type**: On the Report Type menu, select **[!UICONTROL Summary]**, **[!UICONTROL Daily]**, or **[!UICONTROL Monthly]** to organize data in summary form, by day, or by month. Not all reports provide this option.
+* **Choose a report presentation type**: On the Report Type menu, select **[!UICONTROL Summary]**, **[!UICONTROL Daily]**, or **[!UICONTROL Monthly]** to organize data by summary, day, or month. Not all reports provide this option.
 
 * **Specify a time period**: Choose options to define a time period for your report, and then select **[!UICONTROL Update]** after you define a time period:
 
 * **Pre-defined time period**: On the Pre-defined Report menu, choose an option. For example, choose Last Month to capture data from the previous month.
 
-* **Custom time period**: On the Pre-defined Report menu, select **[!UICONTROL Custom]**. Then choose a date on the **[!UICONTROL Start Month]** (or **[!UICONTROL Start Date]**) menu and a date on the # of Months (or # or Days) menu. For Domain and Video Content Reports, you can choose a specific start and end date for capturing report information.
+* **Custom time period**: On the Pre-defined Report menu, select **[!UICONTROL Custom]**. Then choose a date on the **[!UICONTROL Start Month]** (or **[!UICONTROL Start Date]**) menu and a date on the # of Months (or # of Days) menu. For Domain and Video Content Reports, you can choose a specific start and end date for capturing report information.
 
 * **Sort data (Data view only)**: Sort information in a column. Select the column's heading. Select again to sort in descending order.
 
@@ -234,14 +236,14 @@ Adobe Dynamic Media Classic Administrators can generate Image Error reports. An 
     * To sort errors by the heading information, select a heading. By default, errors are sorted by number of occurrences, highest to lowest.
     * Move the cursor over the Response field for an error to see the specific error message.
     * To see the link to the image or the referrer Web page, move the cursor over the URL field or the Referrer field.
-    * To copy the link to the actual image, select **[!UICONTROL URL Copy URL]**. You can paste this link in a browser window to go to the image and investigate the error.
+    * To copy the link to the actual image, select **[!UICONTROL URL Copy URL]**. To go to the image and investigate the error, paste this link in a browser window.
     * To copy the link to the referrer Web page, select **[!UICONTROL Referrer Copy URL]**.
 
 Errors displayed are for the company that you are currently logged in to. Each error includes the following information:
 
-* **Image ID**: ID for the offending image.
+* **Image ID**: ID for the problematic image.
 
-* **Time**: The time range of the first time the error was reported to the last time that the error was reported, within the last 24 hours.
+* **Time**: The time range from the first time the error was reported to the last time that the error was reported, within the last 24 hours.
 
 * **Count**: The number of errors reported on the image.
 
