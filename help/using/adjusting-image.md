@@ -1,5 +1,5 @@
 ---
-title: Adjust an image
+title: Adjust an Image
 description: Learn how to adjust an image in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -24,27 +24,27 @@ level_v2:
 ---
 # Adjust an image{#adjusting-an-image}
 
-Adobe Dynamic Media Classic offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the Color Balance, and colorize an image. As you experiment with these commands, you can see their effects on the image you are working with.
+Adobe Dynamic Media Classic offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the Color Balance, and colorize an image. As you experiment with these commands, you can observe their effects on the image you are working with.
 
 See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for_an_image).
 
 **To adjust an image:**
 
 1. Select the image's rollover Edit button and choose Adjust, or in the Browse panel, double-click the image so it opens in Detail View.
-1. Select a size and Image Preset (in the bottom of the window).
+1. Select a size and Image Preset (at the bottom of the window).
 1. Use the commands on the right side of the `Adjust Editor` window so you can adjust the image:
 
     * Use the Flip options to flip an image horizontally or vertically.
     * Use the **[!UICONTROL Rotator]** slider to rotate the image. You can enter values in the **[!UICONTROL Rotator]** field to rotate an image. Positive values rotate it clockwise; negative values rotate it counterclockwise.
-    * Use the Blur slider or its corresponding box to blur an image. The higher the value, the more blurry the image becomes.
+    * Use the Blur slider or its corresponding box to blur an image. Higher values increase the blur of the image.
     * Use the Contrast, Brightness, Saturation, Hue, and Color Balance options to adjust the color and brightness. These effects are cumulative. For example, changes to the Magenta/Green settings are added to changes made to the Hue settings.
-    * Use the `Colorize` options to colorize an image while preserving shadows and highlights. Changes to the Colorize options are also cumulative. From the Brightness menu, choose **[!UICONTROL No Compensation]** so you disable automatic brightness compensation. Set the contrast value to 0 to preserve the contrast range of the original image, or specify a contrast range with a value greater than 0. A value of 100 maximizes the contrast. Typical values are in the 30-70 range.
+    * Use the `Colorize` options to colorize an image while preserving shadows and highlights. Changes to the Colorize options are also cumulative. From the Brightness menu, choose **[!UICONTROL No Compensation]** to disable automatic brightness compensation. To preserve the contrast range of the original image, set the contrast value to 0, or specify a contrast range with a value greater than 0. A value of 100 maximizes the contrast. Typical values are in the 30-70 range.
 
 1. When you have finished adjusting the image, do one of the following:
 
     * Select **[!UICONTROL Save]**.
 
-    * To replace the original of the image, select **[!UICONTROL Save As]**.
+    * To replace the original image, select **[!UICONTROL Save As]**.
 
       In the drop-down list, select **[!UICONTROL Replace original]**, and then select **[!UICONTROL Save]**.
 
@@ -54,7 +54,7 @@ See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for
       In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new primary image saved.
       Select **[!UICONTROL Save]**.
 
-    * To save the image as another view of the primary image. you can create an alias for it. Select **[!UICONTROL Save As]**.
+    * To save the image as another view of the primary image, you can create an alias for it. Select **[!UICONTROL Save As]**.
 
       From the drop-down list in the **[!UICONTROL Save As]** dialog box, select **[!UICONTROL Save as another view of primary]**.
       In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new primary image saved.
