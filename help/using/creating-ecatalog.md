@@ -29,7 +29,7 @@ topic_v2:
 ---
 # Creating an eCatalog {#creating-an-ecatalog}
 
-Creating an eCatalog entails ordering the pages, choosing the page layout, and linking the pages by drawing Image Maps. It also requires entering rollover and hypertext link data. Optionally, you can customize the TOC so that viewers see page names rather than page numbers in the eCatalog Viewer.
+Creating an eCatalog involves ordering the pages, choosing the page layout, and linking the pages by drawing Image Maps. It also requires entering rollover and hypertext link data. Optionally, you can customize the TOC so that viewers see page names rather than page numbers in the eCatalog Viewer.
 
 ## Create an eCatalog {#create}
 
@@ -56,22 +56,22 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
       >
       >To view the items in the Asset Library by name instead of thumbnail, select the Name option for Default Asset Library View in Personal Setup.
 
-1. Select an overall layout for your eCatalog. Select **[!UICONTROL 1 Up]** for single pages, **[!UICONTROL 2 Up]** for double-page spreads, or **[!UICONTROL Custom]** for page spreads of more than two pages. In the **[!UICONTROL Change eCatalog Layout]** dialog box, select the **[!UICONTROL All Spreads]** options and select **[!UICONTROL OK]**.
-1. Optionally, change the layout of individual pages or page spreads by selecting them and then choosing **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, or **[!UICONTROL Custom]** button. In the **[!UICONTROL Change eCatalog Layout]** dialog box, select the **[!UICONTROL Selected Spreads]** options and select **[!UICONTROL OK]**.
+1. Select an overall layout for your eCatalog. Select **[!UICONTROL 1 Up]** for single pages, **[!UICONTROL 2 Up]** for double-page spreads, or **[!UICONTROL Custom]** for page spreads of more than two pages. In the **[!UICONTROL Change eCatalog Layout]** dialog box, select the **[!UICONTROL All Spreads]** option and select **[!UICONTROL OK]**.
+1. Optionally, change the layout of individual pages or page spreads by selecting them and then choosing the **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, or **[!UICONTROL Custom]** button. In the **[!UICONTROL Change eCatalog Layout]** dialog box, select the **[!UICONTROL Selected Spreads]** option and select **[!UICONTROL OK]**.
 1. Reorder the pages as necessary with one of these techniques:
 
-   * **Dragging**: Drag a page or page spread to a new location. The vertical bar shows you where the page is being moved.
+   * **Dragging**: Drag a page or page spread to a new location. The vertical bar indicates the position to which the page is being moved.
 
-   * **Move To button**: Select a page or page spread, select **[!UICONTROL Move To]**, and choose the page on the menu that you want your page to appear before.
+   * **Move To button**: Select a page or page spread, select **[!UICONTROL Move To]**, and choose the page on the menu before which you want your page to appear.
 
-   * **Sequence #**: In List View, enter page numbers in the fields of Sequence #.
+   * **Sequence #**: In List View, enter page numbers in the Sequence # fields.
 
 1. When you are finished, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]**.
-1. In the Save dialog box, select a folder for storing your eCatalog. In the File Name field, enter the Spin Set name.
+1. In the Save dialog box, select a folder for storing your eCatalog. In the File Name field, enter the eCatalog name.
 1. Select **[!UICONTROL Save]**.
 
-   You can preview your eCatalog, after you save it, by selecting **[!UICONTROL Preview]**.
+   You can preview your eCatalog after you save it by selecting **[!UICONTROL Preview]**.
 
 ## Edit an eCatalog {#editing-an-ecatalog}
 
@@ -95,7 +95,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Delete an eCatalog
 
-When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a set, the set itself is moved to the deleted items folder. The members within that set are not affected; they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
@@ -120,9 +120,9 @@ Manually enter page names one at a time by going to the Order Pages tab of the e
 
 ### Import page names {#importing-page-names}
 
-Importing page names is recommended if you are dealing with an eCatalog with many pages. You can import the names from a tab-delimited or XML file.
+Importing page names is recommended if you are working with an eCatalog containing many pages. You can import the names from a tab-delimited or XML file.
 
-The TOC label is stored in an image's User Data field; format this data as a list of `name=<value>` ` pairs separated by two question marks "??" `. For example, to set one label for a TOC field that is named `tocEN`, set the User Data of the image to:
+The TOC label is stored in an image's User Data field; format this data as a list of `name=<value>` pairs separated by two question marks "??." For example, to set one label for a TOC field that is named `tocEN`, set the User Data of the image to:
 
 `tocEN=&lt;EN_page_label>`
 
