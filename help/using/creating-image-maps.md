@@ -36,19 +36,19 @@ When you create Image Maps, you can do any of the following:
 * Enter rollover text.
 * Enter JavaScript and URLs for launching Web pages.
 * Create URL templates for Image Maps.
-* Copy Image Maps to other images, or eCatalog pages, or SpinSets.
+* Copy Image Maps to other images, eCatalog pages, or SpinSets.
 * Export Image Maps to CSV or to XML.
 * Import image metadata from a tab-delimited file or from an XML file.
-* Define Other Actions as determined by the World Wide Web Consortium.
+* Define other actions as determined by the World Wide Web Consortium.
 * Preview Image Maps.
 
 ## Draw and adjust an Image Map {#drawing-and-adjusting-an-image-map}
 
 1. Do one of the following:
 
-    * If you are working with an image in the Grid View or List View, in the Edit drop-down list select **[!UICONTROL Image Map]**. Or, open it in Detail View, and then select **[!UICONTROL Image Map]** above the image.
+    * If you are working with an image in the Grid or List View, select **[!UICONTROL Image Map]** from the Edit drop-down list. Or, open it in Detail View, and then select **[!UICONTROL Image Map]** above the image.
     * If you are working with a SpinSet in the Grid View or List View, select **[!UICONTROL Edit]**. Or, open it in Detail View, and then select **[!UICONTROL Edit]**. Select an image asset, and then select **[!UICONTROL Image Map]**.
-    * If you are working with an eCatalog, in the Grid View, List View, Detail View, select **[!UICONTROL Edit]**. Select the **[!UICONTROL Map Pages]** tab.
+    * If you are working with an eCatalog in the Grid, List, or Detail View, select **[!UICONTROL Edit]**. Select the **[!UICONTROL Map Pages]** tab.
 
    ![Image Map illustration](assets/ma_image_map.png)
 
@@ -76,10 +76,10 @@ When you create Image Maps, you can do any of the following:
 
    * To preview Image Maps, select **[!UICONTROL Preview]**.
    * To delete an Image Map or polygon vertex, select a shape on the image, and then select **[!UICONTROL Delete]**. Or, for an eCatalog, on the Order Pages tab, select **[!UICONTROL Clear Maps]** to remove Image Maps from all pages.
-   * To remove an:
+   * To remove any of the following
       * Image Map from an image
       * an image in a SpinSet
-      * or, an eCatalog page
+      * or an eCatalog page
    
       temporarily, without deleting it, deselect the appropriate On option in the Image Map list.
 
@@ -89,15 +89,15 @@ When you create Image Maps, you can do any of the following:
 
 To change the position, shape, and size of an Image Map, select the Image Map button. Then, select the **[!UICONTROL Pan]** tool and follow these instructions:
 
-* **Change position**: Move the pointer near to but not over the border of the Image Map. When you see the four-headed arrow icon, drag the map to a new location.
+* **Change position**: Move the pointer near but not over the border of the Image Map. When you see the move icon, drag the map to a new location.
 
 * **Change the size and shape**: How you change the shape and size of an Image Map depends on whether you are working with a rectangular or polygonal Image Map:
 
 >[!TIP]
 >
->You can drag the Size slider at the bottom of the screen to change views and get a better look at your Image Map.
+>To change views and view your Image Map more clearly, drag the Size slider at the bottom of the screen.
 
-* **Rectangular Image Map**: Move the pointer over a side or corner of the Image Map. When you see the double-headed arrow icon, start dragging. Hold down the Shift key as you drag to change the size but maintain the aspect ratio (the shape).
+* **Rectangular Image Map**: Move the pointer over a side or corner of the Image Map. When you see the double-headed arrow icon, start dragging. To change the size but maintain the aspect ratio (the shape), hold down the Shift key as you drag.
 
 * **Polygonal Image Map**: Drag a square selection handle. To create a selection handle, select the border of the Image Map and start dragging.
 
@@ -107,7 +107,7 @@ If your image or eCatalog page includes more than one Image Map and the maps ove
 
 ### Import Image Map data {#importing-image-map-data}
 
-Rather than enter Image Map data on each page, you can import the data for your image, Spin Set, or eCatalog into the Map Summary screen. You import the Image Map data in the form of a tab-delimited file or XML DTD. The fields in your file must be in the order shown in the Map Summary screen: Name, TOC Labels, Maps, URLs, Rollover Text, Other Actions, and Search Strings. Importing Image Map data saves you the trouble of entering the data in the Image Map list as you create each Image Map.
+Rather than entering Image Map data on each page, you can import the data for your image, SpinSet, or eCatalog into the Map Summary screen. You import the Image Map data in the form of a tab-delimited file or XML DTD. The fields in your file must follow the order shown on the Map Summary screen: Name, TOC Labels, Maps, URLs, Rollover Text, Other Actions, and Search Strings. Importing Image Map data avoids the need to enter the data in the Image Map list as you create each Image Map.
 
 **To import Image Map data:**
 
@@ -115,22 +115,22 @@ Rather than enter Image Map data on each page, you can import the data for your 
 1. Select **[!UICONTROL Import Metadata]**.
 1. In the Upload Metadata dialog box, select Image or Image Map to upload the metadata from the desired asset property type.
 1. In the `Generate File` drop-down list, select the type of file that you want to create.
-1. (Optional) Select **[!UICONTROL Generate]** to preview the resulting data based on the type of file you want to create. Select **[!UICONTROL Close]** to return to the Upload Metadata dialog box.
+1. (Optional) Select **[!UICONTROL Generate]**. This previews the resulting data based on the type of file you want to create. Select **[!UICONTROL Close]** to return to the Upload Metadata dialog box.
 1. Browse to the file that you want to upload. In the File Name text field, specify the name of the generated file.
 1. (Optional) In the Job Name field, specify a name for the metadata upload job.
 1. Select **[!UICONTROL Upload]**.
 
 ### Copy Image Maps {#copying-image-maps}
 
-You can copy Image Maps from an image or an eCatalog page to another. Use **[!UICONTROL Copy Image Map]** to get a head start creating them. You can also copy Image Maps to re-create them in images or pages that share layout or mapping structure.
+You can copy Image Maps from an image or an eCatalog page to another. Use **[!UICONTROL Copy Image Map]** to simplify the creation process. To create Image Maps in images or pages that share layout or mapping structure, you can also copy them.
 
-For example, copying Image Maps in an eCatalog is a convenient way to copy all Image Maps between foreign language versions of the same eCatalog. For best results, copying is most successful if you copy between eCatalogs with the same number of pages and the same images. If the eCatalog to which you copy already contains Image Maps, those Image Maps are deleted when the copy is made.
+For example, copying Image Maps in an eCatalog is a convenient way to copy all Image Maps between different language versions of the same eCatalog. For best results, copying is most successful if you copy between eCatalogs with the same number of pages and the same images. If the eCatalog to which you copy already contains Image Maps, those Image Maps are deleted when the copy is made.
 
 **To copy Image Maps:**
 
 1. Go to the Image Map editor page (for images or images in SpinSets) or the Map Pages tab of the eCatalog editing screen.
 1. Select **[!UICONTROL Copy Maps to]**.
-1. Do one of the following, based on if you are copying Image Maps from images or copying Image Maps from an eCatalog:
+1. Do one of the following, based on whether you are copying Image Maps from images or copying Image Maps from an eCatalog:
 
     * (Images) In the Select Images screen, select the images that you want to copy the Image Maps to.
     * (eCatalog) In the Select Asset screen, select the images or eCatalog pages that you want to copy the Image Maps to.
@@ -139,21 +139,21 @@ For example, copying Image Maps in an eCatalog is a convenient way to copy all I
 
 ## Use a template to enter JavaScript and URLs {#using-a-template-to-enter-javascript-and-urls}
 
-You can define a URL template (also known as an Href template) to make entering Image Map URLs easier and more efficient. Define a URL template if most of your Image Map URLs share a common, fixed format. By entering the portion of the URL that is fixed as the URL template, you do not have to enter this portion of the URL each time you create an Image Map. Your URL template can also contain JavaScript commands, pathnames, and parameters. By default, the URL template contains a proprietary Adobe Dynamic Media Classic JavaScript handler called `loadProduct` that opens the image in a new window.
+To simplify entering Image Map URLs, you can define a URL template (also known as an Href template). Define a URL template if most of your Image Map URLs share a common, fixed format. By entering the portion of the URL that is fixed as the URL template, you do not have to enter this portion of the URL each time you create an Image Map. Your URL template can also contain JavaScript commands, pathnames, and parameters. By default, the URL template contains a proprietary Adobe Dynamic Media Classic JavaScript handler called `loadProduct` that opens the image in a new window.
 
 >[!NOTE]
 >
->When you add the JavaScript code into the HREF attribute of your Image Map, the code is run on the client's computer. Therefore, make sure that the JavaScript code is secure.
+>When you add the JavaScript code into the HREF attribute of your Image Map, the code is processed on the user's computer. Therefore, make sure that the JavaScript code is secure.
 
 ### About URL templates {#about-url-templates}
 
-The URL template works by substituting the contents of the URL column in the Image Map list. It substitutes it with the double dollar signs ('$$') in the template:
+The URL template works by substituting the contents of the URL column in the Image Map list. It substitutes them with the double dollar signs ($$) in the template:
 
 ```as3
 Javascript:loadProduct('$$');void(0);
 ```
 
-You place all values that do not change between Image Maps in the URL template. Add only the values that do change in the URL column in the Image Map list. For example:
+You place all values that do not change between Image Maps in the URL template. Add only the values that change to the URL column in the Image Map list. For example:
 
 * URL template: `javascript:loadProduct('https://www.examplesitehere.com/$$');void(0);`
 * URL value: `product.htm`
@@ -161,9 +161,9 @@ You place all values that do not change between Image Maps in the URL template. 
 
 By default, the URL template includes a proprietary Adobe Dynamic Media Classic JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Adobe Dynamic Media Classic handlers:
 
-* `loadProductCW`: Displays the URL target specified in the URL column in the current window. This handler is primarily for eCatalogs that are integrated into a page within a website.
+* `loadProductCW`: Displays the URL target specified in the URL column within the current window. This handler is primarily for eCatalogs that are integrated into a page within a website.
 
-* `loadProductPW`: Displays the URL target specified in the URL column in the parent window (the page that opened the current one). The current window remains open, but the parent window changes to display the URL target.
+* `loadProductPW`: Displays the URL target specified in the URL column within the parent window (the page that opened the current one). The current window remains open, but the parent window changes to display the URL target.
 
   >[!NOTE]
   >
@@ -181,7 +181,7 @@ The Map Editor page (images and SpinSets) and the Map Pages tab of the eCatalog 
 
 * **URL template option**: Select the URL template option to apply your URL template to all the Image Maps on an image or eCatalog page.
 
-* **Template option**: Deselect a Template option in the URL Image Map list if you do not want an individual Image Map to use the URL template.
+* **Template option**: Deselect a Template option in the Image Map list if you do not want an individual Image Map to use the URL template.
 
 ## Define other actions for Image Maps {#defining-other-actions-for-image-maps}
 
@@ -189,9 +189,9 @@ You can select the **[!UICONTROL Show]** menu and choose **[!UICONTROL Other Act
 
 * **`accesskey`**: Triggers an action when the user presses a designated key on the keyboard.
 
-* **`onfocus`**: Triggers an event when the Image Map receives focus—by the cursor, by tabbing, or by pressing an access key. For example, you can launch a Web page when the Image Map receives focus and close it when your Image Map loses focus.
+* **`onfocus`**: Triggers an event when the Image Map receives focus via the cursor, tabbing, or pressing an access key. For example, you can launch a Web page when the Image Map receives focus and close it when your Image Map loses focus.
 
-* **`onblur`**: Triggers an event when the Image Map loses focus, either by the cursor or by tabbing.
+* **`onblur`**: Triggers an event when the Image Map loses focus via the cursor or tabbing.
 
 **To define other actions for Image Maps:**
 
@@ -211,7 +211,7 @@ For more information, see Adobe InDesign Help or Adobe Acrobat Help.
 
 ### To create Image Maps in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
 
-1. In Adobe InDesign, go to **[!UICONTROL Windows&reg;]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]**.
+1. In Adobe InDesign, go to **[!UICONTROL Window]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]**.
 1. In the Hyperlinks panel, select the text, frame, or graphic that you want to make into an Image Map.
 1. Select **[!UICONTROL New Hyperlink]** from the panel menu. 
 1. In the New Hyperlink dialog box, from the **[!UICONTROL Link To]** menu, choose the **[!UICONTROL URL]**.
