@@ -1,5 +1,5 @@
 ---
-title: Create and enable Image Presets
+title: Create and Enable Image Presets
 description: Learn how to create and enable Image Presets in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -28,12 +28,12 @@ level_v2:
 
 When users export image assets using Media Portal, they can choose an Image Preset in the Export Selected Assets dialog box. An Image Preset is a collection of pre-defined settings. These settings can change the size, image quality, format, resolution, and other aspects of an image's appearance when it is exported.
 
-Media Portal administrators can create Image Presets to control how images are reformatted when they are exported. Image Presets reformat images to the specifications of your company when users export images from the Adobe Dynamic Media Classic. Rather than reformatting images on their own, users export them to the precise specifications of an Image Preset.
+Media Portal administrators can create Image Presets to control how images are reformatted when they are exported. Image Presets reformat images to your company's specifications when users export images from Adobe Dynamic Media Classic. Instead of reformatting images manually, users export them to the precise specifications of an Image Preset.
 
 The following restrictions apply when you export image assets:
 
 * The width &times; height must be less than or equal to 100 MB per image. For example, the image cannot exceed 10 K &times; 10 K, or any aspect variation below, such as 8 K &times; 12 K.
-* There is a maximum of 1-GB total file size per export job.
+* There is a maximum of 1 GB total file size per export job.
 * You can have a maximum of 500 total assets per export job.
 
 >[!NOTE]
