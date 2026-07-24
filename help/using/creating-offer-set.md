@@ -46,11 +46,11 @@ Adobe Dynamic Media Classic offers tools for editing as well as creating Offer S
 
 ## Types of Offer Sets {#types-of-offer-sets}
 
-Create an Offer Set from the following types of Offer Sets:
+Select an Offer Set from the following types of Offer Sets:
 
 * **Images**: You can assemble images for an Offer Set. Each image includes a different offer in the set.
 
-* **Image template**: You can parameterize image templates in Adobe Dynamic Media Classic with the **[!UICONTROL Build]** > Template Basics command. Through parameters, components of the template, the text in text frames, the different images, can be swapped out and customized. For an Offer Set, you can use template parameters to create variations on the same image in your Offer Set, for example. For information about creating and parameterizing image templates, see [Create template parameters](creating-template-parameters.md#creating_template_parameters).
+* **Image template**: You can parameterize image templates in Adobe Dynamic Media Classic with the **[!UICONTROL Build]** > Template Basics command. Through parameters, components of the template, the text in text frames, and the different images can be replaced and customized. For an Offer Set, you can use template parameters to create variations on the same image in your Offer Set. For information about creating and parameterizing image templates, see [Create template parameters](creating-template-parameters.md#creating_template_parameters).
 
 See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) training video.
 
@@ -72,14 +72,14 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. Select the template or banner.
 1. Go to **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**.
 
-   The Test&Target Offer Set page lists offers in the Offer Set. The first item on the list is the object. 
+   The Test&Target Offer Set page lists offers in the Offer Set. The first item on the list is the primary asset. 
 
 1. Select the object and select **[!UICONTROL Add & Preview]**.
 
    The left side of the page lists parameters in the template and their values.
 
-1. Change parameter values to create the offer. For example, enter different text in a text field, change the size of a layer, swap one image for another, or choose a different Viewer Preset.
-1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As**]** to save the offer as part of the Offer Set.
+1. Change parameter values to create the offer. For example, edit text, resize layers, swap images, or select presets.
+1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As]** to save the offer as part of the Offer Set.
 
    The Test&Target Offer Set page lists the offers you created.
 
@@ -87,7 +87,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. When you finish, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save*]** is selected (default).
 1. Select **[!UICONTROL Close]**, enter a name for the Offer Set, and then select **[!UICONTROL Save]**.
 
-Before you close the Test&Target Offer Set page, push the Offer Set to Adobe Target Standard/Premium. See [Push Offer Sets to Test&Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
+Before you close the Test&Target Offer Set page, send the Offer Set to Adobe Target Standard/Premium. To send Offer Sets to Test&Target, see [Push Offer Sets to Test&Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Create an Offer Set with images or videos {#creating-an-offer-set-with-images-or-videos}
 
@@ -111,14 +111,14 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. Optionally, select an image or video and select **[!UICONTROL Preview]**. On the Preview Offers page, you can change the size and look of the image or video you selected. Or, you can change all images or videos in the Offer Set.
 
     * Choose a Preset to change the look and size of the image or video.
-    * To apply the preset that you chose to all the offers in the Offer Set, check the **`Select Presets to All`** check box.
+    * To apply the preset that you chose to all the offers in the Offer Set, check the **`Apply Presets to All`** check box.
 
    Select **[!UICONTROL Save]** to save your changes to the image or video offer. Then select **[!UICONTROL Close]** to return to the Test&Target Offer Set page.
 
 1. After you finish creating offers for the Offer Set and choosing Image Presets for different images, ensure that **[!UICONTROL Publish after a save]** is selected (default).
 1. Select **[!UICONTROL Save]** and enter a name for the Offer Set, and select **[!UICONTROL Save]**.
 
-Before closing the Test&Target Offer Set page, push the Offer Set to Adobe Target Standard/Premium. See [Push Offer Sets to Test&Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
+Before closing the Test&Target Offer Set page, send the Offer Set to Adobe Target Standard/Premium. To push Offer Sets to Test&Target, see [Push Offer Sets to Test&Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Edit an Offer Set {#editing-an-offer-set}
 
@@ -152,14 +152,14 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Delete an Offer Set {#delet-an-offer-set}
 
-When you delete an Offer Set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete an Offer Set, the set itself is moved to the Trash. However, the members within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To delete an Offer Set:**
 
-1. In the Grid View, List View, or Details View, select one Offer Set or more.
-1. On the Global Navigation Bar, go to **[!UICONTROL File]** > **[!UICONTROL Delete]** > **Delete**.
+1. In the Grid View, List View, or Details View, select one or more Offer Sets.
+1. On the Global Navigation Bar, go to **[!UICONTROL File]** > **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
