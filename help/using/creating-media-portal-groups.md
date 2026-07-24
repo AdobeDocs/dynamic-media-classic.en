@@ -1,5 +1,5 @@
 ---
-title: Create and manage Media Portal groups
+title: Create and Manage Media Portal groups
 description: Learn how to create and manage Media Portal groups in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -29,17 +29,17 @@ topic_v2:
 ---
 # Create and manage Media Portal groups{#creating-and-managing-media-portal-groups}
 
-*Groups* are designed to help you administer Media Portal users. To access an asset, a user must be a member of at least one group that has permission to access that asset. When you add a user, you assign the user to one or more groups. In doing so, you grant the user access to folders to which the group has been assigned. You can also choose which Image Presets are available to a group.
+Groups are designed to help you administer Media Portal users. To access an asset, a user must be a member of at least one group that has permission to access that asset. When you add a user, you assign the user to one or more groups. By doing this, you grant the user access to folders to which the group has been assigned. You can also choose which Image Presets are available to a group.
 
 ## Use groups to restrict access to folders, assets, and Image Presets {#using-groups-to-restrict-access-to-folders-assets-and-image-presets}
 
-To grant access permission at different levels, you create groups. For each group, you assign read, write, and delete permissions to different folders and assets in folders. As well, you decide which Image Presets are available to the group. You then assign users to groups. A user can be a member of more than one group. The group concept gives you the flexibility to assign access to limited sets of the total content.
+To grant access permission at different levels, you create groups. For each group, you assign read, write, and delete permissions to different folders and assets in folders. Also, you decide which Image Presets are available to the group. You then assign users to groups. A user can be a member of more than one group. The group feature provides the flexibility to assign access to limited sets of the total content.
 
-If you specifically do not grant a group permission to an asset or folder, that asset or folder inherits the permissions you assigned to its parent folder (the folder above it in the folder hierarchy). Grant permissions to a parent folder if you want to make sure that all its child folders inherit the same permissions.
+If you specifically do not grant a group permission to an asset or folder, that asset or folder inherits the permissions you assigned to its parent folder (the folder above it in the folder hierarchy). Grant permissions to a parent folder. Do this if you want to ensure that all its child folders inherit the same permissions.
 
 >[!NOTE]
 >
->Users can belong to more than one group. When a user belongs to two groups with different access permissions to a folder, the user is granted the highest access.
+>Users can belong to more than one group. When a user belongs to two groups with different access permissions to a folder, the user is granted the most permissive access.
 
 ## Add a group {#adding-a-group}
 
@@ -51,7 +51,7 @@ If you specifically do not grant a group permission to an asset or folder, that 
 
    See [Establish asset access permissions for a group](creating-media-portal-groups.md#establishing_asset_access_permissions_for_a_group).
 
-1. You can choose which Image Presets are available to the group. Just click the **[!UICONTROL Image Preset Access Permissions]** tab, and select Image Presets that the group can use.
+1. You can choose which Image Presets are available to the group. Click the **[!UICONTROL Image Preset Access Permissions]** tab, and select Image Presets that the group can use.
 
    See [Choose Image Preset access permissions for a group](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group).
 
@@ -66,7 +66,7 @@ If you specifically do not grant a group permission to an asset or folder, that 
     * To edit a group's permissions, select the group, and then select **[!UICONTROL Edit]**.
 
 1. In the Add Group or Edit group dialog box, select the **[!UICONTROL Asset Access Permissions]** tab. The right side of the tab offers boxes for establishing read, write, and delete permissions for folders and assets. You can expand and collapse folders and subfolders in the left pane.
-1. To assign rights to folders or individual assets, select the folder in the left pane. The folder contents appear in the right pane. Then assign rights for the group by selecting the boxes for the corresponding files. Or, selecting the folders in the right pane.
+1. To assign rights to folders or individual assets, select the folder in the left pane. The folder contents appear in the right pane. Then assign rights for the group by selecting the boxes for the corresponding files. Or, select the folders in the right pane.
 
    This table maps different tasks to read, write, and delete permissions.
 
@@ -83,11 +83,11 @@ If you specifically do not grant a group permission to an asset or folder, that 
 
 >[!NOTE]
 >
->Access rights are established when you select a box. When you assigned rights to a folder, its subfolders and all files within it are given the same rights as the parent folder. However, you can specify different rights for individual subfolders and asset files.
+>Access rights are established when you select a box. When you assign rights to a folder, its subfolders and all files within it are given the same rights as the parent folder. However, you can specify different rights for individual subfolders and asset files.
 
 ## Choose Image Preset access permissions for a group
 
-Choose Image Preset access permissions for a group if you want to specify which Image Presets are available to group members when they export assets with Media Portal.
+Choose Image Preset access permissions for a group. Use this option to specify which Image Presets are available to group members. Use this option when they export assets with Media Portal.
 
 See also [Specify export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
