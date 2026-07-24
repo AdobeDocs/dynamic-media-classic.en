@@ -50,7 +50,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. Do any of the following:
 
     * To add a soundtrack, drag an audio file from the Asset Library to the Soundtrack box. The soundtrack plays while images are displayed. It stops when a video is played.
-    * To change the order of sets, drag them to new locations on the Mixed Media Set screen. The order of sets on the screen determines the left-to-right order in which users see sets in the Mixed Media Set Viewer.
+    * To change the order of sets, drag them to new locations on the Mixed Media Set screen. The screen order determines the left-to-right order users see sets in the Mixed Media Set Viewer.
     * (Optional) To add a custom thumbnail to represent a video in the Viewer, drag an image file from the Asset Library to the Thumbnail placeholder box.
 
 1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
@@ -58,7 +58,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. Select a folder for storing your Mixed Media Set, then enter a name for the set.
 1. Select **[!UICONTROL Save]**.
 
-   To see what your combo Image Set looks like in an Image Set Viewer, select **[!UICONTROL Preview]**.
+   To see what your Mixed Media Set looks like in an Image Set Viewer, select **[!UICONTROL Preview]**.
 
 ## Edit a Mixed Media Set {#edit-a-mixed-media-set}
 
@@ -88,7 +88,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Delete a Mixed Media Set
 
-When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a set, the set itself is moved to the Trash. The members within that set are not affected; instead, they each retain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
