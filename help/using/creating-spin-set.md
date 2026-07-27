@@ -32,17 +32,17 @@ To create an effective Spin Set, make sure that you shoot the images correctly. 
 
 ## Guidelines for shooting Spin Set images {#guidelines-for-shooting-spin-set-images}
 
-In general, the more images you have in a Spin Set, the better the image-spinning effect is. However, including many images in the set also increases the amount of time it takes for the images to load. Adobe Dynamic Media Classic recommends these guidelines for shooting images for use in Spin Sets:
+The more images you have in a Spin Set, the higher the quality of the image-spinning effect. However, including many images in the set also increases the amount of time it takes for the images to load. Adobe Dynamic Media Classic recommends these guidelines for shooting images for use in Spin Sets:
 
 * At minimum, use 8-12 images in a one-dimensional Spin Set and 16-24 images in a two-dimensional Spin Set.
 * Use a lossless format; TIFF and PNG are recommended.
 * Mask all images so the item appears on a pure white or other high-contrast background. Optionally, add shadows.
-* Make sure that product details are well lighted and in focus.
-* Take spin images for fashion clothing with a mannequin or model. Often the mannequin is either masked (using a glass mannequin) or a stylized mannequin/dressform is shown in the image. You can create an on model Spin Set by defining the number of angles. Mark each angle with tape on the floor so you can guide the model to step and look in the direction of each shot.
+* Make sure that product details are well lit and in focus.
+* Take spin images for fashion clothing with a mannequin or model. Often the mannequin is either masked (using a glass mannequin) or a stylized mannequin/dressform is shown in the image. You can create an on model Spin Set by defining the number of angles. Mark each angle on the floor so you can guide the model to position themselves and look in the direction of each shot.
 
 ## Create a Spin Set {#create}
 
-The order in which the spinning set is authored or created in Adobe Dynamic Media Classic is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction. Therefore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
+The order in which the spinning set is authored or created in Adobe Dynamic Media Classic is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction. Therefore, the order in which it is visually displayed in the builder determines how the asset is spun when a user moves their mouse pointer or moves their finger from left to right.
 
 When you create a set, the **[!UICONTROL Publish after a save]** option affects the set and set members in the following ways:
 
