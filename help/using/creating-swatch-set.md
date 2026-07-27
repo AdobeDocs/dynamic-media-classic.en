@@ -24,9 +24,9 @@ level_v2:
 ---
 # Create a Swatch Set{#creating-a-swatch-set}
 
-A Swatch Set gives users the opportunity to view an item in a different color, pattern, or finish. To create a Swatch Set with color swatches, you need one image for each different color, pattern, or finish you want to present to users. You also need one color, pattern, or finish swatch for each color, pattern, or finish.
+A Swatch Set lets users view an item in a different color, pattern, or finish. To create a Swatch Set with color swatches, you need one image for each different color, pattern, or finish you want to present to users. You also need one color, pattern, or finish swatch for each color, pattern, or finish.
 
-For example, suppose you want to present images of caps with different color bills; the bills are red, green, and blue. In this case, you need three shots of the same cap. You need one shot with a red, one with a green, and one with a blue bill. You also need a red, green, and blue color swatch. The color swatches serve as the thumbnails that users select in the Swatch Set Viewer to see the red-billed, green-billed, or blue-billed cap.
+For example, suppose you want to present images of caps with different color bills; the bills are red, green, and blue. In this case, you need three images of the same cap. You need one image for each of the red, green, and blue bills. You also need red, green, and blue color swatches. The color swatches serve as the thumbnails that users select in the Swatch Set Viewer to see the red-billed, green-billed, or blue-billed cap.
 
 ## Create a Swatch Set {#create}
 
@@ -53,8 +53,8 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. To change the order of images in your Swatch Set, drag the images to new locations.
 1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after a save]** is selected (default).
-1. Select **[!UICONTROL Save]**, select a folder for storing your color swatch Swatch Set, enter a name for the set, and select **[!UICONTROL Submit]**.
-1. To see your Swatch Set in the Swatch Set Viewer, select **[!UICONTROL Preview]** on the Swatch Set screen. You can select swatch thumbnails in the Swatch Set Viewer to see how they behave.
+1. Select **[!UICONTROL Save]**, select a folder for storing your Swatch Set, enter a name for the set, and select **[!UICONTROL Submit]**.
+1. To see your Swatch Set in the Swatch Set Viewer, select **[!UICONTROL Preview]** on the Swatch Set screen. You can select swatch thumbnails in the Swatch Set Viewer to see how they function.
 
 ## Edit a Swatch Set {#editing-a-swatch-set}
 
@@ -71,8 +71,8 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To edit a Swatch Set:**
 
-1. In the Grid View, browse to a SwatchSet, and then below the image, select **[!UICONTROL Edit]**.
-1. Do any of the following:
+1. In the Grid View, browse to a Swatch Set, and then below the image, select **[!UICONTROL Edit]**.
+1. Perform one of the following actions:
 
     * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Swatch Set's **[!UICONTROL Views]** page.
     * To remove an image, select it, and then select **[!UICONTROL Delete]** on the toolbar.
@@ -83,11 +83,11 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Delete a Swatch Set
 
-When you delete a set, the set itself is moved to the Trash. However, the members (or "children") within that set are not affected; instead, they each retain their existing published or unpublished state.
+When you delete a set, the set itself is moved to the deleted items folder. The members within that set are not affected; they maintain their existing published or unpublished state.
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To delete a Swatch Set:**
 
-1. In the Grid View, List View, or Details View, select one Swatch Set or more.
+1. In the Grid View, List View, or Details View, select one or more Swatch Sets.
 1. On the Global Navigation Bar, go to **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]**.
