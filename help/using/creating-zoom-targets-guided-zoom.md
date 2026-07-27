@@ -24,7 +24,7 @@ level_v2:
 ---
 # Create Zoom Targets for Guided Zoom{#creating-zoom-targets-for-guided-zoom}
 
-Zoom targets guide your viewers to certain parts of an image. Besides free-form zooming, viewers can select a zoom target thumbnail and zoom to the part of the image you want them to focus on. Zoom targets are an opportunity for you to highlight the attractive or interesting parts of an image.
+Zoom targets guide your viewers to certain parts of an image. Besides free-form zooming, viewers can select a zoom target thumbnail and zoom to the part of the image you want them to focus on. Zoom targets let you highlight specific parts of an image.
 
 ![Create Zoom Targets for Guided Zoom](/help/using/assets/zo_guided_zoom.png)
 
@@ -37,7 +37,7 @@ The maximum zoom percentage of Zoom Targets is 100 percent. The minimum zoom per
 | Large | Smaller | Smaller minimum |
 | Small | Larger | Larger minimum |
 
-You can change the size of the Zoom Viewer to match the size being used on your Web page. You can permanently change this setting by changing the viewer size on the Setup screen (if you are an administrator). See [Set up Zoom Viewer Presets](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
+To match the size being used on your Web page, you can change the size of the Zoom Viewer. You can permanently change this setting by changing the viewer size on the Setup screen (if you are an administrator). See [Set up Zoom Viewer Presets](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
 
 ## Create and edit Zoom Targets {#creating-and-editing-zoom-targets}
 
@@ -56,9 +56,9 @@ To create a zoom target, open the Zoom Target Editor page and do the following:
 
    A thumbnail image of the zoom target appears in the panel on the right side of the screen.
 
-1. Pick **[!UICONTROL Select Target]** (arrow), and then select the zoom target you created, and adjust the size and position of the target.
+1. Pick **[!UICONTROL Select Target]** (arrow), then select the zoom target you created, and adjust the size and position of the target.
 
-    * **Resize**: Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
+    * **Resize**: To enlarge or shrink the target, move the pointer over a corner of the zoom target and drag.
 
     * **Position**: Move the pointer over the zoom target and drag it to a different location.
 
@@ -68,7 +68,7 @@ To create a zoom target, open the Zoom Target Editor page and do the following:
    >
    >What you enter in the Name box is more than a name. When users move the pointer over the zoom target, they see what you enter in the Name box. Enter a brief description of the zoom target in the Name box so users know what they can zoom on.
 
-1. Optionally, enter user data in the User Data field. This field is for Web site designers to add information to the zoom target.
+1. Optionally, enter user data in the User Data field. This field is for website design professionals to add information to the zoom target.
 1. Select **[!UICONTROL Save]**.
 
    The coordinates and zoom level of the zoom target are saved. A thumbnail of your zoom target with the name you entered appears on the right side of the screen.
