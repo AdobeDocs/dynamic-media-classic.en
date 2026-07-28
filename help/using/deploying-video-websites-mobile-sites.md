@@ -1,5 +1,5 @@
 ---
-title: Deploy video to your websites and mobile sites
+title: Deploy Video to Your Websites and Mobile Sites
 description: Learn how to deploy video to your websites and mobile sites from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -36,7 +36,7 @@ Publishing a video enables Adobe Dynamic Media Classic Servers to deliver video 
 
 There are two different methods that you can use to publish video:
 
-* **Publish videos automatically and instantly on upload**: As part of the video upload process, Adobe Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability of instant publishing means that there is no need to publish videos separately after the fact.
+* **Publish videos automatically and instantly on upload**: As part of the video upload process, Adobe Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. Instant publishing means that there is no need to publish videos separately.
 
 * **Publish video manually after upload**: If you do not want to publish videos immediately, you can manually publish videos at any time.
 
@@ -46,7 +46,7 @@ After you publish videos, Adobe Dynamic Media Classic activates the URL strings 
 
 1. Do one of the following:
 
-    * To publish videos automatically and instantly on upload, in the Upload page, select **[!UICONTROL Publish after uploading]**. You have finished; there are no further steps to complete.
+    * To publish videos automatically and instantly upon upload, select **[!UICONTROL Publish after uploading]** on the Upload page. The process is complete; there are no further steps to perform.
     * To publish videos manually after upload, in the Browse panel, select the videos, and then on the Global Navigation bar, select **Publish**.
 
 ## Link a video URL to a mobile site or a website {#linking-a-video-url-to-a-mobile-site-or-a-website}
@@ -147,7 +147,8 @@ If you use third-party video players or a custom-built video player instead of a
 
   On the **[!UICONTROL Application General Settings]** page, in the **[!UICONTROL Servers]** group, in the **[!UICONTROL Published Server Name]** text field, construct the direct URL. Use the following syntax: `server/is/content/company/folder/filename.m3u8`
   
-  For example, suppose that the Published server name is `https://s7d9.scene7.com/.` Using the syntax in step 2, the direct URL could look like the following:
+  For example, suppose that the Published server name is `https://s7d9.scene7.com/`. Using the syntax in step 2, the direct URL is the following:
+
   `https://s7d9.scene7.com/is/content/GeoRetail/AdobeRIA-AVS.m3u8`
 
 * To generate a direct HLS streaming video URL (single bit rate)
@@ -156,7 +157,8 @@ If you use third-party video players or a custom-built video player instead of a
 
   `server/company/folder/filename.ext.m3u8`
   
-  For example, suppose that the HLS streaming server name is `https://s7mbrstream.scene7.com/hls-vod/`. Using the syntax in step 2, the direct URL could look like the following:
+  For example, suppose that the HLS streaming server name is `https://s7mbrstream.scene7.com/hls-vod/`. Using the syntax in step 2, the direct URL is the following:
+
   `https://s7mbrstream.scene7.com/hls-vod/GeoRetail/MBR/ToyStory3\_Teaser1\_High\_iPad\_768x432\_1296K.mp4.m3u8`
 
 * To generate a direct progressive video URL
@@ -165,24 +167,25 @@ If you use third-party video players or a custom-built video player instead of a
   
   `server/company/folder/filename`
   
-  For example, suppose that the progressive video server name is `https://s7d9.scene7.com/is/content/`. Using the syntax in step 2, the direct URL could look like the following:
+  For example, suppose that the progressive video server name is `https://s7d9.scene7.com/is/content/`. Using the syntax in step 2, the direct URL is the following:
+
   `https://s7d9.scene7.com/e2/GeoRetail/SourceVideo/outdoors.mp4`
 
 ## Work with video thumbnails {#working-with-video-thumbnails}
 
-Adobe Dynamic Media Classic generates thumbnails for encoded videos, and pre-encoded videos. You can use video thumbnails like any image asset. Moreover, you can obtain URLs for the video thumbnails that Adobe Dynamic Media Classic generates. Then you can deploy these URLs outside Adobe Dynamic Media Classic. For example, you can deploy the thumbnails in search results, related video listings, and video play lists on a website.
+Adobe Dynamic Media Classic generates thumbnails for encoded videos, and pre-encoded videos. You can use video thumbnails like any image asset. Moreover, you can obtain URLs for the video thumbnails that Adobe Dynamic Media Classic generates. Then you can deploy these URLs outside Adobe Dynamic Media Classic. For example, you can deploy the thumbnails in search results, related video listings, and video playlists on a website.
 
-Thumbnails are generated based on the first heterogeneous frame (not an all black frame, or an all white frame, and so forth) of the video.
+Thumbnails are generated based on the first heterogeneous frame (not an all black frame, or an all white frame) of the video.
 
 ### Obtain video thumbnail URLs {#obtaining-video-thumbnail-urls}
 
-Adobe Dynamic Media Classic generates video thumbnails automatically during the upload process. The thumbnails appear in the Browse panel in List View and Grid View.
+Adobe Dynamic Media Classic generates video thumbnails automatically during the upload process. The thumbnails appear in the Browse panel's List View and Grid View.
 
 To generate URLs for video thumbnails, perform a publish operation.
 
 See [Publish video](deploying-video-websites-mobile-sites.md#publishing_video).
 
-After publishing, you can obtain video thumbnail URLs in Detail View in the URLs and Embed Code panel. Select **[!UICONTROL Copy URL]** to the right of the video thumbnail so you can copy its associated URL.
+After publishing, you can obtain video thumbnail URLs in the Detail View of the URLs and Embed Code panel. Select **[!UICONTROL Copy URL]** to the right of the video thumbnail so you can copy its associated URL.
 
 ### Modify poster frames in video viewers {#modifying-poster-frames-in-video-viewers}
 
