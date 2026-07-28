@@ -53,7 +53,7 @@ The key Adobe Dynamic Media Classic workflow steps are:
 
 ## Single primary images and single URL calls {#single-master-images-and-single-url-calls}
 
-Adobe Dynamic Media Classic is distinct from other systems because you can use Adobe Dynamic Media Classic to deliver media dynamically from individual primary assets and URL requests.
+Adobe Dynamic Media Classic is distinct from other systems because you can use Adobe Dynamic Media Classic to deliver media dynamically from individual primary assets and URL calls.
 
 The URL strings that you generate with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same primary image can be delivered in different sizes, formats, weights, colors, or views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you can visually configure the effects. In doing so, you create the URL calls that correctly tell the server how to present your primary asset to applications.
 
@@ -62,4 +62,4 @@ The URL strings that you generate with Adobe Dynamic Media Classic include instr
 
 ## Content caching {#content-caching}
 
-The images that Adobe Dynamic Media Classic generates dynamically are suitable for caching; usually, they are JPEG images with unique URL calls that identify them. The images are delivered on the content delivery network (CDN) — a system of servers that are connected on the Internet to deliver content faster. The images are distributed from servers located globally and then to computers. To implement a caching mechanism using any CDN vendor, change the server name to point to the CDN-enabled Dynamic Media Image Server. All Adobe Dynamic Media Classic editions include bundled CDN caching.
+The images that Adobe Dynamic Media Classic generates dynamically are suitable for caching; usually, they are JPEG images with unique URL calls that identify them. The images are delivered on the content delivery network (CDN), a system of servers that are networked together on the Internet to deliver content faster. The images are distributed from servers located globally, and then to computers. To implement a caching mechanism using any CDN vendor, change the server name to point to the CDN-enabled Dynamic Media Image Server. All Adobe Dynamic Media Classic editions include bundled CDN caching.
