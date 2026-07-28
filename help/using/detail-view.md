@@ -50,15 +50,15 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
 You can display an asset in Detail View so you can closely examine, preview, or work on it. 
 
-1. In the Browse panel, do any one of the following:
+1. In the Browse panel, do any of the following:
 
-    * Select the asset. Near the upper-right corner of the Adobe Dynamic Media Classic, select the **[!UICONTROL Detail View]** icon.
+    * Select the asset. Near the upper-right corner of Adobe Dynamic Media Classic, select the **[!UICONTROL Detail View]** icon.
     * Double-click the asset.
     * Select the asset, then go to **[!UICONTROL File]** > **[!UICONTROL Details]**.
 
 >[!NOTE]
 >
->You can page from asset to asset in the same folder in Detail View. Just click **[!UICONTROL Previous Asset]** or **[!UICONTROL Next Asset]**. These buttons are in the upper-right corner in Detail View.
+>You can navigate between assets in the same folder using Detail View. Click **[!UICONTROL Previous Asset]** or **[!UICONTROL Next Asset]**. These buttons are in the upper-right corner in Detail View.
 
 ## Get information in Detail View {#getting-information-in-detail-view}
 
@@ -70,7 +70,7 @@ You can obtain an asset URL in Detail View; however, the URL is not active until
 
 Detail View offers tools for working with the asset that you opened. Which tools are available depends on the type of asset you are working with, but Detail View always offers these functions:
 
-* **items for publish**: Select the **[!UICONTROL `Publish`]** icon to the left of the name, or go to **[!UICONTROL File]** > **[!UICONTROL Publish]** or **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
+* **Items to publish**: Select the **[!UICONTROL `Publish`]** icon to the left of the name, or go to **[!UICONTROL File]** > **[!UICONTROL Publish]** or **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
 * **Rename the asset**: Select the name and enter a new name.
 
