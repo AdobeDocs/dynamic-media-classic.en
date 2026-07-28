@@ -1,5 +1,5 @@
 ---
-title: Developer resources
+title: Developer Resources
 description: Learn about what developer resources are available for Dynamic Media.
 contentOwner: Rick Brough
 content-type: reference
@@ -23,7 +23,7 @@ level_v2:
 ---
 # Developer resources {#developer-resources}
 
-Reference guides to Viewers, Image Serving and Image Rendering, and Image Production System describe the http protocols for these server modules. Web site developers who want to customize further and use Adobe Dynamic Media Classic rich media for a Web site or custom application can use these guides. It is assumed that the user is familiar with the Dynamic Media Classic desktop app, general http protocol standards and conventions, and basic imaging terminology. 
+Reference guides for Viewers, Image Serving and Image Rendering, and Image Production System describe the HTTP protocols for these server modules. Website developers who want to customize and use Adobe Dynamic Media Classic rich media for a website or custom application can use these guides. Users must be familiar with the Dynamic Media Classic desktop app, general HTTP protocol standards and conventions, and basic imaging terminology. 
 
 See also [Dynamic Media Developer Resources](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 
