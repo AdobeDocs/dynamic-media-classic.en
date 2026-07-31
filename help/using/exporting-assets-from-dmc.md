@@ -28,12 +28,12 @@ You can save assets you edited in Adobe Dynamic Media Classic to a local network
 
 The compressed Zip file has a maximum file size of 1 GB for the export job. Also, you are allowed a maximum of 500 total assets per export job.
 
-Adobe Dynamic Media Classic keeps a record of exporting jobs in the Jobs screen.
+Adobe Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 
 **To export assets from Adobe Dynamic Media Classic:**
 
 1. Select the assets that you want to export, and then go to **[!UICONTROL File]** > **[!UICONTROL Export]**. 
-1. In the Export Selected Assets window, click **[!UICONTROL Image Options]**, and then specify any of the following options (administrators determine which options are available to their users):
+1. In the Export Selected Assets window, click **[!UICONTROL Image Options]**, and then specify any of the following options (administrators determine which options are available to users of the software):
 
    * **[!UICONTROL Presets]**: Optionally, choose an Image Preset to format the asset when you export it. If you choose an Image Preset, the other formatting options are not available, as the asset adopts the formats defined by the Image Preset.
 
@@ -83,4 +83,4 @@ You can use conversion to export the following asset types:
 The following behavior results when a large selection of various asset types are fed into the exporter:
 
 * All asset types that cannot be exported are removed from the list before job submittal 
-* If a conversion is requested, all types that can be converted are, and all others are exported as original
+* If a conversion is requested, all types that can be converted are processed, and all others are exported as the original file
