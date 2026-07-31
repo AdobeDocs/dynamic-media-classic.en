@@ -28,7 +28,7 @@ level_v2:
 
 The following Help document is also available from Adobe Dynamic Media Classic:
 
-**Use Adobe Dynamic Media Classic Media Portal**: Adobe Dynamic Media Classic Media Portal is a browser-based environment that provides portal users easy access to upload, browse, search, preview, and export assets in corporate-approved formats. See [https://help.adobe.com/en_US/scene7/mediaportal/](https://help.adobe.com/en_US/scene7/mediaportal/).
+**Use Adobe Dynamic Media Classic Media Portal**: Adobe Dynamic Media Classic Media Portal is a browser-based environment that provides portal users with access to upload, browse, search, preview, and export assets in corporate-approved formats. See [https://help.adobe.com/en_US/scene7/mediaportal/](https://help.adobe.com/en_US/scene7/mediaportal/).
 
 <!-- 
 Is this topic still needed? -rb 04/22/21
