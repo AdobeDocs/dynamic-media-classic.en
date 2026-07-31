@@ -38,7 +38,7 @@ After a font file has been uploaded, you can change its Adobe Dynamic Media Clas
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic recommends uploading all font styles (bold, italic, bold/italic, and regular) if you plan to use fonts in template layers. Adobe Dynamic Media Classic needs these font styles to process requests. Uploading all `PostScript/Adobe Type1` files associated with a font is also recommended because some of these fonts contain detailed kerning information.
+>Adobe Dynamic Media Classic recommends uploading all font styles (bold, italic, bold/italic, and regular) if you plan to use fonts in template layers. Adobe Dynamic Media Classic needs these font styles to process requests. Uploading all `PostScript/Adobe Type1` files associated with a font is also recommended because some of these fonts contain specific kerning data.
 
 ## Upload font files {#uploading-font-files}
 
@@ -46,7 +46,7 @@ Upload font files with the same techniques you use to upload other files. You ca
 
 ## Edit font file information {#editing-font-file-information}
 
-You can change the ID name of a font and its type information. Editing a font file can be helpful in searches and making fonts easier to identify.
+You can change the ID name of a font and its type information. Editing a font file can be helpful for searches and making fonts easier to identify.
 
 In the Browse panel, select the font file you want to edit in Detail View and choose File > Edit Info. The Edit Info screen opens. Choose the following options and then select **[!UICONTROL Submit]**.
 
@@ -60,7 +60,7 @@ In the Browse panel, select the font file you want to edit in Detail View and ch
 
 * **[!UICONTROL Font Style]**: The options are Plain, Bold, Italic, and Bold-Italic.
 
-* **[!UICONTROL Font Type]**: The options are TrueType and Adobe Type 1. If you call these fonts by another name, you can enter it.
+* **[!UICONTROL Font Type]**: The options are TrueType and Adobe Type 1. If you call these fonts by another name, you can enter the names.
 
 * **[!UICONTROL Font Type Abbreviation]**: The options are as follows:
 

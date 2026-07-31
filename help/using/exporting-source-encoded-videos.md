@@ -1,5 +1,5 @@
 ---
-title: Export source and encoded videos
+title: Export Source and Encoded Videos
 description: Learn how to export source and encoded videos in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -27,7 +27,7 @@ topic_v2:
 ---
 # Export source and encoded videos{#exporting-source-and-encoded-videos}
 
-In the Browse panel, source videos are labeled *Primary Video*. Encoded videos are labeled *Video*. You can export primary videos and videos. To export video files, select them in the Browse panel and go to **[!UICONTROL File]** > **[!UICONTROL Export]**.
+In the Browse panel, source videos are labeled *Primary Video*. Encoded videos are labeled *Video*. You can export primary videos and encoded videos. To export video files, select them in the Browse panel and go to **[!UICONTROL File]** > **[!UICONTROL Export]**.
 
 See [Export assets from Adobe Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
 
