@@ -24,9 +24,9 @@ level_v2:
 ---
 # Include Zoom Targets and Image Maps in Image Sets{#including-zoom-targets-and-image-maps-in-image-sets}
 
-If you define Zoom Targets and Image Maps for the images in your Image Set, these targets and maps appear in the Image Set Viewer. Users, for example, can select an Image Map in the Image Set Viewer and open a new page on your Web site with information about an item. Users can select a target thumbnail image in the Image Set Viewer and zoom automatically to part of an image.
+If you define Zoom Targets and Image Maps for the images in your Image Set, these targets and maps appear in the Image Set Viewer. Users, for example, can select an Image Map in the Image Set Viewer and open a new page on your website with information about an item. Users can select a target thumbnail image in the Image Set Viewer and zoom automatically to a specific area of an image.
 
-If you want to make Zoom Targets and Image Maps available to users, create Zoom Targets and Image Maps for the images in your Image Set. You can do that with the Image Maps or Zoom Targets tools in the Image Set screen or Browse panel (in Detail View).
+If you want to make Zoom Targets and Image Maps available to users, create Zoom Targets and Image Maps for the images in your Image Set. You can perform this action with the Image Maps or Zoom Targets tools in the Image Set screen or Browse panel (in Detail View).
 
 >[!MORELIKETHIS]
 >
