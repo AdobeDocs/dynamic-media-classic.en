@@ -1,5 +1,5 @@
 ---
-title: Image fine-tuning options at upload
+title: Image Fine-Tuning Options at Upload
 description: Learn about the image fine-tuning options that are available at the time of upload in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -27,20 +27,20 @@ topic_v2:
 ---
 # Image fine-tuning options at upload{#image-editing-options-at-upload}
 
-When uploading image files, including AI, EPS, and PSD files, you can take the following editing actions in the Upload Job Options dialog box:
+When uploading AI, EPS, and PSD files, you can perform these actions in the [!UICONTROL Upload Job Options] dialog box:
 
 * Crop white space from the edge of the images.
 * Crop manually from the sides of images.
 * Choose a color profile.
 * Create a mask from a clipping path. 
-* Sharpen images with unsharp masking options
-* Knockout Background
+* Sharpen images with unsharp masking options.
+* Knock out background.
 
 These options are on the Upload page under the **[!UICONTROL Imaging Edit Options]** heading.
 
 ## Crop white space from images
 
-You can automatically crop white-space pixels from an image. On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. In the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Trim]**. Then choose these options:
+You can automatically crop white space pixels from an image. On the Upload Job Options dialog box, select **[!UICONTROL Crop Options]**. In the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Trim]**. Then choose these options:
 
 * **[!UICONTROL Trim Away Based On]**: From this drop-down list, choose whether to crop based on color or transparency:
 
@@ -48,7 +48,7 @@ You can automatically crop white-space pixels from an image. On the Upload Job O
 
   * **[!UICONTROL Transparency]**: Choose the Transparency option.
 
-* **[!UICONTROL Tolerance]**: Drag the slider to specify a tolerance from 0 through 1:
+* **[!UICONTROL Tolerance]**: To specify a tolerance from 0 through 1, drag the slider:
 
   * **Trimming based on color**: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
 
@@ -56,7 +56,7 @@ You can automatically crop white-space pixels from an image. On the Upload Job O
 
 ## Crop manually from the sides of images
 
-To manually crop from the sides of an image, select the Crop menu and choose Manual. Then enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, suppose that the image displays 150 ppi. Then you enter 75 in the Top, Right, Bottom, and Left text boxes. At this point, each side is cropped 0.5 inch.
+To manually crop from the sides of an image, select the Crop menu and choose Manual. Then enter the number of pixels to crop from any side or each side of the image. The amount of the image that is cropped depends on the ppi (pixels per inch) setting in the image file. For example, suppose the image displays 150 ppi. Then enter 75 in the Top, Right, Bottom, and Left text boxes. At this point, each side is cropped 0.5 inches.
 
 ## Choose a color profile
 
@@ -66,7 +66,7 @@ To select a color space for the image, choose a Color Profile option:
 
 * **[!UICONTROL Keep Original Color Space]**: Retains the original color space.
 
-* **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
+* **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Adobe Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 
@@ -74,11 +74,11 @@ See [ICC profiles](icc-profiles.md#icc_profiles).
 
 To create a mask for the image based on its clipping path information, select **[!UICONTROL Create Mask From Clipping Path]**. This option applies to images created with image-editing applications in which a clipping path was created.
 
-## Sharpen an image using Unsharpen Mask
+## Sharpen an image using Unsharp Mask
 
 This filter lets you fine-tune a sharpening filter effect on the final downsampled image. It helps you control the intensity of the effect, the radius of the effect (as measured in pixels), and a threshold of contrast that is ignored.
 
-This effect uses the same options as Photoshop's Unsharp Mask filter. Contrary to what the name suggests, Unsharp Mask is a sharpening filter.
+This effect uses the same options as Adobe Photoshop's Unsharp Mask filter. Although the name is potentially confusing, Unsharp Mask is a sharpening filter.
 
 Under Unsharp Masking, set the options you want. Setting options are described in the following table:
 
@@ -93,9 +93,9 @@ See also [Sharpen an image](sharpening-image.md#sharpening_an_image).
 
 See also [Sharpen images in Adobe Dynamic Media and on Image Server](/help/using/assets/s7_sharpening_images.pdf).
 
-## Knockout Background
+## Remove Background
 
-Use Knockout Background so you can automatically remove the background of an image when you upload it. This technique is useful to draw attention to a particular object and make it stand out from a busy background.
+Use Remove Background to remove the background of an image automatically when you upload it. This technique is useful to highlight a particular object and isolate it from a complex background.
 
 | KnockOut Background options | Description |
 | --- | --- |
