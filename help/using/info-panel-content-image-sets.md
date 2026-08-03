@@ -1,5 +1,5 @@
 ---
-title: Manage Info Panel content in Image Sets
+title: Manage Info Panel Content in Image Sets
 description: Learn how to manage Info Panel content in Image Sets in Adobe Dynamic Media Classic.
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
