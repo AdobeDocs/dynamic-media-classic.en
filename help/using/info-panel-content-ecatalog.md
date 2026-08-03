@@ -1,5 +1,5 @@
 ---
-title: Manage Info Panel content in eCatalogs
+title: Manage Info Panel Content in eCatalogs
 description: Learn how to manage Info Panel content in eCatalogs in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -27,18 +27,18 @@ topic_v2:
 ---
 # Manage Info Panel content in eCatalogs{#managing-info-panel-content-in-ecatalogs}
 
-In addition to using Image Map text for your rollovers in eCatalogs, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using caching that is timed and scheduling content updates.
+In addition to using Image Map text for your rollovers in eCatalogs, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the Info Panel by using timed caching and scheduling content updates.
 
-You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
+You can manage your Info Panel setup and data using the following features in Adobe Dynamic Media Classic:
 
 * The InfoPanel Setup panel lets you specify the template used to display the Info Panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the eCatalogs are published automatically.
-* The InfoPanel Data feed panel lets you specify a CSV file containing the text you want to appear in the InfoPanel rollover text, and schedule times for updating the information.
+* The Info Panel Data feed panel lets you specify a CSV file. This file contains the text you want to appear in the Info Panel rollover text. You can also schedule times for updating the information.
 * The import Metadata dialog box (accessed from the Map Pages view) lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the Data feed panel with the CSV file option for your rollover text.
-* Map Pages view provides an option for previewing the xml that appears for specific Image Maps.
+* Map Pages view provides an option for previewing the XML that appears for specific Image Maps.
 
 ## Set up a response template for eCatalogs {#set-up-a-response-template-for-ecatalogs}
 
-You can select one of three preset response templates for displaying text in an Info Panel. These preset response templates determine how your information is presented in the Info Panel: how many columns and rows, typeface size, font, and so on. You can select a preset Response Template or create one of your own.
+You can select one of three preset Response Templates for displaying text in an Info Panel. These preset Response Templates determine how your information is presented in the Info Panel: how many columns and rows, typeface size, font, and other settings. You can select a preset Response Template or create one of your own.
 
 >[!NOTE]
 >
@@ -51,13 +51,13 @@ You can select one of three preset response templates for displaying text in an 
 1. Select a Response Template:
 
     * Select a preset from the Response Template menu. The XML for the template design appears in the User Template box.
-    * To create your own Response Template, select **[!UICONTROL Custom]**. Type the template XML definition in the User Template box. You can use the preset templates as a base for your own.
+    * To create your own Response Template, select **[!UICONTROL Custom]**. Type the template XML definition in the User Template box. You can use the preset templates as a starting point for your own.
 
-1. (Optional) In the Default Response box, type the text you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an Image Map. For example, if the system receives a company name and an eCatalog name, but no rollover identifier, this message appears for the user.
+1. (Optional) In the Default Response box, type the text you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an Image Map. For example, if the system receives a company and eCatalog name but no rollover identifier, this message appears for the user.
 1. In the Response TTL box, enter the number of hours you want to wait before caching the data:
 
-    * Set a lower number if the data is updated frequently throughout a day.
-    * Set a higher number if the data is relatively stable and doesn't require updating frequently throughout the day. The default is ten hours.
+    * Set a lower number if the data is updated frequently during the day.
+    * Set a higher number if the data is relatively stable and does not require frequent updates during the day. The default is ten hours.
 
 1. Select **[!UICONTROL Publish]**.
 
@@ -91,19 +91,19 @@ Last Modified Date:
 
  -->
 
-1. Double-click the eCatalog so it opens it in Detail View.
+1. Double-click the eCatalog so it opens in Detail View.
 1. Select the **[!UICONTROL InfoPanel Setup]** panel.
 1. Select **[!UICONTROL Upload S7Info Content]**.
 1. Select **[!UICONTROL Browse]**, select the tab-delimited TXT file, CSV, or SSV file you want to use, and select **[!UICONTROL Open]**.
 1. Select **[!UICONTROL Upload]**.
 
-Adobe Dynamic Media Classic sends you an e-mail message letting you know if the upload was successful or not.
+Adobe Dynamic Media Classic sends you an email message letting you know whether the upload was successful.
 
 ## Preview rollover key text for an Image Map {#preview-rollover-key-text-for-an-image-map}
 
-Using the Map Pages screen, you can easily and quickly view Info Panel text for the Image Maps on a specific page of your eCatalog.
+Using the Map Pages screen, you can view Info Panel text for the Image Maps on a specific page of your eCatalog.
 
-1. Select the Catalog's rollover **[!UICONTROL Edit]** button.
+1. Select the catalog's rollover **[!UICONTROL Edit]** button.
 1. Select **[!UICONTROL Map Pages]**.
 1. At the top of the table, on the right side of the screen, choose **[!UICONTROL Info Panel]** from the Show menu.
 
