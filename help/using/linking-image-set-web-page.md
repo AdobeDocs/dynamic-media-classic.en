@@ -1,5 +1,5 @@
 ---
-title: Link an Image Set to a Web page
+title: Link an Image Set to a Web Page
 description: Learn how to link an Image Set to a Web page in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -51,7 +51,7 @@ After you publish an Image Set, you can copy its associated URL or its embed cod
 
 ## Adding Image Set URLs to your Web page {#adding-image-set-urls-to-your-web-page}
 
-The most common way to deploy Image Sets is to place a link (by way of a navigation icon) on your Web page. When selected, the link launches a dynamic page (JSP) that displays the Image Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
+The standard way to deploy Image Sets is to place a link (using a navigation icon) on your Web page. When selected, the link launches a dynamic page (JSP) that displays the Image Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
 
 For more details and code samples, see the [Embedded HTML5 Zoom Viewer](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in the Adobe Viewers Reference Guide.
 
