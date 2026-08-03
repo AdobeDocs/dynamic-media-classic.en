@@ -1,5 +1,5 @@
 ---
-title: Link a Swatch Set to a Web page
+title: Link a Swatch Set to a Web Page
 description: Learn how to link a Swatch Set to a Web page in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -51,7 +51,7 @@ After you publish a Swatch Set, you can use its associated URL or Embed Code in 
 
 ## Add Swatch Set URLs to your Web page {#adding-swatch-set-urls-to-your-web-page}
 
-The most common way to deploy Swatch Sets is to place a link (by way of a navigation icon) on your Web page. When selected, the link launches a dynamic page (ASP or JSP) that displays the Swatch Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
+The most common way to deploy Swatch Sets is to place a link (using a navigation icon) on your Web page. When selected, the link launches a dynamic page (ASP or JSP) that displays the Swatch Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
 
 For more details and code samples, see [Embedding HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
