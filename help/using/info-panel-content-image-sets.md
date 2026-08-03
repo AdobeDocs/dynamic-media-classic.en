@@ -27,13 +27,13 @@ topic_v2:
 ---
 # Manage Info Panel content in Image Sets{#managing-info-panel-content-in-image-sets}
 
-In addition to using Image Map text for your rollovers in Image Sets, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using time caching and scheduling content updates.
+In addition to using Image Map text for your rollovers in Image Sets, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the Info Panel by using time caching and scheduling content updates.
   
 You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
 
 * The Info Panel Setup panel lets you specify the template used to display the Info Panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the Image Set is automatically published.
-* The Info Panel Data feed panel lets you specify a CSV file containing the text you want to appear in the Info Panel rollover text, and schedule times for updating the information.
-* The import Metadata dialog box lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the InfoPanel Data feed panel with the CSV file option for your rollover text.
+* The Info Panel Data feed panel lets you specify a CSV file. This file contains the text you want to appear in the Info Panel rollover text. You can also schedule times for updating the information.
+* The import Metadata dialog box lets you import a tab-delimited TXT file containing the rollover text information. You can use this TXT option or the Info Panel Data feed panel with the CSV file option for your rollover text.
 
 ## Set up a response template for Image Sets {#set-up-a-response-template-for-image-sets}
 
@@ -46,9 +46,9 @@ You can select one of three preset response templates for displaying text in an 
 1. In the Response Template drop-down list, do one of the following:
 
     * To use the default response, select **[!UICONTROL Default]**. The XML for the template design appears, dimmed, in the User Template text box.
-    * To create your own response template, select **[!UICONTROL Custom]**. In the User Template text box, type the template XML definition. You can use the default template that is already defined in the text box as a base for your own response.
+    * To create your own response template, select **[!UICONTROL Custom]**. In the User Template text box, type the template XML definition. You can use the default template that is already defined in the text box as a basis for your own response.
 
-1. (Optional) In the Default Response box, type the text that you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an Image Map. For example, if the system receives a company name and an Image Set name, but no rollover identifier, this message appears for the user.
+1. (Optional) In the Default Response box, type the text that you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an Image Map. For example, if the system receives a company name and an Image Set name but lacks a rollover identifier, this message appears for the user.
 1. In the Response TTL text field, enter the number of hours that you want to wait before caching the data.
 
     * Set a lower number if the data is updated frequently throughout the day.
@@ -57,7 +57,7 @@ You can select one of three preset response templates for displaying text in an 
 1. Select **[!UICONTROL Upload]** to upload Info Panel content, based on the rollover_key value, to s7info.
 1. In the S7Info Upload dialog box, browse to the file that you want to use, and then select **[!UICONTROL Upload]**.
 
-   Supported file formats are TAB-delimited files with UTF-16 encoding and CSV files with ASCII encoding. For CSV files, non-ASCII characters must be HTML encoded.
+   Supported file formats are tab-delimited files with UTF-16 encoding and CSV files with ASCII encoding. For CSV files, non-ASCII characters must be HTML encoded.
 
 1. In the InfoPanel Setup panel, select **[!UICONTROL Publish]**.
 
@@ -69,7 +69,7 @@ When formatting source content, keep in mind the following guidelines:
 
 * The tab- and comma-delimited data can contain as many columns as are necessary for the rollover template.
 * The first item or column of data is the rollover identifier (associated with the rollover_key value from the Image Map URLs).
-* Make sure that each tab- or comma-delimited item after the identifier is the item that you want substituted into the response template. So, the first column is substituted into $1$, the second column into $2$, and so on).
+* Make sure that each tab- or comma-delimited item after the identifier is the item that you want substituted into the response template. So, the first column is substituted into $1$, the second column into $2$, and so on.
 
 ### Import CSV content into Image Sets from an externally hosted location {#import-csv-content-into-image-sets-from-an-externally-hosted-location}
 
