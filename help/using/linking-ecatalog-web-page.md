@@ -1,5 +1,5 @@
 ---
-title: Link an eCatalog to a Web page
+title: Link an eCatalog to a Web Page
 description: Learn how to link an eCatalog to a Web page in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -26,7 +26,7 @@ level_v2:
 ---
 # Link an eCatalog to a Web page{#linking-an-ecatalog-to-a-web-page}
 
-Your Web sites and applications access Dynamic Media Image Server content, including eCatalogs, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embedded code for your eCatalog in your Web pages and applications, you copy it from Adobe Dynamic Media Classic.
+Your Web sites and applications access Dynamic Media Image Server content, including eCatalogs, using URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embedded code for your eCatalog in your Web pages and applications, you copy it from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -53,13 +53,13 @@ Your Web sites and applications access Dynamic Media Image Server content, inclu
 
 ## Add eCatalog URLs to your Web page {#adding-ecatalog-urls-to-your-web-page}
 
-The most common way to deploy an eCatalog is to place a link in the form of an eCatalog thumbnail cover page on your Web page. Work with your IT team to make sure that the eCatalog launches in a clean, centered pop-up window. Ask your IT team to keep the toolbar and address bar in the browser from showing.
+The standard method to deploy an eCatalog is to add a link using an eCatalog thumbnail cover page on your Web page. To ensure that the eCatalog launches in a centered pop-up window, contact your IT department. To hide the toolbar and address bar, configure the browser.
 
 For more details and code samples, see the [Embedded HTML5 eCatalog Viewer](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in the Adobe Viewers Reference.
 
 ## Copy the embedded code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
 
-Using the embedded code feature lets you review the viewer code for the selected eCatalog. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
+The embedded code feature allows you to review the viewer code for the selected eCatalog. You can also copy the code to the clipboard so you can paste it in your Web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
 **To copy the embedded code of an eCatalog viewer:**
 
