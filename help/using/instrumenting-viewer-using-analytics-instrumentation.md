@@ -1,5 +1,5 @@
 ---
-title: Instrument a viewer using the Adobe Analytics Instrumentation Kit
+title: Instrument a Viewer Using the Adobe Analytics Instrumentation Kit
 description: Learn how to instrument a viewer using the Adobe Analytics Instrumentation Kit in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -43,17 +43,17 @@ For all HTML5 viewers, add the following JavaScript to the HTML container, usual
 <!-- ***** Adobe Analytics Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<Adobe Dynamic Media Classic Company ID>&preset=companypreset-1"></script>
 ```
 
-Where `Adobe Dynamic Media Classic Company ID` is set to the Adobe Dynamic Media Classic company name. And `&preset` is optional. If the company preset name is not `companypreset`, then it is not optional. In such cases, it could be `companypreset-1, companypreset-2`, and so on. The higher number is a newer instance of the preset. To determine the correct company preset value name, select **[!UICONTROL Copy URL]**, and then look at the `preset=`parameter to find the company preset name.
+Where `Adobe Dynamic Media Classic Company ID` is set to the Adobe Dynamic Media Classic company name. And `&preset` is optional. If the company preset name is not `companypreset`, then it is not optional. In these cases, it is `companypreset-1`, `companypreset-2`, and later versions. The higher number is a newer instance of the preset. To determine the correct company preset name, select **[!UICONTROL Copy URL]**, and then look at the `preset=` parameter to find the company preset name.
 
-Continuing, now add a function that transmits the viewer event to the Adobe Analytics tracking code.
+Add a function that transmits the viewer event to the Adobe Analytics tracking code.
 
-Add the `s7ComponentEvent()` function to the container HTML (or JSP, or ASPX or other):
+Add the `s7ComponentEvent()` function to the container HTML (or JSP, or ASPX, or other):
 
 ```as3
 function s7ComponentEvent(objectId, componentClass, instanceName, timeStamp, eventData) {     s7track(eventData); }
 ```
 
-The function name is case-sensitive. The only parameter passed to `s7componentEvent`that is required is the last one: `eventData`. Where `s7track()` is defined in s_code.jsp included above. And `s7track` handles all tracking per each event. (You can further customize data transmitted to Adobe Analytics is this area.)
+The function name is case-sensitive. The only parameter passed to `s7ComponentEvent` that is required is the last one, `eventData`. Where `s7track()` is defined in s_code.jsp included above. And `s7track` processes all tracking for each event. (You can further customize data transmitted to Adobe Analytics in this area.)
 
 ## Enable HREF and ITEM events {#enabling-href-and-item-events}
 
