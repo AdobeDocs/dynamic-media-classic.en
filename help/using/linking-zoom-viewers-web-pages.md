@@ -1,5 +1,5 @@
 ---
-title: Link Zoom viewers to your Web pages
+title: Link Zoom Viewers to your Web Pages
 description: Learn how to link Zoom viewers to your Web pages in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -25,9 +25,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Link Zoom viewers to your Web pages{#linking-zoom-viewers-to-your-web-pages}
+# Connect Zoom viewers to your Web pages{#linking-zoom-viewers-to-your-web-pages}
 
-Your Web sites and applications access Dynamic Media Image Server content by way of URL strings or embedded code. That access includes primary images and associated Zoom Targets. It also includes Zoom Viewer Presets. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your Web pages and applications, you copy them from Adobe Dynamic Media Classic.
+Your websites and applications access Dynamic Media Image Server content by way of URL strings or embedded code. That access includes primary images and associated Zoom Targets. It also includes Zoom Viewer Presets. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your Web pages and applications, you copy them from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Your Web sites and applications access Dynamic Media Image Server content by way
 
 ## Add Zoom viewer URLs to your Web page {#adding-zoom-viewer-urls-to-your-web-page}
 
-Typically, visitors zoom images on a website by first selecting a Zoom icon (often the icon shows the image of a magnifying glass). Selecting this icon launches a dynamic Web page (ASP or JSP) that displays the image in a pop-up window. The pop-up window is where visitors actually zoom the image.
+Typically, visitors zoom images on a webpage by first selecting a Zoom icon (often the icon displays the image of a magnifying glass). Selecting this icon launches a dynamic Web page (ASP or JSP) that displays the image in a pop-up window. The pop-up window is where visitors zoom the image.
 
 For more details and code samples, see the [Embedded HTML5 Basic Zoom Viewer](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in the Adobe Viewers Reference Guide.
 
