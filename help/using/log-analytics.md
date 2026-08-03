@@ -35,9 +35,9 @@ topic_v2:
 ---
 # Log on to Adobe Analytics{#log-in-to-adobe-analytics}
 
-Verify that you are a member of the Web Service Access group in Adobe Analytics. Do so before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Adobe Dynamic Media Classic events. Members in this group can access all reports in the specified Report Suites. Do so using the Experience Cloud's Web Services API, regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
+Verify that you are a member of the Web Service Access group in Adobe Analytics. Complete this step before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Adobe Dynamic Media Classic events. Members of this group can access all reports in the specified Report Suites. Perform this action using the Experience Cloud Web Services API, regardless of the permissions configured in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
-When you log in, you have the option of entering your Experience Cloud Org ID to use the latest video analytics implementation. If you choose not to enter your ID, video reporting still works. However, it can cause the data not to integrate correctly with other data for that client from outside Adobe Dynamic Media Classic.
+When you log in, you have the option of entering your Experience Cloud Org ID to use the latest video analytics implementation. If you choose not to enter your ID, video reporting still works. However, it can cause the data not to integrate correctly with other data for that client outside of Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -45,17 +45,17 @@ When you log in, you have the option of entering your Experience Cloud Org ID to
 
 ## Log on to Adobe Analytics from Adobe Dynamic Media Classic {#log-in-to-analytics-from-dmc}
 
-Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe Analytics OAuth integration with Dynamic Media Classic is typically only done once per user.
+Integrate Dynamic Media Classic with Adobe Analytics OAuth. The Adobe Analytics OAuth integration with Dynamic Media Classic is typically performed only once per user.
 
 1. Access [Adobe Developer Console](https://developer.adobe.com/console). Ensure that your account has administrator permissions for the organization for which the integration is required.
 1. Near the upper-right corner of the Home page, from the drop-down list, select the appropriate company. (The screenshot below is for information purposes only; the actual company name that you select can vary.)
 
    ![Create a new project](assets/analytics-oauth1.png)
 
-1. Do either one of the following:
+1. Select one of the following options:
 
    * At the top of the page, from the **[!UICONTROL Home]** tab, select **[!UICONTROL Create a new project]**.
-   * At the top of the page, from the **[!UICONTROL Projects]** tab. Near the right corner of the page, select **[!UICONTROL Create a new project]**.
+   * At the top of the page, select the **[!UICONTROL Projects]** tab. Near the right corner of the page, select **[!UICONTROL Create a new project]**.
 
 1. On the project's page, select **[!UICONTROL Add API]**.
 1. On the **[!UICONTROL Add an API]** page, select **[!UICONTROL Adobe Analytics]**.
@@ -77,14 +77,14 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 1. In the lower-right corner of the page, select **[!UICONTROL Save configured API]**.
 1. In the navigation panel, on the left side of the Adobe Analytics page, under **[!UICONTROL Credentials]**, select **[!UICONTROL OAuth Web]**.
 1. Under **[!UICONTROL Credential details]**, do the following:
-   * Under **[!UICONTROL Client ID]**, select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Analytics configuration in the Dynamic Media Classic desktop application that is to follow.
-   * Under **[!UICONTROL Client Secret]**, select **[!UICONTROL Retrieve client secret]** to reveal the associated value. Select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Adobe Analytics configuration in the Dynamic Media Classic desktop application that is to follow.
+   * Under **[!UICONTROL Client ID]**, select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Analytics configuration in the Dynamic Media Classic desktop application.
+   * Under **[!UICONTROL Client Secret]**, select **[!UICONTROL Retrieve client secret]** to display the associated value. Select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Adobe Analytics configuration in the Dynamic Media Classic desktop application.
 
 ## Configure Adobe Analytics in Adobe Dynamic Media Classic {#configure-analytics-in-dmc}
 
 >[!NOTE]
 >
->After your initial configuration of Adobe Analytics in Dynamic Media Classic, the only time you must redo the configuration is in the following cases:
+>After your initial configuration of Adobe Analytics in Dynamic Media Classic, the only time you must repeat the configuration is in the following case:
 >
 >* A new report is added in Analytics and the user wants to start sending data to that new report.
 >* The Tracking server is updated in Adobe Analytics.
@@ -97,11 +97,11 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 1. In the **[!UICONTROL Adobe Analytics Login]** dialog box, in the **[!UICONTROL CLIENT ID]** field and the **[!UICONTROL CLIENT SECRET]** field, paste the respective values that you copied earlier.
 1. In the lower-right corner of the dialog box, select **[!UICONTROL Login]** and perform your Adobe IMS (Identity Management Services) login.
 
-   When you successfully log in, the Adobe Analytics Login dialog box appears again along with the **[!UICONTROL COMPANIES]** drop-down list, initiated by the companies that are available to you.
+   When you successfully log in, the Adobe Analytics Login dialog box appears again, along with the **[!UICONTROL COMPANIES]** drop-down list, populated by the companies that are available to you.
 
 1. From the **[!UICONTROL COMPANIES]** drop-down list, choose a company.
 
-   After you select a company, the **[!UICONTROL SUITES]** drop-down list, initiated by the Report Suites that are available for the selected company, becomes visible.
+   After you select a company, the **[!UICONTROL SUITES]** drop-down list, populated by the Report Suites that are available for the selected company, becomes visible.
 
 1. From the **[!UICONTROL SUITES]** drop-down list, choose a report suite.
 
