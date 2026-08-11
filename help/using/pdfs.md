@@ -24,7 +24,7 @@ level_v2:
 ---
 # Work with PDFs{#working-with-pdfs}
 
-PDF (Portable Document Format) files are most often used in Adobe Dynamic Media Classic to create eCatalogs. When you upload a PDF file, Adobe Dynamic Media Classic rasterizes, or rips, the pages by default so that the pages can be used to build rich media.
+PDF (Portable Document Format) files are most often used in Adobe Dynamic Media Classic to create eCatalogs. When you upload a PDF file, Adobe Dynamic Media Classic rasterizes the pages by default so that the pages can be used to build rich media.
 
 When you upload a PDF for page extraction, Adobe enforces the following limit:
 
@@ -36,17 +36,17 @@ See also [Dynamic Media limitations](/help/using/limitations.md).
 
 ## PDF upload options {#pdf-upload-options}
 
-When you upload a PDF file, you can format it in various ways. You crop its pages, extract search words, enter a pixels-per-inch resolution, and choose a color space. PDF files often contain a trim margin, crop marks, registration marks, and other printer's marks. You can crop these marks from the sides of pages as you upload a PDF file.
+When you upload a PDF file, you can format it in various ways. You can crop its pages, extract search words, enter a pixels-per-inch resolution, and choose a color space. PDF files often contain a trim margin, crop marks, registration marks, and other print marks. You can crop these marks from the sides of pages as you upload a PDF file.
 
 Options for uploading PDF files are on the Upload page under PDF Options.
 
 ### Processing options
 
-**[!UICONTROL Rasterize]**: (Default) Rips the pages in the PDF file and converts vector graphics to bitmap images. To create an eCatalog, choose this option.
+**[!UICONTROL Rasterize]**: (Default) To rasterize the pages in the PDF file and convert vector graphics to bitmap images, use this option. To create an eCatalog, choose this option.
 
 **[!UICONTROL Extract Search Words]**: Extracts words from the PDF file so that keywords in the file can be searched in an eCatalog Viewer.
 
-**[!UICONTROL Extract Links]**: Extracts links from the PDF files and coverts them to Image Maps that are used in an eCatalog Viewer.
+**[!UICONTROL Extract Links]**: Extracts links from the PDF file and converts them to Image Maps that are used in an eCatalog Viewer.
 
 **[!UICONTROL Auto-Generate eCatalog With Multi-page PDF]**: Automatically creates an eCatalog from the PDF file. The eCatalog is named after the PDF file you uploaded. (This option is only available if you rasterize the PDF file as you upload it.)
 
@@ -72,7 +72,7 @@ Select the Color Space menu and choose a color space for the PDF file. Most PDF 
 
 * **[!UICONTROL Keep Original Color Space]**: Retains the original color space.
 
-* **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
+* **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose `Convert From` and `Convert To` color spaces. You can choose a standard Adobe Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
 
 See also [ICC profiles](/help/using/icc-profiles.md#icc_profiles).
 
@@ -89,7 +89,7 @@ You can automatically crop white-space pixels from a PDF file as you upload it.
 
      * **[!UICONTROL Transparency]**: Choose the Transparency option.
 
-   * **[!UICONTROL Tolerance]**: Drag the slider to specify a tolerance from 0 through 1.
+   * **[!UICONTROL Tolerance]**: To specify a tolerance from 0 through 1, drag the slider.
 
    * **[!UICONTROL Trimming based on color]**: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the PDF. Numbers closer to 1 allow for more color difference.
 
@@ -97,9 +97,9 @@ You can automatically crop white-space pixels from a PDF file as you upload it.
 
 ## Crop from the sides of PDF pages {#cropping-from-the-sides-of-pdf-pages}
 
-You can manually remove printer's marks from the sides of pages in a PDF file as you upload it.
+You can manually remove print marks from the sides of pages in a PDF file as you upload it.
 
 1. From the Crop menu, select **[!UICONTROL Manual]**.
 1. Enter pixel settings in the Top, Right, Bottom, and Left text boxes to crop from the top, bottom, and sides of pages.
 
-How much of the page is cropped depends on the Resolution PX/Inch setting you enter for the PDF file. For example, suppose you enter 150 (the default) as the Resolution PX/Inch setting. Then you crop 75 pixels from the sides of the pages. In such a case, 0.5 in. is cropped. At 150 pixels per inch, 75 pixels equals a half inch.
+The amount of the page that is cropped depends on the Resolution PX/Inch setting you enter for the PDF file. For example, suppose you enter 150 (the default) as the Resolution PX/Inch setting. Then you crop 75 pixels from the sides of the pages. In this case, 0.5 in. is cropped. At 150 pixels per inch, 75 pixels equals a half inch.
