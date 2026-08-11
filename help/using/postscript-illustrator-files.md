@@ -1,5 +1,5 @@
 ---
-title: Work with PostScript and Illustrator files
+title: Work with PostScript and Illustrator Files
 description: Learn how to work with PostScript and Illustrator files in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -24,13 +24,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 ---
-# Work with PostScript and Illustrator files{#working-with-postscript-and-illustrator-files}
+# Work with PostScript and Adobe Illustrator files{#working-with-postscript-and-illustrator-files}
 
 You can use Adobe PostScript&reg; (EPS) and Adobe&reg; Illustrator&reg; (AI) files in Adobe Dynamic Media Classic. Adobe Dynamic Media Classic offers commands for configuring these files as you upload them.
 
-When you upload PostScript (EPS) or Illustrator (AI) image files, you can format them in various ways. You can rasterize the files, convert them to FXG for Template Publishing, maintain the transparent background, choose a resolution, and choose a color space. Options for formatting PostScript and Illustrator files are available on the Upload screen under PostScript Options and Illustrator Options in the Upload Job Options box.
+When you upload PostScript (EPS) or Adobe Illustrator (AI) image files, you can configure them using several options. You can rasterize the files, convert them to FXG for Template Publishing, maintain the transparent background, choose a resolution, and choose a color space. Options for formatting PostScript and Adobe Illustrator files are available on the Upload screen under PostScript Options and Adobe Illustrator Options in the Upload Job Options box.
 
-* **[!UICONTROL Processing]**: Choose **[!UICONTROL Rasterize]** to convert the vector graphics in the file to the bitmap format.
+* **[!UICONTROL Processing]**: Choose **[!UICONTROL Rasterize]** to convert the vector graphics in the file to bitmap format.
 
 * **[!UICONTROL Maintain Transparent Background In Rendered Image]**: Maintains the background transparency of the file.
 
