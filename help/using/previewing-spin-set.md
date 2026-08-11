@@ -24,7 +24,7 @@ level_v2:
 ---
 # Preview a Spin Set{#previewing-a-spin-set}
 
-You can use Viewer List to preview how an asset appears on a particular viewer type platform such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in Viewer List.
+You can use the Viewer List to preview how an asset appears on a particular viewer-type platform such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in the Viewer List.
 
 See [Configure default viewers](application-setup.md#configuring_default_viewers).
 
@@ -33,7 +33,7 @@ See [Preview an asset](previewing-asset.md#previewing_an_asset).
 **To preview a Spin Set:**
 
 1. In the Asset Library panel on the left side, in the Show drop-down list, select the Spin Set asset type.
-1. In the Asset Library panel on the left side, navigate the Asset folders that contain the Spin Set that you want to preview with a viewer.
+1. In the Asset Library panel on the left side, navigate to the asset folders that contain the Spin Set that you want to preview in a viewer.
 1. Do one of the following:
 
    * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Grid View]**. In the Asset window, below the thumbnail image, go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
