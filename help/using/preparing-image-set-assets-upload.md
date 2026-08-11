@@ -1,5 +1,5 @@
 ---
-title: Prepare Image Set assets for upload
+title: Prepare Image Set Assets for Upload
 description: Learn how to prepare Image Set assets for upload into Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -22,11 +22,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 ---
-# Prepare Image Set assets for upload{#preparing-image-set-assets-for-upload}
+# Prepare Image Set Assets for upload{#preparing-image-set-assets-for-upload}
 
-Before uploading the images you need for Image Sets to Adobe Dynamic Media Classic, make sure that the images are the right size and format.
+Before uploading the images you need for Image Sets to [!DNL Adobe Dynamic Media Classic], make sure that the images are the right size and format.
 
-To create a multiple-view Image Set, you need images that show an item from different points of view or show different aspects of the same item. The goal is to highlight the important features of an item so viewers have a complete picture of what it looks like or does.
+To create a multiple-view Image Set, you need images that show an item from different points of view or show different aspects of the same item. The goal is to highlight the important features of an item so viewers have a complete understanding of the item's appearance or function.
 
 Because users can zoom images in Image Sets, make sure that the images are at least 2000 pixels in the largest dimension. Adobe Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
 
