@@ -1,5 +1,5 @@
 ---
-title: Preview videos in a Video Viewer
+title: Preview Videos in a Video Viewer
 description: Learn how to preview videos in a Video Viewer.
 contentOwner: Rick Brough
 content-type: reference
@@ -30,23 +30,23 @@ See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer
 
 **To preview videos in a Video Viewer:**
 
-1. In the Asset Library panel on the left side, in the Show drop-down list, select **[!UICONTROL Video]** (single-encoded videos) or **[!UICONTROL Adaptive Video Set]**. When the Adaptive Video encoding preset is used, it results in a set of multi-bitrate encoded videos.
-1. In the Asset Library panel on the left side, navigate the asset folders to select the video that you want to preview.
-1. Do any one of the following:
+1. In the Asset Library panel on the left side, in the Show drop-down list, select **[!UICONTROL Video]** (single-encoded videos) or **[!UICONTROL Adaptive Video Set]**. The Adaptive Video encoding preset results in a set of multi-bitrate encoded videos.
+1. In the Asset Library panel on the left side, navigate through the asset folders to select the video that you want to preview.
+1. Do one of the following:
 
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL List View]**. In the Asset window, hover on an asset, and then select **[!UICONTROL Preview]**.
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Grid View]**. In the Asset window, in an asset thumbnail window, select **[!UICONTROL Preview]**.
     * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Detail View]**. On the same toolbar, select **[!UICONTROL Preview]**.
     * In the Asset window, select an asset. In the toolbar, go to **[!UICONTROL File]** > **[!UICONTROL Preview]**.
 
-1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that to apply to the asset's URL when it is copied.
+1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding to apply to the asset's URL when it is copied.
 1. Select the **[!UICONTROL Preview]** link so you can review the asset in the selected viewer.
 1. Close the displayed viewer.
 1. Select **[!UICONTROL Close]** to return to the Assets screen.
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic provides a convenient method of previewing MP4 video on the desktop. Use this method to preview mobile content on the desktop without physically testing it on mobile devices. Be aware, however, that what is seen in desktop preview does not realistically show what playback looks like on the mobile device. To preview how the video looks and plays on a mobile device, go to the Preview screen. Click **[!UICONTROL Copy URL]**, and enter that URL in the Web browser of a mobile device. For more information, see [Deploy video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
+>Adobe Dynamic Media Classic lets you preview MP4 video on the desktop. Use this method to preview mobile content on the desktop without testing it on mobile devices. However, the desktop preview does not accurately reflect playback on the mobile device. To preview how the video looks and plays on a mobile device, go to the Preview screen. Click **[!UICONTROL Copy URL]**, and enter that URL in the web browser of a mobile device. For more information, see [Deploy video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 
 ## Work with Video Viewer Presets {#working-with-video-viewer-presets}
 
@@ -56,7 +56,7 @@ Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playin
 
 See [Preview videos in a Video Viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
-See also [Video Presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
+See also the [Video Presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 
 ### Add or edit a Video Viewer Preset {#adding-or-editing-a-video-viewer-preset}
 
@@ -86,7 +86,7 @@ See also [Video Presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
 
    * **Edit**: Select a Video Viewer Preset, and then select **[!UICONTROL Edit]**.
 
-1. In the `Configure Viewer` page, in the Preset Name field, enter, or edit the preset name.
+1. In the `Configure Viewer` page, in the Preset Name field, enter or edit the preset name.
 1. Set the remaining options that you want.
 
    To see a description of an option, select its Info Tip icon.
