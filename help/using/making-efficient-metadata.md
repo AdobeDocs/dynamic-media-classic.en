@@ -31,7 +31,7 @@ topic_v2:
 
 All files on Adobe Dynamic Media Classic contain metadata. Metadata describes and identifies a file; it is used for searching for and organizing assets. To view an asset's metadata, open it in Detail View and examine the Metadata panel. The metadata fields on this panel provide descriptive information about the asset.
 
-Metadata is useful in searches and asset organization only if it is entered correctly in metadata fields. To enter metadata correctly and to ensure that all the required metadata fields contain metadata, you can create metadata presets. A *metadata preset* is a pre-defined set of metadata entries. Instead of entering metadata manually, people can, in Detail View, choose a metadata preset to fill metadata fields with predefined information.
+Metadata is useful in searches and asset organization only if it is entered correctly in metadata fields. To enter metadata correctly and to ensure that all the required metadata fields contain metadata, you can create metadata presets. A *metadata preset* is a pre-defined set of metadata entries. Instead of entering metadata manually, users can, in Detail View, choose a metadata preset to fill metadata fields with predefined information.
 
 To create metadata presets, see [Metadata Presets](application-setup.md#metadata_presets).
 
