@@ -1,5 +1,5 @@
 ---
-title: Navigation basics
+title: Navigation Basics
 description: Learn about navigating the user interface of Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -29,11 +29,11 @@ topic_v2:
 ---
 # Navigation basics{#navigation-basics}
 
-The Adobe Dynamic Media Classic screen includes three major areas: Global Navigation bar, Asset Library, Asset Filters tab, Browse panel/Build Panel, and Media Cart (Media Portal only).
+The Adobe Dynamic Media Classic screen includes five major areas: Global Navigation bar, Asset Library, Asset Filters tab, Browse panel/Build panel, and Media Cart (Media Portal only).
 
 ![Navigation basics](/help/using/assets/gs_navigation_basics_popup_popup.png)
 *Main Adobe Dynamic Media Classic areas*
-*A) Global Navigation bar B) Asset Library panel C) Asset Filters tab D) Browse panel E) Media Cart (Media Portal only)*
+*A) Global Navigation bar; B) Asset Library; C) Asset Filters tab; D) Browse panel; E) Media Cart (Media Portal only)*
 
 ## Global Navigation bar {#global-navigation-bar}
 
@@ -41,25 +41,25 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 * **[!UICONTROL Select Company]**: Choose the company you want to access from the menu. This button is not available if you are working with one company.
 
-* **[!UICONTROL Upload]**: Opens the Upload screen so you can upload files from your computer or network to Adobe Dynamic Media Classic. You can upload files from your desktop or by way of FTP. See [Upload files](/help/using/uploading-files.md).
+* **[!UICONTROL Upload]**: Opens the Upload screen so you can upload files from your computer or network to Adobe Dynamic Media Classic. You can upload files from your desktop or through FTP. See [Upload files](/help/using/uploading-files.md).
 
 * **[!UICONTROL Build]**: Choose a Build task from the menu. The Build panel opens so you can create an asset type.
 
-* **[!UICONTROL Publish]**: Opens the Publishing screen so you can publish rich media assets to Adobe Dynamic Media Image Servers and the rest of the Adobe Dynamic Media Classic SAAS Infrastructure.
+* **[!UICONTROL Publish]**: Opens the Publishing screen so you can publish rich media assets to Adobe Dynamic Media Image Servers and the rest of the Adobe Dynamic Media Classic SaaS Infrastructure.
 
 * **[!UICONTROL Jobs]**: Opens the Jobs screen so you can examine records of upload and publish jobs.
 
 * **[!UICONTROL Recent]**: Opens the Recent Activity screen so you can view the names of recently modified assets and recent upload and publish jobs.
 
-* **[!UICONTROL Setup]**: Opens the Setup screen so you can choose setup or administration options for optimizing your use of Adobe Dynamic Media Classic. See [Setup](/help/using/setup-basics.md).
+* **[!UICONTROL Setup]**: Opens the Setup screen so you can choose setup or administration options for optimizing your use of [!DNL Adobe Dynamic Media Classic]. See [Setup](/help/using/setup-basics.md).
 
-* **[!UICONTROL Help]** Choose a Help option:
+* **[!UICONTROL Help]** Choose a Help option
 
   * **[!UICONTROL Help On This Topic]**: Opens the Help system to a page with information about the task you are currently doing.
-  * **[!UICONTROL Video Tutorial]**: Accesses videos on specific topics showing you how to get started with each rich media publishing workflow.
-  * **[!UICONTROL Help Contents]**: Opens the Help system to the Introduction page. You can select through the Table of Contents to find and view different topics.
-  * **[!UICONTROL About]**: Tells you which version of Adobe Dynamic Media Classic you are running.
-  * **[!UICONTROL Support]**: Tells you how to get technical support from Adobe Dynamic Media Classic.
+  * **[!UICONTROL Video Tutorial]**: Accesses videos on specific topics showing you how to begin each rich media publishing workflow.
+  * **[!UICONTROL Help Contents]**: Opens the Help system to the Introduction page. To find and view different topics, you can browse through the Table of Contents.
+  * **[!UICONTROL About]**: Displays the version of Adobe Dynamic Media Classic you are running.
+  * **[!UICONTROL Support]**: Provides information on how to get technical support for Adobe Dynamic Media Classic.
 
 * **[!UICONTROL Sign out]**: Exits Adobe Dynamic Media Classic.
 
@@ -67,17 +67,17 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 Use the Asset Library to organize the assets you are working with. You can create folders and subfolders for organizing your assets in the Asset Library.
 
-The top of the Asset Library panel has commands for locating assets. You can search for assets and filter to locate assets. To examine assets you deleted, select the **[!UICONTROL Trash]** icon at the bottom of the Asset Library.
+The top of the Asset Library panel has commands for locating assets. To locate assets, you can search for and filter them. To examine assets you have deleted, select the **[!UICONTROL Trash]** icon at the bottom of the Asset Library.
 
 >[!NOTE]
 >
->You can select **[!UICONTROL Asset Library]** controls to open or close the Asset Library and get more room to work onscreen. Select the **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** control to expand or close the panel. These controls are on the left side of the panel.
+>You can select **[!UICONTROL Asset Library]** controls to open or close the Asset Library and expand the available workspace. Select the **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** control to expand or collapse the panel. These controls are on the left side of the panel.
 
-## Browse panel/Build Panel {#browse-panel-build-panel}
+## Browse panel/Build panel {#browse-panel-build-panel}
 
-The Browse/Build Panel is where you do much of your work. The functions that are available in this panel depend on whether you are in Browse mode or Build mode.
+The Browse/Build Panel is where you execute many of your tasks. The functions that are available in this panel depend on whether you are in Browse mode or Build mode.
 
-* **[!UICONTROL Browse mode]**: You can view and work with a folder's contents in the Browse panel. Select a folder in the Asset Library. This panel offers the **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]**, and **[!UICONTROL Sort]** menus for working with assets. You can also view assets in different ways by moving the slider or select **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. Selecting **[!UICONTROL Detail View]** or double-clicking an asset opens the asset in Detail View, where you can perform asset-dependent file operations.
+* **[!UICONTROL Browse mode]**: You can view and work with a folder's contents in the Browse panel. Select a folder in the Asset Library. This panel offers the **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]**, and **[!UICONTROL Sort]** menus for working with assets. You can also view assets in different ways by moving the slider or selecting **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. Selecting **[!UICONTROL Detail View]** or double-clicking an asset opens the asset in Detail View, where you can perform asset-dependent file operations.
 
 * **[!UICONTROL Build mode]**: Select **[!UICONTROL Build]**, then choose an option so you can start building an eCatalog, Image Set, Spin Set, or one of several other available items on the Build menu. The Build page opens. You can select the assets you want to work with before or after you enter Build mode.
 
