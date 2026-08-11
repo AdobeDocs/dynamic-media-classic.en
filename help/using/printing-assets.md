@@ -1,5 +1,5 @@
 ---
-title: Print assets
+title: Print Assets
 description: Learn how to print assets from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
