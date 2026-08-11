@@ -39,7 +39,7 @@ All users can change settings on the Personal Setup screen. To open the Personal
 >
 >The Personal Setup screen lists which user role you have in Adobe Dynamic Media Classic: Company Administrator, Administrator, or User.
 
-The Personal Setup settings control the default behavior of the Browse panel, how you receive e-mail, and password settings. Remember to select **[!UICONTROL Save]** after you change these settings.
+The Personal Setup settings control the default behavior of the Browse panel, how you receive email, and password settings. Remember to select **[!UICONTROL Save]** after you change these settings.
 
 ## My Account Information
 
@@ -48,7 +48,7 @@ Identifies your account name, name, user name (e-mail address), and assigned use
 ## Desktop
 
 * **Clear Image Cache**: Removes all Adobe Dynamic Media cached image files from your computer.
-* **Clear Asset Cache**: Removes all Adobe Dynamic Media caches asset files from your computer.
+* **Clear Asset Cache**: Removes all Adobe Dynamic Media cached asset files from your computer.
 
 Besides clearing the image and asset cache using the desktop app, you can manually clear the cache directly from the file system. Based on your operating system, navigate to the following:
 
@@ -90,16 +90,16 @@ The plug-in is now available for you to use in Adobe Illustrator.
 
 ## Browser
 
-* **[!UICONTROL Thumbnail Size]**: Determines the default size of thumbnail images in Grid View in the Browse panel.
-* **[!UICONTROL Default Asset Library View]**: Determines whether the assets in the Asset Library for build sets appear as thumbnails or by name. If you are working with large quantities of assets in the Asset Library, you can view the assets by name. For example, if you are building a large eCatalog with many PDF files, you can view the assets by name to make the list shorter.
+* **[!UICONTROL Thumbnail Size]**: Determines the default size of thumbnail images in the Browse panel Grid View.
+* **[!UICONTROL Default Asset Library View]**: Determines whether the assets in the Asset Library for build sets appear as thumbnails or by name. If you are working with large quantities of assets in the Asset Library, you can view the assets by name. For example, to make the list shorter when building a large eCatalog with many PDF files, you can view the assets by name.
 * **[!UICONTROL Default Browse Sort Order]**: Determines the order in which assets appear by default in the Browse panel. Choose a sort criterion on the menu and whether you want an ascending or descending sort.
-* **[!UICONTROL Default Browse Location]**: Lets you set the browse location to the default, the last folder browsed, or to a specific location that you navigate to and identify. You can also set the browse location to sort the files and folders in ascending or descending order.
+* **[!UICONTROL Default Browse Location]**: Lets you set the browse location to the default, the last folder browsed, or to a specific location that you navigate to and identify. To sort the files and folders in ascending or descending order, you can also set the browse location.
 * **[!UICONTROL Default Browse View]**: Determines whether Grid View or List View is the default view you see when you first open the Browse panel.
 * **[!UICONTROL Splash Screen Display]**: Determines whether you see any splash screens, including the Welcome splash screen.
 * **[!UICONTROL Show ToolTips]**: Determines whether tooltips appear when you move the pointer over buttons, menus, and navigation links. Tooltips describe on-screen user interface items.
-* **[!UICONTROL Checkerboard Background]**: Displays a checkerboard layer behind images, letting you easily see the transparent areas of an image that has an alpha channel.
+* **[!UICONTROL Checkerboard Background]**: Displays a checkerboard layer behind images, letting you see the transparent areas of an image that has an alpha channel.
 * **[!UICONTROL Show File Size]**: Displays the file size of an asset when you are browsing.
-* **[!UICONTROL Include UDFs in Search]**: To improve system performance for most metadata searches that you run, deselected (default).
+* **[!UICONTROL Include UDFs in Search]**: To improve system performance for most metadata searches that you run, deselect (default).
 
   If most of your metadata searches benefit from including user-defined fields, you can select this option to turn it on. As an alternative, use Advanced Search to give you a more directed and faster search experience than by including user-defined fields.
 
@@ -107,14 +107,14 @@ The plug-in is now available for you to use in Adobe Illustrator.
 
   See also [User-Defined Fields](application-setup.md#user_defined_fields).
 
-* **[!UICONTROL Basic Search Type]**: You can select from two options: **[!UICONTROL Contains]** searches the full string for the specified value; **[!UICONTROL StartsWith]** searches from the beginning of the string and returns results faster than **[!UICONTROL Contains]**. Either option overrides the default that is set in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** by the Administrator.
+* **[!UICONTROL Basic Search Type]**: You can select from two options: **[!UICONTROL Contains]** searches the full string for the specified value; **[!UICONTROL StartsWith]** searches from the beginning of the string and returns results faster than **[!UICONTROL Contains]**. Either option overrides the default that the Administrator sets in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]**.
 * **[!UICONTROL Show Command Feedback]**: Select to turn the display of command requests to the server on; deselect to turn off.
 * **[!UICONTROL Show Dialog During Export]**: Select to show a pop-up dialog box during an export. If you deselect (turn off) this option, you can still go to the Jobs page to retrieve the results of your export.
 
 ## Email
 
-* **[!UICONTROL Email Options]**: Choose how you want Adobe Dynamic Media Classic to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
-* **[!UICONTROL Email Scope]**: Determines whether you receive all job e-mail for your company or only e-mail about upload and publish jobs you initiate.
+* **[!UICONTROL Email Options]**: Choose how you want Adobe Dynamic Media Classic to inform you by email when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
+* **[!UICONTROL Email Scope]**: Determines whether you receive all job email for your company or only email about upload and publish jobs you initiate.
 * **[!UICONTROL Email Types]**: Determines whether you are informed when upload jobs and publish jobs are completed.
 
 ## Language
@@ -123,12 +123,12 @@ The plug-in is now available for you to use in Adobe Illustrator.
 
 ## Password
 
-* **[!UICONTROL Current Password]**: Enter the password your present password.
+* **[!UICONTROL Current Password]**: Enter your current password.
 * **[!UICONTROL New Password]**: Enter a new, valid password. Your password must meet the following requirements:
   * It must be between 8-25 characters long.
   * Contain at least one lowercase letter.
   * Contain at least one uppercase letter.
   * Contain at least one number.
   * Contain at least one of the following special characters: `# $ &: _ : { }`
-* **[!UICONTROL Re-Type Password]**: Reenter the new password to confirm that you are entering it correctly.
-* **[!UICONTROL Password Expiration]**: Determines whether your password expires after 72 days as a security measure. If you selected Yes, you are asked to create a password after 72 days.
+* **[!UICONTROL Re-Type Password]**: Re-enter the new password. This confirms that you are entering it correctly.
+* **[!UICONTROL Password Expiration]**: Determines whether your password expires after 72 days. If you select Yes, you are prompted to create a password after 72 days.
