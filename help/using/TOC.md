@@ -52,7 +52,7 @@ index: true
   + [Manage FTP accounts](ftp-accounts.md)
   + [Specify export options available to Media Portal users](specifying-export-options-available-media.md)
   + [Create and enable Image Presets](creating-enabling-image-presets.md)
-  + [Make more efficient use of metadata](making-efficient-metadata.md)
+  + [Manage Metadata Efficiently](making-efficient-metadata.md)
   + [Customize the Media Portal screen](customizing-media-portal-screen.md)
 + Upload and publish assets {#upload-publish}
   + [Upload and publish of assets](about-asset-upload-publish.md)
