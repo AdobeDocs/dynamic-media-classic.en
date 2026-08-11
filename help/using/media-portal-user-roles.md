@@ -1,5 +1,5 @@
 ---
-title: Media Portal user roles
+title: Media Portal User Roles
 description: Learn about the various user roles that are available in Media Portal in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -35,7 +35,7 @@ topic_v2:
 
 Media Portal provides the following roles, each with different access rights and permissions. When you sign up a user, you assign the user one of the following roles:
 
-* **[!UICONTROL Media Portal Administrator]**: Can add and remove administrators, contributors, and users. The administrator can also set group access rights, manage FTP accounts, assign corporate-approved conversion formats (presets), send e-mail to Media Portal users, and view portal usage and storage reporting.
+* **[!UICONTROL Media Portal Administrator]**: Can add and remove administrators, contributors, and users. The administrator can also set group access rights, manage FTP accounts, assign corporate-approved conversion formats (presets), send email to Media Portal users, and view portal usage and storage reporting.
 
 * **[!UICONTROL Media Portal User]**: Has access to folders and files. A user can only browse, preview, and download files. This role is suitable for channel or service partners that need access to your corporate-approved assets.
 
@@ -43,7 +43,7 @@ Media Portal provides the following roles, each with different access rights and
 
 * **[!UICONTROL Media Portal Contributor-User]**: Has access to folders and files. A contributor user can browse, preview, download, and upload images and metadata. Contributor users can change the names of files, move files to different folders, and delete files.
 
-This table describes the tasks that users with different roles can do. Administrators and contributor-users can do all the tasks listed in this table:
+This table describes the tasks that users with different roles can do. Administrators and contributor users can do all the tasks listed in this table:
 
 | Task | User | Contributor | Contributor-User |
 | --- | --- | --- | --- |
