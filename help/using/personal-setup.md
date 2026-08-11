@@ -33,7 +33,7 @@ topic_v2:
 ---
 # Personal Setup {#personal-setup}
 
-All users can change settings on the Personal Setup screen. To open the Personal Setup screen, go to **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
+All users can change settings on the Personal Setup screen. To open the Personal Setup screen, go to **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**. 
 
 >[!NOTE]
 >
