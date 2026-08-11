@@ -1,5 +1,5 @@
 ---
-title: Preview image assets with different Zoom viewers
+title: Preview Image Assets with Different Zoom Viewers
 description: Learn how to preview image assets with different Zoom viewers in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -33,7 +33,7 @@ See [Preview an asset](previewing-asset.md#previewing_an_asset).
 **To preview image assets with different Zoom Viewers:**
 
 1. In the Asset Library panel on the left side, in the Show drop-down list, select an image-based asset type such as Image or Image Set.
-1. In the Asset Library panel on the left side, navigate the Asset folders that contain images that you want to preview with a Zoom Viewer.
+1. In the Asset Library panel on the left side, navigate to the asset folders that contain images you want to preview with a Zoom Viewer.
 1. Do one of the following:
 
    * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Grid View]**. In the Asset window, below the thumbnail image, go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
