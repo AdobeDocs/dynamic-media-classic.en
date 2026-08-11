@@ -24,7 +24,7 @@ level_v2:
 ---
 # Preview eCatalogs in the eCatalog Viewer{#previewing-ecatalogs-in-the-ecatalog-viewer}
 
-You can use Preview to display your eCatalog using different eCatalog Viewer Presets. You can experiment with the different controls to turn pages, write sticky notes, and browse.
+You can use the Preview feature to display your eCatalog using different eCatalog Viewer presets. To turn pages, add notes, and browse, you can use the different controls.
 
 See [Configure default viewers](application-setup.md#configuring_default_viewers).
 
@@ -32,8 +32,8 @@ See [Preview an asset](previewing-asset.md#previewing_an_asset).
 
 **To preview eCatalogs in the eCatalog Viewer:**
 
-1. In the Asset Library panel on the left side, in the Show drop-down list, select a video-based asset type, such as Video or Video Set.
-1. In the Asset Library panel on the left side, navigate the Asset folders that contain videos that you want to preview with an eCatalog Viewer.
+1. In the Asset Library panel on the left side, in the Show drop-down list, select an eCatalog-based asset type, such as eCatalog or eCatalog Set.
+1. In the Asset Library panel on the left side, navigate to the asset folders that contain eCatalogs that you want to preview with an eCatalog Viewer.
 1. Do one of the following:
 
    * Above the Assets window, on the right side of the toolbar, select **[!UICONTROL Grid View]**. In the Asset window, below the thumbnail image, go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
