@@ -1,5 +1,5 @@
 ---
-title: Move, rename, and delete assets
+title: Move, Rename, and Delete Assets
 description: Learn about how to move, rename, and delete assets in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -26,7 +26,7 @@ level_v2:
 ---
 # Move, rename, and delete assets{#moving-renaming-and-deleting-assets}
 
-You can move, rename, and delete assets from the Browse panel. As well, you can delete many assets simultaneously with a text file.
+You can move, rename, and delete assets from the Browse panel. Additionally, you can delete multiple assets simultaneously using a text file.
 
 ## Move assets {#move-assets}
 
@@ -50,13 +50,13 @@ You can move assets to different folders in the Browse panel.
 
 You can delete selected assets in the Browse panel and delete entire folders. Deleted assets and folders are moved to the Trash folder, where they remain for seven days before being permanently deleted.
 
-When you deleted an asset, all assets derived from it are deleted as well. For example, deleting an image for which you created Zoom Targets deletes the Zoom Targets along with the image.
+When you delete an asset, all assets derived from it are deleted as well. For example, deleting an image for which you created Zoom Targets deletes the Zoom Targets along with the image.
 
-Zoom targets, image attributes, and history entries are permanently deleted when you delete the assets from which they derive. They are not moved along with the asset to the Trash folder; they cannot be restored from the Trash.
+Zoom targets, image attributes, and history entries are permanently deleted when you delete the assets from which they are derived. They are not moved along with the asset to the Trash folder; they cannot be restored from the Trash.
 
 >[!IMPORTANT]
 >
->Bulk deletion is an intensive operation. Be sure that you run bulk deletions sequentially rather than as concurrent, heavy delete operations. Adobe recommends that you limit delete operations to 5000 or less asset deletions per hour. Any number greater than 5000 per hour can cause rate limiting.
+>Bulk deletion is a resource-intensive operation. Run bulk deletions sequentially rather than as concurrent, large-scale deletion operations. Adobe recommends that you limit delete operations to 5000 or fewer asset deletions per hour. Any amount greater than 5000 per hour can cause rate limiting.
 
 **To delete assets:**
 
@@ -71,14 +71,14 @@ Adobe Dynamic Media Classic recommends overwriting asset files rather than delet
 
 ## Delete multiple assets with a text file {#delete-multiple-assets-with-a-text-file}
 
-To delete many assets at once throughout the Asset Library, you can list the assets you want to delete in a text file and submit the list to Adobe Dynamic Media Classic.
+To delete multiple assets at once throughout the Asset Library, you can list the assets you want to delete in a text file and submit the list to Adobe Dynamic Media Classic.
 
-Create the list of Adobe Dynamic Media Classic IDs and save it as a text (.txt) file. Each Adobe Dynamic Media Classic ID must be on its own line (followed by a hard return).
+Create the list of Adobe Dynamic Media Classic IDs and save it as a text (.txt) file. Each Adobe Dynamic Media Classic ID must be on its own line (followed by a carriage return).
 
-After you create the list, follow these steps to use it to delete assets:
+To use the list to delete assets, do the following:
 
 1. Go to **[!UICONTROL File]** > **[!UICONTROL Delete Asset List]**.
-1. In the **[!UICONTROL Deleted Asset list]** dialog box, type the path to the text file with the list of assets you want to delete.
+1. In the **[!UICONTROL Deleted Asset List]** dialog box, type the path to the text file with the list of assets you want to delete.
 1. Select **[!UICONTROL Delete]**.
 
 When you delete assets with a text file, if any Adobe Dynamic Media Classic ID is not on the list, the message "Unable to validate these entries in your list:" is displayed. The list of entries is also displayed. However, Adobe Dynamic Media Classic does not generate an error on the Job page.
