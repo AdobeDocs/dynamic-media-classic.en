@@ -1,5 +1,5 @@
 ---
-title: Work with PSD files
+title: Work with PSD Files
 description: Learn how to work with PSD files in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -28,13 +28,13 @@ level_v2:
 
 <!--   USED TO BE AN OPTION UNDER COLOR PROFILE OPTIONS * **Convert To sRGB (default)**: Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on Web pages. -->
 
-PSD (Photoshop Document files) are most often used in Adobe Dynamic Media Classic to create templates. When you upload a PSD file, you can create an Adobe Dynamic Media Classic template automatically from the file (select the Create Template option on the Upload screen).
+A PSD (Adobe Photoshop Document) file is most often used in Adobe Dynamic Media Classic to create templates. When you upload a PSD file, you can create an Adobe Dynamic Media Classic template automatically from the file (select the Create Template option on the Upload screen).
 
-Adobe Dynamic Media Classic creates multiple images from a PSD file with layers if you use the file to create a template; it creates one image for each layer.
+Adobe Dynamic Media Classic creates multiple images from a PSD file with layers if you use the file to create a template. It creates one image for each layer.
 
 ## PSD upload options {#psd-upload-options}
 
-Options for uploading PSD files are located under Photoshop Options in the Upload Job Options dialog box. You can crop a file, choose a color profile for it, use it to create a template, and select an anchor.
+Options for uploading PSD files are located under Adobe Photoshop Options in the Upload Job Options dialog box. You can crop a file, choose a color profile for it, use it to create a template, and select an anchor.
 
 These options are available when uploading PSD files:
 
@@ -56,9 +56,9 @@ These options are available when uploading PSD files:
 
     * **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic. See [ICC profiles](/help/using/icc-profiles.md).
 
-* **Photoshop Options**
+* **Adobe Photoshop Options**
 
-    * **[!UICONTROL Maintain Layers]**: Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail View and selecting the layer panel. See Viewing and editing layers in a PSD file.
+    * **[!UICONTROL Maintain Layers]**: Separates the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail View and selecting the layer panel. See Viewing and editing layers in a PSD file.
 
     * **[!UICONTROL Create Template]**: Creates a template from the layers in the PSD file.
 
@@ -74,15 +74,15 @@ These options are available when uploading PSD files:
 
         * **[!UICONTROL Photoshop and layer name]**: Names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names. For example, a layer named `Price Tag` in a PSD file that is named `SpringAd` is named `Spring Ad_Price Tag`. A layer with the default name Layer 2 is called `Spring Ad_2`.
 
-    * **[!UICONTROL Anchor]**: Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images that can best fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
+    * **[!UICONTROL Anchor]**: Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images to fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect ratio that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
 
 ## View and edit layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
 
-If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded your PSD, Adobe Dynamic Media Classic ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse panel in Detail View.
+If you selected the option **[!UICONTROL Maintain Layers]** when you uploaded your PSD, Adobe Dynamic Media Classic separated the individual layers into assets. You can view and edit the PSD file's asset layers by opening the file in the Browse panel's Detail View.
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic supports up to five levels in a nested layer group.
+>Adobe Dynamic Media Classic supports up to five levels in a layer group.
 
 1. Double-click the full PSD file in the Browse panel. The file opens in Detail View.
 
