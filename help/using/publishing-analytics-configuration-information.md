@@ -1,5 +1,5 @@
 ---
-title: Publish Adobe Analytics configuration information
+title: Publish Adobe Analytics Configuration Information
 description: Learn how to publish Adobe Analytics configuration information from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -28,11 +28,11 @@ level_v2:
 ---
 # Publish Adobe Analytics configuration information{#publishing-adobe-analytics-configuration-information}
 
-Publish your Adobe Dynamic Media Classic viewers so that information about configuring Adobe Analytics reports is sent to Adobe Dynamic Media Classic servers. This information is embedded in viewers. Publishing is necessary so that the information contained in the viewers is available on Adobe Dynamic Media Classic servers. From the servers, it can be relayed to Adobe Analytics after users perform activity on the viewers.
+Publish your Adobe Dynamic Media Classic viewers so that information about configuring Adobe Analytics reports is sent to Adobe Dynamic Media Classic servers. This information is embedded in viewers. Publishing is necessary so that the information contained in the viewers is available on Adobe Dynamic Media Classic servers. From the servers, it can be relayed to Adobe Analytics after users interact with the viewers.
 
 >[!NOTE]
 >
->Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Adobe Dynamic Media Classic, resave your Adobe Analytics configuration settings, and then republish.
+>If you change Adobe Analytics Report settings within Adobe Analytics, log in to Adobe Analytics from within Adobe Dynamic Media Classic, resave your Adobe Analytics configuration settings, and then republish.
 
 See [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
