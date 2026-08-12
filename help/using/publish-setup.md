@@ -28,7 +28,7 @@ topic_v2:
 ---
 # Publish Setup {#publish-setup}
 
-The Publish Setup page settings determine how assets are delivered by default from Adobe Dynamic Media Classic servers to Web sites or applications. If no setting is specified, the Adobe Dynamic Media Classic server delivers an asset according to a default setting on a Publish Setup page. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server page.
+Adobe Dynamic Media Classic servers deliver assets by default to websites or applications, as determined by the Publish Setup page settings. If no setting is specified, the Adobe Dynamic Media Classic server delivers an asset according to a default setting on a Publish Setup page. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server page.
 
 Administrators can change the default settings on the Image Server, Image Renderer, and Vignette pages to establish default settings for delivering assets from servers.
 
@@ -36,15 +36,15 @@ To open the pages of Publish Setup, go to **[!UICONTROL Setup]** > **[!UICONTROL
 
 >[!NOTE]
 >
->The Publish Setup pages are for use by experienced Web site developers and programmers. Adobe Dynamic Media Classic assumes that users who change settings on these pages are familiar with Adobe Dynamic Media Classic, HTTP protocol standards and conventions, and basic imaging technology.
+>The Publish Setup pages are for use by experienced website developers and programming professionals. Adobe Dynamic Media Classic assumes that users who change settings on these pages are familiar with Adobe Dynamic Media Classic, HTTP protocol standards and conventions, and basic imaging technology.
 
 ## Image Server {#image-server}
 
 The Image Server page establishes default settings for delivering images from Image Servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings).
 
-Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
+Change these settings only with the assistance of an Adobe Dynamic Media Classic support team member.
 
-* **[!UICONTROL Catalog Management]**: These settings determine how Adobe Dynamic Media Classic and the catalog interact. Unlike most Web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the Image Server. It also contains the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
+* **[!UICONTROL Catalog Management]**: These settings determine how Adobe Dynamic Media Classic and the catalog interact. Unlike most Web servers, Dynamic Media Image Server URL calls are directed to a manifest or catalog file instead of an actual image file. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the Image Server. It also contains the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
 * **[!UICONTROL Request Attributes]**: These settings impose limits on images that can be delivered from the server. For example, the *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 and **[!UICONTROL Height]** 5000.
 
@@ -58,12 +58,12 @@ Change these settings only with the assistance of an Adobe Dynamic Media Classic
 
 * **[!UICONTROL Compatibility Attributes]**: This setting enables leading and trailing paragraphs in text layers to be treated as they were in version 3.6 for backwards compatibility.
 
-* **[!UICONTROL Localization Support]**: These settings let you manage multiple locale attributes. It also lets you specify a locale map string so you can define which languages you want to support for the various tooltips in Viewers.
+* **[!UICONTROL Localization Support]**: These settings let you manage multiple locale attributes. They also let you specify a locale map string. This lets you define the languages you want to support. They apply to the various tooltips in Viewers.
 
     For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer's preset. Just add the translated text strings for the language that you want.
 
     >[!NOTE]
-    > To set up Localization Support options, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In your support case, request setup help.
+    > To set up Localization Support options, [use the Admin Console to create a support case.](https://helpx.adobe.com/business/enterprise.html) In your support case, request setup help.
 
     For more information about setting up **[!UICONTROL Localization Support]**, see [Considerations when setting up localization of assets](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
@@ -71,9 +71,9 @@ Change these settings only with the assistance of an Adobe Dynamic Media Classic
 
 >[!NOTE]
 >
->If you want to set up Localization Support options in Adobe Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In your support case, request setup help.
+>If you want to set up Localization Support options in Adobe Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/business/enterprise.html) In your support case, request setup help.
 
-A common way to use Adobe Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a few parts of the overall media. Addressing such differences by copying all assets for each of the countries and overwrite just the differences is a tremendous effort and contradicts the single primary asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Adobe Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
+A common way to use Adobe Dynamic Media Classic is to manage the product imagery on eCommerce websites. International businesses face the challenge that assets for similar products vary by region. Usually the differences are for a few components of the media. Managing such differences by copying all assets for each country and overwriting the differences is a complex task and is inconsistent with the single primary asset principle. Differences for assets can range from country-specific videos with different audio tracks to subtle but important differences in a power cord that is used with the product. Adobe Dynamic Media Classic uses a basic search mechanism. You define an order of asset suffixes in which the Image Server looks, starting from the required locale.
 
 #### How assets are localized
 
@@ -83,9 +83,9 @@ The locale for an IS (Image Serving) request is identified with the following IS
 
 This command accepts a locale id (locId) string that is not case-sensitive. The locale id is typically a 2-6 character string composed of letters and "`_`."
 
-IS supports arbitrary printable ASCII strings. The `locale=` command has a global scope, meaning that it is applied to the entire request, including all nested IS and IR requests, referenced templates, and image layers. Multiple locales per request, such as a different locale for each layer, is not supported. However, it is conceivable to allow explicit overrides in nested requests.
+IS supports arbitrary printable ASCII strings. The `locale=` command applies globally to the entire request, including nested requests, templates, and layers. Multiple locales per request, such as a different locale for each layer, are not supported. However, it is conceivable to allow explicit overrides in nested requests.
 
-If `locale=` is not specified, `attribute::DefaultLocale` is passed to the translation engines. Limited input validation is applied to the `locale=` value. Empty `locale=` values are permitted. Because `locale=` has a global scope, `attribute::DefaultLocale` is provided by the main catalog for the entire request.
+If `locale=` is not specified, `attribute::DefaultLocale` is passed to the translation engines. Limited input validation is applied to the `locale=` value. Empty `locale=` values are permitted. Because `locale=` has a global scope, the main catalog provides `attribute::DefaultLocale` for the entire request.
 
 Some of the benefits of using `locale=` and `attribute::DefaultLocale` include the following:
 
@@ -94,7 +94,7 @@ Some of the benefits of using `locale=` and `attribute::DefaultLocale` include t
 * Allow flexibility around naming conventions and the management of locale-specific contents, such as locale prefix versus suffix, or locale-specific contents in a separate catalog.
 * Support access to locale-specific versions.
 * Aggregate objects, such as Image Sets, can sometimes contain generic references to potentially locale-specific contents.
-* Supports all contents managed by catalogs that need localization, including images, Image Sets, vignettes, materials, and viewer configuration records.
+* Supports all catalog-managed content needing localization, including images, sets, vignettes, materials, and configurations.
 * Minimize changes to the IPS database and IS manifest mechanisms.
 * Support for static contents such as videos and skins is added when RFC IS-63 is implemented.
 * The default locale is configurable.
@@ -184,7 +184,7 @@ You can map unknown locales to specific IDs or to generic IDs. For example, you 
 | fr | myImg_F, myImg |
 | All others | myImg_E, myImg |
 
-You could also have a dedicated locSuffix, such as U, just for unknown locales, and force to the default image if no `_U` exists, as in the following:
+Use a dedicated locSuffix for unknown locales and force to the default image if no `_U` exists, as in the following:
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,|,U`
 
@@ -194,9 +194,9 @@ Or, you can map directly to the generic ID, as in the following:
 
 ##### Find the localeMap using a multi-tiered lookup
 
-It is often desirable to group locales, such as European, Middle Eastern, and North American, to address regional standards, such as skin exposure. You can achieve this effect using a multi-tiered lookup.
+Group locales to address regional standards like skin exposure. You can do this using a multi-tiered lookup.
 
-For example, suppose you want to support collections for Western and Middle Eastern use. Both collections are based on the generic image collection, and both add or modify some images. Both collections are then further refined for specific locales. For example, `m1, m2` for two middle-eastern variants, and `w1, w2,` and `w3` for three Western locales, except that images are shared for `w1` and `w3`. Unknown locales are mapped only to the generic collection and do not have access to locale-specific images. The following is what the map would look like:
+For example, suppose you want to support collections for Western and Middle Eastern use. Both collections are based on the generic image collection, and both add or modify some images. Both collections are then further refined for specific locales. For example, `m1, m2` for two Middle Eastern variants, and `w1, w2` and `w3` for three Western locales, except that images are shared for `w1` and `w3`. Unknown locales are mapped only to the generic collection and do not have access to locale-specific images. The following is the map:
 
 `attribute::LocaleMap=w1,-W,|w2,-W2,-W,|w3,-W,|m1,-M1,-M,|m2,-M2,-M,|,`
 
@@ -212,7 +212,7 @@ For example, suppose you want to support collections for Western and Middle East
 
 Some image-naming conventions do not support generic image IDs. The generic IDs from the request must be mapped to a specific ID in the catalog. However, there are instances where the exact specific ID is not known.
 
-Using the first example as a basis, images for all languages could have the suffixes `_1`, `_2`, or `_3`. Images that are specific to French locales could have the suffixes `_22` or `_23` suffix. And images that are specific to German locales could have the suffixes `_470` or `_480`.
+Using the first example as a basis, images for all languages have the suffixes `_1`, `_2`, or `_3`. Images specific to French locales have the suffixes `_22` or `_23`. And images that are specific to German locales have the suffixes `_470` or `_480`.
 
 `attribute::LocaleMap=,_1,_2,_3|fr,_22,_23,_1,_2,_3|de,_470,_480,_1,_2,_3|de_at,_470,_480,_1,_2,_3|de_de,_470,_480,_1,_2,_3`
 
@@ -224,15 +224,15 @@ Using the first example as a basis, images for all languages could have the suff
 
 ##### Important considerations when implementing localization support
 
-* Localization is limited to ID-based asset calls and cannot be used on path-based asset calls. Therefore, when calling videos with locale, it must be called as company/assetID; no full path to the video. You cannot use `RTMP` with localization because that method is for use with path-based video calls only.
-* You cannot use a Mixed Media Set that contains a single video when localeMap is active, otherwise the call to the contents of the set fails. To work around this issue, you can add a single video to an Adaptive Video Set. Then, add the Adaptive Video Set to a Mixed Media Set.
+* Localization is limited to ID-based asset calls and cannot be used on path-based asset calls. Therefore, when calling videos with a locale, they must be called as company/assetID with no full path to the video. You cannot use `RTMP` with localization because that method is for use with path-based video calls only.
+* You cannot use a Mixed Media Set that contains a single video when localeMap is active; otherwise, the call to the contents of the set fails. To resolve this issue, you can add a single video to an Adaptive Video Set. Then, add the Adaptive Video Set to a Mixed Media Set.
 * Certain requests are not localized, such as requests for the contents of an Adaptive Video Set. Therefore, if you intend to use Adaptive Video Sets with localization, place the Adaptive Video Set within a Mixed Media Set. Then, call the set into a Mixed Media viewer with the `locale=` parameter.
 
 ## Image Renderer {#image-renderer}
 
 The Image Renderer page establishes default settings for delivering Image Sets from image-rendering servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings):
 
-* **[!UICONTROL Catalog Management]**: These settings determine how Adobe Dynamic Media Classic and the catalog file interact. Adobe Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
+* **[!UICONTROL Catalog Management]**: These settings determine how Adobe Dynamic Media Classic and the catalog file interact. Adobe Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn delivers images from the server. Change these settings only with the assistance of an Adobe Dynamic Media Classic support team member.
 
 * **[!UICONTROL Session Attributes]**: These settings establish error parameters, the URL for relative image URLs, and whether object overlapping is permitted.
 
