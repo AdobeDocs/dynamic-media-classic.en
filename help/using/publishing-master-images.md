@@ -1,5 +1,5 @@
 ---
-title: Publish primary images
+title: Publish Primary Images
 description: Learn how to publish primary images from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -24,11 +24,11 @@ level_v2:
 ---
 # Publish primary images{#publishing-master-images}
 
-Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your Web site and application. What's more, during the publishing process, Adobe Dynamic Media Classic activates the URL strings you need for your Web site and application.
+Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your Web site and application. Additionally, during the publishing process, Adobe Dynamic Media Classic activates the URL strings you need for your Web site and application.
 
 ## Mark primary images for publish {#marking-master-images-for-publish}
 
-Primary images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your primary images for publishment in the Browse panel by selecting the **[!UICONTROL Mark for Publish]** icon. You can also mark images for publishment when you upload them to Adobe Dynamic Media Classic.
+Primary images must be marked for publishing so they can be copied to Dynamic Media Image Servers. You can mark your primary images for publishing in the Browse panel by selecting the **[!UICONTROL Mark for Publish]** icon. You can also mark images for publishing when you upload them to Adobe Dynamic Media Classic.
 
 ## Publish your primary images {#publishing-your-master-images}
 
