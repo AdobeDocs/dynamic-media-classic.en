@@ -1,5 +1,5 @@
 ---
-title: Publish templates
+title: Publish Templates
 description: Learn how to publish templates from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -28,11 +28,11 @@ Publishing your template places it on Dynamic Media Image Servers, where it is a
 
 >[!NOTE]
 >
->To use your template, publish all content that went into making it, including fonts and images. If you do not include all the required files, an error message appears when you publish.
+>To use your template, publish all content required to create it, including fonts and images. If you do not include all the required files, an error message appears when you publish.
 
 ## Mark templates for publish {#marking-templates-for-publish}
 
-Templates and all their support files must be marked for publish for them to be placed on Dynamic Media Image Servers. You can mark these items for publishment in the Browse panel by selecting the **[!UICONTROL Mark for Publish]** icon.
+Templates and all their support files must be marked for publishing for them to be placed on Dynamic Media Image Servers. You can mark these items for publishing in the Browse panel by selecting the **[!UICONTROL Mark for Publish]** icon.
 
 ## Publish your template {#publishing-your-template}
 

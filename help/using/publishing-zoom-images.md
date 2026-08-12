@@ -1,5 +1,5 @@
 ---
-title: Publish zoom images
+title: Publish Zoom Images
 description: Learn how to publish Zoom images from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -31,7 +31,7 @@ Publishing places your zoom images on Dynamic Media Image Servers so they can be
 
 ## Mark images for publish {#marking-images-for-publish}
 
-Images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your images for publishment in the Browse panel by selecting the **[!UICONTROL Mark for Publish]** icon. You can also mark images for publishment when you upload them.
+Images must be marked for publishing for them to be copied to Dynamic Media Image Servers. You can mark your images for publishing in the Browse panel by selecting the **[!UICONTROL Mark for Publish]** icon. You can also mark images for publishing when you upload them.
 
 ## Publish the images {#publishing-the-images}
 
