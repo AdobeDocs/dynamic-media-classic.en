@@ -24,25 +24,15 @@ level_v2:
 ---
 # Publish a Mixed Media Set{#publishing-a-mixed-media-set}
 
-Create a publish job to publish a Mixed Media Set that you have marked for publish to Adobe Dynamic Media Classic Video Server and Image Server. Adobe Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
+Configure a publish job to publish a Mixed Media Set that you have marked for publishing to the Adobe Dynamic Media Classic Video Server and Image Server. Adobe Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
 
 >[!NOTE]
 >
->Mixed Media Sets require that you publish to **Video Server** and also to **Image Server**. Use **Video Server** to publish the actual videos that you marked for publishing. And, you use **Image Server** to publish related assets, such as the video thumbnails, and set information for any Adaptive Video Set.
+>Mixed Media Sets require that you publish to **Video Server** and also to **Image Server**. Use **Video Server** to publish the actual videos that you marked for publishing. You use **Image Server** to publish related assets, such as the video thumbnails, and settings information for any Adaptive Video Set.
 
 Adobe Dynamic Media Classic tracks publish jobs on the Jobs screen.
 
 See [Publishing](publishing-files.md#publishing_files).
-
-<!-- 
-
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
-
-<p>RB: Updated the following steps as per Cynthia email, 11/9/2012, added 11/12/2012</p>
-
- -->
 
 **To publish a Mixed Media Set:**
 
@@ -59,7 +49,7 @@ Last Modified Date:
    See [Advanced publish options](publishing-files.md#advanced_publish_options) for more options you can set.
 
 1. Select **[!UICONTROL Submit Publish]**.
-1. Repeat steps 2-4 above.
+1. Repeat steps 2-6.
 1. In **[!UICONTROL Advanced]**, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Image Server]**.
 
    See [Advanced publish options](publishing-files.md#advanced_publish_options) for more options you can set.
