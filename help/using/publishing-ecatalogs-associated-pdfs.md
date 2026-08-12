@@ -1,5 +1,5 @@
 ---
-title: Publish eCatalogs and associated PDFs
+title: Publish eCatalogs and Associated PDFs
 description: Learn how to publish eCatalogs and associated PDFs from Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -24,11 +24,11 @@ level_v2:
 ---
 # Publish eCatalogs and associated PDFs{#publishing-ecatalogs-and-associated-pdfs}
 
-Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can be made available to your Web site or application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL string. You can place this URL string in your HTML Web page code.
+Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can be made available to your website or application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL string. You can place this URL string in your HTML webpage code.
 
 >[!NOTE]
 >
->Make sure your eCatalog and PDF reside in the same folder. And, make sure they are marked for publishment in the Browse panel or Asset Details page before you publish them.
+>Make sure your eCatalog and PDF reside in the same folder. Make sure they are marked for publishing in the Browse panel or Asset Details page before you publish them.
 
 **To publish eCatalogs and associated PDFs:**
 
@@ -36,7 +36,7 @@ Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can
 1. On the Publishing screen, select **[!UICONTROL One-Time]**, or select **[!UICONTROL Recurring]**.
 1. (Optional) In the Job Name field, enter a name for the publishing job, but keep the predefined date and time text.
 
-   If you set up your eCatalog so that viewers can perform keyword searches, make sure that the keyword data is published. On the Publishing dialog box, select **[!UICONTROL Advanced]**. From the **[!UICONTROL Publish]** drop-down menu, select **[!UICONTROL Full w/ Search Data]**. This option is selected by default.
+   If you set up your eCatalog so that viewers can perform keyword searches, make sure that the keyword data is published. On the Publishing dialog box, select **[!UICONTROL Advanced]**. From the **[!UICONTROL Publish]** drop-down menu, select **[!UICONTROL Full with Search Data]**. The system selects this option by default.
 
 1. Select **[!UICONTROL Submit Publish]**.
 
