@@ -63,7 +63,7 @@ As part of creating your eCatalog, you can arrange pages or page spreads in the 
 >
 >You are now able to author eCatalogs in Adobe Dynamic Media Classic.
 
-This eCatalog Quick Start is designed to help you get up and running quickly with eCatalogs. Follow steps 1 through 7. After each step, there is a cross-reference to a topic heading where you can find more information.
+This eCatalog Quick Start is designed to help you start working quickly with eCatalogs. Follow steps 1 through 7. After each step, there is a cross-reference to a topic heading where you can find more information.
 
 ## 1. Upload the PDF files
 
@@ -81,7 +81,7 @@ Create your eCatalog by selecting PDF or image files in the Browse panel. Select
 
 On the eCatalog page, on the **[!UICONTROL Order Pages]** tab, select a Layout option: **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, or **[!UICONTROL Custom]**. You can rearrange pages or spreads by dragging them or, in a large eCatalog, choosing a page name on the Move To menu.
 
-To add pages, select a folder in the Asset Library, and then drag PDF or image files from into the Order Pages screen. Instead of default page numbers, you can provide custom page names or import many page names.
+To add pages, select a folder in the Asset Library, and then drag PDF or image files into the Order Pages screen. Instead of default page numbers, you can provide custom page names or import many page names.
 
 Select **[!UICONTROL Save]**, enter a name for your eCatalog, choose an Adobe Dynamic Media Classic folder for storing it, and select **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by selecting **[!UICONTROL Save]**.
 
@@ -133,6 +133,6 @@ See [Publish eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs
 
 Adobe Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Image Servers. You can copy this URL string from the Preview screen and the Browse panel (in Detail View) by selecting URLs in the panel. After you copy the URL string, it is available to your Web sites and applications.
 
-Work with your IT team to place the link to the eCatalog in the appropriate place in your Web page. When users select the link, the eCatalog Viewer appears and users can browse your eCatalog.
+To place the link to the eCatalog on your Web page, work with your IT team. When users select the link, the eCatalog Viewer appears and users can browse your eCatalog.
 
 See [Link an eCatalog to a Web page](linking-ecatalog-web-page.md#linking-an-ecatalog-to-a-web-page).
