@@ -31,11 +31,11 @@ topic_v2:
 ---
 # Quick Start: Integrate Adobe Dynamic Media Classic and Adobe Analytics {#quick-start-integrating-dmc-analytics}
 
-Adobe Analytics is the industry-leading product that provides marketers with one place where they can measure, analyze, and optimize integrated data from all online initiatives across multiple marketing channels.
+Adobe Analytics is the industry-leading product that provides marketers with a centralized location where they can measure, analyze, and optimize integrated data from all online initiatives across multiple marketing channels.
 
 After integrating Adobe Analytics with Adobe Dynamic Media Classic, you can get reports about the behavior of website visitors using Adobe Dynamic Media Classic viewers on your website. For example, when a website visitor selects a zoom target in an Adobe Dynamic Media Classic Zoom Viewer, Adobe Analytics records this action. Adobe Analytics reports can gather cumulative information about user activity in Adobe Dynamic Media Classic viewers.
 
-Using Adobe Analytics reports, you can get a clear picture of the activity of customers on your website. You can determine which product presentations lead to conversion and which do not attract customer interest.
+Using Adobe Analytics reports, you can understand the activity of customers on your website. You can determine which product presentations lead to conversion and which do not attract customer interest.
 
 See also [Measure Video in Adobe Analytics](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
 
@@ -43,13 +43,13 @@ See also [Measure Video in Adobe Analytics](https://experienceleague.adobe.com/e
 >
 >A valid Adobe Analytics account is required to integrate Analytics with Adobe Dynamic Media Classic and generate Analytics reports.
 
-This Quick Start is designed to get you up and running quickly with the Adobe Analytics Instrumentation Kit.
+This guide is designed to help you configure the Adobe Analytics Instrumentation Kit.
 
-## 1. Log on to Adobe Analytics by way of Adobe Dynamic Media Classic and download the Adobe Analytics report variables
+## 1. Sign in to Adobe Analytics from Adobe Dynamic Media Classic and download the Adobe Analytics report variables
 
 >[!NOTE]
 >
->Verify that you are added as a member of the Web Service Access group in Adobe Analytics. Do this verification before you configure Adobe Analytics reports. And, before you match Adobe Analytics report variables to Adobe Dynamic Media Classic events. Members in this group can access all reports in the specified report suites. You can do so using the Experience Cloud's Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
+>Verify that you are added as a member of the Web Service Access group in Adobe Analytics. Do this verification before you configure Adobe Analytics reports and before you match Adobe Analytics report variables to Adobe Dynamic Media Classic events. Members of this group can access all reports in the specified report suites. You can perform this action using the Experience Cloud Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, go to **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
 After you have verified that you are a member of the Web Service Access group, in Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Adobe Analytics]**. On the Adobe Analytics Configuration page, select **[!UICONTROL Adobe Analytics Login]**.
 
