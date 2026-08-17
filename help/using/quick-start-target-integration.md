@@ -1,5 +1,5 @@
 ---
-title: 'Quick Start: Adobe Target Standard/Premium integration'
+title: 'Quick Start: Adobe Target Standard/Premium Integration'
 description: An introduction and Quick Start to Adobe Target Standard/Premium to help you get up and running quickly with Adobe Target Standard/Premium integration techniques in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -31,9 +31,9 @@ topic_v2:
 ---
 # Quick Start: Adobe Target Standard/Premium integration{#quick-start-target-integration}
 
- Adobe Target Standard/Premium puts control directly in the hands of marketers. Doing so can help quickly and continually run multiple A/B and multivariate tests, and measure effectiveness. And, it can increase the relevance of online content through segmentation, targeting, and Automated Personalization.
+ Adobe Target Standard/Premium provides marketing teams with administrative control. This feature can help you quickly and continually run multiple A/B and multivariate tests and measure their effectiveness. And, it can increase the relevance of online content through segmentation, targeting, and Automated Personalization.
 
-Adobe Dynamic Media Classic lets you create offers and Offer Sets for Adobe Target Standard/Premium campaigns. For example, you can create an Offer Set with three variations of the same rich media asset. Then you can have Adobe Target Standard or Premium to determine which asset provides better conversion lift. You can create offers and Offer Sets from a Basic Template or from individual images. After the Offer Set is pushed or saved to Adobe Target Standard/Premium, where the offers are associated with mboxes and experiences, Adobe Target Standard/Premium can run campaigns. These campaigns determine which variation of a website is likely to perform best for click-throughs and conversion.
+Adobe Dynamic Media Classic lets you create offers and Offer Sets for Adobe Target Standard/Premium campaigns. For example, you can create an Offer Set with three variations of the same rich media asset. Then you can have Adobe Target Standard or Premium determine which asset provides better conversion performance. You can create offers and Offer Sets from a Basic Template or from individual images. After the Offer Set is pushed or saved to Adobe Target Standard/Premium, where the offers are associated with mboxes and experiences, Adobe Target Standard/Premium can run campaigns. These campaigns determine which variation of a website performs best for click-throughs and conversion.
 
 For greater customization of dynamic Adobe Dynamic Media Classic content, use Adobe Target Standard/Premium HTML offers. See the [Adobe Target Standard/Premium product documentation](https://experienceleague.adobe.com/en/docs/target) for more information.
 
@@ -41,11 +41,11 @@ For greater customization of dynamic Adobe Dynamic Media Classic content, use Ad
 >
 >A valid Adobe Target Standard/Premium account is required to use Adobe Target Standard/Premium with Adobe Dynamic Media Classic.
 
-This Quick Start is designed to get you up and running quickly with Adobe Target Standard/Premium HTML Offer Sets. Follow steps 1 through 3. After each step, there is a cross-reference to a topic heading where you can find more information.
+This guide is designed to help you begin using Adobe Target Standard/Premium HTML Offer Sets quickly. Follow steps 1 through 3. After each step, there is a cross-reference to a topic heading where you can find more information.
 
 ## 1. Enter your Adobe Target Standard/Premium URL in the Application General Settings page
 
-Adobe Dynamic Media Classic needs your Adobe Target Standard/Premium URL to integrate with Adobe Target Standard/Premium. Copy the portion of your Adobe Target Standard/Premium URL up to and including `.com`, and enter it in the Adobe Dynamic Media Classic **[!UICONTROL Application General Settings]** page, in the **[!UICONTROL Servers]** group, **[!UICONTROL Test&Target Server Name]** text field. See [Integrate Adobe Dynamic Media Classic with Adobe Target Standard/Premium](integrating-dmc-with-target.md#integrating-dmc-with-target).
+Adobe Dynamic Media Classic needs your Adobe Target Standard/Premium URL to integrate with Adobe Target Standard/Premium. Copy the portion of your Adobe Target Standard/Premium URL up to and including `.com`, and enter it in the **[!UICONTROL Test&Target Server Name]** text field within the **[!UICONTROL Servers]** group on the Adobe Dynamic Media Classic **[!UICONTROL Application General Settings]** page. See [Integrate Adobe Dynamic Media Classic with Adobe Target Standard/Premium](integrating-dmc-with-target.md#integrating-dmc-with-target).
 
 ## 2. Create the Offer Set
 
