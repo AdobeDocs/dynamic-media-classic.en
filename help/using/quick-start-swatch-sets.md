@@ -24,23 +24,23 @@ level_v2:
 ---
 # Quick Start: Swatch Sets{#quick-start-swatch-sets}
 
-Adobe Dynamic Media Classic Swatch Sets give users an integrated viewing experience. In the dynamic Swatch Set Viewer, users can see an item rendered in a different color, material, texture, finish, or fabric merely by selecting a thumbnail.
+Adobe Dynamic Media Classic Swatch Sets provide users with an integrated viewing experience. Using the dynamic Swatch Set Viewer, users can see an item rendered in a different color, material, texture, finish, or fabric by selecting a thumbnail.
 
-This Swatch Sets Quick Start is designed to get you up and running quickly with Swatch Set techniques in Adobe Dynamic Media Classic.
+This Swatch Sets Quick Start is designed to help you start using Swatch Set techniques in Adobe Dynamic Media Classic.
 
 ## 1. Upload the images and swatch files
 
 Start by uploading the images and swatch files for your Swatch Sets.
 
-On the Global Navigation bar, select **[!UICONTROL Upload]** to upload files from your computer to a folder on Adobe Dynamic Media Classic. See [Prepare Swatch Set assets for upload](preparing-swatch-set-assets-upload.md#preparing-swatch-set-assets-for-upload) and [Upload your files](uploading-files.md#uploading-your-files).
+On the Global Navigation bar, select **[!UICONTROL Upload]** to upload files from your computer to a folder in Adobe Dynamic Media Classic. See [Prepare Swatch Set Assets for upload](preparing-swatch-set-assets-upload.md#preparing-swatch-set-assets-for-upload) and [Upload your files](uploading-files.md#uploading-your-files).
 
 ## 2. Create a Swatch Set
 
-To create a Swatch Set, on the Global Navigation bar, go to **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**. On the Swatch Set page, drag images, and color swatches onto the page. See [Create a Swatch Set](creating-swatch-set.md#creating-a-swatch-set).
+To create a Swatch Set, on the Global Navigation bar, go to **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**. On the Swatch Set page, drag images and color swatches onto the page. See [Create a Swatch Set](creating-swatch-set.md#creating-a-swatch-set).
 
-## 3. Set up Swatch Set Viewer Presets
+## 3. Configure Swatch Set Viewer Presets
 
-Administrators can create or modify Image Set Viewer Presets. Adobe Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom > Image Sets/Color Swatches presets to view your Swatch Sets.
+Administrators can create or modify Image Set Viewer Presets. Adobe Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom > Image Sets/Color Swatches Presets to view your Swatch Sets.
 
 See [Create and edit Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
@@ -60,6 +60,6 @@ See [Publish files](publishing-files.md#publishing-files).
 
 ## 6. Link a Swatch Set to a Web page
 
-Adobe Dynamic Media Classic creates URL calls for Swatch Sets, and activates them after you publish. You can copy these URLs from the Preview page.
+Adobe Dynamic Media Classic creates URL calls for Swatch Sets and activates them after you publish. You can copy these URLs from the Preview page.
 
 Select the Swatch Set, and then select the Preview button. The Preview page opens. Select a Swatch Set Viewer Preset and select the Copy URL button. See [Link Swatch Sets to Web pages](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).
