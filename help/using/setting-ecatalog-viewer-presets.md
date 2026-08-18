@@ -1,5 +1,5 @@
 ---
-title: Set up eCatalog Viewer Presets
+title: Set Up eCatalog Viewer Presets
 description: Learn how to set up eCatalog Viewer Presets in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -25,16 +25,16 @@ level_v2:
 ---
 # Set up eCatalog Viewer Presets{#setting-up-ecatalog-viewer-presets}
 
-eCatalog Viewer Presets determine the style, behavior, and look of eCatalog Viewers. Adobe Dynamic Media Classic provides eCatalog Viewer Presets, and you can create your own eCatalog Viewer Presets as well if you are an administrator.
+eCatalog Viewer Presets determine the style, behavior, and look of eCatalog Viewers. Adobe Dynamic Media Classic includes eCatalog Viewer Presets, and you can create custom presets if you have administrator access.
 
-To create a preset, you can start from scratch or start with an Adobe Dynamic Media Classic-provided eCatalog Viewer Preset and save it under a new name. You can create your own eCatalog Viewer Presets to present printed material in your company colors and set the tone.
+To create a preset, you can create a new preset or start with an Adobe Dynamic Media Classic-provided eCatalog Viewer Preset and save it under a new name. To present printed material in your company colors and define the style, you can create your own eCatalog Viewer Presets.
 
-eCatalog Viewer Presets offer many settings for going from page to page, zooming, searching, and choosing "skins." What these controls look like and how the Viewer appears, depends on your choice of eCatalog Viewer Presets.
+eCatalog Viewer Presets offer many settings for page navigation, zooming, searching, and choosing "themes." What these controls look like and how the Viewer appears depends on your choice of eCatalog Viewer Presets.
 
-Follow these steps so you can create a eCatalog Viewer Preset (you must be an administrator):
+**To set up an eCatalog Viewer Preset (you must have administrator access):**
 
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
-1. In the Viewer Presets screen, create an eCatalog Viewer Preset by starting anew or by starting from an existing eCatalog Viewer Preset:
+1. In the Viewer Presets screen, create an eCatalog Viewer Preset by creating a new preset or by starting from an existing eCatalog Viewer Preset:
 
    * **Create an eCatalog Viewer Preset**: Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, choose a platform, choose eCatalog Viewer, then select **[!UICONTROL Add]**.
 
@@ -43,11 +43,11 @@ Follow these steps so you can create a eCatalog Viewer Preset (you must be an ad
 1. On the `Configure Viewer` page, enter a name for your eCatalog Viewer Preset.
 1. On the `Configure Viewer` page, set the options you want.
 
-   select the **[!UICONTROL Info Tip]** icon next to the option if you want to read its description.
+   Select the **[!UICONTROL Info Tip]** icon next to the option if you want to read its description.
 
    The Preview page displays the viewer as you update and change settings.
 
-1. (Optional) In the **[!UICONTROL Info Panel Settings]**, the **[!UICONTROL Information Server URL]** option can include the following special tokens, which the viewer substitutes:
+1. (Optional) In the **[!UICONTROL Info Panel Settings]**, the **[!UICONTROL Information Server URL]** option can include the following special tokens that the viewer substitutes.
 
     | Token | Substituted with | Notes |
     | --- | --- | --- |
@@ -55,14 +55,14 @@ Follow these steps so you can create a eCatalog Viewer Preset (you must be an ad
     | `$2$` | frame | The sequence number of the currently shown frame in the image set. |
     | `$3$` | image root| The first path element of the first item specified in the image command (typically the image catalog ID of the catalog entry specifying the image set). |
 
-1. (Optional) In the **[!UICONTROL Info Panel Settings]**, in the **[!UICONTROL Response Template]** box, type the text you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an Image Map. For example, if the system receives a company name and an eCatalog name, but no rollover identifier, this message appears for the user.
+1. (Optional) In the **[!UICONTROL Info Panel Settings]**, in the **[!UICONTROL Response Template]** box, type the text you want to appear if Adobe Dynamic Media Classic encounters an error retrieving information for an Image Map. For example, if the system receives a company and eCatalog name but no rollover identifier, this message appears.
 
 >[!NOTE]
 >
 >To use this Response Template instead of the template defined in the eCatalog itself, add `fmt=1` to the end of the Information Server URL. For example: `https://.../$3$/$4$/$1$/?FMT=1`.
 
 1. Select **[!UICONTROL Save]**.
-1. Select **[!UICONTROL Default]** so that the eCatalog Viewer Preset you created is the one that is used to display eCatalogs on your Web page.
+1. Select **[!UICONTROL Default]** so that the eCatalog Viewer Preset you created is used to display eCatalogs on your Web page.
 
 To delete an eCatalog Viewer Preset, select it on the Viewer Presets screen and select **[!UICONTROL Delete]**.
 
