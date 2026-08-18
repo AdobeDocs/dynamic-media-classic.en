@@ -1,5 +1,5 @@
 ---
-title: Select assets in the Browse panel
+title: Select Assets in the Browse Panel
 description: Learn how to select assets in the Browse panel of Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -26,7 +26,7 @@ level_v2:
 ---
 # Select assets in the Browse panel{#selecting-assets-in-the-browse-panel}
 
-Select an asset in the Browse panel so you can work with it. Use these techniques to select assets:
+Select an asset in the Browse panel to use it. Use these techniques to select assets:
 
 * **A single asset**: Select the asset (double-clicking opens the asset in Detail View).
 
