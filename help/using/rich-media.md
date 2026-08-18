@@ -1,5 +1,5 @@
 ---
-title: Rich media
+title: Rich Media
 description: Learn about the variety of tools in Adobe Dynamic Media Classic that can help you create rich media.
 contentOwner: Rick Brough
 content-type: reference
@@ -38,7 +38,7 @@ Adobe Dynamic Media Classic offers many tools for creating rich media. You creat
 * **eCatalogs**: Present an interactive, search-enabled Web version of your catalog or other print material. Create clickable areas (called Image Maps) that show rollover content and allow customers to turn pages, zoom, pan, and attach sticky notes to pages. 
     See [Quick Start: eCatalog](/help/using/quick-start-ecatalog.md).
 
-* **eVideo**: Delivery high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Adobe Dynamic Media Classic encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets.
+* **eVideo**: Deliver high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Adobe Dynamic Media Classic encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets.
     See [Quick Start: Video in Adobe Dynamic Media Classic](/help/using/quick-start-video.md).
 
 * **Image Maps**: Dynamically serve images at any size and format throughout your Web site. Instead of manually creating many images at different sizes, you only need to use one primary image. As Adobe Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening.
@@ -47,7 +47,7 @@ Adobe Dynamic Media Classic offers many tools for creating rich media. You creat
 * **Image Sets**: Deliver an interactive shopping experience in which users can view products in multiple views. You can combine zoom, multiple views, and color swatches for an integrated viewing experience.
     See [Quick Start: Image Sets](/help/using/quick-start-image-sets.md).
 
-* **Mixed Media Sets**: Provide a blend of image sets, Spin Sets, swatch sets, Zoom Targets, video, and audio in one presentation. You can set up Mixed Media sets with tabs to separate video from images. You can also specify where and how to display swatches and Zoom Targets and give users a full multimedia view of your products or services.
+* **Mixed Media Sets**: Provide a blend of image sets, Spin Sets, swatch sets, Zoom Targets, video, and audio in one presentation. To separate video from images, you can set up Mixed Media sets with tabs. To give users a full multimedia view of your products or services, you can also specify where and how to display swatches and Zoom Targets.
     See [Quick Start: Mixed Media Sets](/help/using/quick-start-mixed-media-sets.md).
 
 * **Spin Sets**: Sequence images to spin them horizontally. Spin Sets let website visitors turn products and view them from different sides. You can create one-dimensional and two-dimensional Spin Sets.
@@ -56,8 +56,8 @@ Adobe Dynamic Media Classic offers many tools for creating rich media. You creat
 * **Swatch Sets**: Deliver an interactive shopping experience in which users can view products in different colors and patterns. You can combine zoom, multiple views, and color swatches for an integrated viewing experience.
     See [Quick Start: Swatch Sets](/help/using/quick-start-swatch-sets.md).
 
-* **Template Basics**: Create data-driven templates that combine fonts, images, and graphics for monogramming, online personalization, and promotions. For example, layer sale or other promotional graphics onto product images or place the names of customers on T-shirts or coffee mugs. Customers can see their names in e-mail messages or print brochures you send to them.
+* **Template Basics**: Create data-driven templates that combine fonts, images, and graphics for monogramming, online personalization, and promotions. For example, layer promotional graphics onto product images or personalize T-shirts or coffee mugs with customer names. Customers can see their names in email messages or print brochures you send to them.
     See [Quick Start: Template Basics](/help/using/quick-start-template-basics.md).
 
-* **Zoom Targets**: Lets customers zoom in, zoom out, and pan images using the configurable viewers that come with Adobe Dynamic Media Classic. Customers can quickly and interactively view high-resolution product details.
+* **Zoom Targets**: Let customers zoom in, zoom out, and pan images using the configurable viewers that come with Adobe Dynamic Media Classic. Customers can quickly and interactively view high-resolution product details.
     See [Quick Start: Zoom](/help/using/quick-start-zoom.md).
