@@ -1,5 +1,5 @@
 ---
-title: Search Dynamic Media Classic assets
+title: Search Dynamic Media Classic Assets
 description: Learn how to search assets in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -37,15 +37,15 @@ To locate file assets in Adobe Dynamic Media Classic, you can view assets by typ
 
 ## View assets by type {#viewing-assets-by-type}
 
-To see only files of a certain type as you browse, in the Asset Library on the left side, in the **[!UICONTROL Show]** drop-down list, choose a file type. Only assets of the type you chose to show appear in the Asset Library.
+To see only files of a certain type as you browse, choose a file type in the **[!UICONTROL Show]** drop-down list in the Asset Library on the left. Only assets of the type you chose to show appear in the Asset Library.
 
 >[!NOTE]
 >
->If you do not see the Asset Library panel on the left side, click the right triangle arrow on the left side, half way down the Dynamic Media Classic window, to open the Asset Library.
+>If the Asset Library panel is hidden, click the right triangle arrow in the middle of the Dynamic Media Classic window to display it.
 
 ## Sort files in the Browse panel {#sorting-files-in-the-browse-panel}
 
-You can sort the contents of a folder or search results that appear in the Browse panel on the right side. On the Global Navigation bar, select **[!UICONTROL Sort]**, and then choose an option. The options are **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, and **[!UICONTROL Last Modified]**.
+You can sort the contents of a folder or search results that appear in the Browse panel. On the Global Navigation bar, select **[!UICONTROL Sort]**, and then choose an option. The options are **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, and **[!UICONTROL Last Modified]**.
 
 You can also choose **[!UICONTROL Ascending]** or **[!UICONTROL Descending]** to sort assets in ascending or descending order by the criteria you choose.
 
@@ -56,7 +56,7 @@ In List View, you can sort by selecting a column name.
 Use the Search field in the Asset Library so you can conduct simple searches. You can search for items by name or search for items whose metadata contains a keyword.
 
 1. In the Asset Library, in the **[!UICONTROL Folders]** panel, select the folder to search in a particular folder and its subfolders.
-1. To the left of the Search field in the Asset Library, select the **[!UICONTROL Magnifying Glass]** icon to open the drop-down list.
+1. To the left of the Search field in the Asset Library, select the **[!UICONTROL Search]** icon to open the drop-down list.
 1. In the drop-down list, choose an option that describes how narrow or broad you want the search to be. You can choose **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, or **[!UICONTROL Within Selected Folder & Subfolders]**.
 1. In the Search field, enter a search term.
 1. To the right of the Search field, select **[!UICONTROL Go]** or press **[!UICONTROL Enter]**.
@@ -79,7 +79,7 @@ Specify any of the following criteria in your advanced search:
 
 * **Files and folders**: Choose where you want to search: **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, or **[!UICONTROL Within Selected Folder & Subfolders]**.
 
-* **All publish states**: Search for files that are marked ready for publishment, are not marked ready for publish, or all files.
+* **All publish states**: Search for files that are marked ready for publishing, are not marked ready for publish, or all files.
 
 * **Conditions**: If you specify metadata criteria for searching, select whether the search must match all conditions (an ALL search) or any condition (an OR search).
 
@@ -101,7 +101,7 @@ Select **[!UICONTROL Clear]** if you want to clear the search criteria and start
 
 Filter assets in the Filters tab of the Asset Library. To filter assets, you use metadata values as the criteria. After choosing a metadata field to filter on, the Filters tab lists all metadata values that were entered in the field you chose. It also lists the number of assets that were assigned each value. For example, in a filter operation on the **[!UICONTROL Creator]** metadata field, the **[!UICONTROL Filters]** tab lists all names that were entered in the **[!UICONTROL Creator]** metadata field for different assets. It also lists for each name, the number of assets assigned to the name. You then select a metadata value to see all assets that were assigned that value. In the example, you select the `Prairie Cat` metadata value to see all assets in which the name `Prairie Cat` was entered in the **[!UICONTROL Creator]** metadata field. You can filter using more than one metadata field as a filtering criterion.
 
-You can save filter operations to run them many times.
+To run filter operations many times, you can save them.
 
 >[!NOTE]
 >
@@ -115,7 +115,7 @@ Follow these steps so you can locate assets by filtering with their metadata val
 
 1. In the Asset Library, select the **[!UICONTROL Filters]** tab.
 
-   The criteria of your previous filter operation appear in the Filters pane. The Filters pane is divided into panels, with each panel representing a metadata field. Use the panels to choose which metadata fields to filter with, and within each field, to choose a metadata value for the filter operation.
+   The criteria of your previous filter operation appear in the Filters pane. The Filters pane is divided into panels, each representing a metadata field. Use the panels to choose which metadata fields to filter with, and within each field, to choose a metadata value for the filter operation.
 
    To run a filter operation you created and saved, select **[!UICONTROL Select Preset]**, and then choose the operation's name on the menu.
 
@@ -163,13 +163,13 @@ Follow these instructions in the Filters tab so you can save, repeat, and delete
 
 ## Use the metadata server {#using-the-metadata-server}
 
-The metadata server is a public API that you can use to search for assets by metadata by way of http requests.
+The metadata server is a public API that you can use to search for assets by metadata using http requests.
 
 To configure the metadata server, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Metadata Server]**.
 
 The Metadata Server Publisher page lets you set the following options:
 
-* **[!UICONTROL Instant Publishing]**: Automatically pushes any metadata changes when they are made, including new assets, keyword changes, and so on.
+* **[!UICONTROL Instant Publishing]**: Automatically pushes any metadata changes when they are made, including new assets, keyword changes, and other related items.
 
 * **[!UICONTROL XMP Packet]**: Publishes the XMP Packet. This packet is not used for searching, but provides the most up-to-date XMP.
 
