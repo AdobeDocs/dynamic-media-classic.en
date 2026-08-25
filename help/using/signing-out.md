@@ -1,5 +1,5 @@
 ---
-title: Sign in to and out of Adobe Dynamic Media Classic
+title: Sign In to and Out of Adobe Dynamic Media Classic
 description: Learn about signing in to and out of Adobe Dynamic Media Classic. Also learn how to connect to a production server in North America (NA), or Europe, Middle East, Africa (EMEA), or Asia-Pacific (APAC).
 contentOwner: Rick Brough
 content-type: reference
@@ -32,11 +32,11 @@ level_v2:
 
 Make sure that you have the following before using the Adobe Dynamic Media Classic desktop application:
 
-* **User name**: You use your e-mail address as your login name.
+* **User name**: You use your e-mail address as your username.
 
 * **Password**: You obtain your temporary password in a "Welcome" e-mail from Adobe Dynamic Media Classic or from your Adobe Dynamic Media Classic administrator. The first time you sign in, you are prompted to change this temporary password.
 
-1. Open Adobe Dynamic Media Classic desktop application.
+1. Open the Adobe Dynamic Media Classic desktop application.
 
     ![Adobe Dynamic Media Classic sign in](/help/using/assets/dmclassic-login1.png)
 
