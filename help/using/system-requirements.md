@@ -1,5 +1,5 @@
 ---
-title: System requirements for Adobe Dynamic Media Classic desktop app
+title: System Requirements for Adobe Dynamic Media Classic Desktop App
 description: Learn about the system requirements for the best experience using Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -29,10 +29,10 @@ topic_v2:
 ---
 # System requirements for Adobe Dynamic Media Classic desktop app {#system-requirements}
 
-For the best experience using the Adobe Dynamic Media Classic desktop app, make sure that your system meets the following system requirements and suggestions:
+To use the Adobe Dynamic Media Classic desktop app, make sure that your system meets the following system requirements and suggestions:
 
 * Microsoft&reg; Windows&reg; 7 or newer or macOS X 10.10 or newer Mac Intel&reg; processor required.
-* 3-GB RAM or higher required (4 GB or higher suggested).
+* 3 GB RAM or higher required (4 GB or higher suggested).
 * Color monitor.
 * A video card that supports True Color at 1280x1024 resolution or higher.
 * Java-enabled browser.
@@ -41,5 +41,5 @@ For the best experience using the Adobe Dynamic Media Classic desktop app, make 
 
 >[!MORELIKETHIS]
 >
->* [Dynamic Media limitations](/help/using/limitations.md)
+>* [Dynamic Media Constraints](/help/using/limitations.md)
 
