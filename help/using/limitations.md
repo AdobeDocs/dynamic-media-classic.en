@@ -1,5 +1,5 @@
 ---
-title: Dynamic Media Limitations
+title: Dynamic Media Constraints
 description: Learn about the best practices and enforced limits when you create an Image Set or a Spin Set, or upload a PDF. Also learn about unsupported Web browser and operating system combinations for Dynamic Media.
 contentOwner: Rick Brough
 content-type: reference
@@ -29,7 +29,7 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 ---
-# Dynamic Media Limitations
+# Dynamic Media constraints
 
 The following sections describe limitations in Dynamic Media.
 
