@@ -1,5 +1,5 @@
 ---
-title: Setup basics
+title: Setup Basics
 description: Learn how to use the Setup screen to enter your personal settings in Adobe Dynamic Media Classic. If you are an administrator, set up your company settings.
 contentOwner: Rick Brough
 content-type: reference
@@ -33,16 +33,16 @@ topic_v2:
 
 Use the Adobe Dynamic Media Classic Setup page to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup page, on the Global Navigation bar, select **[!UICONTROL Setup]**.
 
-The settings available to you on this page depend on your status as a user or administrator:
+The settings on this page depend on your user or administrator role:
 
-* Users can only access **[!UICONTROL Personal Setup]** and the accounts of companies of which they are a member; they cannot perform any administrative tasks.
-* Administrators can access **[!UICONTROL Personal Setup]**, and view and administer their own company accounts. They can also perform all application setup functions, and all administration functions, including adding administrators and users.
+* Users can access **[!UICONTROL Personal Setup]** and the accounts of companies of which they are members; they cannot perform any administrative tasks.
+* Administrators can access **[!UICONTROL Personal Setup]** and view and administer their own company accounts. They can also perform all application setup functions and all administration functions, including adding administrators and users.
 
-Administrators can also set up Image Presets and Viewer presets in the **[!UICONTROL Setup]** page:
+Administrators can also set up Image Presets and Viewer presets on the **[!UICONTROL Setup]** page:
 
 * **Image Presets**: Image Presets are saved formats for displaying primary images at different sizes and formats.
 
-* **Viewer presets**: Viewer presets determine how you see your rich media when you see it in a viewer.
+* **Viewer presets**: Viewer presets determine how your rich media appears when viewed in a viewer.
 
 >[!MORELIKETHIS]
 >
