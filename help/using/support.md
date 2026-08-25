@@ -1,5 +1,5 @@
 ---
-title: Support options for Adobe Dynamic Media Classic
+title: Support Options for Adobe Dynamic Media Classic
 description: Learn about technical support options for Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -31,7 +31,7 @@ topic_v2:
 ---
 # Support {#support}
 
-Technical support offerings are designed to meet the needs of any size company. The following table describes Adobe Dynamic Media Classic Customer Care offerings:
+Technical support offerings are designed to meet the needs of any-sized company. The following table describes Adobe Dynamic Media Classic Customer Care offerings:
 
 | Support | Subscription |
 | --- | --- |
@@ -49,7 +49,7 @@ Technical support offerings are designed to meet the needs of any size company. 
 When reporting issues to Technical Support, include this information:
 
 * Adobe Dynamic Media Classic company name.
-* Your name, phone number, and e-mail address.
+* Your name, phone number, and email address.
 * Adobe Dynamic Media Classic application, platform, and version.
 * Description of the issue and the steps necessary to reproduce the problem.
 * Error message, if any.
