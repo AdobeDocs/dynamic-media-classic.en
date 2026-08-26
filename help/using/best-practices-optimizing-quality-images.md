@@ -1,5 +1,5 @@
 ---
-title: Best Practices for Optimizing the Quality of Your Images
+title: Guidelines for Optimizing the Quality of Your Images
 description: Learn best practices for optimizing the quality of your images.
 contentOwner: Rick Brough
 content-type: reference
@@ -29,7 +29,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 ---
-# Best practices for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}
+# Guidelines for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}
 
 Optimizing image quality can be time-consuming. Many factors contribute to rendering acceptable results. The outcome is partly subjective because individuals perceive image quality differently. Structured experimentation is essential.
 

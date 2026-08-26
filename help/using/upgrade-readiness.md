@@ -1,5 +1,5 @@
 ---
-title: Upgrade readiness
+title: Upgrade Readiness Checklist
 description: An upgrade readiness checklist when you want to advance from [!DNL Adobe Dynamic Media Classic] to [!DNL Dynamic Media] on [!DNL Adobe Experience Manager].
 feature: Dynamic Media Classic
 role: Admin,User
