@@ -1,5 +1,5 @@
 ---
-title: Test the integration by viewing an Adobe Analytics report
+title: Test the Integration by Viewing an Adobe Analytics Report
 description: Learn how to test the integration in Adobe Dynamic Media Classic by viewing an Adobe Analytics report.
 contentOwner: Rick Brough
 content-type: reference
@@ -35,15 +35,15 @@ After you have created the necessary variables in Adobe Analytics, linked them t
 
 **To test the integration by viewing an Adobe Analytics report:**
 
-1. Start an Adobe Dynamic Media Classic viewer from your account, particularly one that broadcasts the metric that you want to obtain, and interact with it to create some event data.
+1. Start an Adobe Dynamic Media Classic viewer from your account, one that broadcasts the metric that you want to obtain, and interact with it to create some event data.
 
-   For example, if you want to measure popular alternative views in an Image Set, then preview an Image Set and click the different thumbnails images.
+   For example, if you want to measure popular alternative views in an Image Set, then preview an Image Set and click the different thumbnail images.
 
 1. Inside Adobe Analytics, go to **[!UICONTROL Custom Traffic]** > **[!UICONTROL Custom Traffic 1-10]** > [Name of prop], selecting your traffic prop name from the menu choices.
 
    For example, to access the **[!UICONTROL LoadAsset]** prop in the sample account, the proper menu choice is **[!UICONTROL Custom Traffic]** > **[!UICONTROL Custom Traffic 1-10]** > **[!UICONTROL LoadAsset]**. If you have more than ten custom props, you see other menu choices as well.
 
-1. View the chart produced by Adobe Analytics. This chart is typically just the data for a single metric. If you also want to know with which asset this data is associated, obtain the asset data of this event. For example, it is often useful to know which video is watched only 50%, or which image in a set is popular.
+1. View the chart produced by Adobe Analytics. This chart is the data for a single metric. If you also want to know which asset this data is associated with, obtain the asset data of this event. For example, it is often useful to know which video is watched only 50% or which image in a set is frequently viewed.
 
 >[!NOTE]
 >
