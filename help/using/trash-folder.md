@@ -34,15 +34,15 @@ Deleting items from the Trash folder permanently deletes items from Adobe Dynami
 
 >[!NOTE]
 >
->Assets that have been moved to the Trash folder are still registered on Adobe Dynamic Media Classic. For example, suppose you try to upload a file that has the same name as a deleted file in the Trash folder. Adobe Dynamic Media Classic treats the asset that you want to upload as a duplicate asset. As such a case, a number is appended to its name.
+>Assets that have been moved to the Trash folder are still registered on Adobe Dynamic Media Classic. For example, suppose you try to upload a file that has the same name as a deleted file in the Trash folder. Adobe Dynamic Media Classic treats the asset that you want to upload as a duplicate asset. In such a case, a number is appended to its name.
 
 ## About the Trash folder {#about-the-trash-folder}
 
 Deleting an item in a folder places the item in the Trash folder. The following happens when you delete an item and move it to the Trash folder:
 
-* Although the item is removed from your Adobe Dynamic Media Classic folder, its ID cannot be assigned to another asset while it remains in the Trash folder. If you try to upload an asset with the same name as a file in the Trash folder, Adobe Dynamic Media Classic appends a numeral to the name of the asset. 
-* The item cannot be published. Even if the item was marked for publish when you deleted it, it is not published.
-* The item remains in the Trash folder until it is restored, seven days pass, or someone chooses the **[!UICONTROL Empty the Trash]** command. After seven days, an automatic clean-up operation permanently deletes the item.
+* Although the item is removed from your Adobe Dynamic Media Classic folder, its ID cannot be assigned to another asset while it remains in the Trash folder. If you try to upload an asset with the same name as a file in the Trash folder, Adobe Dynamic Media Classic appends a number to the name of the asset. 
+* The item cannot be published. Even if the item was marked for publishing when you deleted it, it is not published.
+* The item remains in the Trash folder until it is restored, seven days pass, or someone chooses the **[!UICONTROL Empty the Trash]** command. After seven days, an automatic deletion operation permanently deletes the item.
 
 ## Restore assets from the Trash folder {#restoring-assets-from-the-trash-folder}
 
@@ -58,9 +58,9 @@ To restore assets from the Trash folder to the folders from which they were dele
 
 When you delete assets in the Trash folder, the assets are permanently deleted. Assets are automatically deleted from the Trash folder after seven days.
 
-You can permanently delete assets from the Trash folder by electing the **[!UICONTROL Trash]** icon. On the Trash folder page, do any of the following:
+You can permanently delete assets from the Trash folder by selecting the **[!UICONTROL Trash]** icon. On the Trash folder page, do any of the following:
 
-* **Deleting individual assets**: You can permanently delete assets. Select the assets that you want, then click **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
+* **Deleting individual assets**: You can permanently delete assets. Select the assets that you want, then click **[!UICONTROL File]** > **[!UICONTROL Empty from Trash]**.
 
 * **Deleting all assets**: Go to **[!UICONTROL File]** > **[!UICONTROL Empty trash]**.
 
