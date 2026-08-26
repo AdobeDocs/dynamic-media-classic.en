@@ -1,5 +1,5 @@
 ---
-title: Test assets before making them public
+title: Test Assets Before Making them Public
 description: Learn how to test assets in Adobe Dynamic Media Classic before making them public.
 contentOwner: Rick Brough
 content-type: reference
@@ -35,7 +35,7 @@ If desired, create a staging environment rather than making assets publicly avai
 
 * Preview websites before public launch (staging website).
 * Serve assets that require restricted access, such as eCatalogs that show prices in a B2B Web application.
-* Use assets behind a firewall as part of a product information management system, customer service application, training site, and so on.
+* Use assets behind a firewall as part of a product information management system, customer service application, training site, or similar systems.
 
 >[!NOTE]
 >
@@ -43,19 +43,19 @@ If desired, create a staging environment rather than making assets publicly avai
 
 ## How Secure Testing works {#how-secure-testing-works}
 
-Most corporations run their Internet behind a firewall. Access to the Internet is possible through certain routes and typically through a limited range of public IP addresses.
+Most corporations host their Internet services within a private network. Access to the Internet is possible through certain routes and typically through a limited range of public IP addresses.
 
-From your corporate network, you can figure out your public IP address using websites like [https://www.whatismyip.com](https://www.whatismyip.com/) or request this information from your corporate IT organization.
+From your corporate network, you can determine your public IP address using websites like [https://www.whatismyip.com](https://www.whatismyip.com/) or request this information from your corporate IT organization.
 
-With the Secure Testing, Adobe Dynamic Media Classic establishes a dedicated Image Server for staging environments or internal applications. Any request to this server checks the origin IP address. If the incoming request is not within the approved list of IP addresses, a failure response is returned. The Adobe Dynamic Media Classic Company Administrator configures the approved list of IP addresses for their company's Secure Testing environment.
+With Secure Testing, Adobe Dynamic Media Classic establishes a dedicated Image Server for staging environments or internal applications. Any request to this server checks the origin IP address. If the incoming request is not within the approved list of IP addresses, a failure response is returned. The Adobe Dynamic Media Classic Company Administrator configures the approved list of IP addresses for the company's Secure Testing environment.
 
-Because the location of the original request must be confirmed, the traffic of the Secure Testing service is not routed through a content distribution network like public Dynamic Media Image Server traffic. Requests to the Secure Testing service have a slightly higher latency compared to the public Dynamic Media Image Servers.
+Because the location of the original request must be confirmed, traffic for the Secure Testing service is not routed through a content distribution network like public Dynamic Media Image Server traffic. Requests to the Secure Testing service have a slightly higher latency compared to the public Dynamic Media Image Servers.
 
-Unpublished assets are immediately available from the Secure Testing services, without the need to publish. In this way, you can run a preview before assets are published to their public facing Image Server.
+Unpublished assets are immediately available from the Secure Testing services, without the need to publish. In this way, you can run a preview before assets are published to their public-facing Image Server.
 
 >[!NOTE]
 >
->Secure Testing services use the Catalog Server that is configured with an internal publish context. Therefore, if your company is configured to publish to Secure Testing, any uploaded assets in Adobe Dynamic Media Classic are immediately available on Secure Testing services. This functionality is true regardless of whether the assets are marked for publish on upload.
+>Secure Testing services use the Catalog Server that is configured with an internal publish context. Therefore, if your company is configured to publish to Secure Testing, any uploaded assets in Adobe Dynamic Media Classic are immediately available on Secure Testing services. This functionality applies regardless of whether the assets are marked for publishing on upload.
 
 Secure Testing services currently support the following asset types and functionalities:
 
@@ -72,7 +72,7 @@ Last Modified Date:
 * Images.
 * Vignettes (Render Server requests).
 * Render Server requests (supported, but customer must explicitly request it).
-* Sets, including image sets, eCatalog, render sets, and media sets.
+* Sets, including image, eCatalog, render, and media sets.
 * Standard Adobe Dynamic Media Classic rich media viewers.
 * Adobe Dynamic Media Classic OnDemand JSP pages.
 * Static content, such as PDF files and progressively served videos.
@@ -116,7 +116,7 @@ Last Modified Date:
 1. In Adobe Dynamic Media Classic, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
 1. On the Image Server Publish page, in the **[!UICONTROL `Publish Context`]** drop-down list, select **[!UICONTROL Test Image Serving]**.
 1. For the Client Address Filter, select **[!UICONTROL Add]**.
-1. Select the check box so that the address is enabled (turned on), and then type an IP address and net mask in the respective text fields.
+1. Select the check box so that the address is enabled, and then type an IP address and netmask in the respective text fields.
 
    >[!NOTE]
    >
@@ -130,7 +130,7 @@ Last Modified Date:
 
    See [Upload files](uploading-files.md#uploading_files).
 
-1. Make sure some of the images are marked for publishment and others are unmarked, and then submit the publishment job.
+1. Make sure some of the images are marked for publishing and others are unmarked, and then submit the publishing job.
 
    See [Publish files](publishing-files.md#publishing_files).
 
@@ -152,12 +152,12 @@ Perform the following tests:
 
 1. Check whether assets are visible from within your corporate network.
 
-   From within the corporate network identified by the previously defined IP address range, the staging version of the website displays all images, whether marked for publish or not. As such, you can test without accidentally making images available before preview approval or product launch.
+   From within the corporate network identified by the previously defined IP address range, the staging version of the website displays all images, whether marked for publishing or not. Therefore, you can test without accidentally making images available before preview approval or product launch.
 
-   Confirm that the public version of your site shows published assets as previously experienced with Adobe Dynamic Media Classic.
+   Confirm that the public version of your site shows published assets as previously observed with Adobe Dynamic Media Classic.
 
-1. From outside your corporate network, verify that nonpublished assets (that is, unmarked for publishment) are protected from third-party access.
+1. From outside your corporate network, verify that unpublished assets (that is, unmarked for publishing) are protected from third-party access.
 
-   Access your network from outside (such as from your home computer or over a 3G connection), then verify that the public version of the site shows all published assets but none of the unpublished content.
+   Access your network from outside, and then verify that the public version of the site shows all published assets but no unpublished content.
 
-   Confirm that the staging version does not show any asset because you are accessing the Secure Testing service from an unapproved IP address.
+   Confirm that the staging version does not show any assets because you are accessing the Secure Testing service from an unapproved IP address.
