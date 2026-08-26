@@ -27,7 +27,7 @@ topic_v2:
   - id: da3860b0-d637-47df-bef0-273751180266
     internal-label: Digital asset management
 ---
-# Frequently asking questions about upgrading from [!DNL Dynamic Media Classic] to [!DNL Dynamic Media] 
+# Frequently asked questions about upgrading from [!DNL Dynamic Media Classic] to [!DNL Dynamic Media]
 
 ## General information
 
@@ -53,7 +53,7 @@ topic_v2:
 * Review and approval workflows for work in process assets.
 * Ease of adoption and use with new UI.
 * Create Shoppable/Interactive Media experiences using images and video that drive conversion and enrich user engagement and satisfaction.
-* Combine campaign assets with product information so you can streamline the click to cart.
+* Combine campaign assets with product information so you can streamline the purchasing process.
 * Easily create, adjust, brand, and deploy interactive viewers using the WYSIWYG Viewer Designer.
 * Deliver optimized rich media to [!DNL Experience Cloud] solutions.
 * Integration with [!DNL Experience Cloud] for advanced asset analytics, targeting, and asset reuse across marketing touch points. Those touchpoints include [!DNL Adobe Campaign] for email, [!DNL Adobe Social] for social channels, and [!DNL Experience Manager] Sites for responsive Web and mobile apps.
@@ -61,11 +61,11 @@ topic_v2:
 +++
 
 +++**Does [!DNL Dynamic Media] use the existing Adobe CDN (Content Delivery Network)?**
-Yes, [!DNL Dynamic Media] uses Adobe's robust, top-tier delivery network.
+Yes, [!DNL Dynamic Media] uses Adobe's robust, high-performance delivery network.
 
 * Top rich media vendor to Internet Retail 1000, nine years in a row.
-* 24/7/265 support, 99.95% SLAs.
-* Proven infrastructure serving more than 800 clients world wide, 3.5 petabytes of traffic per month and more than 500 million assets in management, 60% growth in traffic year over year.
+* 24/7/365 support, 99.95% SLAs.
+* Proven infrastructure serving more than 800 clients worldwide, 3.5 petabytes of data transfer per month and more than 500 million assets managed, 60% annual growth in traffic.
 
 +++
 
@@ -87,7 +87,7 @@ Contact your Adobe Account Team representative or [email s7support@adobe.com](ma
 +++
 
 +++**How is the upgrade process handled?**
-AGS (Adobe Global Services) handles the upgrade and treats it as a service project. Adobe provides migration of the assets only. The customer, AGS, or Partner is responsible for all other upgrade aspects and steps. At a summary level, an upgrade plan contains the following:
+AGS (Adobe Global Services) handles the upgrade and treats it as a service project. Adobe provides migration of the assets only. The customer, AGS, or Partner is responsible for all other upgrade aspects and steps. An upgrade plan contains the following:
 
 * Provision company/user accounts.
 * Replicate assets from [!DNL Dynamic Media Classic] (formerly Scene7) to the [!DNL Dynamic Media] component of [!DNL Experience Manager] Assets (provided by Adobe through an automated upgrade tool).
@@ -134,7 +134,7 @@ You can upgrade when you are ready to take advantage of the new features offered
 +++
 
 +++**Can I still use [!DNL Dynamic Media Classic] (formerly Adobe Scene7) after I have upgraded to [!DNL Dynamic Media]?**
-After you have upgraded to [!DNL Dynamic Media], you should only use Dynamic Media for imaging and video. You can continue to use [!DNL Dynamic Media Classic] only for features that are not yet available in [!DNL Dynamic Media] including the following:
+After you have upgraded to [!DNL Dynamic Media], use only Dynamic Media for imaging and video. You can continue to use [!DNL Dynamic Media Classic] only for features that are not yet available in [!DNL Dynamic Media] including the following:
 
 * Visual configurator (image author, image render).
 * Image templates.
@@ -153,17 +153,17 @@ Yes. You can continue to use the [!DNL Dynamic Media Classic] (formerly Adobe Sc
 +++
 
 +++**Do I have to update my production URLs?**
-No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. The benefit of this approach is that you do not have to change any production URLs on your Web pages, therefore minimizing the risk and effort of migration to [!DNL Dynamic Media].
+No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. The benefit of this approach is that you do not have to change any production URLs on your Web pages, therefore reducing the risk and effort of migrating to [!DNL Dynamic Media].
 
 +++
 
 +++**Will I have to rewrite API integrations and other automation scripts?**
-No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. In addition, all assets are replicated over to [!DNL Dynamic Media Classic]. The benefit of this approach is that you do not have to rewrite any API-based integrations or automation scripts, therefore minimizing the risk and effort of migration to [!DNL Dynamic Media].
+No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. In addition, all assets are replicated over to [!DNL Dynamic Media Classic]. The benefit of this approach is that you do not have to rewrite any API-based integrations or automation scripts, therefore reducing the risk and effort of migrating to [!DNL Dynamic Media].
 
 +++
 
 +++**Will I have to make changes or redevelop my custom viewers?**
-No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. The benefit of this approach is that you can continue to use your custom-built viewers, therefore minimizing the risk and effort of migration to [!DNL Dynamic Media].
+No. Adobe continues to use the [!DNL Dynamic Media Classic] publishing and delivery infrastructure as-is in the [!DNL Dynamic Media] solution. The benefit of this approach is that you can continue to use your custom-built viewers, therefore reducing the risk and effort of migrating to [!DNL Dynamic Media].
 +++
 
 +++**How do I migrate my settings (such as Image Presets, video encodings) to [!DNL Dynamic Media]?**
@@ -212,7 +212,7 @@ Page Views per Month (PVM). Page View means a single view of an email or Web pag
 +++
 
 +++**When is Personalized Media going to be available with [!DNL Dynamic Media]?**
-Adobe is aggressively working to add Personalized Media features to [!DNL Dynamic Media]. More information on release timing is forthcoming.
+Adobe is aggressively working to add Personalized media features to [!DNL Dynamic Media]. More information on release timing is forthcoming.
 
 +++
 
@@ -255,7 +255,7 @@ See also the [Feature Comparison](/help/using/upgrade-feature-comparison.md) pag
 ## Consulting services
 
 +++**Can I complete the upgrade process on my own?**
-No. Work with your Adobe representative and AGS to scope your upgrade.
+No. To scope your upgrade, work with your Adobe representative and AGS.
 
 +++
 
@@ -276,7 +276,7 @@ Phone: 1-800-898-9743 (US) | +44 (0)20 35641782 (UK) | +81-3-6743-9632 (Japan)
 +++
 
 +++**Where can I learn more about paid training options?**
-See [Adobe Digital Learning Services](https://learning.adobe.com).
+See [Adobe Digital Learning Services](https://experienceleague.adobe.com/en/premium/home).
 
 For custom or individual training, contact your Adobe Account Team representative.
 
@@ -285,6 +285,6 @@ For custom or individual training, contact your Adobe Account Team representativ
 ## Additional resources                                  
  
 +++**Where can I learn more about [!DNL Dynamic Media] and its features?**
-See the [[!DNL Dynamic Media] microsite](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/solutions.html) to learn more about [!DNL Dynamic Media].
+To learn more about [!DNL Dynamic Media], see the [[!DNL Dynamic Media] microsite](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/solutions.html).
 
 +++
