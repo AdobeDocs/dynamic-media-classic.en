@@ -14,11 +14,11 @@ index: true
   + [Why upgrade to Dynamic Media?](upgrade.md)
   + [Upgrade FAQ](upgrade-faq.md)
   + [Feature list comparison](upgrade-feature-comparison.md)
-  + [Upgrade readiness check list](upgrade-readiness.md)
+  + [Upgrade readiness checklist](upgrade-readiness.md)
 + [Adobe Dynamic Media Classic Guide](home.md)
 + [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
 + [NEW Adobe Dynamic Media Classic log on now available](new-ui-2020.md)
-+ [Adobe Dynamic Media newsletter archive by Experience League](dynamic-media-newsletter.md)
++ [Adobe Dynamic Media newsletter archive by Adobe Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
   + [Adobe Dynamic Media Classic Desktop app: Now available](dynamic-media-classic-desktop-app.md)
   + [About Adobe Dynamic Media Classic Help](introduction.md)
@@ -52,10 +52,10 @@ index: true
   + [Manage FTP accounts](ftp-accounts.md)
   + [Specify export options available to Media Portal users](specifying-export-options-available-media.md)
   + [Create and enable Image Presets](creating-enabling-image-presets.md)
-  + [Manage Metadata Efficiently](making-efficient-metadata.md)
+  + [Manage Metadata](making-efficient-metadata.md)
   + [Customize the Media Portal screen](customizing-media-portal-screen.md)
 + Upload and publish assets {#upload-publish}
-  + [Upload and publish of assets](about-asset-upload-publish.md)
+  + [Upload and publish assets](about-asset-upload-publish.md)
   + [Upload files](uploading-files.md)
   + [Publish files](publishing-files.md)
   + [Dynamic Media limitations](limitations.md)
@@ -102,7 +102,7 @@ index: true
   + [Link an eCatalog to a Web page](linking-ecatalog-web-page.md)
 + Image Sets {#image-sets}
   + [Quick Start: Image Sets](quick-start-image-sets.md)
-  + [Prepare Image Set assets for upload](preparing-image-set-assets-upload.md)
+  + [Prepare Image Set Assets for upload](preparing-image-set-assets-upload.md)
   + [Create an Image Set](creating-image-set.md)
   + [Include Zoom Targets and Image Maps in Image Sets](including-zoom-targets-image-maps-image-sets.md)
   + [Manage Info Panel content in Image Sets](info-panel-content-image-sets.md)
@@ -112,7 +112,7 @@ index: true
 + Swatch Sets {#swatch-sets}
   + [Quick Start: Swatch Sets](quick-start-swatch-sets.md)
   + [Include Zoom Targets and Image Maps in Swatch Sets](including-zoom-targets-image-maps-swatch-sets.md)
-  + [Prepare Swatch Set assets for upload](preparing-swatch-set-assets-upload.md)
+  + [Prepare Swatch Set Assets for upload](preparing-swatch-set-assets-upload.md)
   + [Create a Swatch Set](creating-swatch-set.md)
   + [View Swatch Sets](viewing-swatch-sets.md)
   + [Link a Swatch Set to a Web page](linking-swatch-set-web-page.md)
@@ -166,7 +166,7 @@ index: true
   + [Get disk usage information](getting-disk-usage-information.md)
   + [Upload a raster image asset](uploading-image-asset-or-vector.md)
 + Primary files {#master-files}
-  + [Best practices for optimizing the quality of your images](best-practices-optimizing-quality-images.md)
+  + [Guidelines for optimizing the quality of your images](best-practices-optimizing-quality-images.md)
   + [Edit images](editing-images.md)
   + [Create Image Maps](creating-image-maps.md)
   + [Crop an image](cropping-image.md)
@@ -175,7 +175,7 @@ index: true
   + [Image fine-tuning editing options at upload](image-editing-options-upload.md)
   + [Work with PDFs](pdfs.md)
   + [Work with PSD files](psd-files.md)
-  + [Work with PostScript and Illustrator files](postscript-illustrator-files.md)
+  + [Work with PostScript and Adobe Illustrator files](postscript-illustrator-files.md)
   + [Work with vignettes, window coverings, and cabinet files](vignette-window-covering-cabinet-files.md)
 + Support files {#support-files}
   + [Fonts](fonts.md)

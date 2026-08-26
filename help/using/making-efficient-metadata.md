@@ -1,5 +1,5 @@
 ---
-title: Manage Metadata Efficiently
+title: Manage Metadata
 description: Learn how to make more efficient use of metadata in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -27,7 +27,7 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
 ---
-# Manage metadata efficiently{#making-more-efficient-use-of-metadata}
+# Manage metadata {#making-more-efficient-use-of-metadata}
 
 All files on Adobe Dynamic Media Classic contain metadata. Metadata describes and identifies a file; it is used for searching for and organizing assets. To view an asset's metadata, open it in Detail View and examine the Metadata panel. The metadata fields on this panel provide descriptive information about the asset.
 
