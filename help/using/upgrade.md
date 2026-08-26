@@ -33,11 +33,11 @@ topic_v2:
 ---
 # Why upgrade to [!DNL Dynamic Media]?
 
-Adobe created [!DNL Dynamic Media] with you in mind. 
+Adobe created [!DNL Dynamic Media] for your needs. 
 
-The new [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] builds on the functionality that you have come to expect from [!DNL Dynamic Media Classic] (formerly Scene7). It gives your organization new and improved tools to build better, more engaging, experiences.
+The new [!DNL Dynamic Media] in [!DNL Adobe Experience Manager] builds on the functionality you expect from [!DNL Dynamic Media Classic] (formerly Scene7). It gives your organization new and improved tools to build better, more engaging, experiences.
 
-[!DNL Dynamic Media] upgrades the content building experience by using real-time, visual builders. Sitting atop Adobe's tried, trusted, and scalable delivery network and paired with the intuitive [!DNL Adobe Experience Manager] user interface, [!DNL Dynamic Media] provides the capabilities to author, iterate, and deliver engaging, next-level experiences.
+[!DNL Dynamic Media] upgrades the content building experience by using real-time, visual builders. Using Adobe's scalable delivery network and paired with the intuitive [!DNL Adobe Experience Manager] user interface, [!DNL Dynamic Media] provides the capabilities to author, iterate, and deliver engaging, advanced experiences.
 
 | What you get with [!DNL Dynamic Media] | Description |
 | --- | --- |
@@ -53,11 +53,11 @@ The new [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] builds on the fu
 
 ## Key benefits and capabilities of [!DNL Dynamic Media]
 
-[!DNL Dynamic Media] is the natural evolution of [!DNL Dynamic Media Classic]. It offers rich media authoring, publishing, and delivery tools sets. It also includes best-in-class delivery with an innovative, user-centric interface, fostering modern real-world workflows.
+[!DNL Dynamic Media] is the successor to [!DNL Dynamic Media Classic]. It offers rich media authoring, publishing, and delivery tool sets. It also includes high-quality delivery with an innovative, user-centric interface, fostering modern workflows.
 
 * Seamless, unified experience and integration with [!DNL Adobe Experience Manager]: Configure and dynamically deliver rich content from one store, one source
-* New marketer-centric user experience for easy authoring and delivery of rich media content
-* WYSIWYG (What You See Is What You Get) when it comes to the overall look and feel, and behavior editors for image viewers and video players.
+* New marketing-centric user experience for easy authoring and delivery of rich media content
+* Visual editing for the overall look and feel, and behavior editors for image viewers and video players.
 * Speed creation and deployment of Shoppable/Interactive Media experiences including image hotspots and shoppable video
 
 ### [!DNL Dynamic Media] capabilities inside [!DNL Experience Manager] Assets
@@ -68,10 +68,10 @@ The new [!DNL Dynamic Media] on [!DNL Adobe Experience Manager] builds on the fu
 | Easy Interactive Experiences UI Elements | &bull; Create experiences easily with non-technical, real-time builders.<br>&bull; Shoppable/Interactive Media, combine campaign assets with product information.<br>&bull; Raise customer satisfaction and drive conversion. |
 | End-To-End Inclusive Workflow | &bull; Deliver optimized rich media to all touchpoints including the complete [!DNL Adobe Experience Cloud] solutions.<br>&bull; Integration with [!DNL Adobe Experience Cloud] for advanced asset analytics, targeting, and asset reuse across marketing touchpoints. Some of those touchpoints include [!DNL Adobe Campaign] for email, [!DNL Adobe Social] for social channels, and [!DNL Adobe Experience Manager] Sites for responsive Web and mobile apps. |
 
-## Why Adobe?
+## Why choose Adobe?
     
-* The largest positive mover in digital assets Forrester WAVE report.
+* The highest-ranked vendor in the digital assets Forrester WAVE report.
 * Strong performer in 2016 Online Video Platform report.
-* Top rich media vendor to Internet Retail 1000, nine years in a row.
-* 24/7/265 support, 99.95% SLAs, Adobe Professional Services.
-* Proven infrastructure serving more than 800 clients world wide, 3.5 petabytes of traffic per month and more than 500 million assets in management, 60% growth in traffic year-over-year.
+* Top rich media provider to Internet Retail 1000, nine consecutive years.
+* 24/7/365 support, 99.95% SLAs, Adobe Professional Services.
+* Proven infrastructure serving more than 800 clients worldwide, 3.5 petabytes of traffic per month, and more than 500 million assets in management, 60% growth in traffic year-over-year.
