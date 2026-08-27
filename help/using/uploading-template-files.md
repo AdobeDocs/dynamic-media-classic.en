@@ -1,5 +1,5 @@
 ---
-title: Upload template files
+title: Upload Template Files
 description: Learn how to upload template files in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -30,11 +30,11 @@ Upload the files that you need for your template into Adobe Dynamic Media Classi
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic recommends using transparent TIFF or PSD images in your templates at the exact size that you want to display them on your Web site. When you publish the template, call the image with an Image Preset that is also the same size. Paying attention to size ensures that your template is not resized (resampled) at a size larger or smaller than the size at which it was designed.
+>Adobe Dynamic Media Classic recommends using transparent TIFF or PSD images in your templates at the exact size that you want to display them on your website. When you publish the template, call the image with an Image Preset that is the same size. Paying attention to size ensures that your template is not resized (resampled) to a size larger or smaller than the size at which it was designed.
 
 Templates can be created from Adobe Photoshop PSD files or image files.
 
-For detailed instructions on uploading files, see [Upload files](uploading-files.md#uploading_files). Keep the following in mind when uploading template files:
+For detailed instructions on uploading files, see [Upload files](uploading-files.md#uploading_files). Consider the following when uploading template files:
 
 * If you are uploading a PSD file, you can create a template from it. Adobe Dynamic Media Classic creates a separate image for each layer in the PSD. In the Upload Job Options dialog box, select **[!UICONTROL Photoshop Options]**, and select **[!UICONTROL Maintain Layers]** and **[!UICONTROL Create Template]**. Then choose an option from the **[!UICONTROL Layer Naming]** drop-down list for naming the images that Adobe Dynamic Media Classic creates from layers in the PSD. 
 See [PSD upload options](psd-files.md#psd_upload_options).
