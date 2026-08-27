@@ -57,7 +57,7 @@ Adobe Dynamic Media Classic is distinct from other systems because you can use A
 
 The URL strings that you generate with Adobe Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same primary image can be delivered in different sizes, formats, weights, colors, or views. As part of building and publishing media assets with Adobe Dynamic Media Classic, you can visually configure the effects. In doing so, you create the URL calls that correctly tell the server how to present your primary asset to applications.
 
-![Adobe Dynamic Media Classic can deliver the same primary image to different mediums in different sizes and formats.](/help/using/assets/gs_dynamic_publishing.png)
+![Adobe Dynamic Media Classic can deliver the same primary image to different mediums in different sizes and formats](/help/using/assets/gs_dynamic_publishing.png).
 *Adobe Dynamic Media Classic ensures that consistent, quality experiences are delivered to any screen, regardless of size or bandwidth.*
 
 ## Content caching {#content-caching}

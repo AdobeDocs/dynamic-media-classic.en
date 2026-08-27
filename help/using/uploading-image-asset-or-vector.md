@@ -1,5 +1,5 @@
 ---
-title: Upload a raster image asset
+title: Upload a Raster Image Asset
 description: Learn how to upload a raster image asset into Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -26,11 +26,11 @@ topic_v2:
 ---
 # Upload a raster image asset {#uploading-an-image-asset-or-a-vector-asset}
 
-Before you can upload an image asset, you first request a shared-secret key. You use this shared-secret key to retrieve an upload token. You then use the upload token to upload raster image assets.
+Before you can upload an image asset, you must first request a shared-secret key. You use this shared-secret key to retrieve an upload token. You then use the upload token to upload raster image assets.
 
 >[!IMPORTANT]
 >
->Starting May 1, 2023, UGC assets in Dynamic Media will be available for use up to 60 days from the date of upload. After 60 days, the assets will be removed.
+>Starting May 1, 2023, UGC assets in Dynamic Media are available for use up to 60 days from the date of upload. After 60 days, the assets are removed.
 
 >[!NOTE]
 >
@@ -38,13 +38,13 @@ Before you can upload an image asset, you first request a shared-secret key. You
 
 ## Request a shared-secret key {#requesting-a-shared-secret-key}
 
-Request a *shared-secret key* by [using the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In the technical support case, request a shared-secret key.
+Request a *shared-secret key* by [using the Admin Console to create a support case](https://helpx.adobe.com/business/enterprise.html). In the technical support case, request a shared-secret key.
 
 In the email message, provide the company name that you want to use to upload image assets. After you receive the key from Adobe Dynamic Media Classic, save it locally for future use.
 
 ## Retrieve the upload token {#retrieving-the-upload-token}
 
-The *upload token* ensures that no one can use the same shared-secret key to upload assets. It ensures that the upload is legitimate and comes from a trusted source.
+The *upload token* ensures that the same shared-secret key cannot be used to upload assets. It ensures that the upload is legitimate and comes from a trusted source.
 
 The upload token is an alphanumeric string that is available only for a specific amount of time. Use the following URLs, substituting your shared-secret key, so you can retrieve the upload token.
 
@@ -146,7 +146,7 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * A file size limit.
 * A list of filename extensions.
 * Whether to preserve the color profile and file name associated with the asset.
-* Whether to use a Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. 
+* Whether to use a Knockout Background. If you enable Knockout Background, configure the Corner, Tolerance, and Fill Method. 
 See Knockout Background in [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
@@ -154,7 +154,7 @@ You can view the HTML source code associated with the form above by selecting [h
 
 In Firefox, right-click in the browser window, and then select **[!UICONTROL View Page Source]**. The code shows the corresponding URL query string and the POST method that is run when the user selects **[!UICONTROL Submit]**.
 
-To view the XML response in Internet Explorer, go to **[!UICONTROL View]** > **[!UICONTROL Source]**. To view the XML response in Firefox, go to **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox is recommended for viewing XML responses.
+To view the XML response in a browser, go to **[!UICONTROL View]** > **[!UICONTROL Source]**. To view the XML response in Firefox, go to **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox is recommended for viewing XML responses.
 
 The following is a sample response from a successful upload:
 
@@ -182,13 +182,13 @@ The following is a sample response from a successful upload:
 >
 >The uploaded asset (JPG, GIF, and so on) is converted to the PTIFF format and the response sends a direct link to that PTIFF asset.
 
-The asset is like any other ImageServing resource; you can apply processing queries to it. For example, the following URL requests an asset that is stretched to the specified width and its height.
+The asset is an ImageServing resource; you can apply processing queries to it. For example, the following URL requests an asset that is stretched to the specified width and height.
 
 ```as3
 https://s7w2p1.scene7.com/is/image/S7WebUGC/ugc/9536356.tif?&wid=800&hei=100&fit=stretch
 ```
 
-Send the asset to upload as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:
+To upload the asset, send it as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:
 
 | URL Parameter | Required or Optional | Value |
 | --- | --- | --- |

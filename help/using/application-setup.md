@@ -552,7 +552,7 @@ Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video.
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|BlackBerry&reg; Smartphone|Windows&reg; Phone|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-|Universal_HTML5_Video(Includes support for closed captioning.) See [Best practice: Using the Universal HTML5 Video viewer.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer)|HTML5|X|X|X|X|X|X|X|
+|Universal_HTML5_Video(Includes support for closed captioning.) See [Best practice: Using the Universal HTML5 Video viewer].(best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer)|HTML5|X|X|X|X|X|X|X|
 |Universal_HTML5_Video_social(Includes support for closed captioning and social media.)|HTML5|X|X|X|X|X|X|X|
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android&trade; Smartphone|Android&trade; Tablet|
