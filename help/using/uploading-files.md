@@ -1,5 +1,5 @@
 ---
-title: Upload files
+title: Upload Files
 description: Learn how to upload files in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -30,15 +30,15 @@ topic_v2:
 ---
 # Upload files{#uploading-files}
 
-Before you upload asset files to Adobe Dynamic Media Classic, make sure that the asset files are named correctly. Ensure that your folder structure is set up and organized the way you want. You can upload files from an Adobe Dynamic Media Classic-provided FTP site or directly from your computer or network. Adobe Dynamic Media Classic offers options for optimizing files as you upload them. If you installed the Adobe Dynamic Media Classic Desktop application, you can upload files and folders by dragging them directly from your desktop. See [Application General Settings](application-setup.md#general_settings).
+Before you upload asset files to Adobe Dynamic Media Classic, make sure that the asset files are named correctly. Ensure that your folder structure is set up and organized according to your requirements. You can upload files from an Adobe Dynamic Media Classic-provided FTP site or directly from your computer or network. Adobe Dynamic Media Classic offers options for optimizing files as you upload them. If you installed the Adobe Dynamic Media Classic Desktop application, you can upload files and folders by dragging them directly from your desktop. See [Application General Settings](application-setup.md#general_settings).
 
 ## Prepare your assets and folders for uploading {#preparing-your-assets-and-folders-for-uploading}
 
-Before uploading assets to Adobe Dynamic Media Classic, make sure that they are in the right format and size. You also have to observe the Adobe Dynamic Media Classic rules for naming assets. By setting up a folder structure for the files, you ensure that you can locate and work with the files easily.
+Before uploading assets to Adobe Dynamic Media Classic, make sure that they are in the right format and size. You also have to observe the Adobe Dynamic Media Classic rules for naming assets. By creating a folder structure for the files, you ensure that you can find and manage the files easily.
 
 ### Supported asset file formats {#supported-asset-file-formats}
 
-This table lists the asset file formats that Adobe Dynamic Media Classic supports. For information on supported Camera Raw files, see [https://helpx.adobe.com/camera-raw/using/supported-cameras.html](https://helpx.adobe.com/camera-raw/using/supported-cameras.html).
+This table lists the asset file formats that Adobe Dynamic Media Classic supports. For information on supported Camera Raw files, see [Supported Camera](https://helpx.adobe.com/camera-raw/desktop/dng-and-file-formats/camera-raw-plug-supported-cameras.html).
 
 | Asset file formats | Description |
 | --- | --- |
@@ -128,7 +128,7 @@ Make sure that all users in your company understand these rules for naming files
 
 * Asset IDs with the same name are not allowed in the system. 
 * Asset ID names are case-sensitive. 
-* As a best practice, make sure that asset IDs do not contain blank spaces. For example, `black jacket.tif` and `blue jacket.jpg`. Adobe Dynamic Media Classic ASCII-encodes blank spaces in asset names when it uses asset names to construct URL strings. These ASCII codes are hard to read, which can make reading URLs more difficult.
+* As a best practice, make sure that asset IDs do not contain blank spaces. For example, `dark jacket.tif` and `blue jacket.jpg`. Adobe Dynamic Media Classic ASCII-encodes blank spaces in asset names when it uses asset names to construct URL strings. These ASCII codes are hard to read, which can make reading URLs more difficult.
 * Language-specific characters are permitted in filenames. However, the following characters are not permitted in filenames:
 
   `\ ; / ? : @ & = + $ , &#42; " &lt; > | ' { } %`
@@ -144,10 +144,10 @@ Usually, an asset filename can be the same as its item number, product SKU, or o
 
 ### Folder organization and structure {#folder-organization-and-structure}
 
-Organize and structure folders and subfolders for your content in Adobe Dynamic Media Classic before you upload your content to the system. Planning ahead has two advantages:
+Organize and structure folders and subfolders for your content in Adobe Dynamic Media Classic before you upload your content to the system. Planning has two advantages:
 
 * When you upload your content to Adobe Dynamic Media Classic using FTP, you can tell the system to replicate your folder structure during the upload. This way, your content is organized in the same folders and subfolders in Adobe Dynamic Media Classic as it is on your computer or network. (To replicate your folder structure in Adobe Dynamic Media Classic, select the **Include Subfolders** option when you upload assets using FTP.)
-* Reorganizing folders inside the system after files are uploaded takes more time and effort than planning your folder structure before you begin.
+* Reorganizing folders inside the system after files are uploaded requires more time and effort than planning your folder structure before you begin.
 
 The folder-naming approach and structure you choose for storing your content on Adobe Dynamic Media Classic depends on the needs of your organization. Here are some sample folder structures:
 
@@ -165,7 +165,7 @@ You can upload individual files from the desktop or upload folders using FTP. If
 
 Adobe Dynamic Media Classic sends you an email message to confirm when your upload job begins and ends, and to notify you of any issues.
 
-During (or immediately after) a large upload job, some new items might display the "Image not yet optimized" message. This message appears because the files are not yet fully processed and added to Adobe Dynamic Media Classic. You can optimize these files later. See [Optimize files](application-setup.md#optimize_files).
+During (or immediately after) a large upload job, some new items display the "Image not yet optimized" message. This message appears because the files are not yet fully processed and added to Adobe Dynamic Media Classic. You can optimize these files later. See [Optimize files](application-setup.md#optimize_files).
 
 ### FTP security {#ftp-security}
 
@@ -191,7 +191,7 @@ The Adobe Dynamic Media Classic Desktop application lets you upload files and fo
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Publish After Uploading]** so you can automatically publish the assets that you upload.
 When you publish files, they are sent to live servers. URLs for these files can then be used on external websites and applications. This same option is also available in the Job Options dialog box.
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** if you want the files you upload to replace existing files with the same names. This same option is also available in the Job Options dialog box.
-The name of this option might be different depending on the settings in **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
+The name of this option is different depending on the settings in **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
 1. Near the lower-right corner of the Upload page, select **[!UICONTROL Job Options]**, then specify the options you want.
 
    See [Upload options](uploading-files.md#upload_options).
@@ -212,7 +212,7 @@ See [Checking job files](checking-job-files.md#checking_job_files).
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Publish After Upload]** so you can automatically publish the assets that you upload.
 When you publish files, they are sent to live servers. URLs for these files can then be used on external websites and applications. This same option is also available in the Job Options dialog box.
 1. (Optional) Near the bottom of the Upload page, select **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** if you want the files you upload to replace existing files with the same names. This same option is also available in the Job Options dialog box.
-The name of this option might be different depending on the settings in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
+The name of this option is different depending on the settings in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
 1. Optional; available only if you selected the **[!UICONTROL VIA FTP]** tab. Near the bottom of the Upload page, select **[!UICONTROL Uncompress Zip or Tar Files on Upload]** so you can automatically extract all files from your uploaded ZIP or TAR file. This same option is also available in the Job Options dialog box. 
 1. Near the lower-right corner of the Upload page, select **[!UICONTROL Job Options]**, then specify the options you want.
 
@@ -302,7 +302,7 @@ See [Batch Set Presets](application-setup.md#batch_set_presets).
 
 When you upload items using FTP, you can schedule a subsequent job to begin when the upload is complete. If other jobs are scheduled to begin, the jobs you schedule here are queued after them.
 
-The new job sends a notification to the address that you specify so that the code at that location can be triggered. This follow-on publishing job uses the same name as the upload job, but with the text *Pub_* added to the beginning.
+The new job sends a notification to the address that you specify so that the code at that location can execute. This subsequent publishing job uses the same name as the upload job, but with the text *Pub_* added as a prefix.
 
 **To follow an upload with another job:**
 
