@@ -52,7 +52,7 @@ The new desktop app is available as a `.dmg` installer for macOS. `.exe` install
 To review system requirements, download and install the new app, and then sign in to it, see the [Adobe Dynamic Media Classic desktop app](/help/using/dynamic-media-classic-desktop-app.md).
 +++
 
-<!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
+<!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page](https://www.adobe.com/subscription/dynamic-media-newsletter.html). -->
 
 +++**_How does the new desktop app work?_**
 After downloading, installing, and launching the desktop app, you are presented with a refreshed sign-in. By entering your existing username and password and selecting the appropriate server based on your region, you can sign in to Adobe Dynamic Media Classic. The overall experience is the same as the Web browser version. From the desktop app, you can access the Adobe Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.

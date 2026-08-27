@@ -63,7 +63,7 @@ Change these settings only with the assistance of an Adobe Dynamic Media Classic
     For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer's preset. Just add the translated text strings for the language that you want.
 
     >[!NOTE]
-    > To set up Localization Support options, [use the Admin Console to create a support case.](https://helpx.adobe.com/business/enterprise.html) In your support case, request setup help.
+    > To set up Localization Support options, [use the Admin Console to create a support case](https://helpx.adobe.com/business/enterprise.html). In your support case, request setup help.
 
     For more information about setting up **[!UICONTROL Localization Support]**, see [Considerations when setting up localization of assets](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
@@ -71,7 +71,7 @@ Change these settings only with the assistance of an Adobe Dynamic Media Classic
 
 >[!NOTE]
 >
->If you want to set up Localization Support options in Adobe Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/business/enterprise.html) In your support case, request setup help.
+>If you want to set up Localization Support options in Adobe Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case](https://helpx.adobe.com/business/enterprise.html). In your support case, request setup help.
 
 A common way to use Adobe Dynamic Media Classic is to manage the product imagery on eCommerce websites. International businesses face the challenge that assets for similar products vary by region. Usually the differences are for a few components of the media. Managing such differences by copying all assets for each country and overwriting the differences is a complex task and is inconsistent with the single primary asset principle. Differences for assets can range from country-specific videos with different audio tracks to subtle but important differences in a power cord that is used with the product. Adobe Dynamic Media Classic uses a basic search mechanism. You define an order of asset suffixes in which the Image Server looks, starting from the required locale.
 
