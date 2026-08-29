@@ -24,13 +24,13 @@ level_v2:
 ---
 # View Swatch Sets{#viewing-swatch-sets}
 
-You can view your Swatch Sets in the Preview window, using your available presets. You can use a Zoom Viewer: Custom Viewer Preset for Swatch Sets.
+You can view your Swatch Sets in the Preview window, using your available presets. You can use a Zoom Viewer Custom Viewer Preset for Swatch Sets.
 
 Adobe Dynamic Media Classic comes with default Viewer Presets. Administrators can create or modify the Viewer Presets.
 
 ## Set up Zoom Viewer presets for Swatch Sets {#setting-up-zoom-viewer-presets-for-swatch-sets}
 
-You can create and customize Viewer Presets to suit your needs.
+You can create and customize Viewer Presets.
 
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Do one of the following:
@@ -52,8 +52,8 @@ You can create and customize Viewer Presets to suit your needs.
 You can use Preview to see how an asset appears in a particular viewer type such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all viewer type platforms are available in Preview.
 
 1. In the Asset Library panel on the left side, in the **[!UICONTROL Show]** drop-down list, select a Swatch Set-based asset type such as **[!UICONTROL Swatch Set]**.
-1. In the Asset Library panel on the left side, navigate the Asset folders that contain Swatch Set that you want to preview with a viewer.
-1. Do any one of the following:
+1. In the Asset Library panel on the left side, navigate to the Asset folders that contain Swatch Sets that you want to preview with a viewer.
+1. Do one of the following:
 
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL List View]** icon. In the Asset window, hover on an asset, then select **[!UICONTROL Preview]** (not the Preview drop-down list).
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL Grid View]** icon. In the Asset window, in an asset thumbnail window, select **[!UICONTROL Preview]** (not the Preview drop-down list).
@@ -64,7 +64,7 @@ You can use Preview to see how an asset appears in a particular viewer type such
 
    When you select a given viewer link, its associated URL is automatically copied to the clipboard.
 
-1. To return to the Preview pager, close the displayed viewer.
+1. To return to the Preview window, close the displayed viewer.
 1. Select **[!UICONTROL Close]** to return to the Assets page.
 
 >[!MORELIKETHIS]
