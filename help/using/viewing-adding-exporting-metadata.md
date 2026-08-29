@@ -1,5 +1,5 @@
 ---
-title: View, add, and export metadata
+title: View, Add, and Export Metadata
 description: Learn how to view, add, and export metadata in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -31,7 +31,7 @@ You can store information specific to the files you work with in Adobe Dynamic M
 
 Metadata appears in Detail View. It appears along with Adobe Dynamic Media Classic-generated information. For example, file creation date, publishing date, and keywords. To view metadata, open the asset in Detail View, and then select the Metadata panel. You can enter and edit metadata in Detail View.
 
-Some metadata is embedded directly into a file. If a file contains this metadata, Adobe Dynamic Media Classic automatically uploads it with the file. You can embed metadata into source assets in Adobe Photoshop, InDesign, Illustrator, and other applications; Adobe Dynamic Media Classic recognizes this metadata. You can also add metadata to individual files in the Metadata panel in Detail View. To ensure consistency across assets, company administrators create Metadata templates that provide the metadata fields that can be filled in.
+Some metadata is embedded directly into a file. If a file contains this metadata, Adobe Dynamic Media Classic automatically uploads it with the file. You can embed metadata into source assets in Adobe Photoshop, InDesign, Adobe Illustrator, and other applications; Adobe Dynamic Media Classic recognizes this metadata. You can also add metadata to individual files using the Metadata panel in Detail View. To ensure consistency across assets, company administrators create Metadata templates that provide the metadata fields that can be completed.
 
 For more information about embedded metadata, see [Extensible Metadata Platform](https://www.adobe.com/products/xmp.html).
 
@@ -43,7 +43,7 @@ To view an asset's metadata, open the asset in Detail View, and tap the Metadata
 
 * **IPTC**: Values as defined by the International Press Telecommunications Council.
 
-* **XMP**: Values as defined by the extensible metadata program.
+* **XMP**: Values as defined by the Extensible Metadata Platform.
 
 Administrators can create Metadata Views. These views also appear on the Metadata Views menu.
 
@@ -61,7 +61,7 @@ See [Metadata Views](application-setup.md#metadata_views) for information about 
 
 >[!NOTE]
 >
->To edit the metadata of several assets at once, select the assets and go to **[!UICONTROL File]** > **[!UICONTROL Edit Info]**. Edits you made to metadata in the Edit Info window apply to all the assets you selected.
+>To edit the metadata of several assets at once, select the assets and go to **[!UICONTROL File]** > **[!UICONTROL Edit Info]**. Edits you make to metadata in the Edit Info window apply to all the assets you selected.
 
 ## Add or edit keywords {#add-or-edit-keywords}
 
@@ -85,7 +85,7 @@ If you added keywords to other files during this session, or if you have removed
 
 ## Import metadata {#import-metadata}
 
-Rather than manually enter metadata one asset at a time, you can import metadata for many different assets from a tab-delimited or XML file. Entering the metadata in a tab-delimited or XML file and importing the file is less time-consuming than entering metadata in individual assets. In the first row of the tab-delimited file, enter the ID and the names of fields for which you want to record metadata. In each subsequent row, enter an asset ID name followed by metadata values. Fields that are not included in the tab-delimited or XML file are not modified. To import metadata from an XML file, make sure that you conform to the DTD.
+Rather than manually entering metadata one asset at a time, you can import metadata for many different assets from a tab-delimited or XML file. Entering the metadata in a tab-delimited or XML file and importing the file is less time-consuming than entering metadata in individual assets. In the first row of the tab-delimited file, enter the ID and the names of fields for which you want to record metadata. In each subsequent row, enter an asset ID name followed by metadata values. Fields that are not included in the tab-delimited or XML file are not modified. To import metadata from an XML file, make sure that you conform to the DTD.
 
 >[!NOTE]
 >
@@ -106,8 +106,8 @@ You can find more information about standardized properties at the [Adobe XMP De
 Keep the following in mind when identifying different metadata types to import:
 
 * Names of User-Defined fields are identified as created in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined fields]**. Use the `Generate file` functionality to get a list of all defined UDFs in the correct import format.
-* XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]** editor. The technical names can be found in documentation of related XMP schema. XMP propert names do not appear in the `Generate file` feature.
-* Metadata Schema properties must have the related prefix before the (property-) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema Editor. Metadata Schema properties names do not appear in the `Generate file` feature.
+* XMP Metadata properties must have the related XMP prefix before the (property) name. A colon separates the prefix and name. The XMP prefix can be found in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]** editor. The technical names can be found in documentation of related XMP schema. XMP property names do not appear in the `Generate file` feature.
+* Metadata Schema properties must have the related prefix before the (property) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema Editor. Metadata Schema property names do not appear in the `Generate file` feature.
 
 For example: The XMP property for keywords is the XMP schema "Dublin Core" with the prefix `dc` and `subject` is the technical XMP name. The prefix and technical XMP name are combined into the `dc:subject` full property name. In the XML metadata import format, `dc.subject` must be the property name. In the tab-delimited import format, it must be the column header.
 
@@ -189,9 +189,9 @@ The system automatically generates a custom schema for User-defined fields with 
 
 >[!NOTE]
 >
->Changes to the schema never change the asset metadata itself. However, they are not visible for all Adobe Dynamic Media Classic and Metadata Server functionality and cannot be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in Adobe Dynamic Media Classic and the Metadata Server.
+>Changes to the schema never change the asset metadata itself. However, they are not visible in all Adobe Dynamic Media Classic and Metadata Server functions and cannot be retrieved after they are changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in Adobe Dynamic Media Classic and the Metadata Server.
 
-The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside Adobe Dynamic Media Classic. A prefix, a namespace, and a list of properties defines a schema.
+The Metadata Schema Editor provides a visual interface to add or edit a custom company schema inside Adobe Dynamic Media Classic. A prefix, a namespace, and a list of properties define a schema.
 
 * **[!UICONTROL Name]**: UI-Name for the schema. Used to identify the properties in Metadata Views and Advanced Search. Similar to XMP Sections like Basic, IPTC, PDF.
 
