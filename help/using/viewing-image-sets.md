@@ -30,14 +30,14 @@ Adobe Dynamic Media Classic comes with default Viewer Presets. Administrators ca
 
 ## Setting up Zoom Viewer presets for Image Sets {#setting-up-zoom-viewer-presets-for-image-sets}
 
-You can create and customize Viewer Presets to suit your needs.
+You can create and customize Viewer Presets.
 
 1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Create or edit a Viewer preset on the Viewer Presets page by doing one of the following:
 
    * **Create**: Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, in the Viewer drop-down list, choose **[!UICONTROL Zoom Viewer]**, and then select **[!UICONTROL Add]**. You can also create a Zoom Viewer preset by starting from an existing one. Display the name of the preset, select it, and then select **[!UICONTROL Edit]**. On the `Configure Viewer` page, enter a new name for the preset.
 
-   * **Edit**: Display the name of a preset, select it, then select **[!UICONTROL Edit]**.
+   * **Edit**: Display the name of a preset, select it, and then select **[!UICONTROL Edit]**.
 
 1. On the `Configure Viewer` page, in the Preset Name text field, type a name for the Swatch Set Viewer Preset.
 1. Choose options in the `Configure Viewer` page.
@@ -54,7 +54,7 @@ You can use Preview to see how an asset appears in a particular viewer type such
 
 1. In the Asset Library panel on the left side, in the **[!UICONTROL Show]** drop-down list, choose **[!UICONTROL Image Set]**.
 1. In the Asset Library panel on the left side, navigate the asset folders to select the Image Set that you want to preview.
-1. Do any one of the following:
+1. Do one of the following:
 
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL List View]** icon. In the Asset window, hover on an asset, then select **[!UICONTROL Preview]** (not the Preview drop-down list).
     * Near the upper-right corner of the Adobe Dynamic Media Classic window, select the **[!UICONTROL Grid View]** icon. In the Asset window, in an asset thumbnail window, select **[!UICONTROL Preview]** (not the Preview drop-down list).
