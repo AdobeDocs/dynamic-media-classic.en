@@ -1,5 +1,5 @@
 ---
-title: What's new
+title: What's New
 description: Learn about what is new Adobe Dynamic Media Classic by way of the current release notes.
 contentOwner: Rick Brough
 content-type: reference
@@ -31,4 +31,4 @@ topic_v2:
 ---
 # What's new {#what-s-new}
 
-To review the latest Adobe Dynamic Media Classic release information, including new features, enhancements, and fixes, see the [Adobe Dynamic Media Classic Release Notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017).
+To review the latest Adobe Dynamic Media Classic release information, see the [Adobe Dynamic Media Classic Release Notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017).
