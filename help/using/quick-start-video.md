@@ -51,11 +51,11 @@ See [Activate or deactivate adaptive video presets](/help/using/application-setu
 
 See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 
-  When an Adaptive Video Set is generated, it includes MP4 videos.
+When an Adaptive Video Set is generated, it includes MP4 videos.
 
-  >[!NOTE]
-  >
-  >Primary/source videos and any other source format video are *not* added to an Adaptive Video Set. 
+>[!NOTE]
+>
+>Primary/source videos and any other source format video are *not* added to an Adaptive Video Set. 
 
 * Video captioning in the Universal_HTML5_Video, Universal_HTML5_MixedMedia_dark, and Universal_HTML5_MixedMedia_light viewers and video chapter navigation in the Universal_HTML5_Video, Universal_HTML5_MixedMedia_dark, and Universal_HTML5_MixedMedia_light viewers.
 
